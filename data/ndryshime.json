@@ -90,5 +90,18 @@
   }
  ],
  "dokumente_te_reja": [],
- "gabime": []
+ "gabime": [
+  {
+   "burimi": "ask-faqja",
+   "gabim": "404 Client Error: Not Found for url: https://ask.rks-gov.net/sq/"
+  },
+  {
+   "burimi": "ask-publikime",
+   "gabim": "404 Client Error: Not Found for url: https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/publikimet"
+  },
+  {
+   "burimi": "ask-lajme",
+   "gabim": "404 Client Error: Not Found for url: https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/lajme"
+  }
+ ]
 }
