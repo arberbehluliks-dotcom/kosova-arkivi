@@ -39,6 +39,18 @@ def zbulo(b, sot, head=None):
         except Exception: pass
     return gjetur
 
+def px_katalog(baza, rruga="", thellesia=3, kufiri=[300]):
+    """Kalon pemën e PxWeb (API zyrtare e ASK) dhe kthen tabelat: [{rruga, id, titulli}]."""
+    if kufiri[0] <= 0: return []
+    kufiri[0] -= 1
+    r = requests.get(baza + rruga, timeout=60, headers={"User-Agent": "MonitoriPlanit/1.0"}); r.raise_for_status()
+    out = []
+    for n in r.json():
+        p = (rruga + "/" if rruga else "") + n["id"]
+        if n["type"] == "t": out.append({"rruga": p, "id": n["id"], "titulli": n["text"], "perditesuar": n.get("updated")})
+        elif n["type"] == "l" and thellesia > 1: out += px_katalog(baza, p, thellesia - 1, kufiri)
+    return out
+
 def numri(s): return float(s.replace(",", "."))
 
 def nxirr(tekst, rregulli):
@@ -63,6 +75,12 @@ def main():
     burimet = json.load(open("burimet.json", encoding="utf-8"))
     ndryshime, gabime, prova, perputhen, te_reja = [], [], [], [], []
     for b in burimet:
+        if b.get("lloji") == "px":
+            try:
+                kat = px_katalog(b["url"]); os.makedirs("../debug", exist_ok=True)
+                json.dump(kat, open(f"../debug/{b['id']}.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+            except Exception as e: gabime.append({"burimi": b["id"], "gabim": str(e)})
+            continue
         try: tekst, _, h = lexo(b)
         except Exception as e: gabime.append({"burimi": b["id"], "gabim": str(e)}); continue
         if b.get("zbulo"): te_reja += zbulo(b, sot)

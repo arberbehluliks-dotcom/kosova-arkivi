@@ -150,34 +150,10 @@
   "nxjerrjet": []
  },
  {
-  "id": "px-a",
-  "emri": "ASK, provë API",
-  "url": "https://askdata.rks-gov.net/pxweb/api/v1/sq/ASKdata/",
-  "lloji": "html",
-  "frekuenca": "javore",
-  "nxjerrjet": []
- },
- {
-  "id": "px-b",
-  "emri": "ASK, provë API",
-  "url": "https://askdata.rks-gov.net/pxweb/api/v1/en/ASKdata/",
-  "lloji": "html",
-  "frekuenca": "javore",
-  "nxjerrjet": []
- },
- {
-  "id": "px-c",
-  "emri": "ASK, provë API",
-  "url": "https://askdata.rks-gov.net/pxweb/sq/ASKdata/",
-  "lloji": "html",
-  "frekuenca": "javore",
-  "nxjerrjet": []
- },
- {
-  "id": "px-d",
-  "emri": "ASK, provë API",
+  "id": "ask-katalog",
+  "emri": "ASK, katalogu i tabelave PxWeb",
   "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/",
-  "lloji": "html",
+  "lloji": "px",
   "frekuenca": "javore",
   "nxjerrjet": []
  }
