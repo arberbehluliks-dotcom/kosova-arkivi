@@ -148,5 +148,29 @@
   "lloji": "pdf",
   "frekuenca": "një herë",
   "nxjerrjet": []
+ },
+ {
+  "id": "ask-faqja",
+  "emri": "ASK, faqe për zbulim",
+  "url": "https://ask.rks-gov.net/sq/",
+  "lloji": "html",
+  "frekuenca": "javore",
+  "nxjerrjet": []
+ },
+ {
+  "id": "ask-publikime",
+  "emri": "ASK, faqe për zbulim",
+  "url": "https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/publikimet",
+  "lloji": "html",
+  "frekuenca": "javore",
+  "nxjerrjet": []
+ },
+ {
+  "id": "ask-lajme",
+  "emri": "ASK, faqe për zbulim",
+  "url": "https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/lajme",
+  "lloji": "html",
+  "frekuenca": "javore",
+  "nxjerrjet": []
  }
 ]
