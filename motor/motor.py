@@ -51,6 +51,17 @@ def px_katalog(baza, rruga="", thellesia=3, kufiri=[300]):
         elif n["type"] == "l" and thellesia > 1: out += px_katalog(baza, p, thellesia - 1, kufiri)
     return out
 
+def px_tabela(url, n_periudha=12):
+    """Merr nga API-ja PxWeb të ASK një tabelë (json-stat2), me n periudhat e fundit. Ruan edhe metadatat."""
+    h = {"User-Agent": "MonitoriPlanit/1.0"}
+    meta = requests.get(url, timeout=60, headers=h); meta.raise_for_status(); meta = meta.json()
+    q = []
+    for v in meta["variables"]:
+        if v.get("time"): q.append({"code": v["code"], "selection": {"filter": "top", "values": [str(n_periudha)]}})
+        else: q.append({"code": v["code"], "selection": {"filter": "all", "values": ["*"]}})
+    r = requests.post(url, json={"query": q, "response": {"format": "json-stat2"}}, timeout=120, headers=h); r.raise_for_status()
+    return {"meta": meta, "te_dhenat": r.json()}
+
 def numri(s): return float(s.replace(",", "."))
 
 def nxirr(tekst, rregulli):
@@ -75,6 +86,12 @@ def main():
     burimet = json.load(open("burimet.json", encoding="utf-8"))
     ndryshime, gabime, prova, perputhen, te_reja = [], [], [], [], []
     for b in burimet:
+        if b.get("lloji") == "pxtab":
+            try:
+                os.makedirs("../debug", exist_ok=True)
+                json.dump(px_tabela(b["url"], b.get("periudha", 12)), open(f"../debug/{b['id']}.json", "w", encoding="utf-8"), ensure_ascii=False)
+            except Exception as e: gabime.append({"burimi": b["id"], "gabim": str(e)[:300]})
+            continue
         if b.get("lloji") == "px":
             try:
                 kat = px_katalog(b["url"]); os.makedirs("../debug", exist_ok=True)

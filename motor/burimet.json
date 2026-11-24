@@ -156,5 +156,41 @@
   "lloji": "px",
   "frekuenca": "javore",
   "nxjerrjet": []
+ },
+ {
+  "id": "pxt-qarkullimi",
+  "emri": "ASK PxWeb: pxt-qarkullimi",
+  "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/External%20trade/Monthly%20indicators/08_qarkullimi.px",
+  "lloji": "pxtab",
+  "periudha": 14,
+  "frekuenca": "javore",
+  "nxjerrjet": []
+ },
+ {
+  "id": "pxt-ppi",
+  "emri": "ASK PxWeb: pxt-ppi",
+  "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Producer%20Price%20Index/PPI01new.px",
+  "lloji": "pxtab",
+  "periudha": 14,
+  "frekuenca": "javore",
+  "nxjerrjet": []
+ },
+ {
+  "id": "pxt-pagat",
+  "emri": "ASK PxWeb: pxt-pagat",
+  "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Labour%20market/Niveli%20i%20Pagave/tab01.px",
+  "lloji": "pxtab",
+  "periudha": 14,
+  "frekuenca": "javore",
+  "nxjerrjet": []
+ },
+ {
+  "id": "pxt-pagat-akt",
+  "emri": "ASK PxWeb: pxt-pagat-akt",
+  "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Labour%20market/Niveli%20i%20Pagave/tab03.px",
+  "lloji": "pxtab",
+  "periudha": 14,
+  "frekuenca": "javore",
+  "nxjerrjet": []
  }
 ]
