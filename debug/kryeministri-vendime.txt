@@ -314,7 +314,7 @@ div.asl_w .probox .proloading {
  
  
  
-var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 Nov 2026 08:39:29 GMT","maxAge":86400,"path":"/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 Nov 2026 09:26:32 GMT","maxAge":86400,"path":"/"}};
 //# sourceURL=wpml-cookie-js-extra
  
   
@@ -1184,77 +1184,77 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 
             				 
 			           
          
+            Projektligji për Ndryshimin dhe Plotësimin e Ligjit nr. 03/L-216 mbi Themelimin e Sistemit për Sigurimin e Depozitave për Institucionet Financiare në Kosovë, Ndryshuar dhe Plotësuar me Ligjin nr. 04/L-133         
+         
+            17/11/2026         
+     
+                      
+                
+                                                 
+                        
+ 
+     
+          
+            				 
+			           
+         
+            Vendimet e mbledhjes së 12-të të Qeverisë         
+         
+            17/11/2026         
+     
+                      
+                
+                                                 
+                        
+ 
+     
+          
+            				 
+			           
+         
+            Projektligji Kundër Dukurive Negative në Sport         
+         
+            17/11/2026         
+     
+                      
+                
+                                                 
+                        
+ 
+     
+          
+            				 
+			           
+         
+            Projektligji për ratifikimin e Marrëveshjes për ndihmë të ndërsjelltë juridike në çështje penale ndërmjet Qeverisë së Republikës së Kosovës dhe Qeverisë së Republikës Franceze         
+         
+            17/11/2026         
+     
+                      
+                
+                                                 
+                        
+ 
+     
+          
+            				 
+			           
+         
+            Projektligji për ratifikimin e Marrëveshjes mbi Ekstradimin ndërmjet Qeverisë së Republikës së Kosovës dhe Qeverisë së Republikës Franceze         
+         
+            17/11/2026         
+     
+                      
+                
+                                                 
+                        
+ 
+     
+          
+            				 
+			           
+         
             Projektligji për ratifikimin e Protokollit për ndryshimin e Marrëveshjes mbi statusin dhe funksionet e Komisionit Ndërkombëtar për Personat e Zhdukur         
-         
-            17/11/2026         
-     
-                      
-                
-                                                 
-                        
- 
-     
-          
-            				 
-			           
-         
-            Projektligji për ratifikimin e Konventës për njohjen dhe ekzekutimin e vendimeve të huaja në çështje civile apo tregtare         
-         
-            17/11/2026         
-     
-                      
-                
-                                                 
-                        
- 
-     
-          
-            				 
-			           
-         
-            Projektligji për ratifikimin e Konventës së Lubjanës-Hagës për bashkëpunim ndërkombëtar në hetimin dhe ndjekjen e krimit të gjenocidit, krimeve kundër njerëzimit, krimeve të luftës dhe krimeve të tjera ndërkombëtare         
-         
-            17/11/2026         
-     
-                      
-                
-                                                 
-                        
- 
-     
-          
-            				 
-			           
-         
-            Projektligji për ratifikimin e Konventës për Marrëveshjet për Zgjedhjen e Gjykatës         
-         
-            17/11/2026         
-     
-                      
-                
-                                                 
-                        
- 
-     
-          
-            				 
-			           
-         
-            Rregullore (ZKM) Nr. 17/2026 për Organizimin e Brendshëm dhe Sistematizimin e Vendeve të Punës në Agjencinë e Regjistrimit të Bizneseve të Kosovës         
-         
-            17/11/2026         
-     
-                      
-                
-                                                 
-                        
- 
-     
-          
-            				 
-			           
-         
-            Koncept Dokument për identifikimin elektronik, shërbimet e besuara dhe kuletën e identitetit digjital         
          
             17/11/2026         
      
@@ -1970,24 +1970,24 @@ Projektligji për Ratifikimin e Marrëveshjes së Kredisë ndërmjet Republikës
 Projektligji për Ratifikimin e Marrëveshjes së Kredisë ndërmjet Republikës së Kosovës, e përfaqësuar nga Ministria e Financave dhe Bankës Zhvillimore të Këshillit të Evropës për Projektin “Përmirësimi i Kujdesit Shëndetësor Sekondar dhe Terciar”         
          
             18/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Projektligji-per-R.M.-Permiresimi-i-Kujdesit-Shendetesor-Sekondar-dhe-Terciar.pdf
+Projektligji për Ndryshimin dhe Plotësimin e Ligjit nr. 03/L-216 mbi Themelimin e Sistemit për Sigurimin e Depozitave për Institucionet Financiare në Kosovë, Ndryshuar dhe Plotësuar me Ligjin nr. 04/L-133         
+         
+            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Projektligjit-per-Ndryshimin-dhe-Plotesimin-e-Ligjit-nr.-03L-216-mbi-Themelimin-e-Sistemit-per-Sigurimin-e-Depozitave.pdf
+Vendimet e mbledhjes së 12-të të Qeverisë         
+         
+            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Vendimet-e-mbledhjes-se-12-te-te-Qeverise-se-Republikes-se-Kosoves.pdf
+Projektligji Kundër Dukurive Negative në Sport         
+         
+            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Projektligji-Kunder-Dukurive-Negative-ne-Sport.pdf
+Projektligji për ratifikimin e Marrëveshjes për ndihmë të ndërsjelltë juridike në çështje penale ndërmjet Qeverisë së Republikës së Kosovës dhe Qeverisë së Republikës Franceze         
+         
+            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-Marreveshjen-per-ndihme-te-ndersjelle-per-ceshtje-penale-me-Francen.pdf
+Projektligji për ratifikimin e Marrëveshjes mbi Ekstradimin ndërmjet Qeverisë së Republikës së Kosovës dhe Qeverisë së Republikës Franceze         
+         
+            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-Marreveshjen-mbi-Ekstradimin-me-Francen.pdf
 Projektligji për ratifikimin e Protokollit për ndryshimin e Marrëveshjes mbi statusin dhe funksionet e Komisionit Ndërkombëtar për Personat e Zhdukur         
          
             17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-Protokollin-e-ICMP.pdf
-Projektligji për ratifikimin e Konventës për njohjen dhe ekzekutimin e vendimeve të huaja në çështje civile apo tregtare         
-         
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-njohjen-dhe-ekzekutimin-e-vendimeve-te-huaja-ne-ceshtjet-civile-apo-tregtare.pdf
-Projektligji për ratifikimin e Konventës së Lubjanës-Hagës për bashkëpunim ndërkombëtar në hetimin dhe ndjekjen e krimit të gjenocidit, krimeve kundër njerëzimit, krimeve të luftës dhe krimeve të tjera ndërkombëtare         
-         
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-Konventen-e-Lubjanes-Hages-per-Ndjekjen-e-Krimeve.pdf
-Projektligji për ratifikimin e Konventës për Marrëveshjet për Zgjedhjen e Gjykatës         
-         
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-Konventen-per-Marreveshjet-per-Zgjedhjen-e-Gjykates.pdf
-Rregullore (ZKM) Nr. 17/2026 për Organizimin e Brendshëm dhe Sistematizimin e Vendeve të Punës në Agjencinë e Regjistrimit të Bizneseve të Kosovës         
-         
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/RREGULLORE-ZKM-NR.-17.-2026-PER-ORGANIZIMIN-E-BRENDSHEM-DHE-SISTEMATIZIMIN-E-VENDEVE-TE-PUNES-NE-AGJENCINE-PER-REGJISTRIMIN-E-BIZNESEVE-TE-KOSOVES.pdf
-Koncept Dokument për identifikimin elektronik, shërbimet e besuara dhe kuletën e identitetit digjital         
-         
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Vendimi_dhe_Koncept-dokumenti_shqip-.pdf
 2 => https://kryeministri.rks-gov.net/dokumente/page/2/
 345 => https://kryeministri.rks-gov.net/dokumente/page/345/
 346 => https://kryeministri.rks-gov.net/dokumente/page/346/
