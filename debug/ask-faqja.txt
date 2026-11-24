@@ -1,0 +1,1038 @@
+
+ 
+ 
+ 
+	 
+	  
+	 
+	 Agjencia e Statistikave të Kosovës 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	  
+ 
+ 
+	 
+		function getCookie(cookieName) {
+			var cookies = document.cookie.split(';');
+			for (var i = 0; i  
+
+	 
+	.loading {
+		position: fixed;
+		z-index: 1031;
+		height: 2em;
+		width: 2em;
+		margin: auto;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+	}
+
+		.loading:before {
+			content: '';
+			display: block;
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: #f6f9ff;
+		}
+
+		.loading:after {
+			content: '';
+			display: block;
+			font-size: 20px;
+			width: 1em;
+			height: 1em;
+			animation: spinner 1500ms infinite linear;
+			border-radius: 0.5em;
+			box-shadow: #b7284d 1.5em 0 0 0, #b7284d 1.1em 1.1em 0 0, #b7284d 0 1.5em 0 0, #b7284d -1.1em 1.1em 0 0, #b7284d -1.5em 0 0 0, #b7284d -1.1em -1.1em 0 0, #b7284d 0 -1.5em 0 0, #b7284d 1.1em -1.1em 0 0;
+		}
+
+	@-webkit-keyframes spinner {
+		0% {
+			-webkit-transform: rotate(0deg);
+			-moz-transform: rotate(0deg);
+			-ms-transform: rotate(0deg);
+			-o-transform: rotate(0deg);
+			transform: rotate(0deg);
+		}
+
+		100% {
+			-webkit-transform: rotate(360deg);
+			-moz-transform: rotate(360deg);
+			-ms-transform: rotate(360deg);
+			-o-transform: rotate(360deg);
+			transform: rotate(360deg);
+		}
+	}
+
+	@-moz-keyframes spinner {
+		0% {
+			-webkit-transform: rotate(0deg);
+			-moz-transform: rotate(0deg);
+			-ms-transform: rotate(0deg);
+			-o-transform: rotate(0deg);
+			transform: rotate(0deg);
+		}
+
+		100% {
+			-webkit-transform: rotate(360deg);
+			-moz-transform: rotate(360deg);
+			-ms-transform: rotate(360deg);
+			-o-transform: rotate(360deg);
+			transform: rotate(360deg);
+		}
+	}
+
+	@-o-keyframes spinner {
+		0% {
+			-webkit-transform: rotate(0deg);
+			-moz-transform: rotate(0deg);
+			-ms-transform: rotate(0deg);
+			-o-transform: rotate(0deg);
+			transform: rotate(0deg);
+		}
+
+		100% {
+			-webkit-transform: rotate(360deg);
+			-moz-transform: rotate(360deg);
+			-ms-transform: rotate(360deg);
+			-o-transform: rotate(360deg);
+			transform: rotate(360deg);
+		}
+	}
+
+	@keyframes spinner {
+		0% {
+			-webkit-transform: rotate(0deg);
+			-moz-transform: rotate(0deg);
+			-ms-transform: rotate(0deg);
+			-o-transform: rotate(0deg);
+			transform: rotate(0deg);
+		}
+
+		100% {
+			-webkit-transform: rotate(360deg);
+			-moz-transform: rotate(360deg);
+			-ms-transform: rotate(360deg);
+			-o-transform: rotate(360deg);
+			transform: rotate(360deg);
+		}
+	}
+ 
+  
+
+	 
+	 
+		 
+			 
+				 
+			 
+
+			 
+				 
+				 
+					 
+						  
+					 
+				 
+				 
+				 
+					 Open main menu 
+					 
+						  
+					 
+				 
+				 
+				 
+					 
+						  
+					 
+				 
+
+				 
+				 
+					 
+						 
+							 
+								 
+									  
+								 
+							 
+						 
+						 
+							 
+								 
+									  
+								 
+							 
+						 
+						 
+							 
+								 
+									  
+								 
+							 
+						 
+					 
+				 
+			 
+			 
+				 
+					 
+						  
+					 
+					 
+						 
+							 
+									
+							 
+							 
+								  
+							 
+						 
+					 					
+					 
+						 
+							 
+									
+							 
+							 
+								  
+							 
+						 
+					 
+					 
+						 
+							 
+
+							 
+							 
+								  
+							 
+						 
+					 
+					 
+						 
+						 
+							  
+							 
+								  
+							 
+						 
+
+						 
+							 
+								 
+									 
+										 
+											  
+										 
+									 
+								 
+								 
+									 
+										 
+											  
+										 
+									 
+								 
+								 
+									 
+										 
+											  
+										 
+									 
+								 
+							 
+						 
+					 
+				 
+			 
+
+		 
+
+		 
+			      
+		 
+		 
+				  
+		 
+		 
+			  
+		 
+		 
+             
+                 
+                      
+                     
+                         
+                             
+                                  
+                             
+                         
+                         
+                          
+                     
+                 
+             
+         
+	 
+ 
+
+  
+  
+ 
+	.fixedH{
+		top: 68px !important;
+	}
+ 
+
+	 
+		
+ 
+	 
+	 
+		 
+		 
+			 
+			 
+				  
+				 
+					 
+
+					 
+				 
+				 
+					  
+					 
+						  
+					 
+				 
+			 
+			 
+			 
+				 
+			 
+		 
+		 
+		 
+			  
+			  
+		 
+		 
+			 
+				 
+					 
+						  
+						  
+					 
+					 
+				 
+				 
+
+				 
+			 
+			 
+				 
+					 
+						  
+						  
+					 
+					 
+				 
+				    € 
+			 
+			 
+				 
+					 
+						  
+						  
+					 
+					 
+				 
+				    % 
+			 
+			 
+				 
+					 
+						  
+						 2021 
+					 
+					 
+				 
+				    % 
+			 
+			 
+				 
+					 
+						  
+						  
+					 
+					 
+				 
+				    % 
+			 
+		 
+		 
+		 
+			 
+				 
+					  
+					 
+					 
+						  
+					 
+					 
+						  
+						 
+						 
+					 
+				 
+				  
+			 
+			 
+				 
+					  
+					 
+					 
+						  
+					 
+					 
+						  
+						 
+
+						 
+					 
+				 
+				  
+			 
+			 
+				 
+					  
+					 
+					 
+						  
+					 
+					 
+						  
+						 
+
+						 
+					 
+				 
+				  
+			 
+			 
+				 
+					  
+					 
+					 
+						  
+					 
+					 
+						  
+						 
+						 
+					 
+				 
+				  
+			 
+			 
+				 
+					  
+					 
+					 
+						  
+					 
+					 
+						  
+						 
+
+						 
+					 
+				 
+				  
+			 
+		 
+		 
+		 
+			 
+			 
+				  
+				  
+			 
+			 
+			 
+				 
+					 
+						 
+							 
+						 
+						 
+							 ASKData 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+						 
+						 
+							 WebGIS 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+						 
+						 
+							  
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+						 
+						 
+							  
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+						 
+						 
+							  
+						 
+					 
+				 
+
+				 
+					 
+						 
+							 
+						 
+						 
+							 
+
+							 
+						 
+					 
+				 
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+		 
+			 
+			 
+				  
+				  
+			 
+			 
+			 
+			 
+		 
+		 
+		 
+			 
+			 
+				 
+				 
+				  
+			 
+			 
+			 
+			 
+			 
+			 
+				 
+					   
+					 
+						 
+					 
+				 
+			 
+		 
+		 
+	 
+	 
+	 
+		 
+		 
+			  
+			  
+		 
+		 
+		 
+			 
+			 
+				 
+					 
+						 
+							 
+						 
+						 
+							 
+							 
+						 
+					 
+				 
+
+				 
+					 
+						 
+							 
+						 
+						 
+							 COVID-19 
+						 
+					 
+				 
+
+
+				 
+					 
+						 
+							 
+						 
+						 
+							  
+						 
+					 
+				 
+
+				 
+					 
+						 
+							 
+						 
+						 
+							 
+								European Statistical System
+							 
+						 
+					 
+				 
+
+				 
+					 
+						 
+							 
+						 
+						 
+							 
+							 
+						 
+					 
+				 
+			 
+		 
+	 
+ 
+
+	 
+
+	
+ 
+     
+         
+             
+                 
+
+                 
+                     Rr. Zenel Salihu 10 000 
+                     Prishtinë, Republika e Kosovës 
+                     Email:  infoask@rks-gov.net  
+                     Tel:  (+383) 038 200 31 129  
+                 
+                 
+             
+
+             
+                 
+                   
+                 
+                 
+                     
+                          
+                     
+                     
+                          
+                     
+                     
+                         
+                           
+                         
+                                         
+                     
+                          
+                     
+                     
+                          
+                     
+                     
+                          
+                     
+                     
+                          
+                     
+                     
+                         Metadata 
+                     
+                     
+                          
+                     
+                 
+             
+
+             
+             
+                 
+                    
+                 
+                 
+                     
+                         Eurostat 
+                     
+                     
+                          
+                     
+                     
+                          
+                     
+                     
+                         OECD 
+                     
+                     
+                         UNECE 
+                     
+                     
+                          
+                     
+                     
+                          
+                     
+                     
+                         Strategjia SEE 2020 
+                     
+                 
+             
+             
+             
+                 
+                    
+                 
+                 
+                    
+                 
+                 
+
+                 
+                     
+                         
+                            Your
+                            Email
+                         
+
+                         
+                             
+                             
+                                
+                             
+                         
+                     
+                 
+                  
+                 
+                     
+                     
+                 
+                 
+             
+         
+         
+             
+                ©   
+             
+             
+             
+                 
+                     
+                         
+                             
+                             
+                         
+                     
+
+                     Facebook 
+                 
+                 
+                     
+                         
+                             
+                             
+                                 
+                             
+                         
+                     
+                     Twitter 
+                 
+                 
+                     
+                         
+                             
+                                 
+                                 
+                                 
+                                 
+                                     
+                                     
+                                 
+                             
+                         
+                     
+                     Outlook 
+                 
+                 
+                     
+                         
+                             
+                                 
+                                     
+                                 
+                             
+                             
+                                 
+                                 
+                                 
+                             
+                         
+                     
+                     RSS 
+                 
+                 
+                     
+                         
+                             
+                                 
+                                     
+                                 
+                             
+                             
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                             
+                         
+                     
+                     Konkurset në institucione qeveritare 
+                 
+             
+         
+     
+ 
+  
+ 
+@media (orientation: portrait) {
+    .ukites-logo {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0.75rem;
+    }
+}
+ 
+	  
+
+	  
+
+	  
+
+	  
+
+	  
+
+	
+	 
+	 
+	 
+	  
+
+	  
+	  
+	  
+	  
+	 
+		#NagishLiTrigger {
+			display: unset;
+		}
+
+		@media(orientation: portrait) {
+			[data-popper-placement] {
+				max-width: 100% !important;
+			}
+
+				[data-popper-placement] canvas {
+					max-width: 95vw !important;
+				}
+
+			[data-popover].invisible {
+				display: none !important;
+			}
+		}
+
+		@media(min-width: 386px) and (max-width: 595px) {
+			.slogan-div {
+				height: 7rem !important;
+			}
+		}
+
+		@media(min-width: 596px) and (max-width: 639px) {
+			.slogan-div {
+				height: 5rem !important;
+			}
+		}
+
+		.modal {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+	 
+
+
+	  
+	  
+	 
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-88973935-1', 'auto');
+		ga('send', 'pageview');
+	 
+
+	 
+		var CensuData = '';
+		$.ajax({
+			url: `/Keys/GetKeyValue/`,
+			data: { key: 'CensusDate' }
+		}).done(result => {
+			if (!result)
+				return;
+			CensuData = result;
+			startCountDown(CensuData)
+		});
+		function timeDifference(start, end) {
+			let difference = end - start;
+
+			// Calculate days, hours, minutes, and seconds
+			let days = Math.floor(difference / (1000 * 60 * 60 * 24));
+			let hours = Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+			let minutes = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
+			let seconds = Math.floor((difference % (1000 * 60)) / 1000);
+
+			return {
+				days: days,
+				hours: hours,
+				minutes: minutes,
+				seconds: seconds
+			};
+		}
+
+		function startCountDown(endDat) {
+			let startDate = new Date();
+			let endDate = new Date(endDat);
+
+			if (endDate   startCountDown(CensuData), 60000);
+	 
+ 
+ 
+
+
+LIDHJET
+ => /
+ => /
+ => /AboutUs/Details
+ => https://askdata.rks-gov.net/sq/ea950eb0-f3c5-41db-8254-b03c6919a638
+ => https://askdata.rks-gov.net/sq/30657b65-e00b-4c7f-9566-e96ba6d8a2f9
+ => https://askdata.rks-gov.net/sq/cf4f30e5-0e09-4f5f-8929-54b3070e2e83
+ => https://askdata.rks-gov.net/sq/1643bc63-881c-46d7-a0cf-833c31461843
+ => https://askdata.rks-gov.net/sq/be213526-7117-4d1d-b98e-c0bbdd7cfcc3
+ASKData => https://askdata.rks-gov.net/pxweb/sq/ASKdata/
+WebGIS => https://askgis.rks-gov.net/
+ => /NameSearch
+ => /Rekos
+ => /Themes
+ => https://ask.rks-gov.net/stat2/stat.html
+ => /Releases
+ => /DataPublication/Calendar
+COVID-19 => https://lookerstudio.google.com/embed/u/0/reporting/2e546d77-8f7b-4c35-8502-38533aa0e9e8/page/MT0qB?fbclid=IwAR2JEsiQR4H5KhgAta_CGmzLToTFzYfLWTIPtK4i4Boyg_T4pCU-Sy39uzU
+European Statistical System => https://ec.europa.eu/eurostat
+ => /DataRequest
+infoask@rks-gov.net => mailto:infoask@rks-gov.net
+(+383) 038 200 31 129 => tel:+3833820031129
+ => /AboutUs/legislation
+ => /AboutUs/national-stats
+ => /AboutUs/plans
+ => /AboutUs/vacancies
+ => /Sitemap
+ => /AboutUs/announcements
+ => /AboutUs/raports
+Metadata => /Metadata
+ => /AboutUs/whistle-blower
+Eurostat => https://ec.europa.eu/eurostat
+ => https://mf.rks-gov.net/
+ => https://www.bqk-kos.org/
+OECD => https://www.oecd.org/
+UNECE => https://unece.org/
+ => https://www.un.org/en/
+ => https://unece.org/statistics/partners
+Strategjia SEE 2020 => https://www.rcc.int/seeds/results/1/see2020-progress-tracker
+Facebook => https://fb.com/Statistikat/
+Twitter => https://twitter.com/ask_rks
+Outlook => https://mail.rks-gov.net/
+RSS => /RSS
+Konkurset në institucione qeveritare => https://konkursi.rks-gov.net/jobs?servant=1&functionalCategory=1&institution=30311
