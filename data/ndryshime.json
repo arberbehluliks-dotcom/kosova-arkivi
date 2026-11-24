@@ -90,14 +90,5 @@
   }
  ],
  "dokumente_te_reja": [],
- "gabime": [
-  {
-   "burimi": "px-a",
-   "gabim": "500 Server Error: Internal Server Error for url: https://askdata.rks-gov.net/pxweb/api/v1/sq/ASKdata/"
-  },
-  {
-   "burimi": "px-b",
-   "gabim": "500 Server Error: Internal Server Error for url: https://askdata.rks-gov.net/pxweb/api/v1/en/ASKdata/"
-  }
- ]
+ "gabime": []
 }

@@ -1,0 +1,4184 @@
+[
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc9.px",
+"id": "silc9.px",
+"titulli": "Pajisjet apo mjetet afatgjata në ekonomitë familjare, 2018 - 2024",
+"perditesuar": "2026-01-16T15:26:47"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc10.px",
+"id": "silc10.px",
+"titulli": "Përballueshmëria e ekonomive familjare për të mbajtur shtëpinë të ngrohtë në mënyrë adekuate, 2018 - 2024",
+"perditesuar": "2026-01-19T09:02:44"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc12.px",
+"id": "silc12.px",
+"titulli": "Vështirësitë e ekonomive familjare në kryerjen e pagesave të nevojshme, 2018 - 2024",
+"perditesuar": "2026-01-19T09:09:42"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc13.px",
+"id": "silc13.px",
+"titulli": "Gjendja e përgjithshme shëndetësore te individët në Kosovë, 2018 - 2024",
+"perditesuar": "2026-01-19T09:10:08"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc14.px",
+"id": "silc14.px",
+"titulli": "Probleme si krimi, dhuna apo vandalizmi, 2021",
+"perditesuar": "2026-01-19T10:26:00"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc15.px",
+"id": "silc15.px",
+"titulli": "Probleme të ndotjes, papastërtive dhe probleme të tjera mjedisore si: tymi, pluhuri, erëra të pakëndshme ose ujë të ndotu, 2021",
+"perditesuar": "2026-01-19T10:26:05"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc1.px",
+"id": "silc1.px",
+"titulli": "Numri mesatar i dhomave në shtëpi në zonat urbane dhe rurale, 2018 - 2024",
+"perditesuar": "2026-01-16T11:07:55"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc2.px",
+"id": "silc2.px",
+"titulli": "Mesatarja e numrit të dhomave për anëtar në ekonomitë familjare në Kosovë, 2018 - 2024",
+"perditesuar": "2026-01-16T11:08:00"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc3.px",
+"id": "silc3.px",
+"titulli": "Statusi i pronësisë së shtëpive dhe banesave, 2024",
+"perditesuar": "2026-01-16T11:30:59"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc4.px",
+"id": "silc4.px",
+"titulli": "Barra financiare që paraqesin shpenzimet për strehim dhe banim në ekonomitë familjare, 2018 - 2024",
+"perditesuar": "2026-01-16T11:51:08"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc11.px",
+"id": "silc11.px",
+"titulli": "rra financiare për kthimin e kredive për ekonomitë familjare në Kosovë  2018 - 2024",
+"perditesuar": "2026-01-16T13:23:45"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc5.px",
+"id": "silc5.px",
+"titulli": "Përqindja e ekonomive familjare që kishin probleme me kulm apo çati që rrjedh, mure, dysheme, themele të lagështa, kornizat e dritareve dhe dysheme të kalbur, 2020",
+"perditesuar": "2026-01-16T14:39:33"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc6.px",
+"id": "silc6.px",
+"titulli": "Përballueshmëria e ekonomive familjare për një javë pushimi larg shtëpisë, 2018 - 2024",
+"perditesuar": "2026-01-16T14:46:02"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc7.px",
+"id": "silc7.px",
+"titulli": "Ekonomitë familjare të cilat mund të përballojnë shujtën me mish, pule dhe peshk çdo të dytën ditë, 2018 - 2024",
+"perditesuar": "2026-01-16T15:05:39"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc8.px",
+"id": "silc8.px",
+"titulli": "Ekonomitë familjare të cilat mund të përballojnë një shpenzim te papritur prej 100, 2018 - 2024",
+"perditesuar": "2026-01-16T15:20:39"
+},
+{
+"rruga": "Anketa mbi të Ardhurat dhe Kushtet e Jetesës/silc8_1.px",
+"id": "silc8_1.px",
+"titulli": "Ekonomitë familjare të cilat mund të përballojnë një shpenzim te papritur prej 200, 2023 - 2024",
+"perditesuar": "2026-01-16T15:22:14"
+},
+{
+"rruga": "Household budget survey/2 Household consumption in Kosovo/hbs04.px",
+"id": "hbs04.px",
+"titulli": "Përqindja e duhanpirësve në popullatë sipas gjinisë dhe konsumit ditor të cigareve, % e popullatës në moshën 16 vjeçare dhe më të moshuara, 2012 - 2022",
+"perditesuar": "2023-07-13T14:20:08"
+},
+{
+"rruga": "Household budget survey/1 Overall consumption in Kosovo/hbs01.px",
+"id": "hbs01.px",
+"titulli": "Konsumi i përgjithshëm në Kosovë në milion, 2011 - 2022",
+"perditesuar": "2023-07-13T14:10:24"
+},
+{
+"rruga": "Household budget survey/1 Overall consumption in Kosovo/hbs02.px",
+"id": "hbs02.px",
+"titulli": "Shpërndarja e konsumit në Kosovë sipas grupeve të konsumit në përqindje, 2003 - 2022",
+"perditesuar": "2023-07-13T14:19:21"
+},
+{
+"rruga": "Household budget survey/1 Overall consumption in Kosovo/hbs03.px",
+"id": "hbs03.px",
+"titulli": "Shpërndarja e konsumit të ushqimit në Kosovë në përqindje, 2011 - 2022",
+"perditesuar": "2023-07-13T14:19:43"
+},
+{
+"rruga": "Household budget survey/4 Living Conditions and Affordability/hbs09.px",
+"id": "hbs09.px",
+"titulli": "Pronësia sipas gjinis në përqindje, 2014 - 2017",
+"perditesuar": "2023-07-14T15:09:51"
+},
+{
+"rruga": "Household budget survey/4 Living Conditions and Affordability/hbs10.px",
+"id": "hbs10.px",
+"titulli": "Shtëpitë/banesat nën hipotekë në përqindje, 2014 - 2017",
+"perditesuar": "2023-07-14T15:12:23"
+},
+{
+"rruga": "Household budget survey/5 Annexes/hbsA1.px",
+"id": "hbsA1.px",
+"titulli": "Konsumi vjetor i ekonomive familjare në Kosovë sipas lokalitetit dhe arsimit të kryefamiljarëve të ekonomive familjare në , 2003 - 2022",
+"perditesuar": "2023-07-14T15:24:06"
+},
+{
+"rruga": "Household budget survey/5 Annexes/hbsA2.px",
+"id": "hbsA2.px",
+"titulli": "Konsumi vjetor i ekonomive familjare në Kosovë, sipas 5 grupeve kryesore të konsumit, lokalitetit dhe arsimit të kryefamiljarëve të ekonomive familjare, në përqindje, 2014 - 2022",
+"perditesuar": "2023-07-14T15:28:17"
+},
+{
+"rruga": "Household budget survey/3 Private income in Kosovo/hbs05.px",
+"id": "hbs05.px",
+"titulli": "Burimi kryesor i të hyrave për ekonomitë familjare në Kosovë në përqindje, 2015 - 2022",
+"perditesuar": "2023-07-13T14:26:38"
+},
+{
+"rruga": "Household budget survey/3 Private income in Kosovo/hbs06.px",
+"id": "hbs06.px",
+"titulli": "Burimet e të hyrave individuale në Kosovë në përqindje, 2016 - 2022",
+"perditesuar": "2023-07-14T14:59:53"
+},
+{
+"rruga": "Household budget survey/3 Private income in Kosovo/hbs07.px",
+"id": "hbs07.px",
+"titulli": "Burimet e të hyrave sipas nivelit më të lartë të arsimimit në përqindje,  2016 - 2022",
+"perditesuar": "2023-07-14T15:03:17"
+},
+{
+"rruga": "Household budget survey/3 Private income in Kosovo/hbs08.px",
+"id": "hbs08.px",
+"titulli": "Të ardhurat mesatare vjetore në në përqindje, 2016 - 2022",
+"perditesuar": "2023-07-14T15:05:49"
+},
+{
+"rruga": "Education/15 Higher Education/Tab01 AL.px",
+"id": "Tab01 AL.px",
+"titulli": "Studentët e regjistruar për herë të parë në nivelin Bachelor sipas fushave të studimit në Universitete Publike dhe Kolegje Private,2021/2022 - 2024/2025",
+"perditesuar": "2025-10-21T14:27:02"
+},
+{
+"rruga": "Education/15 Higher Education/Tab02 AL.px",
+"id": "Tab02 AL.px",
+"titulli": "Numri i përgjithshëm i studentëve në nivelin Bachelor në Universitete Publike dhe Kolegje Private, 2021/2022 - 2024/2025",
+"perditesuar": "2025-10-21T14:29:38"
+},
+{
+"rruga": "Education/15 Higher Education/Tab03 AL.px",
+"id": "Tab03 AL.px",
+"titulli": "Numri i studentëve të diplomuar në nivelin Bachelor në Universitete Publike dhe Kolegje private sipas fushave të studimit, 2021/2022 - 2024/2025",
+"perditesuar": "2025-10-21T14:31:25"
+},
+{
+"rruga": "Education/15 Higher Education/Tab04 AL.px",
+"id": "Tab04 AL.px",
+"titulli": "Studentët e regjistruar në nivelin Master për herë të parë sipas fushave të studimit, 2021/2022 - 2024/2025",
+"perditesuar": "2025-10-21T14:32:42"
+},
+{
+"rruga": "Education/15 Higher Education/Tab05 AL.px",
+"id": "Tab05 AL.px",
+"titulli": "Numri i përgjithshëm i studentëve në nivelin Master në Universitete Publike dhe Kolegje Private, 2021/2022 - 2024/2025",
+"perditesuar": "2025-10-21T14:33:54"
+},
+{
+"rruga": "Education/15 Higher Education/Tab06 AL.px",
+"id": "Tab06 AL.px",
+"titulli": "Numri i studentëve  të diplomuar në nivelin Master në Universitete Publike dhe Kolegje private sipas fushave të studimit, 2021/2022 - 2024/2025",
+"perditesuar": "2025-10-21T14:35:02"
+},
+{
+"rruga": "Education/08 Private education/edu31.px",
+"id": "edu31.px",
+"titulli": "Nxënësit (fëmijët) në arsimin parashkollor dhe parafillor, 2015/16-2023/24",
+"perditesuar": "2024-06-13T09:15:36"
+},
+{
+"rruga": "Education/08 Private education/edu32.px",
+"id": "edu32.px",
+"titulli": "Numri i nxënësve në arsimin fillor/ të mesëm të ulët dhe të mesëm të lartë, 2015/16-2023/24",
+"perditesuar": "2024-06-13T09:25:30"
+},
+{
+"rruga": "Education/08 Private education/edu33.px",
+"id": "edu33.px",
+"titulli": "Numri i nxënësve sipas përkatësisë etnike për grup mosha / klasa, 2015/16-2023/24",
+"perditesuar": "2024-06-13T09:36:43"
+},
+{
+"rruga": "Education/08 Private education/edu34.px",
+"id": "edu34.px",
+"titulli": "Numri i nxënësve për grup mosha / klasa, 2015/16-2023/24",
+"perditesuar": "2024-06-13T09:41:15"
+},
+{
+"rruga": "Education/07 Special education/edu29.px",
+"id": "edu29.px",
+"titulli": "Nxënësit sipas klasave në shkolla speciale, 2015/16-2023/24",
+"perditesuar": "2024-06-12T11:11:17"
+},
+{
+"rruga": "Education/07 Special education/edu30.px",
+"id": "edu30.px",
+"titulli": "Nxënësit sipas klasave dhe llojit të dëmtimit, 2015/16-2023/24",
+"perditesuar": "2024-06-12T11:19:29"
+},
+{
+"rruga": "Education/4 Education and training for adults/edu25.px",
+"id": "edu25.px",
+"titulli": "Vijues në arsim dhe aftësim për të rritur, 2015/16-2023/24",
+"perditesuar": "2024-06-12T10:52:16"
+},
+{
+"rruga": "Education/6 Information on social and family status of pupils/edu28.px",
+"id": "edu28.px",
+"titulli": "Statusi social dhe familjar i nxënësve, 2015/16-2023/24",
+"perditesuar": "2024-06-12T11:05:03"
+},
+{
+"rruga": "Education/3 Public educational institutions/edu23.px",
+"id": "edu23.px",
+"titulli": "Institucionet shkollore sipas niveleve, 2015/16-2023/24",
+"perditesuar": "2024-06-12T10:33:27"
+},
+{
+"rruga": "Education/3 Public educational institutions/edu24.px",
+"id": "edu24.px",
+"titulli": "Institucionet shkollore shkolla amë dhe paralele të ndara, 2015/16-2023/24",
+"perditesuar": "2024-06-12T10:37:28"
+},
+{
+"rruga": "Education/12 Private Colleges/edu124_new.px",
+"id": "edu124_new.px",
+"titulli": "Numri i përgjithshëm i studentëve nga jashtë vendit në nivelin bachelor në Kolegjet Private në vitin 2016/17-2023/24",
+"perditesuar": "2024-06-14T14:43:44"
+},
+{
+"rruga": "Education/12 Private Colleges/edu125_new.px",
+"id": "edu125_new.px",
+"titulli": "Numri i përgjithshëm i studentëve nga jashtë vendit në nivelin master në Kolegjet Private në vitin 2016/17-2023/24",
+"perditesuar": "2024-06-18T11:12:28"
+},
+{
+"rruga": "Education/12 Private Colleges/edu126_new.px",
+"id": "edu126_new.px",
+"titulli": "Numri i stafit akademik dhe administrativ në Kolegjet Private sipas gjinisë 2016/17-2023/24",
+"perditesuar": "2024-06-18T13:07:42"
+},
+{
+"rruga": "Education/12 Private Colleges/edu91.px",
+"id": "edu91.px",
+"titulli": "Numri i përgjithshëm i studentëve në nivelin bachelor në Kolegjet Private, 2015/16-2023/24",
+"perditesuar": "2024-06-14T09:37:56"
+},
+{
+"rruga": "Education/12 Private Colleges/edu92.px",
+"id": "edu92.px",
+"titulli": "Numri i studentëve të pranuar në nivelin bachelor në Kolegjet Private në vitin, 2015/16-2023/24",
+"perditesuar": "2024-06-14T09:59:52"
+},
+{
+"rruga": "Education/12 Private Colleges/edu93.px",
+"id": "edu93.px",
+"titulli": "Numri i studentëve të pranuar në nivelin master në Kolegjet Private, 2015/16-2023/24",
+"perditesuar": "2024-06-14T10:52:11"
+},
+{
+"rruga": "Education/12 Private Colleges/edu94.px",
+"id": "edu94.px",
+"titulli": "Numri i përgjithshëm i studentëve në nivelin master në Kolegjet Private, 2015/16-2023/24",
+"perditesuar": "2024-06-14T11:12:42"
+},
+{
+"rruga": "Education/12 Private Colleges/edu95.px",
+"id": "edu95.px",
+"titulli": "Numri i studentëve të diplomuar në nivelin bachelor në vitin, 2015/16-2023/24",
+"perditesuar": "2024-06-14T11:28:26"
+},
+{
+"rruga": "Education/12 Private Colleges/edu96.px",
+"id": "edu96.px",
+"titulli": "Numri i studentëve të diplomuar në nivelin master në vitin, 2014/15-2023/24",
+"perditesuar": "2024-06-14T14:12:14"
+},
+{
+"rruga": "Education/12 Private Colleges/edu97.px",
+"id": "edu97.px",
+"titulli": "Numri i fëmijëve, nxënësve dhe studentëve në të gjitha nivelet e arsimit në sektorin publik dhe privat  2014/15-2023/24",
+"perditesuar": "2024-06-14T14:24:28"
+},
+{
+"rruga": "Education/5 Learning conditions/edu26.px",
+"id": "edu26.px",
+"titulli": "Treguesit e arsimit sipas niveleve në arsimin publik, 2015/16-2023/24",
+"perditesuar": "2024-06-12T10:56:09"
+},
+{
+"rruga": "Education/5 Learning conditions/edu27.px",
+"id": "edu27.px",
+"titulli": "Ndryshimet sipas niveleve në arsimin publik, 2015/16-202/24",
+"perditesuar": "2024-06-12T11:01:52"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu000.px",
+"id": "edu000.px",
+"titulli": "Numri i fëmijëve, nxënësve dhe studentëve në të gjitha nivelet e arsimit në sektorin publik dhe privat, 2022/2023-2023/2024",
+"perditesuar": "2024-06-20T09:36:42"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu01.px",
+"id": "edu01.px",
+"titulli": "Numri i fëmijëve në arsimin parashkollor (Parashkollore <5 vjeç), 2015/16-2023/24",
+"perditesuar": "2024-06-11T13:48:24"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu02.px",
+"id": "edu02.px",
+"titulli": "Numri i fëmijëve në arsimin parafillor  (Para-fillor 5-6 vjeç), 2015/16-2023/2024",
+"perditesuar": "2024-06-11T13:47:52"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu03.px",
+"id": "edu03.px",
+"titulli": "Numri i nxënësve në arsimin fillor-mesëm të ulët, 2015/16-2023/24",
+"perditesuar": "2024-06-11T13:50:28"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu04.px",
+"id": "edu04.px",
+"titulli": "Numri i nxënësve në arsimin e mesem të lartë, 2015/16-2023/24",
+"perditesuar": "2024-06-11T13:53:32"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu05.px",
+"id": "edu05.px",
+"titulli": "Numri i nxënësve në institucionet publike parauniversitare, 2015/16-2023/24",
+"perditesuar": "2024-06-12T09:24:55"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu06.px",
+"id": "edu06.px",
+"titulli": "Fëmijët sipas grupmoshave dhe gjinisë, 2015/16-2023/24",
+"perditesuar": "2024-06-11T14:02:43"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu07.px",
+"id": "edu07.px",
+"titulli": "Numri i nxënësve në arsimin fillor-mesëm të ulët sipas klasave, 2015/16-2023/24",
+"perditesuar": "2024-06-11T14:05:51"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu08.px",
+"id": "edu08.px",
+"titulli": "Numri i nxënësve në arsimin e mesëm të lartë sipas klasave, 2015/16-2023/24",
+"perditesuar": "2024-06-11T14:08:34"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu09.px",
+"id": "edu09.px",
+"titulli": "Numri i nxënësve në shkolla profesionale dhe gjimnaze, 2015/16-2023/24",
+"perditesuar": "2024-06-11T14:11:15"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu10.px",
+"id": "edu10.px",
+"titulli": "Numri i fëmijëve në arsimin parashkollor sipas përkatësisë etnike, 2015/16-2023/24",
+"perditesuar": "2024-06-11T14:15:47"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu11.px",
+"id": "edu11.px",
+"titulli": "Numri i fëmijëve në arsimin parafillor sipas përkatësisë etnike, 2015/16-2023/24",
+"perditesuar": "2024-06-11T14:20:58"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu12.px",
+"id": "edu12.px",
+"titulli": "Numri i nxënësve në arsimin fillor-të mesëm të ulët sipas përkatësisë etnike, 2015/16-2023/24",
+"perditesuar": "2024-06-11T14:27:07"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu13.px",
+"id": "edu13.px",
+"titulli": "Numri i nxënësve në arsimin e mesëm të lartë sipas përkatësisë etnike, 2015/2016-2023/2024",
+"perditesuar": "2024-06-11T14:31:39"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu14.px",
+"id": "edu14.px",
+"titulli": "Numri i nxënësve sipas moshave/klasave dhe gjinisë, 2015/2016-2023/2024",
+"perditesuar": "2024-06-11T14:34:05"
+},
+{
+"rruga": "Education/1 Pupils in public education/edu15.px",
+"id": "edu15.px",
+"titulli": "Numri i nxënësve sipas grup moshave/klasave dhe përkatësisë etnike, 2015/2016-2023/24",
+"perditesuar": "2024-06-11T14:38:11"
+},
+{
+"rruga": "Education/2 Educational staff/edu16.px",
+"id": "edu16.px",
+"titulli": "Mësimdhënësit sipas niveleve, 2015/16-2023/24",
+"perditesuar": "2024-06-12T08:48:23"
+},
+{
+"rruga": "Education/2 Educational staff/edu17.px",
+"id": "edu17.px",
+"titulli": "Mësimdhënësit sipas përkatësisë gjinore, 2015/16-2023/24",
+"perditesuar": "2024-06-12T09:00:55"
+},
+{
+"rruga": "Education/2 Educational staff/edu18.px",
+"id": "edu18.px",
+"titulli": "Mësimdhënësit sipas përkatësisë etnike, 2015/16-2023/24",
+"perditesuar": "2024-06-12T09:08:44"
+},
+{
+"rruga": "Education/2 Educational staff/edu19.px",
+"id": "edu19.px",
+"titulli": "Personeli administrativ sipas niveleve, 2015/16-2023/24",
+"perditesuar": "2024-06-12T09:13:07"
+},
+{
+"rruga": "Education/2 Educational staff/edu20.px",
+"id": "edu20.px",
+"titulli": "Personeli administrativ sipas komunave, 2015/16-2023/24",
+"perditesuar": "2024-06-12T09:22:48"
+},
+{
+"rruga": "Education/2 Educational staff/edu21.px",
+"id": "edu21.px",
+"titulli": "Personeli ndihmës sipas niveleve, 2015/16-2023/24",
+"perditesuar": "2024-06-12T09:38:37"
+},
+{
+"rruga": "Education/2 Educational staff/edu22.px",
+"id": "edu22.px",
+"titulli": "Personeli ndihmës sipas komunave, 2015/16-2023/24",
+"perditesuar": "2024-06-12T10:29:19"
+},
+{
+"rruga": "Education/10 Serbs school/edu54.px",
+"id": "edu54.px",
+"titulli": "Numri i mësimdhënësve në arsimin fillor dhe të mesëm të ulët sipaspërkatësisë etnike, 2015-2018",
+"perditesuar": "2018-06-22T14:27:27"
+},
+{
+"rruga": "Education/10 Serbs school/edu53.px",
+"id": "edu53.px",
+"titulli": "Mësimdhënësit në arsimin fillor dhe të mesëm të ulët sipas niveleve, 2015-2018",
+"perditesuar": "2018-06-22T14:26:31"
+},
+{
+"rruga": "Education/10 Serbs school/edu43.px",
+"id": "edu43.px",
+"titulli": "Numri i fëmijëve në arsimin parashkollor, 2015-2018",
+"perditesuar": "2018-06-22T14:09:39"
+},
+{
+"rruga": "Education/10 Serbs school/edu44.px",
+"id": "edu44.px",
+"titulli": "Numri i fëmijëve në arsimin parashkollor sipas përkatësisë etnike, 2015-2018",
+"perditesuar": "2018-06-22T14:12:42"
+},
+{
+"rruga": "Education/10 Serbs school/edu45.px",
+"id": "edu45.px",
+"titulli": "Numri i fëmijëve në arsimin parafillor, 2015-2018",
+"perditesuar": "2018-06-22T14:15:03"
+},
+{
+"rruga": "Education/10 Serbs school/edu46.px",
+"id": "edu46.px",
+"titulli": "Numri i fëmijëve parashkollorë dhe parafillorë sipas grupmoshave, 2015-2018",
+"perditesuar": "2018-06-22T14:17:08"
+},
+{
+"rruga": "Education/10 Serbs school/edu47.px",
+"id": "edu47.px",
+"titulli": "Numri i fëmijëve në arsimin parafillor në shkollat serbe sipas përkatësisë etnike, 2015-2020",
+"perditesuar": "2020-09-30T09:54:24"
+},
+{
+"rruga": "Education/10 Serbs school/edu48.px",
+"id": "edu48.px",
+"titulli": "Numri i shkollave, paraleleve dhe numri i nxënësve në arsimin fillor dhetë mesëm të ulët, 2015-2018",
+"perditesuar": "2018-06-22T14:20:09"
+},
+{
+"rruga": "Education/10 Serbs school/edu49.px",
+"id": "edu49.px",
+"titulli": "Numri i nxënësve në arsimin fillor dhe të mesëm të ulët sipas klasave, 2015-2020",
+"perditesuar": "2020-09-30T09:55:29"
+},
+{
+"rruga": "Education/10 Serbs school/edu50.px",
+"id": "edu50.px",
+"titulli": "Numri i nxënësve në arsimin fillor dhe të mesëm të ulët sipas përkatësisë etnike, 2015-2020",
+"perditesuar": "2020-09-30T09:56:20"
+},
+{
+"rruga": "Education/10 Serbs school/edu51.px",
+"id": "edu51.px",
+"titulli": "Numri i nxënësve në arsimin fillor dhe të mesëm të ulët sipas moshave / klasave, 2015-2018",
+"perditesuar": "2018-06-22T14:24:12"
+},
+{
+"rruga": "Education/10 Serbs school/edu52.px",
+"id": "edu52.px",
+"titulli": "Numri i nxënësve në arsimin fillor dhe të mesëm të ulët sipas përkatësisë etnike, 2015-2018",
+"perditesuar": "2018-06-22T14:24:59"
+},
+{
+"rruga": "Education/10 Serbs school/edu55.px",
+"id": "edu55.px",
+"titulli": "Numri i institucioneve shkollore në arsimin fillor dhe të mesëm të ulët shkollat amë dhe paralele të ndara, 2015-2018",
+"perditesuar": "2018-06-22T14:29:20"
+},
+{
+"rruga": "Education/10 Serbs school/edu56.px",
+"id": "edu56.px",
+"titulli": "Nxënësit në arsimin e mesëm të lartë, 2015-2018",
+"perditesuar": "2018-06-22T14:30:36"
+},
+{
+"rruga": "Education/10 Serbs school/edu57.px",
+"id": "edu57.px",
+"titulli": "Numri i nxënësve në arsimin e mesëm të lartë sipas klasave, 2015-2020",
+"perditesuar": "2020-09-30T09:57:59"
+},
+{
+"rruga": "Education/10 Serbs school/edu58.px",
+"id": "edu58.px",
+"titulli": "Numri i nxënësve në shkolla profesionale dhe gjimnaze, 2015-2020",
+"perditesuar": "2020-09-30T09:59:51"
+},
+{
+"rruga": "Education/10 Serbs school/edu59.px",
+"id": "edu59.px",
+"titulli": "Numri i nxënësve në arsimin e mesëm të lartë sipas përkatësisë etnike, 2015-2020",
+"perditesuar": "2020-09-30T10:00:36"
+},
+{
+"rruga": "Education/10 Serbs school/edu60.px",
+"id": "edu60.px",
+"titulli": "Numri i nxënësve sipas moshave/klasave, 2015-2018",
+"perditesuar": "2018-06-22T14:40:08"
+},
+{
+"rruga": "Education/10 Serbs school/edu61.px",
+"id": "edu61.px",
+"titulli": "Personeli ndihmës sipas niveleve, 2015-2018",
+"perditesuar": "2018-06-22T14:41:22"
+},
+{
+"rruga": "Education/10 Serbs school/new1.px",
+"id": "new1.px",
+"titulli": "Numri i edukatorëve në parashkollor dhe parafillor në shkollat serbe, 2019/2020",
+"perditesuar": "2020-09-30T10:01:44"
+},
+{
+"rruga": "Education/09 Annex/ars1.px",
+"id": "ars1.px",
+"titulli": "Fëmijët/nxënësit sipas grupmoshave/klasave dhe gjinisë, në arsimin publik, 2020/21-2023/24",
+"perditesuar": "2024-06-13T11:40:05"
+},
+{
+"rruga": "Education/09 Annex/ars2.px",
+"id": "ars2.px",
+"titulli": "Numri i nxënësve sipas gjinisë, klasave, llojit të arsimit dhe nivelit te ISCED-it, 2020/21-2023/24",
+"perditesuar": "2024-06-13T11:02:01"
+},
+{
+"rruga": "Education/09 Annex/ars3.px",
+"id": "ars3.px",
+"titulli": "Raporti nxënës për paralele në arsimin fillor-mesëm të ulët, publik, 2020/21-2023/24",
+"perditesuar": "2024-06-13T11:08:02"
+},
+{
+"rruga": "Education/09 Annex/ars4.px",
+"id": "ars4.px",
+"titulli": "Raporti nxënës për paralele në arsimin e mesëm të lartë, publik, 2020/21-2023/24",
+"perditesuar": "2024-06-13T11:12:19"
+},
+{
+"rruga": "Education/09 Annex/edu35.px",
+"id": "edu35.px",
+"titulli": "Nxënësit sipas gjinisë nëpër komuna në arsimin publik, 2015/16-2023/24",
+"perditesuar": "2024-06-13T11:20:36"
+},
+{
+"rruga": "Education/09 Annex/edu36.px",
+"id": "edu36.px",
+"titulli": "Nxënësit sipas grupeve/klasave dhe gjinisë, në arsimin publik, 2015/16-2023/24",
+"perditesuar": "2024-06-13T11:27:07"
+},
+{
+"rruga": "Education/09 Annex/edu37.px",
+"id": "edu37.px",
+"titulli": "Numri i nxënësve sipas gjinisë në nivele, në arsimin publik, 2015/16-2023/24",
+"perditesuar": "2024-06-13T12:00:28"
+},
+{
+"rruga": "Education/09 Annex/edu38.px",
+"id": "edu38.px",
+"titulli": "Personeli në arsimin publik, 2015/16-2023/24",
+"perditesuar": "2024-06-13T12:06:29"
+},
+{
+"rruga": "Education/09 Annex/edu39.px",
+"id": "edu39.px",
+"titulli": "Institucionet shkollore publike: amë dhe paralele të ndara, 2015/16-2023/24",
+"perditesuar": "2024-06-13T12:29:49"
+},
+{
+"rruga": "Education/09 Annex/edu40.px",
+"id": "edu40.px",
+"titulli": "Nxënësit sipas gjinisë dhe klasave në Qendra Burimore /shkolla speciale, 2015/16-2023/24",
+"perditesuar": "2024-06-13T12:35:40"
+},
+{
+"rruga": "Education/09 Annex/edu41.px",
+"id": "edu41.px",
+"titulli": "Nxënësit sipas klasave në arsimin privat, 2015/16-2023/24",
+"perditesuar": "2024-06-13T12:46:43"
+},
+{
+"rruga": "Education/09 Annex/edu42.px",
+"id": "edu42.px",
+"titulli": "Nxënësit me nevoja te veçanta në klasat e rregullta , 2015/16-2023/24",
+"perditesuar": "2024-06-13T12:53:42"
+},
+{
+"rruga": "Education/13 Other statistics/Number of children, pupils and students in public and private education 2009-2012.px",
+"id": "Number of children, pupils and students in public and private education 2009-2012.px",
+"titulli": "Numri i fëmijëve, nxënësve dhe studentëve në arsimin publik dhe privat 2009-2012",
+"perditesuar": "2015-06-15T09:33:07"
+},
+{
+"rruga": "Education/13 Other statistics/Kosovo illiteracy Rates 1999-2009.px",
+"id": "Kosovo illiteracy Rates 1999-2009.px",
+"titulli": "Shkalla e analfabetizmit në Kosovë 1999-2009",
+"perditesuar": "2015-05-21T09:29:02"
+},
+{
+"rruga": "Education/13 Other statistics/Schools, classes, teachers, pupils in public upper secondary education 2012-2014.px",
+"id": "Schools, classes, teachers, pupils in public upper secondary education 2012-2014.px",
+"titulli": "Shkollat, paralelet, mësimdhënësit, nxënësit në arsimin e mesëm të lartë publik 2013/2014",
+"perditesuar": "2020-10-13T13:59:27"
+},
+{
+"rruga": "Education/14 Public Universities/10edu.px",
+"id": "10edu.px",
+"titulli": "Numri i stafit akademik dhe administrativ sipas gjinisë, 2018/19-2023/24",
+"perditesuar": "2024-11-20T21:59:24"
+},
+{
+"rruga": "Education/14 Public Universities/11edu.px",
+"id": "11edu.px",
+"titulli": "Stafi Akademik nga jasht vendit te cilet ligjerojne ne Universitetet Publike dhe Private në vitin 2018/19-2023/24",
+"perditesuar": "2024-11-20T21:59:40"
+},
+{
+"rruga": "Education/14 Public Universities/1edu.px",
+"id": "1edu.px",
+"titulli": "Numri i studentëve të  regjistruar në nivelin bachelor  në vitin akademik, 2018/19-2023/24",
+"perditesuar": "2024-11-20T21:56:38"
+},
+{
+"rruga": "Education/14 Public Universities/2edu.px",
+"id": "2edu.px",
+"titulli": "Numri  i përgjithshëm i studentëve  në nivelin bachelor, 2018/19-2023/24",
+"perditesuar": "2024-11-20T21:56:55"
+},
+{
+"rruga": "Education/14 Public Universities/3edu.px",
+"id": "3edu.px",
+"titulli": "Numri  i përgjithshëm i studentëve nga jashtë  në nivelin bachelor, 2018/19-2023-24",
+"perditesuar": "2024-11-20T21:57:27"
+},
+{
+"rruga": "Education/14 Public Universities/4edu.px",
+"id": "4edu.px",
+"titulli": "Numri i studentëve të diplomuar në nivelin bachelor, 2018/19-2023/24",
+"perditesuar": "2024-11-20T21:57:42"
+},
+{
+"rruga": "Education/14 Public Universities/5edu.px",
+"id": "5edu.px",
+"titulli": "Numri i studentëve  të regjistruar në nivelin master, 2018/19-2023/24",
+"perditesuar": "2024-11-20T21:58:00"
+},
+{
+"rruga": "Education/14 Public Universities/6edu.px",
+"id": "6edu.px",
+"titulli": "Numri i përgjithshëm i studentëve  në nivelin master, 2018/19-2023/24",
+"perditesuar": "2024-11-20T21:55:25"
+},
+{
+"rruga": "Education/14 Public Universities/7edu.px",
+"id": "7edu.px",
+"titulli": "Numri  i përgjithshëm i studentëve nga jashtë  në nivelin master, 2018/19-2023/24",
+"perditesuar": "2024-11-20T21:58:19"
+},
+{
+"rruga": "Education/14 Public Universities/8edu.px",
+"id": "8edu.px",
+"titulli": "Numri i studentëve të diplomuar në nivelin master, 2017/18-2023/24",
+"perditesuar": "2024-11-20T21:58:39"
+},
+{
+"rruga": "Education/14 Public Universities/9edu.px",
+"id": "9edu.px",
+"titulli": "Numri i kandidatëve të pranuar në studimet e doktoraturës në Universitetin e Prishtinës në vitin akademik, 2018/19-2023/24",
+"perditesuar": "2024-11-20T21:59:07"
+},
+{
+"rruga": "Education/14 Public Universities/edu12.px",
+"id": "edu12.px",
+"titulli": "Numri i kandidatëve  në studimet e doktoraturës në Universitetin e Prishtinës në vitin akademik, 2020/2021-2022/2023",
+"perditesuar": "2024-06-19T10:36:46"
+},
+{
+"rruga": "Education/14 Public Universities/edu13.px",
+"id": "edu13.px",
+"titulli": "Numri i studentëve të diplomuar në nivelin doktoraturë, 2019/2020-2023/24",
+"perditesuar": "2024-06-20T08:19:27"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb01.px",
+"id": "aeb01.px",
+"titulli": "Shfrytëzimi i tokës bujqësore, 2015 - 2025",
+"perditesuar": "2026-07-06T10:41:20"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb02.px",
+"id": "aeb02.px",
+"titulli": "Kulturat bujqësore në tokë të punueshme - ara, prodhimi dhe rendimenti, 2015 - 2025",
+"perditesuar": "2026-07-06T10:44:48"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/tab17derra.px",
+"id": "tab17derra.px",
+"titulli": "Numri i derrave sipas peshës dhe destinimit, 2016 - 2025",
+"perditesuar": "2026-07-06T15:07:35"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/Crop Production 2005-2012.px",
+"id": "Crop Production 2005-2012.px",
+"titulli": "Prodhimtaria bimore 2005 - 2012",
+"perditesuar": "2026-07-06T13:37:43"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/Nr. of agri. households and agricultural legal.px",
+"id": "Nr. of agri. households and agricultural legal.px",
+"titulli": "Numri i ekonomive bujqësore (ekonomitë familjare bujqësore dhe subjektet juridike bujqësore) sipas rajoneve",
+"perditesuar": "2026-07-06T13:43:47"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/ahs01.px",
+"id": "ahs01.px",
+"titulli": "Shfrytëzimi total i tokës brenda sektorit të ekonomive bujqësore, 2005 - 2013",
+"perditesuar": "2026-07-06T13:37:32"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb03Perimet.px",
+"id": "aeb03Perimet.px",
+"titulli": "Perime në tokë të punueshme - ara, sipërfaqja, prodhimi në fushë të hapur, serra, 2016 - 2025",
+"perditesuar": "2026-07-06T10:46:41"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/kulturat e dyta.px",
+"id": "kulturat e dyta.px",
+"titulli": "Sipërfaqja dhe prodhimi me kulturave të dyta (pas korrjes së parë), 2017 - 2025",
+"perditesuar": "2026-07-06T13:42:10"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb04Perimet.px",
+"id": "aeb04Perimet.px",
+"titulli": "Sipërfaqja dhe prodhimi i perimeve në fushë të hapur, serra dhe kopshte, 2016 - 2025",
+"perditesuar": "2026-07-06T10:48:28"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb05Pemet.px",
+"id": "aeb05Pemet.px",
+"titulli": "Sipërfaqja e mbjellë me pemë, prodhimi dhe rendimenti, 2016 - 2025",
+"perditesuar": "2026-07-06T11:00:11"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb06Vreshta.px",
+"id": "aeb06Vreshta.px",
+"titulli": "Sipërfaqja e mbjellë me vreshta, prodhimi dhe rendimenti, 2016 - 2025",
+"perditesuar": "2026-07-06T11:04:23"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb07Livadhet.px",
+"id": "aeb07Livadhet.px",
+"titulli": "Sipërfaqja e livadheve, kullosave dhe tokës së përbashkët, prodhimi dherendimenti, 2016 - 2025",
+"perditesuar": "2026-07-06T11:05:34"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb08Ujitja.px",
+"id": "aeb08Ujitja.px",
+"titulli": "Sipërfaqja e ujitur, 2016 - 2025",
+"perditesuar": "2026-07-06T11:06:23"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb09kafshet.px",
+"id": "aeb09kafshet.px",
+"titulli": "Numri i kafshëve sipas llojeve, 2016 - 2025",
+"perditesuar": "2026-07-06T13:28:02"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb10gmoshagjedhe.px",
+"id": "aeb10gmoshagjedhe.px",
+"titulli": "Numri i gjedheve sipas grupmoshave, 2016 - 2025",
+"perditesuar": "2026-07-10T09:44:12"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb11delee.px",
+"id": "aeb11delee.px",
+"titulli": "Numri i deleve sipas kategorive, 2016 - 2025",
+"perditesuar": "2026-07-06T13:31:00"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb12dhite.px",
+"id": "aeb12dhite.px",
+"titulli": "Numri i dhive sipas kategorive, 2016 - 2025",
+"perditesuar": "2026-07-06T13:32:21"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb19shpezet.px",
+"id": "aeb19shpezet.px",
+"titulli": "Shpezët sipas llojeve, moshës dhe destinimit, 2016 - 2025",
+"perditesuar": "2026-07-06T13:33:37"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb20kbletesh.px",
+"id": "aeb20kbletesh.px",
+"titulli": "Koshere bletësh, 2016 - 2025",
+"perditesuar": "2026-07-06T13:34:51"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/aeb22.px",
+"id": "aeb22.px",
+"titulli": "Përdorimi i plehrave organike sipas grupit të kulturave bujqësore, 2016 - 2025",
+"perditesuar": "2026-07-06T13:37:17"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/tab23.px",
+"id": "tab23.px",
+"titulli": "Sipërfaqja e shfrytëzuar e tokës bujqësore, në të cilën janë përdorur pesticidet, 2016 - 2025",
+"perditesuar": "2026-07-06T15:09:12"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/tab24.px",
+"id": "tab24.px",
+"titulli": "Struktura e shpenzimeve në fermë, 2016 - 2025",
+"perditesuar": "2026-07-06T15:10:44"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/tab12kafshetetherruajashteEB.px",
+"id": "tab12kafshetetherruajashteEB.px",
+"titulli": "Kafshët e therura në EB dhe jashtë EB-së, 2019 - 2025",
+"perditesuar": "2026-07-06T15:05:40"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/njethundraket.px",
+"id": "njethundraket.px",
+"titulli": "Numri i njëthundrakëve sipas kategorise 2015 - 2025",
+"perditesuar": "2026-07-06T13:43:28"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/numrigjedhe.px",
+"id": "numrigjedhe.px",
+"titulli": "Numri i gjedheve sipas grupmoshave, gjinisë dhe destinimit, 2019 - 2025",
+"perditesuar": "2026-07-06T13:50:29"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/tab10qumesht.px",
+"id": "tab10qumesht.px",
+"titulli": "Prodhimi dhe shfrytëzimi i qumështit 2018 - 2025",
+"perditesuar": "2026-07-10T09:48:50"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/tab10qumeshtshitje.px",
+"id": "tab10qumeshtshitje.px",
+"titulli": "Prodhimi dhe shfrytëzimi i qumështit (shitjet), 2018 - 2025",
+"perditesuar": "2026-07-06T14:59:26"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/tab11qumeshtperpunimi.px",
+"id": "tab11qumeshtperpunimi.px",
+"titulli": "Produktet e qumështit të përpunuara në Ekonomi Bujqësore 2019 - 2025",
+"perditesuar": "2026-07-10T13:28:30"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/tab1pminerale.px",
+"id": "tab1pminerale.px",
+"titulli": "Përdorimi i plehrave minerale në kulturat bujqësore, 2016 - 2025",
+"perditesuar": "2026-07-06T13:55:06"
+},
+{
+"rruga": "Agriculture/Agricultural Household Survey/shfrytezimimishit.px",
+"id": "shfrytezimimishit.px",
+"titulli": "Prodhimi dhe shfrytëzimi i mishit dhe produkteve tjera blegtorale në EB, 2019 - 2025",
+"perditesuar": "2026-07-06T13:53:10"
+},
+{
+"rruga": "Agriculture/Economic Accounts for Agriculture/eaa02=2020.px",
+"id": "eaa02=2020.px",
+"titulli": "Llogaritë Ekonomike për Bujqësi - vlerat me çmime aktuale, milion euro, 2020 - 2025, 2020=100",
+"perditesuar": "2026-08-31T10:58:10"
+},
+{
+"rruga": "Agriculture/Economic Accounts for Agriculture/eaa02.px",
+"id": "eaa02.px",
+"titulli": "Llogaritë Ekonomike për Bujqësi - vlerat me çmime aktuale, milion euro, 2005-2022 , 2015=100",
+"perditesuar": "2024-09-09T09:31:43"
+},
+{
+"rruga": "Agriculture/Economic Accounts for Agriculture/eaa02b=2020.px",
+"id": "eaa02b=2020.px",
+"titulli": "Llogaritë Ekonomike për Bujqësi - vlerat me çmime aktuale, milion euro, 2020 - 2025, 2020=100",
+"perditesuar": "2026-08-31T10:58:14"
+},
+{
+"rruga": "Agriculture/Economic Accounts for Agriculture/eaa02b.px",
+"id": "eaa02b.px",
+"titulli": "Llogaritë Ekonomike për Bujqësi - vlerat me çmime aktuale, milion euro, 2005-2022, 2015=100",
+"perditesuar": "2024-09-09T09:32:00"
+},
+{
+"rruga": "Agriculture/Economic Accounts for Agriculture/eaa03a=2020.px",
+"id": "eaa03a=2020.px",
+"titulli": "Llogaritë Ekonomike për Bujqësi - vlerat me çmime konstante, milion euro, 2020 - 2025, 2020=100",
+"perditesuar": "2026-08-31T10:58:19"
+},
+{
+"rruga": "Agriculture/Economic Accounts for Agriculture/eaa03a.px",
+"id": "eaa03a.px",
+"titulli": "Llogaritë Ekonomike për Bujqësi - vlerat me çmime konstante, milion euro, 2005-2022, 2015=100",
+"perditesuar": "2024-09-09T09:32:18"
+},
+{
+"rruga": "Agriculture/Economic Accounts for Agriculture/eaa03b=2020.px",
+"id": "eaa03b=2020.px",
+"titulli": "Llogaritë Ekonomike për Bujqësi - vlerat me çmime konstante, milion euro, 2020 - 2025, 2020=100",
+"perditesuar": "2026-08-31T10:59:31"
+},
+{
+"rruga": "Agriculture/Economic Accounts for Agriculture/eaa03b.px",
+"id": "eaa03b.px",
+"titulli": "Llogaritë Ekonomike për Bujqësi - vlerat me çmime konstante, milion euro, 2005-2022, 2015=100",
+"perditesuar": "2024-09-09T09:32:34"
+},
+{
+"rruga": "Prices/Import Price Index/indvjetor.px",
+"id": "indvjetor.px",
+"titulli": "Indeksat mesatar sipas sektoreve për vitet 2006-2012 (2008=100)",
+"perditesuar": "2026-08-24T14:15:41"
+},
+{
+"rruga": "Prices/Import Price Index/IPI01_01.px",
+"id": "IPI01_01.px",
+"titulli": "Ndryshimet e indeksit te çmimeve të importit (2010 = 100), 2006TM1 - 2026TM2",
+"perditesuar": "2026-08-24T14:15:29"
+},
+{
+"rruga": "Prices/Producer Price Index/PPI01.px",
+"id": "PPI01.px",
+"titulli": "Ndryshimet e indeksit t çmimeve të prodhimit, 2009TM1 - 2024TM4",
+"perditesuar": "2026-08-24T13:57:18"
+},
+{
+"rruga": "Prices/Producer Price Index/PPI01new.px",
+"id": "PPI01new.px",
+"titulli": "Ndryshimet e indeksit t çmimeve të prodhimit (2021=100), 2021TM1 - 2026TM2",
+"perditesuar": "2026-08-24T14:01:42"
+},
+{
+"rruga": "Prices/Producer Price Index/PPI02.px",
+"id": "PPI02.px",
+"titulli": "Peshat, indeksi i çmimeve të prodhimit (2010=100) ndryshimet, 2020TM4 - 2024TM3",
+"perditesuar": "2026-08-24T14:02:34"
+},
+{
+"rruga": "Prices/Producer Price Index/PPI02new.px",
+"id": "PPI02new.px",
+"titulli": "Peshat, indeksi i çmimeve të prodhimit (2021=100) ndryshimet, 2020TM4 - 2026TM2",
+"perditesuar": "2026-08-24T14:09:11"
+},
+{
+"rruga": "Prices/Indeksi i Çmimeve të Pronës Banesore/IPBN01.px",
+"id": "IPBN01.px",
+"titulli": "IÇPB për Kosovë (2018 = 100), vlerat e indeksit, ndryshimi tremujor, ndryshimi vjetor dhe ndryshimi mesatar vjetore në % për periudhën 2018TM1 - 2026TM2",
+"perditesuar": "2026-09-03T12:47:16"
+},
+{
+"rruga": "Prices/Indeksi i Çmimeve të Pronës Banesore/IPBN02.px",
+"id": "IPBN02.px",
+"titulli": "IÇPB për Kosovë (2018 = 100), vlerat e indeksit, ndryshimi vjetor dhe ndryshimi mesatar vjetor në %, sipas tremujorit për Regjionin e Prishtinës dhe Regjionet e tjera të vendit 2018TM1 - 2026TM2",
+"perditesuar": "2026-09-03T12:47:38"
+},
+{
+"rruga": "Prices/Indeksi i Çmimeve të Pronës Banesore/Peshat.px",
+"id": "Peshat.px",
+"titulli": "Peshat sipas çmimit sipas shtresës dhe vitit, 2018 - 2025",
+"perditesuar": "2026-09-03T12:46:54"
+},
+{
+"rruga": "Prices/Construction Cost Index/CCI01.px",
+"id": "CCI01.px",
+"titulli": "Indeksi i kostos të ndërtimit për ndërtesat shumëkatëshe, 2013TM1 - 2026TM2",
+"perditesuar": "2026-08-31T10:41:45"
+},
+{
+"rruga": "Prices/Construction Cost Index/CCI02.px",
+"id": "CCI02.px",
+"titulli": "Ndryshimet e Indeksit të Kostos të Ndërtimit, 2013TM1 - 2026TM2",
+"perditesuar": "2026-08-31T10:41:37"
+},
+{
+"rruga": "Prices/Construction Cost Index/CCI03.px",
+"id": "CCI03.px",
+"titulli": "Peshat, ndryshimet sipas kategorive të kostove, 2017",
+"perditesuar": "2026-08-31T10:41:54"
+},
+{
+"rruga": "Prices/Construction Cost Index/CCI04.px",
+"id": "CCI04.px",
+"titulli": "Peshat, ndryshimet tremujore dhe vjetore sipas kategorive të Kostove, 2018",
+"perditesuar": "2026-08-31T10:42:02"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona Madhorë/law01.px",
+"id": "law01.px",
+"titulli": "Numri i Personave Madhorë akuzuar për vepra penale sipas gjykatave themelore dhe degëve të tyre si dhe mënyrës së zgjidhjes së aktakuzës, 2016 - 2024",
+"perditesuar": "2026-03-13T12:49:04"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona Madhorë/law02.px",
+"id": "law02.px",
+"titulli": "Numri i të akuzuarve në Gjykatat Themelore sipas gjinisë dhe paraqitësit të propozim akuzës, 2016 - 2024",
+"perditesuar": "2026-03-13T12:49:38"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona Madhorë/law03.px",
+"id": "law03.px",
+"titulli": "Të akuzuarit në Gjykatat Themelore sipas nacionalitetit, 2016-2019",
+"perditesuar": "2020-10-20T10:57:40"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona Madhorë/law04.px",
+"id": "law04.px",
+"titulli": "Personat Madhor të dënuar në Gjykatat themelore dhe degët e tyre sipas gjinisë të pasqyruar në vite 2003 - 2024",
+"perditesuar": "2026-03-13T12:51:09"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona Madhorë/law05.px",
+"id": "law05.px",
+"titulli": "Numri i personave madhor të dënuar për vepra penale sipas gjykatave dhe gjinisë, 2016 - 2024",
+"perditesuar": "2026-03-13T12:50:58"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona Madhorë/law06.px",
+"id": "law06.px",
+"titulli": "Numri i personave madhor të dënuar për vepra penale sipas Gjykatave dhe nacionalitetit, 2016-2019",
+"perditesuar": "2020-10-20T11:05:39"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona Madhorë/law09.px",
+"id": "law09.px",
+"titulli": "Personat e dënuar sipas llojit të kundërvajtjes në gjykatat themelore sipas viteve 2003-2019",
+"perditesuar": "2020-10-20T11:14:41"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona Madhorë/law10.px",
+"id": "law10.px",
+"titulli": "Personat e dënuar sipas gjykatave themelore dhe llojit të kundërvajtjes, 2016-2019",
+"perditesuar": "2020-10-20T11:27:40"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona Madhorë/law11.px",
+"id": "law11.px",
+"titulli": "Personat e dënuar në gjykatat për kundërvajtje sipas statusit të tyre, 2016-2017",
+"perditesuar": "2018-09-07T14:59:49"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona Madhorë/law12.px",
+"id": "law12.px",
+"titulli": "Personat e dënuar në gjykatat për kundërvajtje sipas dënimeve, 2016-2019",
+"perditesuar": "2020-10-20T11:40:32"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona të Mitur/lawmit01.px",
+"id": "lawmit01.px",
+"titulli": "Numri i personave të akuzuar dhe mënyra e zgjedhjes së propozim akuzës për të mitur sipas Gjykatave Themelore, 2017",
+"perditesuar": "2018-06-28T13:36:29"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona të Mitur/lawmit02.px",
+"id": "lawmit02.px",
+"titulli": "Numri i personave të mitur të akuzuar në Gjykatat Themelore (Departamenti për të Mitur) sipas paraqitësit të propozim akuzës dhe gjinisë, 2017",
+"perditesuar": "2018-06-28T15:18:06"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona të Mitur/lawmit03.px",
+"id": "lawmit03.px",
+"titulli": "Numri i personave të mitur të akuzuar në Gjykatat Themelore  sipas  nacionalitetit, 2017",
+"perditesuar": "2018-06-28T15:22:05"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona të Mitur/lawmit04.px",
+"id": "lawmit04.px",
+"titulli": "Personat e Mitur të dënuar sipas gjinisë, vështruar sipas viteve, 2003-2017",
+"perditesuar": "2018-06-28T15:26:15"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona të Mitur/lawmit05.px",
+"id": "lawmit05.px",
+"titulli": "Numri i personave të mitur të dënuar në Gjykatat Themeloret sipas gjinisë dhe nacionalitetit, 2017",
+"perditesuar": "2018-06-28T15:35:06"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona të Mitur/lawmit06.px",
+"id": "lawmit06.px",
+"titulli": "Personat e Mitur të dënuar sipas Gjykatave Themelore, llojit të dënimit  dhe masave të shqiptuara, 2017",
+"perditesuar": "2018-06-28T15:45:59"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona të Mitur/lawmit07.px",
+"id": "lawmit07.px",
+"titulli": "Personat e Mitur të dënuar sipas llojit të veprës,dhe gjinisë, në Gjykatat Themelore, 2017",
+"perditesuar": "2018-07-03T11:34:29"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona të Mitur/lawmit08.px",
+"id": "lawmit08.px",
+"titulli": "Personat e Mitur të dënuar sipas llojit të veprës, dhe nacionalitetit në Gjykatat Themelore, 2017",
+"perditesuar": "2018-07-03T11:38:10"
+},
+{
+"rruga": "Justice/Jurisprudenca për Persona të Mitur/lawmit09.px",
+"id": "lawmit09.px",
+"titulli": "Personat e Mitur të dënuar sipas llojit të veprës dhe llojit të dënimit në Gjykatat Themelore, 2017",
+"perditesuar": "2018-07-03T11:45:17"
+},
+{
+"rruga": "Energy/Quarterly indicators/energyExportImport.px",
+"id": "energyExportImport.px",
+"titulli": "Importi dhe eksporti i energjisë elektrike, 2009-1 - 2021-4",
+"perditesuar": "2022-02-18T12:53:00"
+},
+{
+"rruga": "Energy/Quarterly indicators/tab1a.px",
+"id": "tab1a.px",
+"titulli": "Prodhimi i thëngjillit,i energjisë elektrike në termocentrale dhe hidrocentrale, 2009-1 - 2021-4",
+"perditesuar": "2022-02-18T12:52:14"
+},
+{
+"rruga": "Energy/Quarterly indicators/tab2a.px",
+"id": "tab2a.px",
+"titulli": "Importi i enërgjentëve, 2009-1 - 2021-4",
+"perditesuar": "2022-02-18T12:54:01"
+},
+{
+"rruga": "Energy/Quarterly indicators/tab2b.px",
+"id": "tab2b.px",
+"titulli": "Exporti i enërgjentëve, 2009-1 - 2021-4",
+"perditesuar": "2022-02-18T12:55:09"
+},
+{
+"rruga": "Energy/Quarterly indicators/tab3a.px",
+"id": "tab3a.px",
+"titulli": "Konsumatorët e fundit të shpërndarë në pesë kategori, 2009-1 - 2021-4",
+"perditesuar": "2022-02-18T12:57:52"
+},
+{
+"rruga": "Energy/Quarterly indicators/tab3b.px",
+"id": "tab3b.px",
+"titulli": "Struktura e shpërndarjes së energjisë elektrike sipas konsumit final, 2009-1 - 2021-4",
+"perditesuar": "2022-02-18T12:59:12"
+},
+{
+"rruga": "Energy/Monthly indicators/tab01.px",
+"id": "tab01.px",
+"titulli": "Prodhimi dhe konsumi i energjisë elektrike, 2022M01 - 2026M09",
+"perditesuar": "2026-11-17T14:16:45"
+},
+{
+"rruga": "Energy/Monthly indicators/tab02.px",
+"id": "tab02.px",
+"titulli": "Prodhimi i thëngjillit, 2022M01 - 2026M09",
+"perditesuar": "2026-11-17T14:17:00"
+},
+{
+"rruga": "Energy/Monthly indicators/tab03.px",
+"id": "tab03.px",
+"titulli": "Benzinë në Kosovë, 2022M01 - 2026M09",
+"perditesuar": "2026-11-17T14:17:16"
+},
+{
+"rruga": "Energy/Monthly indicators/tab04.px",
+"id": "tab04.px",
+"titulli": "Dizel në Kosovë, 2022M01 - 2026M09",
+"perditesuar": "2026-11-17T14:17:51"
+},
+{
+"rruga": "Energy/Monthly indicators/tab05.px",
+"id": "tab05.px",
+"titulli": "GLN në Kosovë, 2022M01 - 2026M09",
+"perditesuar": "2026-11-17T14:18:08"
+},
+{
+"rruga": "Energy/Monthly indicators/tab06.px",
+"id": "tab06.px",
+"titulli": "Vajra Lubrifikante, 2022M01 - 2026M09",
+"perditesuar": "2026-11-17T14:18:37"
+},
+{
+"rruga": "Energy/Monthly indicators/tab07.px",
+"id": "tab07.px",
+"titulli": "Naftë me përmbajtje të sulfurit më tepër se 0,5%, 2022M01 - 2026M09",
+"perditesuar": "2026-11-17T14:19:10"
+},
+{
+"rruga": "Energy/Yearly indicator/tab1.px",
+"id": "tab1.px",
+"titulli": "Pasqyra e sasisë së energjisë së burimeve(produkteve) primare energjetike në dispozicion(ktoe), 2013 - 2024",
+"perditesuar": "2025-07-29T10:12:22"
+},
+{
+"rruga": "Energy/Yearly indicator/tab2.px",
+"id": "tab2.px",
+"titulli": "Pasqyra e sasisë së thëngjillit si burim primar në dispozicion (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T10:13:22"
+},
+{
+"rruga": "Energy/Yearly indicator/tab3.px",
+"id": "tab3.px",
+"titulli": "Pasqyra e sasisë së produkteve të naftës (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T10:14:33"
+},
+{
+"rruga": "Energy/Yearly indicator/tab4.px",
+"id": "tab4.px",
+"titulli": "Pasqyra e pjesëmarrjes së gjithë sektorëve në konsumin final energjetik (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T10:23:46"
+},
+{
+"rruga": "Energy/Yearly indicator/tab5.px",
+"id": "tab5.px",
+"titulli": "Konsumi final jo energjetik (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T11:13:24"
+},
+{
+"rruga": "Energy/Yearly indicator/tab6.px",
+"id": "tab6.px",
+"titulli": "Pasqyra e konsumit final të të gjitha burimeve të energjisë (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T11:16:56"
+},
+{
+"rruga": "Energy/Yearly indicator/tab7.px",
+"id": "tab7.px",
+"titulli": "Pasqyra e konsumit final të thëngjillit (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T11:22:23"
+},
+{
+"rruga": "Energy/Yearly indicator/tab8.px",
+"id": "tab8.px",
+"titulli": "Pasqyra e konsumit final të produkteve të naftës (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T11:32:35"
+},
+{
+"rruga": "Energy/Yearly indicator/tab9.px",
+"id": "tab9.px",
+"titulli": "Pasqyra e konsumit të energjisë elektrike (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T13:56:39"
+},
+{
+"rruga": "Energy/Yearly indicator/tab10.px",
+"id": "tab10.px",
+"titulli": "Pasqyra e konsumit të ngrohjes së përfituar në të gjithë sektorët ekonomik shprehur në ktoe, 2012 - 2024",
+"perditesuar": "2025-07-29T13:58:56"
+},
+{
+"rruga": "Energy/Yearly indicator/tab11.px",
+"id": "tab11.px",
+"titulli": "Pasqyra e konsumit e të gjitha burimeve të energjisë në sektorin e industris, 2012 - 2024",
+"perditesuar": "2025-07-29T14:06:16"
+},
+{
+"rruga": "Energy/Yearly indicator/tab12.px",
+"id": "tab12.px",
+"titulli": "Pasqyra e konsumit e të gjitha llojeve të thëngjillit në sektorin e industrisë (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T14:11:54"
+},
+{
+"rruga": "Energy/Yearly indicator/tab13.px",
+"id": "tab13.px",
+"titulli": "Pasqyra e konsumit të produkteve të naftës në sektorin e industrisë (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T14:17:14"
+},
+{
+"rruga": "Energy/Yearly indicator/tab14.px",
+"id": "tab14.px",
+"titulli": "Pasqyra e konsumit të energjisë elektrike në sektorin e industrisë (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T14:19:11"
+},
+{
+"rruga": "Energy/Yearly indicator/tab15.px",
+"id": "tab15.px",
+"titulli": "Pasqyra e konsumit total të energjisë të nën sektorëve të industrisë (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T14:22:19"
+},
+{
+"rruga": "Energy/Yearly indicator/tab16.px",
+"id": "tab16.px",
+"titulli": "Pasqyra e konsumit e të gjitha burimeve të energjisë në sektorin e amvisërisë (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T14:33:34"
+},
+{
+"rruga": "Energy/Yearly indicator/tab17.px",
+"id": "tab17.px",
+"titulli": "Pasqyra e konsumit e të gjitha llojeve të thëngjillit në sektorin e amvisërisë shprehur në ktoe, 2012 - 2024",
+"perditesuar": "2025-07-29T14:36:37"
+},
+{
+"rruga": "Energy/Yearly indicator/tab18.px",
+"id": "tab18.px",
+"titulli": "Pasqyra e konsumit e të gjitha produkteve të naftës në sektorin e amvisërisë (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T14:59:25"
+},
+{
+"rruga": "Energy/Yearly indicator/tab19.px",
+"id": "tab19.px",
+"titulli": "Pasqyra e konsumit e të gjitha produkteve energjetike në sektorin e shërbimeve (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T15:03:33"
+},
+{
+"rruga": "Energy/Yearly indicator/tab20.px",
+"id": "tab20.px",
+"titulli": "Pasqyra e konsumit e të gjitha llojeve të thëngjillit në sektorin e shërbimeve (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T15:09:28"
+},
+{
+"rruga": "Energy/Yearly indicator/tab21.px",
+"id": "tab21.px",
+"titulli": "Pasqyra e konsumit e të gjitha produkteve të naftës në sektorin e shërbimeve (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-29T15:27:11"
+},
+{
+"rruga": "Energy/Yearly indicator/tab22.px",
+"id": "tab22.px",
+"titulli": "Pasqyra e konsumit e të gjitha burimeve të energjisë në sektorin e transportit (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-30T11:33:14"
+},
+{
+"rruga": "Energy/Yearly indicator/tab23.px",
+"id": "tab23.px",
+"titulli": "Pasqyra e konsumit e të gjitha burimeve të energjisë në sektorin e bujqësisë (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-30T13:30:30"
+},
+{
+"rruga": "Energy/Yearly indicator/tab24.px",
+"id": "tab24.px",
+"titulli": "Pasqyra e konsumit e të gjitha llojeve të thëngjillit në sektorin e bujqësisë (ktoe), 2013 - 2024",
+"perditesuar": "2025-07-30T13:36:27"
+},
+{
+"rruga": "Energy/Yearly indicator/tab25.px",
+"id": "tab25.px",
+"titulli": "Pasqyra e konsumit e të gjitha produkteve të naftës në sektorin e bujqësisë (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-30T13:40:13"
+},
+{
+"rruga": "Energy/Yearly indicator/tab26.px",
+"id": "tab26.px",
+"titulli": "Mbulimi i kërkesës me linjit sipas sektorëve ekonomikë (ktoe), 2012 - 2024",
+"perditesuar": "2025-07-30T13:52:50"
+},
+{
+"rruga": "Energy/Yearly indicator/tab27.px",
+"id": "tab27.px",
+"titulli": "Prodhimi i energjisë elektrike, 2016-2017",
+"perditesuar": "2025-07-30T13:53:44"
+},
+{
+"rruga": "Energy/Yearly indicator/tab28.px",
+"id": "tab28.px",
+"titulli": "Mbulimi i kërkesës me produkte të naftës sipas sektorëve ekonomik (ktoe), 2013 - 2024",
+"perditesuar": "2025-07-31T10:59:43"
+},
+{
+"rruga": "Energy/Yearly indicator/energy02.px",
+"id": "energy02.px",
+"titulli": "Treguesit e efiçencës së energjisë në sektorin e amvisërive",
+"perditesuar": "2025-07-29T10:07:42"
+},
+{
+"rruga": "Energy/Yearly indicator/energy03.px",
+"id": "energy03.px",
+"titulli": "Treguesit e efiçencës së energjisë në sektorin e industrisë",
+"perditesuar": "2025-07-29T10:07:47"
+},
+{
+"rruga": "Tourism and hotels/Treguesit 3 Mujorë/ht01a.px",
+"id": "ht01a.px",
+"titulli": "Shfrytëzimi i Kapaciteteve Hoteliere në Kosovë, 2009-1 - 2021-1",
+"perditesuar": "2021-06-07T13:04:16"
+},
+{
+"rruga": "Tourism and hotels/Treguesit 3 Mujorë/ht02.px",
+"id": "ht02.px",
+"titulli": "Numri i vizitorëve (vendor dhe të jashtëm ) dhe netë qëndrimit të tyre, 2008-1 - 2020-3",
+"perditesuar": "2020-12-09T11:45:24"
+},
+{
+"rruga": "Tourism and hotels/Treguesit 3 Mujorë/ht5a.px",
+"id": "ht5a.px",
+"titulli": "Numri i vizitorëve të jashtëm dhe netëqëndrimet sipas shteteve prej nga vijnë, TM 2015 - TM4 2020",
+"perditesuar": "2021-03-08T11:17:47"
+},
+{
+"rruga": "Tourism and hotels/Treguesit 3 Mujorë/tab07.px",
+"id": "tab07.px",
+"titulli": "Numri i vizitorëve vendor dhe të jashtëm, dhe netëqëndrimet e tyre nëpër regjionet e Kosovës, sipas tremujorëve 2016 -1 -  TM2 2020-4",
+"perditesuar": "2021-03-08T11:35:48"
+},
+{
+"rruga": "Tourism and hotels/Treguesit 3 Mujorë/tab41.px",
+"id": "tab41.px",
+"titulli": "Kapacitetet hoteliere në Kosovë sipas llojit të akomodimit, 2018-2020 TM4",
+"perditesuar": "2021-03-08T11:39:17"
+},
+{
+"rruga": "Tourism and hotels/Treguesit 3 Mujorë/tab05.px",
+"id": "tab05.px",
+"titulli": "Numri i vizitorëve vendor dhe net-qëndrimet e tyre sipas  regjioneve, 2016-1  - 2020-4",
+"perditesuar": "2021-03-08T11:26:14"
+},
+{
+"rruga": "Tourism and hotels/Treguesit 3 Mujorë/tab06.px",
+"id": "tab06.px",
+"titulli": "Numri i vizitorëve të jashtëm  dhe netëqëndrimet e tyre nëpër regjionet e Kosovës, sipas tremujorëve, nga 2008-1 - 2020-4",
+"perditesuar": "2021-03-08T11:28:08"
+},
+{
+"rruga": "Tourism and hotels/Treguesit mujorë/tab01.px",
+"id": "tab01.px",
+"titulli": "Numri i vizitorëve dhe netqëndrimet e tyre sipas regjioneve, 2021M01 - 2026M09",
+"perditesuar": "2026-11-13T10:49:44"
+},
+{
+"rruga": "Tourism and hotels/Treguesit mujorë/tab02.px",
+"id": "tab02.px",
+"titulli": "Numri i vizitorëve dhe net qëndrimet e tyre, sipas shteteve prej nga vijnë, 2021M01 - 2026M09",
+"perditesuar": "2026-11-13T10:49:58"
+},
+{
+"rruga": "Tourism and hotels/Treguesit mujorë/tab03.px",
+"id": "tab03.px",
+"titulli": "Shfrytëzimi i kapaciteteve hoteliere sipas shtretërve, 2021M01  - 2026M09",
+"perditesuar": "2026-11-13T10:50:08"
+},
+{
+"rruga": "Tourism and hotels/Treguesit vjetor/ht03.px",
+"id": "ht03.px",
+"titulli": "Numri i vizitorëve dhe netëqëndrimet (vendor dhe të jashtëm) sipas regjioneve, 2008 - 2025",
+"perditesuar": "2026-06-12T13:05:11"
+},
+{
+"rruga": "Tourism and hotels/Treguesit vjetor/ht04.px",
+"id": "ht04.px",
+"titulli": "Numri i vizitorëve të jashtëm dhe netëqëndrimet e tyre nëpër regjionet e Kosovës, 2008 - 2025",
+"perditesuar": "2026-06-12T13:05:24"
+},
+{
+"rruga": "Tourism and hotels/Treguesit vjetor/ht05.px",
+"id": "ht05.px",
+"titulli": "Numri i vizitorëve të jashtëm dhe netë qëndrimet sipas shteteve prej nga vijnë, 2008 - 2025",
+"perditesuar": "2026-06-12T13:05:36"
+},
+{
+"rruga": "Tourism and hotels/Treguesit vjetor/ht01.px",
+"id": "ht01.px",
+"titulli": "Kapacitetet hoteliere në Kosovë sipas llojit të akomodimit për vitin, 2018 - 2025",
+"perditesuar": "2026-06-12T13:04:36"
+},
+{
+"rruga": "Tourism and hotels/Treguesit vjetor/ht02.px",
+"id": "ht02.px",
+"titulli": "Kapacitetet hoteliere në Kosovë sipas regjionit për vitet, 2017 - 2025",
+"perditesuar": "2026-06-12T13:04:53"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv01.px",
+"id": "inv01.px",
+"titulli": "Vlera e investimeve sipas kategorive,2018 - 2025",
+"perditesuar": "2026-11-03T11:58:07"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv02.px",
+"id": "inv02.px",
+"titulli": "Investimet sipas aktivitetit ekonomik, 2018 - 2025",
+"perditesuar": "2026-11-03T11:58:13"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv03.px",
+"id": "inv03.px",
+"titulli": "Investimet sipas madhësisë së ndërmarrjeve, 2018 - 2025",
+"perditesuar": "2026-11-03T11:58:26"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv04.px",
+"id": "inv04.px",
+"titulli": "Investimet sipas regjioneve dhe sektorit të investimit, 2018 - 2025",
+"perditesuar": "2026-11-03T11:58:38"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv05.px",
+"id": "inv05.px",
+"titulli": "Blerjet e reja, të importuara dhe investime në vijim, 2018 - 2025",
+"perditesuar": "2026-11-03T11:58:49"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv07.px",
+"id": "inv07.px",
+"titulli": "Investimet në ndërtim (ndërtesa dhe struktura tjera ndërtimore), 2018 - 2025",
+"perditesuar": "2026-11-03T11:59:16"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv08.px",
+"id": "inv08.px",
+"titulli": "Investimet në makineri dhe pajisje, 2018 - 2025",
+"perditesuar": "2026-11-03T13:46:06"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv09.px",
+"id": "inv09.px",
+"titulli": "Investimet në produktet e pronësisë intelektuale dhe aseteve me vlerë, 2018 - 2025",
+"perditesuar": "2026-11-03T11:59:39"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv10.px",
+"id": "inv10.px",
+"titulli": "Investimet biologjike te kultivuara dhe serrat ne bujqësi, 2018 - 2025",
+"perditesuar": "2026-11-03T11:59:59"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv11.px",
+"id": "inv11.px",
+"titulli": "Investimet e tjera ne asete te prekshme (jo të prodhuara), 2018 - 2025",
+"perditesuar": "2026-11-03T12:00:23"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv12.px",
+"id": "inv12.px",
+"titulli": "Investimet Publike, 2019 - 2025",
+"perditesuar": "2026-11-03T12:00:48"
+},
+{
+"rruga": "Investimet në Ndërrmarrje/inv06.px",
+"id": "inv06.px",
+"titulli": "Burimet e investimeve, 2018 - 2025",
+"perditesuar": "2026-11-03T11:59:02"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cultura01.px",
+"id": "cultura01.px",
+"titulli": "Numri i shfaqjeve, premierave dhe spektatorëve në Teatro 2022 - 2024",
+"perditesuar": "2025-10-21T13:12:01"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cultura02.px",
+"id": "cultura02.px",
+"titulli": "Numri i ekspozitave dhe vizitorë në Galeritë e Artit 2021 - 2024",
+"perditesuar": "2025-10-21T13:12:47"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cultura03.px",
+"id": "cultura03.px",
+"titulli": "Numri i filmave dhe shikuesve në Kinema 2021 - 2024",
+"perditesuar": "2025-10-21T13:14:33"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cultura05.px",
+"id": "cultura05.px",
+"titulli": "Punësimi në kulturë 2021 - 2024",
+"perditesuar": "2025-10-21T13:37:29"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cultura06.px",
+"id": "cultura06.px",
+"titulli": "Përdorimi i internetit për qëllime kulturore sipas gjinisë, (në %)  2022 - 2024",
+"perditesuar": "2025-10-21T13:41:40"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cultura07.px",
+"id": "cultura07.px",
+"titulli": "Përdorimi i internetit në kulturë për blerjet online sipas gjinisë 2023 - 2024",
+"perditesuar": "2025-10-21T13:43:28"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cultura08.px",
+"id": "cultura08.px",
+"titulli": "Përdorimi i internetit në kulturë për blerjet online sipas grupmoshës 2023",
+"perditesuar": "2025-10-21T13:44:00"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult01.px",
+"id": "cult01.px",
+"titulli": "Aktivitetet e shtëpive të kulturës-teatrore, 2014-2021",
+"perditesuar": "2022-10-17T14:29:30"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult01a.px",
+"id": "cult01a.px",
+"titulli": "Aktivitetet e shtëpive të kulturës-kimenave, 2014-2021",
+"perditesuar": "2022-10-17T14:30:21"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult01b.px",
+"id": "cult01b.px",
+"titulli": "Aktivitetet e shtëpive të kulturës-galerive, 2014-2021",
+"perditesuar": "2022-10-17T14:31:08"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult02.px",
+"id": "cult02.px",
+"titulli": "Aktivitetet e Teatrit Kombëtarë-Profesional, 2014-2021",
+"perditesuar": "2022-10-17T14:32:00"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult03.px",
+"id": "cult03.px",
+"titulli": "Aktivitetet e Teatrit të fëmijëve-Dodona, 2014-2021",
+"perditesuar": "2022-10-17T14:33:00"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult04.px",
+"id": "cult04.px",
+"titulli": "Aktivitetet e Teatrit ODA, 2014-2021",
+"perditesuar": "2022-10-17T14:33:52"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult05.px",
+"id": "cult05.px",
+"titulli": "Aktivitetet e Galerive të artit, 2014-2021",
+"perditesuar": "2022-10-17T14:35:09"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult06.px",
+"id": "cult06.px",
+"titulli": "Aktivitetet e Kinemave, 2014-2017",
+"perditesuar": "2020-10-19T11:54:03"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult06_.px",
+"id": "cult06_.px",
+"titulli": "Aktivitetet e Kinemave, 2018-2021",
+"perditesuar": "2022-10-17T14:39:40"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult07.px",
+"id": "cult07.px",
+"titulli": "Aktivitetet e Muzeve dhe Shtëpive muze, 2014-2021",
+"perditesuar": "2022-10-17T14:40:42"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult08.px",
+"id": "cult08.px",
+"titulli": "Aktivitetet e Bibliotekave, 2014-2021",
+"perditesuar": "2022-10-17T14:41:37"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult09.px",
+"id": "cult09.px",
+"titulli": "Aktivitetet e Filarmonisë-Operës së Kosovës, 2014-2021",
+"perditesuar": "2022-10-17T14:42:22"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult09a.px",
+"id": "cult09a.px",
+"titulli": "Të punësuarit në Filarmonin-Operës së Kosovës, 2014-2021",
+"perditesuar": "2022-10-17T14:43:11"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult10.px",
+"id": "cult10.px",
+"titulli": "Aktivitetet e Baletit të Kosovës, 2014-2021",
+"perditesuar": "2022-10-17T14:44:59"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult11.px",
+"id": "cult11.px",
+"titulli": "Aktivitetet e Ansamblit Shota dhe Qendrës Kulturore të Fëmijëve, 2014-2021",
+"perditesuar": "2022-10-17T14:45:49"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cult11a.px",
+"id": "cult11a.px",
+"titulli": "Të punësuarit në Ansamblin Shota dhe Qendrën Kulturore të Fëmijëve, 2014-2021",
+"perditesuar": "2022-10-17T14:46:34"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cultura04.px",
+"id": "cultura04.px",
+"titulli": "Përqindja e studentëve të regjistruar në fushat e kulturës ndaj totalit të studentëve të regjistruar (Bachelor dhe Master) sipas gjinisë 2021/2022 - 2024/2025",
+"perditesuar": "2025-10-21T13:36:34"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cultura09.px",
+"id": "cultura09.px",
+"titulli": "Indeksi i harmonizuar i çmimeve të konsumit për disa mallra dhe shërbime kulturore 2021 - 2023",
+"perditesuar": "2025-10-21T14:21:49"
+},
+{
+"rruga": "Culture and sport/Culture Statistics/cultura10.px",
+"id": "cultura10.px",
+"titulli": "Shpenzimet publike për rekreacion, kulturë dhe relegjion 2021 - 2024",
+"perditesuar": "2025-10-21T14:23:14"
+},
+{
+"rruga": "Culture and sport/Sport Statistics/sport02.px",
+"id": "sport02.px",
+"titulli": "Numri i trajnerëve të licencuar dhe të palicencuar, 2008-2013",
+"perditesuar": "2017-10-30T13:18:13"
+},
+{
+"rruga": "Culture and sport/Sport Statistics/sport01.px",
+"id": "sport01.px",
+"titulli": "Numri i klubeve,stërvitjeve,ndeshjeve,shikuesve dhe sportistëve, 2008-2013",
+"perditesuar": "2017-10-30T13:50:19"
+},
+{
+"rruga": "Environment/Llogaritë e Emetimeve në Ajër/tab01_new.px",
+"id": "tab01_new.px",
+"titulli": "Llogaritë e Emetimeve nga Ndotësit e Ajrit (bazuar në konsumin e energjisë), (njësia Gg), 2022",
+"perditesuar": "2026-09-28T12:12:33"
+},
+{
+"rruga": "Environment/Llogaritë e Emetimeve në Ajër/tab01.px",
+"id": "tab01.px",
+"titulli": "Llogaritë e Emetimeve nga Ndotësit e Ajrit (sipas llojeve të industrisë), CO2,CH4, N2O dhe CO2 bio, (Gg), 2021",
+"perditesuar": "2026-09-28T12:12:09"
+},
+{
+"rruga": "Environment/Llogaritë e Emetimeve në Ajër/tab02.px",
+"id": "tab02.px",
+"titulli": "Emetimet e gazrave serrë, CO2, CH4 dhe N2O, Gg, 2020",
+"perditesuar": "2026-09-28T12:12:49"
+},
+{
+"rruga": "Environment/Llogaritë e Emetimeve në Ajër/tab03.px",
+"id": "tab03.px",
+"titulli": "Emetimet e gazrave serrë (sipas sektorëve NACE), CO2, CH4, N20, dhe CO2 bio, Gg, 2020",
+"perditesuar": "2026-09-28T12:12:55"
+},
+{
+"rruga": "Environment/Taksat Mjedisore/tab01.px",
+"id": "tab01.px",
+"titulli": "Të ardhurat nga taksat mjedisore sipas llojeve, (në milion Euro), 2019 - 2025",
+"perditesuar": "2026-07-06T10:37:34"
+},
+{
+"rruga": "Environment/Taksat Mjedisore/tab02.px",
+"id": "tab02.px",
+"titulli": "Struktura e të ardhurave nga taksat mjedisore sipas llojeve (në %) , 2019 - 2025",
+"perditesuar": "2026-07-06T10:37:56"
+},
+{
+"rruga": "Environment/Taksat Mjedisore/tab03.px",
+"id": "tab03.px",
+"titulli": "Pjesëmarrja e taksave mjedisore në BPV (në %), 2019 - 2025",
+"perditesuar": "2026-07-06T10:38:08"
+},
+{
+"rruga": "Environment/Uji/tab03.px",
+"id": "tab03.px",
+"titulli": "Zonat klimatike dhe reshjet mesatare vjetore, 2015 - 2024",
+"perditesuar": "2026-03-16T11:19:41"
+},
+{
+"rruga": "Environment/Uji/tab05.px",
+"id": "tab05.px",
+"titulli": "Pellgjet ujëmbledhës, sipërfaqja, sasia rrjedhëse e ujit dhe vend derdhja",
+"perditesuar": "2026-03-16T11:19:37"
+},
+{
+"rruga": "Environment/Uji/tab06.px",
+"id": "tab06.px",
+"titulli": "Të dhënat themelore për lumenjtë dhe pellgjet ujore",
+"perditesuar": "2026-03-16T11:19:54"
+},
+{
+"rruga": "Environment/Uji/tab10.px",
+"id": "tab10.px",
+"titulli": "Akumulimi kryesor, sipërfaqja, rrjedhja ujore dhe vëllimi i akumulimit",
+"perditesuar": "2026-03-16T11:20:09"
+},
+{
+"rruga": "Environment/Uji/tab12.px",
+"id": "tab12.px",
+"titulli": "Burimet e furnizimit me ujë dhe sasia e shfrytëzuar ditore dhe vjetore në mł",
+"perditesuar": "2026-03-16T11:20:14"
+},
+{
+"rruga": "Environment/Uji/tab13.px",
+"id": "tab13.px",
+"titulli": "Furnizimi publik i ekonomive familjare më ujë të pijëshëm në Kosovë (njësia=106mł), 2011-2023",
+"perditesuar": "2026-03-16T11:20:28"
+},
+{
+"rruga": "Environment/Uji/tab14.px",
+"id": "tab14.px",
+"titulli": "Uji i humbur mil mł/ vit, 2010-2023",
+"perditesuar": "2026-03-16T11:20:33"
+},
+{
+"rruga": "Environment/Uji/tab15.px",
+"id": "tab15.px",
+"titulli": "Prodhimi i ujit për sektorin publik, 2010-2023",
+"perditesuar": "2026-03-16T11:20:38"
+},
+{
+"rruga": "Environment/Uji/tab16a.px",
+"id": "tab16a.px",
+"titulli": "Sasia ujit të shpenzuar nga ekonomit familjare të kyçur nëkompanitë ujore, 2011-2022",
+"perditesuar": "2026-03-16T11:20:43"
+},
+{
+"rruga": "Environment/Uji/tab16b.px",
+"id": "tab16b.px",
+"titulli": "Përqindja e ekonomive familjare të kyçura në kompanitë ujore, 2011-2022",
+"perditesuar": "2026-03-16T11:20:48"
+},
+{
+"rruga": "Environment/Uji/tab17.px",
+"id": "tab17.px",
+"titulli": "Sasia ujit të shpenzuar për banor mł në ekonomit familjare tëkyqyra në Kompanitë Ujore sipas viteve 2011-2022",
+"perditesuar": "2026-03-16T11:20:58"
+},
+{
+"rruga": "Environment/Uji/tab20.px",
+"id": "tab20.px",
+"titulli": "Sasia ujërave të zeza të shpenzuara nga ekonomitë familjare Mil.mł/ vit, 2013-2023",
+"perditesuar": "2026-03-16T11:21:03"
+},
+{
+"rruga": "Environment/Uji/tab21.px",
+"id": "tab21.px",
+"titulli": "Sasia ujërave të zeza të shpenzuara në ekonomit familjare në përqindje, 2013-2022",
+"perditesuar": "2026-03-16T11:21:08"
+},
+{
+"rruga": "Environment/Uji/tab22.px",
+"id": "tab22.px",
+"titulli": "Sasia ujënave të zeza të shpenzuar sipas viteve për kokë banori, 2013-2022",
+"perditesuar": "2026-03-16T11:21:15"
+},
+{
+"rruga": "Environment/Uji/tab23.px",
+"id": "tab23.px",
+"titulli": "Ujitjet në bujqësi në Kosovë (njësia=106mł), 2010-2023",
+"perditesuar": "2026-03-16T11:21:20"
+},
+{
+"rruga": "Environment/Uji/tab24.px",
+"id": "tab24.px",
+"titulli": "Konsumi i ujit nga bagëtia, 2014-2020",
+"perditesuar": "2026-03-16T11:21:29"
+},
+{
+"rruga": "Environment/Uji/tab28.px",
+"id": "tab28.px",
+"titulli": "Sasia e ujit të shfrytëzuar nga T.C. Kosova B dhe T.C. Kosova A (njësia=106mł), 2010-2023",
+"perditesuar": "2026-03-16T11:21:42"
+},
+{
+"rruga": "Environment/Uji/tab29.px",
+"id": "tab29.px",
+"titulli": "Uji i shfrytëzuar nga Termocentralet Kosova A dhe B (njësia=106mł), 2010-2017",
+"perditesuar": "2026-03-16T11:21:47"
+},
+{
+"rruga": "Environment/Uji/tab27.px",
+"id": "tab27.px",
+"titulli": "Furnizimi më ujë nga Ibër Lepenci (njësia=106mł), 2010-2023",
+"perditesuar": "2026-03-16T11:21:34"
+},
+{
+"rruga": "Population/Births and deaths/birthsDeathsHistory.px",
+"id": "birthsDeathsHistory.px",
+"titulli": "Lindjet dhe vdekjet, Kosovë, 1948 - 2023",
+"perditesuar": "2025-05-14T14:01:38"
+},
+{
+"rruga": "Population/Migration/test01.px",
+"id": "test01.px",
+"titulli": "Numri i emigrantëve, 2001-2011",
+"perditesuar": "2023-06-13T14:37:15"
+},
+{
+"rruga": "Population/Migration/tab01.px",
+"id": "tab01.px",
+"titulli": "Emigrimi sipas shteteve (10 vendet kryesore të destinacionit) %, 2014",
+"perditesuar": "2023-05-31T11:08:57"
+},
+{
+"rruga": "Population/Migration/tab03.px",
+"id": "tab03.px",
+"titulli": "Popullsia jashtë Kosovës dhe ajo rezidente sipas grup-moshës në %, 2014",
+"perditesuar": "2023-06-13T14:24:49"
+},
+{
+"rruga": "Population/Migration/tab04.px",
+"id": "tab04.px",
+"titulli": "Arsyet kryesore të emigrimit ndërkombëtar të shprehur në %, 2014",
+"perditesuar": "2023-06-13T14:25:15"
+},
+{
+"rruga": "Population/Migration/tab05.px",
+"id": "tab05.px",
+"titulli": "Bilanci i migrimit ndërkombëtar sipas komunave, 2014",
+"perditesuar": "2023-06-13T14:25:41"
+},
+{
+"rruga": "Population/Migration/tab06.px",
+"id": "tab06.px",
+"titulli": "Persona të cilët jetojnë jashtë Kosove sipas komunës së lindjes, gjinisë dhe vendit të qëndrimit aktual, 2014",
+"perditesuar": "2023-06-12T09:47:26"
+},
+{
+"rruga": "Population/Migration/tab07.px",
+"id": "tab07.px",
+"titulli": "Personat të cilët jetojnë jashtë Kosovës sipas komunës së lindjes dhe grup moshës, 2014",
+"perditesuar": "2023-06-12T11:25:07"
+},
+{
+"rruga": "Population/Migration/tab08.px",
+"id": "tab08.px",
+"titulli": "Persona të cilët jetojnë jashtë Kosovës sipas komunës së lindjes, gjinisë dhe viteve të largimit, 2014",
+"perditesuar": "2023-06-12T11:26:52"
+},
+{
+"rruga": "Population/Migration/tab09.px",
+"id": "tab09.px",
+"titulli": "Persona të cilët jetojnë jashtë Kosovës sipas komunës dhe arsyeve të largimit, 2014",
+"perditesuar": "2023-06-12T10:45:27"
+},
+{
+"rruga": "Population/Migration/tab10.px",
+"id": "tab10.px",
+"titulli": "Imigrimi ndërkombëtar sipas viteve, 1989-2011",
+"perditesuar": "2023-06-12T10:01:56"
+},
+{
+"rruga": "Population/Migration/tab11.px",
+"id": "tab11.px",
+"titulli": "Imigrimi ndërkombëtar në Kosovë sipas shteteve kryesore, 2014",
+"perditesuar": "2023-06-12T09:58:47"
+},
+{
+"rruga": "Population/Migration/tab12.px",
+"id": "tab12.px",
+"titulli": "Arsyet e kryesoret të migrimit kombëtar (brenda dhe jashtë komunës së tyre) të shprehur %, 2014",
+"perditesuar": "2023-06-13T14:28:05"
+},
+{
+"rruga": "Population/Migration/tab13.px",
+"id": "tab13.px",
+"titulli": "Bilanci i migrimit kombëtar sipas komunave, 2014",
+"perditesuar": "2023-06-13T14:28:25"
+},
+{
+"rruga": "Population/Migration/tab14.px",
+"id": "tab14.px",
+"titulli": "Bilanci i migrimeve sipas komunave në %, 2014",
+"perditesuar": "2023-06-13T14:29:43"
+},
+{
+"rruga": "Population/Migration/tab15.px",
+"id": "tab15.px",
+"titulli": "Emigrimi kombëtar, pjesëmarrja në raport me popullsinë rezidente në komune dhe në nivel kombëtar, 2014",
+"perditesuar": "2023-06-13T14:33:18"
+},
+{
+"rruga": "Population/Migration/tab16.px",
+"id": "tab16.px",
+"titulli": "Emigrimi / imigrimi kombëtar nga/në komunat e Kosovës, 2014",
+"perditesuar": "2023-06-13T14:34:00"
+},
+{
+"rruga": "Population/Migration/tab17.px",
+"id": "tab17.px",
+"titulli": "Emigrimi/imigrimi kombëtar nga/në komunat e Kosovës shprehur në %, 2014",
+"perditesuar": "2023-06-13T14:35:27"
+},
+{
+"rruga": "Population/Migration/tab18.px",
+"id": "tab18.px",
+"titulli": "Arsyet kryesore të imigrimit kombëtar, 2014",
+"perditesuar": "2023-06-12T15:40:34"
+},
+{
+"rruga": "Population/Migration/tab19.px",
+"id": "tab19.px",
+"titulli": "Imigrimi kombëtar sipas viteve dhe gjinisë",
+"perditesuar": "2023-06-12T15:42:10"
+},
+{
+"rruga": "Population/Migration/tab20.px",
+"id": "tab20.px",
+"titulli": "Popullsia e Kosovës, emigruar dhe ajo me prejardhje kosovare (prill 2011)",
+"perditesuar": "2023-06-13T14:36:56"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab01.px",
+"id": "tab01.px",
+"titulli": "Vdekjet sipas gjinisë, 2017 - 2022",
+"perditesuar": "2026-01-19T10:36:18"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab018.px",
+"id": "tab018.px",
+"titulli": "Fatkeqësitë e ndodhura sipas kohes kur ka ndodhur ngjarja, 2018-2019",
+"perditesuar": "2021-03-15T10:06:35"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab02.px",
+"id": "tab02.px",
+"titulli": "Vdekjeve e koduara dhe të pakoduara, 2018 - 2022",
+"perditesuar": "2026-01-19T10:44:55"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab03.px",
+"id": "tab03.px",
+"titulli": "Vdekjet në Kosovë, sipas klasifikimit të grupeve të sëmundjeve dhe pjesëmarrjes për 100,000 banorë, 2018 - 2022",
+"perditesuar": "2026-01-19T14:28:33"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab04dhe05.px",
+"id": "tab04dhe05.px",
+"titulli": "Meshkujt dhe femrat të vdekur, sipas klasifikimit të grupeve të sëmundjeve dhe pjesëmarrja në 100.000 meshkuj dhe femra, viti 2018 - 2021",
+"perditesuar": "2024-01-12T09:52:00"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab06.px",
+"id": "tab06.px",
+"titulli": "Rangimi i 10 grupeve te shkaqjeve te vdekjes ne Kosove, 2018 - 2021",
+"perditesuar": "2023-12-22T09:24:31"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab07dhe08.px",
+"id": "tab07dhe08.px",
+"titulli": "Rangimi i 10 grupeve të shkaqeve të vdekjes për meshkuj dhe femra, 2018 - 2021",
+"perditesuar": "2023-12-22T13:02:51"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab09.px",
+"id": "tab09.px",
+"titulli": "Të vdekurit  sipas grup-moshave dhe grupeve të sëmundjeve, 2018 - 2021",
+"perditesuar": "2024-01-10T09:26:38"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab10.px",
+"id": "tab10.px",
+"titulli": "Pjesëmarrja e grupeve të sëmundjeve sipas grup-moshave dhe raporti i grup-moshave për sëmundje, 2018 - 2021",
+"perditesuar": "2024-01-10T09:40:57"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab13.px",
+"id": "tab13.px",
+"titulli": "Foshnjet e vdekura në Kosovë sipas grup-sëmundjeve, 2018 - 2021",
+"perditesuar": "2024-01-10T11:10:14"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab14.px",
+"id": "tab14.px",
+"titulli": "Foshnjet e vdekura, sipas grupeve më të shpeshta të sëmundjeve në Kosovë, 2018 - 2021",
+"perditesuar": "2024-01-10T11:04:37"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab15.px",
+"id": "tab15.px",
+"titulli": "Foshnjet e vdekura sipas moshës, 2018-2019",
+"perditesuar": "2021-03-15T10:04:31"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab16.px",
+"id": "tab16.px",
+"titulli": "Vdekjet e dhunshme, 2018-2019",
+"perditesuar": "2021-03-15T10:05:20"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab017.px",
+"id": "tab017.px",
+"titulli": "Fatkeqësitë sipas vendit të ngjarjes, 2018-2019",
+"perditesuar": "2021-03-15T10:05:58"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab019.px",
+"id": "tab019.px",
+"titulli": "Rangimi i 10 grupeve të shkaqeve të vdekjes sipas vendqëndrimit (komunës) në Kosovë,  2018 - 2021",
+"perditesuar": "2023-12-26T09:43:14"
+},
+{
+"rruga": "Population/Shkaqet e Vdekjeve/tab020.px",
+"id": "tab020.px",
+"titulli": "Të vdekurit në Kosovë sipas klasifikimit të grupeve të sëmundjeve, 2014-2019",
+"perditesuar": "2023-12-26T10:14:17"
+},
+{
+"rruga": "PRODCOM/Newprodcom1.px",
+"id": "Newprodcom1.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 4 shifror (Ton), 2023",
+"perditesuar": "2025-11-11T15:08:41"
+},
+{
+"rruga": "PRODCOM/Newprodcom2.px",
+"id": "Newprodcom2.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 4 shifror (Copë), 2023",
+"perditesuar": "2025-06-16T11:42:17"
+},
+{
+"rruga": "PRODCOM/Newprodcom3.px",
+"id": "Newprodcom3.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 4 shifror (Kg), 2023",
+"perditesuar": "2025-06-16T11:42:33"
+},
+{
+"rruga": "PRODCOM/Newprodcom4.px",
+"id": "Newprodcom4.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 4 shifror (Litër), 2023",
+"perditesuar": "2025-06-16T11:42:48"
+},
+{
+"rruga": "PRODCOM/Newprodcom5.px",
+"id": "Newprodcom5.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 4 shifror (m), 2023",
+"perditesuar": "2025-06-16T11:53:13"
+},
+{
+"rruga": "PRODCOM/Newprodcom6.px",
+"id": "Newprodcom6.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 4 shifror (m³), 2023",
+"perditesuar": "2025-06-16T11:44:32"
+},
+{
+"rruga": "PRODCOM/Newprodcom7.px",
+"id": "Newprodcom7.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 4 shifror (m²), 2023",
+"perditesuar": "2025-06-16T11:45:11"
+},
+{
+"rruga": "PRODCOM/Newprodcom8.px",
+"id": "Newprodcom8.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 4 shifror (g), 2023",
+"perditesuar": "2025-06-16T11:46:34"
+},
+{
+"rruga": "PRODCOM/prodcom6.px",
+"id": "prodcom6.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 6 shifror (m3), 2022",
+"perditesuar": "2025-06-16T09:36:58"
+},
+{
+"rruga": "PRODCOM/prodcom5.px",
+"id": "prodcom5.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 6 shifror ( Pa njësi matëse), 2022",
+"perditesuar": "2025-06-16T09:36:10"
+},
+{
+"rruga": "PRODCOM/prodcom7.px",
+"id": "prodcom7.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 6 shifror (m2), 2022",
+"perditesuar": "2025-06-16T09:37:38"
+},
+{
+"rruga": "PRODCOM/prodcom9.px",
+"id": "prodcom9.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 6 shifror (orë), 2022",
+"perditesuar": "2025-06-16T09:40:51"
+},
+{
+"rruga": "PRODCOM/prodcom8.px",
+"id": "prodcom8.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 6 shifror (Pako), 2022",
+"perditesuar": "2025-06-16T09:39:40"
+},
+{
+"rruga": "PRODCOM/prodcom10.px",
+"id": "prodcom10.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 6 shifror (Mwh), 2022",
+"perditesuar": "2025-06-16T09:41:33"
+},
+{
+"rruga": "PRODCOM/prodcom1.px",
+"id": "prodcom1.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 6 shifror (Ton), 2022",
+"perditesuar": "2025-06-16T09:33:29"
+},
+{
+"rruga": "PRODCOM/prodcom2.px",
+"id": "prodcom2.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 6 shifror (Copë), 2022",
+"perditesuar": "2025-06-16T09:33:41"
+},
+{
+"rruga": "PRODCOM/prodcom4.px",
+"id": "prodcom4.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 6 shifror (Liter), 2022",
+"perditesuar": "2025-06-16T09:35:09"
+},
+{
+"rruga": "PRODCOM/prodcom3.px",
+"id": "prodcom3.px",
+"titulli": "Prodhimi dhe shitja e produkteve kryesore industriale, në nivelin 6 shifror (Kg), 2022",
+"perditesuar": "2025-06-16T09:34:23"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/enterprises01.px",
+"id": "enterprises01.px",
+"titulli": "Numri i ndërmarrjeve të reja dhe të riregjistruara, sipas seksioneve të aktiviteteve ekonomike, 2012 - 1 - 2023 - 4",
+"perditesuar": "2024-01-30T09:57:30"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/enterprises02.px",
+"id": "enterprises02.px",
+"titulli": "Numri i ndërmarrjeve të regjistruara dhe atyre të shuara, 2006 - 1 - 2023 - 4",
+"perditesuar": "2024-01-30T09:59:45"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/enterprises03.px",
+"id": "enterprises03.px",
+"titulli": "Numri i ndërmarrjeve të reja sipas komunave dhe seksioneve të aktiviteteve ekonomike,  2019 - 1 - 2023 - 4",
+"perditesuar": "2024-01-30T10:03:57"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/tab03r.px",
+"id": "tab03r.px",
+"titulli": "Numri i NVM-ve, 2018 - 3 - 2023 - 4",
+"perditesuar": "2024-01-30T10:13:07"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/tab02r.px",
+"id": "tab02r.px",
+"titulli": "Numri i ndërmarrjeve të regjistruara sipas seksioneve të aktiviteteve ekonomike, tipit dhe kategorisë së numrit të punësuarve, 2018 - 3 - 2023 - 4",
+"perditesuar": "2024-01-30T10:10:23"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/tab04r.px",
+"id": "tab04r.px",
+"titulli": "Struktura e ndërmarrjeve sipas gjinisë së pronarëve, 2018 - 3 -  2023 - 4",
+"perditesuar": "2024-01-30T10:17:53"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/tab05r.px",
+"id": "tab05r.px",
+"titulli": "Numri i ndërmarrjeve të regjistruara sipas komunave dhe seksioneve të aktiviteteve ekonomike, 2018 - 3 -  2023 - 4",
+"perditesuar": "2024-01-30T10:28:19"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/tab06r.px",
+"id": "tab06r.px",
+"titulli": "Numri i ndërmarrjeve individuale dhe të regjistruara sipas komunave dhe seksioneve të aktiviteteve ekonomike, 2018 - 3 -  2023 - 4",
+"perditesuar": "2024-01-30T10:31:03"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/tab07r.px",
+"id": "tab07r.px",
+"titulli": "Numri i ndërmarrjeve jo-individuale të regjistruara sipas komunave dhe seksioneve të aktiviteteve ekonomike, 2018 - 3 -  2023 - 4",
+"perditesuar": "2024-01-30T10:33:56"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/tab08r.px",
+"id": "tab08r.px",
+"titulli": "Numri i ndërmarrjeve të regjistruara sipas seksioneve të aktiviteteve ekonomike dhe kategorisë së numrit të punësuarve, 2018 - 3 -  2023 - 4",
+"perditesuar": "2024-01-30T10:36:58"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/tab09r.px",
+"id": "tab09r.px",
+"titulli": "Numri i ndërmarrjeve të regjistruara sipas seksioneve të aktiviteteve ekonomike dhe formës legale të organizimit, 2018 - 3 -  2023 - 4",
+"perditesuar": "2024-01-30T10:39:05"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/tab10r.px",
+"id": "tab10r.px",
+"titulli": "Numri i ndërmarrjeve të regjistruara sipas prejardhjes së kapitalit, 2018 - 3 -  2023 - 4",
+"perditesuar": "2024-01-30T10:41:37"
+},
+{
+"rruga": "Statistical business register/Quarterly indicators/tab11r.px",
+"id": "tab11r.px",
+"titulli": "Numri i ndërmarrjeve të shuara sipas komunave dhe seksioneve të aktiviteteve ekonomike, 2018 - 3 -  2023 - 4",
+"perditesuar": "2024-01-30T10:43:35"
+},
+{
+"rruga": "Statistical business register/Monthly indicators/tab01m.px",
+"id": "tab01m.px",
+"titulli": "Numri i ndërmarrjeve të reja dhe të regjistruara sipas muajve, sipas seksioneve të aktiviteteve ekonomike, 2024M01 - 2026M09",
+"perditesuar": "2026-11-02T11:01:30"
+},
+{
+"rruga": "Statistical business register/Monthly indicators/tab02m.px",
+"id": "tab02m.px",
+"titulli": "Numri i ndërmarrjeve të regjistruara sipas seksioneve të aktiviteteve ekonomike, tipit dhe kategorisë së numrit të punësuarve, 2024M01 - 2026M09",
+"perditesuar": "2026-11-02T11:01:37"
+},
+{
+"rruga": "Statistical business register/Monthly indicators/tab03m.px",
+"id": "tab03m.px",
+"titulli": "Struktura e ndërmarrjeve sipas gjinisë së pronarëve, 2024M01 -  2026M09",
+"perditesuar": "2026-11-02T11:01:54"
+},
+{
+"rruga": "Statistical business register/Monthly indicators/tab04m.px",
+"id": "tab04m.px",
+"titulli": "Struktura e ndërmarrjeve sipas gjinisë së pronarëve përqindje (%), 2024M01 -  2026M09",
+"perditesuar": "2026-11-02T11:02:07"
+},
+{
+"rruga": "Statistical business register/Monthly indicators/tab05m.px",
+"id": "tab05m.px",
+"titulli": "Numri i ndërmarrjeve sipas madhësisë përqindje (%), 2024M01 - 2026M09",
+"perditesuar": "2026-11-02T11:02:29"
+},
+{
+"rruga": "Statistical business register/Monthly indicators/tab06m.px",
+"id": "tab06m.px",
+"titulli": "Numri i ndërmarrjeve të regjistruara sipas regjioneve dhe seksioneve të aktiviteteve ekonomike, 2024M01 - 2026M09",
+"perditesuar": "2026-11-02T11:02:44"
+},
+{
+"rruga": "Statistical business register/Monthly indicators/tab07m.px",
+"id": "tab07m.px",
+"titulli": "Numri i ndërmarrjeve të regjistruara sipas seksioneve të aktiviteteve ekonomike dhe formës legale të organizimit, 2024M01 - 2026M09",
+"perditesuar": "2026-11-02T11:04:15"
+},
+{
+"rruga": "Statistical business register/Monthly indicators/tab08m.px",
+"id": "tab08m.px",
+"titulli": "Numri i ndërmarrjeve të shuara sipas regjioneve dhe seksioneve të aktiviteteve ekonomike, 2024M01 - 2026M09",
+"perditesuar": "2026-11-02T11:04:55"
+},
+{
+"rruga": "Census population/Agriculture/agri01.px",
+"id": "agri01.px",
+"titulli": "Popullsia  sipas komunave, gjinisë, numrit të ndërtesave,numrit të banesave/shtëpive,numrit të ekonomive familjare  dhe ekonomi familjare që kanë tokë në pronësi apo në shfrytëzim  sipas komunave 2024",
+"perditesuar": "2026-10-30T11:01:48"
+},
+{
+"rruga": "Census population/Agriculture/agri02.px",
+"id": "agri02.px",
+"titulli": "Gjithsej siperfaqja e tokës  në disipozicion sipas komunave (në pronësi + e marrë me qira) 2024",
+"perditesuar": "2026-10-30T11:02:14"
+},
+{
+"rruga": "Census population/2_Education/censusEdu01.px",
+"id": "censusEdu01.px",
+"titulli": "Indikatorët kryesore te arsimit, për vitet 2011 dhe 2024",
+"perditesuar": "2025-01-30T15:20:56"
+},
+{
+"rruga": "Census population/2_Education/censusEdu02.px",
+"id": "censusEdu02.px",
+"titulli": "Popullsia 5 deri 29 vjeç që aktualisht vijon shkollimin sipas nivelit dhe gjinisë në nivel vendi dhe komune për vitin 2024",
+"perditesuar": "2025-03-12T11:59:30"
+},
+{
+"rruga": "Census population/2_Education/censusEdu03.px",
+"id": "censusEdu03.px",
+"titulli": "Popullsia e moshës 6 deri 29 vjeç sipas vijueshmërisë së shkollimit, gjinisë dhe viteve të vetme të moshës, 2011",
+"perditesuar": "2025-01-30T15:20:25"
+},
+{
+"rruga": "Census population/2_Education/censusEdu04.px",
+"id": "censusEdu04.px",
+"titulli": "Popullsia 6 deri 29 vjeç që aktualisht vijon shkollimin sipas nivelit dhe gjinisë në nivel vendi dhe komune për vitin 2011",
+"perditesuar": "2025-01-30T15:21:59"
+},
+{
+"rruga": "Census population/2_Education/censusEdu06.px",
+"id": "censusEdu06.px",
+"titulli": "Popullsia e moshës 10 vjeç e mbi me nivel të përfunduar shkollimi sipas nivelit më të lartë të shkollimit të përfunduar, gjinisë dhe moshës, 2011",
+"perditesuar": "2025-02-02T19:59:59"
+},
+{
+"rruga": "Census population/2_Education/censusEdu10.px",
+"id": "censusEdu10.px",
+"titulli": "Popullsia e moshës 10 vjeçe e mbi sipas nivelit të arsimimit, njohjes së shkrimleximit, gjinisë dhe komunës 2011",
+"perditesuar": "2025-02-05T11:26:38"
+},
+{
+"rruga": "Census population/2_Education/tab16census.px",
+"id": "tab16census.px",
+"titulli": "Femrat 15+ sipas moshës, përgaditjes shkollore dhe numrit të fëmijve të lindur gjallë (Urban dhe Rural) 2024",
+"perditesuar": "2026-06-10T10:08:09"
+},
+{
+"rruga": "Census population/2_Education/tabcensusedu1.px",
+"id": "tabcensusedu1.px",
+"titulli": "Popullsia e moshës 15 vjeçare e më shumë sipas përgaditjes shkollore, gjinisë dhe moshës 2024",
+"perditesuar": "2026-06-08T14:39:03"
+},
+{
+"rruga": "Census population/2_Education/tabcensusedu2.px",
+"id": "tabcensusedu2.px",
+"titulli": "Popullsia e moshës 15 vjeçare e më shumë sipas përkatësisë etnike, moshës, përgaditjes shkollore dhe gjinisë 2024",
+"perditesuar": "2026-06-08T14:39:15"
+},
+{
+"rruga": "Census population/2_Education/tabcensusedu3.px",
+"id": "tabcensusedu3.px",
+"titulli": "Popullsia e moshës 15 vjeçare e më shumë sipas përkatësisë etnike, komunës, përgaditjes shkollore dhe gjinisë 2024",
+"perditesuar": "2026-06-08T14:39:29"
+},
+{
+"rruga": "Census population/2_Education/tabcensusedu4.px",
+"id": "tabcensusedu4.px",
+"titulli": "Popullsia e moshës 6 deri 22 vjeçare sipas vijimit të shkollës, moshës dhe gjinisë sipas komunave 2024",
+"perditesuar": "2026-06-08T14:39:42"
+},
+{
+"rruga": "Census population/2_Education/tabcensusedu5.px",
+"id": "tabcensusedu5.px",
+"titulli": "Popullsia e cila vijon shkollimin sipas niveleve të arsimit dhe gjinisë nëpër komuna 2024",
+"perditesuar": "2026-06-10T09:25:51"
+},
+{
+"rruga": "Census population/2_Education/tabcensusedu6.px",
+"id": "tabcensusedu6.px",
+"titulli": "Popullsia e moshës 10 vjeçare e më shumë sipas gjinisë, komunave dhe tipit të vendbanimit, kurse analfabetët edhe sipas moshës. (Urban dhe Rural) 2024",
+"perditesuar": "2026-06-10T09:43:23"
+},
+{
+"rruga": "Census population/Fertility/fertility01census.px",
+"id": "fertility01census.px",
+"titulli": "Popullsia femër e moshës 15 vjeç e lart sipas numrit të fëmijëve të lindur-gjallë dhe moshës 2011",
+"perditesuar": "2026-03-02T09:16:35"
+},
+{
+"rruga": "Census population/Fertility/fertility02census.px",
+"id": "fertility02census.px",
+"titulli": "Femrat e moshës 15 vjeç e mbi (me fëmijë të lindur të gjallë pas vitit 2005) sipas numrit të fëmijëve  të lindur të gjallë pas vitit 2005 dhe numri i vdekjeve para moshës 1 vjeçe",
+"perditesuar": "2026-03-02T09:16:49"
+},
+{
+"rruga": "Census population/Fertility/fertility03census.px",
+"id": "fertility03census.px",
+"titulli": "Femrat e moshës 15+ sipas moshës, statusit martesor dhe numrit të fëmijve të lindur gjallë 2024  - (Urban dhe Rural)",
+"perditesuar": "2026-03-02T09:17:16"
+},
+{
+"rruga": "Census population/Fertility/fertility04census.px",
+"id": "fertility04census.px",
+"titulli": "Fëmijët e lindur gjallë në periudhën 1 Janar 2011- 4 Prill 2024 sipas gjinisë, vendbanimit  të  përhershëm në Komunë",
+"perditesuar": "2026-03-06T12:45:17"
+},
+{
+"rruga": "Census population/Fertility/fertility05census.px",
+"id": "fertility05census.px",
+"titulli": "Fëmijët e lindur gjallë në periudhën 1 janar 2011  - 4 prill 2024 sipas llojit të vendbanimit të përhershëm, urban-rural, gjinisë  dhe vitit të ndodhjes",
+"perditesuar": "2026-03-06T12:46:18"
+},
+{
+"rruga": "Census population/Fertility/fertility06census.px",
+"id": "fertility06census.px",
+"titulli": "Fëmijët e lindur gjallë në periudhën 1 janar 2011 - 4 prill 2024 sipas vendbanimit të parë rezident, urban-rural, gjinisë  dhe vitit të ndodhjes",
+"perditesuar": "2026-03-06T13:03:57"
+},
+{
+"rruga": "Census population/Fertility/fertility07census.px",
+"id": "fertility07census.px",
+"titulli": "Lindjet e gjalla të ndodhura në periudhën 1 janar 2011  4 prill 2024 sipas vendbanimit  të përhershëm të nënës, urban-rural  dhe vitit të ndodhjes",
+"perditesuar": "2026-03-06T13:04:44"
+},
+{
+"rruga": "Census population/Fertility/fertility08census.px",
+"id": "fertility08census.px",
+"titulli": "Fëmijët e lindur të gjallë në periudhën 1 janar 2011 – 4 prill 2024 por që kanë  vdekur me vonë  sipas llojit të vendbanimit  të përhershëm të nënës urban-rural dhe vitit të ndodhjes",
+"perditesuar": "2026-03-06T13:12:56"
+},
+{
+"rruga": "Census population/Fertility/fertility09census.px",
+"id": "fertility09census.px",
+"titulli": "Numri i lindjeve të  gjalla në periudhën 1 janar 2011 – 4 prill 2024 sipas moshës aktuale të nënës në kohën e Regjistrimir të Popullsisë, 2024",
+"perditesuar": "2026-03-06T13:27:58"
+},
+{
+"rruga": "Census population/Fertility/fertility10census.px",
+"id": "fertility10census.px",
+"titulli": "Foshnjat e vdekura  në periudhën 1 janar 2011 – 4 prill 2024 dhe moshës së vetme të nënës (mosha e foshnjave = ditë)",
+"perditesuar": "2026-03-09T14:49:40"
+},
+{
+"rruga": "Census population/Fertility/fertility11census.px",
+"id": "fertility11census.px",
+"titulli": "Foshnjat e vdekura  në periudhën 1 janar 2011 – 4 prill 2024 dhe moshës së vetme të nënës (mosha e foshnjave = muaj)",
+"perditesuar": "2026-03-09T14:46:35"
+},
+{
+"rruga": "Census population/Fertility/fertility12census.px",
+"id": "fertility12census.px",
+"titulli": "Lindjet e gjalla të ndodhura në periudhën 1 janar 2011 – 4 prill 2024  sipas komunave, llojit të vendbanimit - urban/rural  dhe grup-moshës së nënës",
+"perditesuar": "2026-03-09T12:16:40"
+},
+{
+"rruga": "Census population/Fertility/fertility13census.px",
+"id": "fertility13census.px",
+"titulli": "Femrat  e moshës 15 vjeç e më shumë sipas  statusit martesor dhe  moshës së vetme që kanë lindur në periudhën 1 janar 2011 – 4 prill 2024",
+"perditesuar": "2026-03-09T12:41:09"
+},
+{
+"rruga": "Census population/Fertility/fertility14census.px",
+"id": "fertility14census.px",
+"titulli": "Foshnjat e vdekura në Kosovë në periudhën 1 janar 2011 – 4 prill 2024  sipas vitit të ndodhjes (mosha=ditë)",
+"perditesuar": "2026-03-09T13:23:41"
+},
+{
+"rruga": "Census population/Fertility/fertility15census.px",
+"id": "fertility15census.px",
+"titulli": "Foshnjat e vdekura në Kosovë në periudhën 1 janar 2011 – 4 prill 2024  sipas vitit të ndodhjes (mosha = muaj)",
+"perditesuar": "2026-03-09T13:53:37"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_00.px",
+"id": "census2024_00.px",
+"titulli": "Numri i popullsisë sipas moshës së vetme, gjinisë dhe komunës, 2011 dhe 2024",
+"perditesuar": "2026-04-16T13:21:10"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_03.px",
+"id": "census2024_03.px",
+"titulli": "Popullsia sipas gjinisë dhe grupmoshës dhe llojit te vendbanimit (urbane/rurale) për vitet 2011 dhe 2024",
+"perditesuar": "2025-02-28T11:50:18"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2021_00.px",
+"id": "census2021_00.px",
+"titulli": "Popullsia sipas gjinisë në Republikën e Kosovës 1921-2024",
+"perditesuar": "2025-02-19T11:34:18"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_01.px",
+"id": "census2024_01.px",
+"titulli": "Të dhëna për popullsinë dhe ekonomitë familjare në Kosovë për vitet 2011 dhe 2024",
+"perditesuar": "2026-10-01T09:37:15"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_02.px",
+"id": "census2024_02.px",
+"titulli": "Popullsia sipas gjinisë dhe moshës së vetme në nivel vendi për vitet 2011 dhe 2024",
+"perditesuar": "2025-01-31T15:31:57"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_11.px",
+"id": "census2024_11.px",
+"titulli": "Popullsia sipas grupmoshave, 1961- 2024",
+"perditesuar": "2025-02-28T11:57:06"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_06.px",
+"id": "census2024_06.px",
+"titulli": "Treguesit e strukturës së moshës sipas viteve të regjistrimit, 1961-2024",
+"perditesuar": "2025-01-31T15:34:13"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_07.px",
+"id": "census2024_07.px",
+"titulli": "Popullsia sipas statusit martesor dhe gjinisë në nivel vendi për vitet 2011 dhe 2024",
+"perditesuar": "2025-02-28T11:53:46"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_08.px",
+"id": "census2024_08.px",
+"titulli": "Popullsia sipas grupmoshave dhe gjinisë, 1953-2024",
+"perditesuar": "2025-01-31T15:41:47"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_09.px",
+"id": "census2024_09.px",
+"titulli": "Popullsia sipas gjinisë dhe grupmoshës dhe llojit te vendbanimit për vitet 2011 dhe 2024",
+"perditesuar": "2025-02-28T11:55:34"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_10.px",
+"id": "census2024_10.px",
+"titulli": "Popullsia sipas religjionit dhe gjinisë në nivel vendi dhe komune për vitet 2011 dhe 2024",
+"perditesuar": "2025-01-31T15:43:48"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_12.px",
+"id": "census2024_12.px",
+"titulli": "Popullsia e Kosovës sipas etnicitetit në bazë të regjistrimeve 1948-2024",
+"perditesuar": "2025-02-28T11:57:53"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_13.px",
+"id": "census2024_13.px",
+"titulli": "Popullsia sipas llojit të vendbanimit (urban/rural), gjinisë dhe grupmoshës, në nivel vendi dhe komune, për vitet 2011 dhe 2024",
+"perditesuar": "2026-02-11T14:54:26"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_21.px",
+"id": "census2024_21.px",
+"titulli": "Popullsia sipas vendit të lindjes, gjinisë dhe komunës, 2011 dhe 2024",
+"perditesuar": "2025-07-09T09:01:00"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_22.px",
+"id": "census2024_22.px",
+"titulli": "Popullsia sipas gjuhës amtare dhe gjinisë në nivel vendi dhe komune për vitet 2011 dhe 2024",
+"perditesuar": "2025-02-28T12:02:46"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_04.px",
+"id": "census2024_04.px",
+"titulli": "Popullsia sipas gjinisë dhe grupmoshës në nivel vendi dhe komune për vitet 2011 dhe 2024",
+"perditesuar": "2025-02-28T11:52:00"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_50.px",
+"id": "census2024_50.px",
+"titulli": "Popullsia e moshës 15 vjeç e më shumë sipas gjinisë, moshës dhe statusit martesor 2011 dhe 2024",
+"perditesuar": "2026-08-04T15:53:37"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_51.px",
+"id": "census2024_51.px",
+"titulli": "Gjuhët e folura të ndryshme nga gjuha amtare sipas gjinisë dhe moshës sëpopullsisë së moshës 15 vjeçe e mbi, 2011",
+"perditesuar": "2025-02-05T11:24:52"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_52.px",
+"id": "census2024_52.px",
+"titulli": "Popullsia e lindur në Kosovë sipas gjinisë,moshës, dhe komunës së lindjes 2011",
+"perditesuar": "2025-02-05T11:28:26"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_53.px",
+"id": "census2024_53.px",
+"titulli": "Popullsia sipas grupmoshës, gjinisë dhe madhësisë se vendbanimit 2011",
+"perditesuar": "2025-02-05T11:32:42"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_54.px",
+"id": "census2024_54.px",
+"titulli": "Numri i banorëve në 1 km²˛ sipas regjistrimeve të popullsisë 1921-2024",
+"perditesuar": "2025-02-19T08:41:31"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_55.px",
+"id": "census2024_55.px",
+"titulli": "Gjuhët e folura, të ndryshme nga gjuha amtare, sipas gjinisë dhe moshës së popullsisë 15 vjeç e mbi, 2011 dhe 2024",
+"perditesuar": "2026-08-06T11:21:48"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_56.px",
+"id": "census2024_56.px",
+"titulli": "Popullsia sipas gjinisë, grupmoshës dhe gjuhës, 2011 dhe 2024",
+"perditesuar": "2026-08-04T11:22:48"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_59.px",
+"id": "census2024_59.px",
+"titulli": "Popullsia e moshës 15 vjeç e mbi sipas numrit të gjuhëve të folura tëndryshme nga gjuha amtare, gjinisë dhe moshës 2011",
+"perditesuar": "2025-02-05T11:57:20"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_60.px",
+"id": "census2024_60.px",
+"titulli": "Popullsia e moshës 15 vjeçe e mbi sipas gjinisë, llojit të vendbanimit (urbane/rurale) dhe statusit martesor 2011",
+"perditesuar": "2025-02-05T11:58:33"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_61.px",
+"id": "census2024_61.px",
+"titulli": "Popullsia e lindur në Kosovë sipas moshës, gjinisë dhe komunës së lindjes 2011",
+"perditesuar": "2025-02-05T11:59:50"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_62.px",
+"id": "census2024_62.px",
+"titulli": "Popullsia sipas vendit të lindjes, gjinisë dhe moshës 2011",
+"perditesuar": "2025-02-05T12:00:04"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_63.px",
+"id": "census2024_63.px",
+"titulli": "Popullsia sipas përkatësisë etnike dhe gjinisë në nivel vendi dhe komune për vitet 2011 dhe 2024 (me vlerësim)",
+"perditesuar": "2025-06-11T10:33:27"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/census2024_05.px",
+"id": "census2024_05.px",
+"titulli": "Popullsia sipas përkatësisë etnike dhe gjinisë në nivel vendi dhe komune për vitet 2011 dhe 2024",
+"perditesuar": "2025-02-01T15:37:39"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab05census.px",
+"id": "tab05census.px",
+"titulli": "Popullsia sipas komunave gjinisë dhe grup-moshave, 2011 dhe 2024",
+"perditesuar": "2026-08-06T14:10:04"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab01census.px",
+"id": "tab01census.px",
+"titulli": "Popullsia e Kosovës sipas regjistrimeve 1921 - 2024",
+"perditesuar": "2025-07-07T08:48:27"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab02census.px",
+"id": "tab02census.px",
+"titulli": "Popullsia sipas komunave dhe gjinisë, 2011 dhe  2024",
+"perditesuar": "2026-08-06T14:24:45"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab03census.px",
+"id": "tab03census.px",
+"titulli": "Popullsia sipas komunave, vendbanimit urban-rural, gjinisë dhe grup-moshës 2024",
+"perditesuar": "2025-07-07T08:50:03"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab04census.px",
+"id": "tab04census.px",
+"titulli": "Popullsia sipas komunave gjinisë dhe grup-moshave 2024 (me vlerësim)",
+"perditesuar": "2025-07-07T08:51:41"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab06census.px",
+"id": "tab06census.px",
+"titulli": "Popullsia e moshës 15 vjeç e më shumë sipas  statusit martesor, gjinisë dhe grup-moshës 2024",
+"perditesuar": "2025-07-07T08:52:57"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab07census.px",
+"id": "tab07census.px",
+"titulli": "Popullsia e moshës 15 vjeç e më shumë sipas komunës, gjinisë dhe statusit martesor 2024",
+"perditesuar": "2025-07-07T09:03:42"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab08census.px",
+"id": "tab08census.px",
+"titulli": "Popullsia e moshës 15 vjeç e më shumë sipas gjinisë dhe numrit të gjuhëve të folura të ndryshme nga gjuha amtare 2024",
+"perditesuar": "2025-07-07T09:13:26"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab09census.px",
+"id": "tab09census.px",
+"titulli": "Popullsia e gjinisë femerore 15 vjeç e më shumë sipas llojit të vendbanimit dhe numrit të fëmijve të lindur gjallë 2024",
+"perditesuar": "2025-07-07T13:50:44"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab11census.px",
+"id": "tab11census.px",
+"titulli": "Popullsia sipas shtetësisë dhe gjinisë 2011 dhe 2024",
+"perditesuar": "2025-07-07T14:54:36"
+},
+{
+"rruga": "Census population/1_Demographic_Characteristics/tab12census.px",
+"id": "tab12census.px",
+"titulli": "Popullsia e Kosovës sipas gjinisë dhe regjistrimeve, 1921 - 2024",
+"perditesuar": "2026-01-27T13:24:08"
+},
+{
+"rruga": "Census population/Migration/census03.px",
+"id": "census03.px",
+"titulli": "Popullsia sipas vendbanimit të parë rezident dhe vendbanimit aktual, gjinisë,  në nivel vendi dhe komune për vitet 2011 dhe 2024",
+"perditesuar": "2025-03-06T13:49:06"
+},
+{
+"rruga": "Census population/Migration/census04.px",
+"id": "census04.px",
+"titulli": "Popullsia e moshës 1 vjeçe e me shume që ndonjëherë ka banuar në një vend të ndryshëm nga ai i tanishmi sipas arsyes së shkuarjes, gjinisë dhe moshës 2011",
+"perditesuar": "2017-02-21T09:08:23"
+},
+{
+"rruga": "Census population/Migration/census05.px",
+"id": "census05.px",
+"titulli": "Popullsia e moshës 1 vjeçe e mbi sipas vendit të zakonshëm të banimit 1 vit para regjistrimit, gjinisë dhe moshës 2011",
+"perditesuar": "2015-10-23T13:19:15"
+},
+{
+"rruga": "Census population/Migration/census07.px",
+"id": "census07.px",
+"titulli": "Popullsia e lindur jashtë vendit sipas moshës, gjinisë dhe vendit të lindjes 2011",
+"perditesuar": "2015-11-10T09:43:37"
+},
+{
+"rruga": "Census population/Migration/census13.px",
+"id": "census13.px",
+"titulli": "Popullsia sipas moshës, gjinisë dhe vendit të nënshtetësisë 2011",
+"perditesuar": "2016-06-06T14:14:22"
+},
+{
+"rruga": "Census population/Migration/census27.px",
+"id": "census27.px",
+"titulli": "Popullsia e moshës 1 vjeç e mbi që kanë jetuar ndonjëherë jashtë vendit, sipas vitit të ardhjes në Kosovë  dhe vendit të banimit të mëparshëm të zakonshëm (10 vendet e para)",
+"perditesuar": "2016-01-15T09:45:17"
+},
+{
+"rruga": "Census population/Migration/census29.px",
+"id": "census29.px",
+"titulli": "Arsyet e migrimit (brenda Kosovës) sipas gjinisë 2011",
+"perditesuar": "2016-04-01T11:39:33"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_50.px",
+"id": "census2024_50.px",
+"titulli": "Ndërtesat dhe Banesat në nivel vendi për vitet 2011 dhe 2024",
+"perditesuar": "2025-07-11T09:37:24"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_51.px",
+"id": "census2024_51.px",
+"titulli": "Ndërtesat dhe banesat (të banuara dhe të zbrazëta) në nivel vendi dhe komune për vitet 2011 dhe 2024",
+"perditesuar": "2025-02-03T14:20:21"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_52.px",
+"id": "census2024_52.px",
+"titulli": "Ekonomitë Familjare sipas numrit të anëtarëve dhe komunës në nivel vendi dhe komune për vitet 2011 dhe 2024",
+"perditesuar": "2025-02-02T21:05:11"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_53.px",
+"id": "census2024_53.px",
+"titulli": "Ekonomitë Familjare private sipas statusit të banimit  të Ekonomisë Familjare në nivel vendi dhe komune për vitet 2011 dhe 2024",
+"perditesuar": "2025-02-02T21:22:03"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_54.px",
+"id": "census2024_54.px",
+"titulli": "Njësitë e banimit të  shfrytëzuara  sipas statusit të banimit dhe tipit të njësisë së banimit, 2024",
+"perditesuar": "2025-02-05T14:52:05"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_55.px",
+"id": "census2024_55.px",
+"titulli": "Numri i ekonomive dhe personave në një ekonomi familjare 1921-2024",
+"perditesuar": "2025-02-20T11:32:16"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_56.px",
+"id": "census2024_56.px",
+"titulli": "Banesat e banuara të zakonshme sipas periudhës së ndërtimit të ndërtesës në nivel vendi dhe komune për vitet 2011 dhe 2024",
+"perditesuar": "2025-02-20T11:47:54"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_60.px",
+"id": "census2024_60.px",
+"titulli": "Numri i banesave të shfrytëzuara të zakonshme, numri mesatar i ekonomive familjare për banesë, sipërfaqja mesatare e shfrytëzuar për kokë banori, sipas komunës 2011",
+"perditesuar": "2025-02-06T10:39:54"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_61.px",
+"id": "census2024_61.px",
+"titulli": "Ndërtesat me së paku një banesë të zakonshme të banuar dhe komunës, 2011",
+"perditesuar": "2025-02-18T15:20:32"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_62.px",
+"id": "census2024_62.px",
+"titulli": "Ekonomitë familjare institucionale sipas llojit dhe komunës, 2011",
+"perditesuar": "2025-02-18T15:21:36"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_63.px",
+"id": "census2024_63.px",
+"titulli": "Personat rezident në ekonomitë familjare instiucionale sipas llojit të ekonomisë familjare institucionale, gjinisë dhe komunës, 2011",
+"perditesuar": "2025-02-18T15:22:19"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_64.px",
+"id": "census2024_64.px",
+"titulli": "Persona përkohësisht të pranishëm në ekonomitë familjare institucionale sipas llojit të ekonomisë familjare institucionale, gjinisë dhe komunës 2011",
+"perditesuar": "2025-02-05T11:16:55"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_65.px",
+"id": "census2024_65.px",
+"titulli": "Ekonomitë familjare private sipas statusit të banimit dhe komunës 2011",
+"perditesuar": "2025-02-05T11:17:10"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_66.px",
+"id": "census2024_66.px",
+"titulli": "Ekonomitë familjare private sipas statusit të banimit të ekonomisë familjare dhe komunës Statusi i banimit, 2011",
+"perditesuar": "2025-02-18T15:23:20"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_67.px",
+"id": "census2024_67.px",
+"titulli": "Ekonomitë familjare private në banesa të zakonshme sipas posedimit të telefonit, kompjuterit dhe qasjes në internet, 2011",
+"perditesuar": "2025-02-18T15:23:53"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_68.px",
+"id": "census2024_68.px",
+"titulli": "Ekonomitë familjare private në banesa të zakonshme sipas posedimit të telefonit, kompjuterit dhe qasjes në internet, 2011",
+"perditesuar": "2025-02-18T15:24:21"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_69.px",
+"id": "census2024_69.px",
+"titulli": "Banesat e zakonshme sipas statusit të shfrytëzimit, llojit të pronësisë dhe komunës, 2011",
+"perditesuar": "2025-02-18T15:25:22"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_71.px",
+"id": "census2024_71.px",
+"titulli": "Popullsia sipas gjinisë, statusit të ekonomisë familjare dhe komunës 2011",
+"perditesuar": "2025-02-18T15:26:11"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/census2024_72.px",
+"id": "census2024_72.px",
+"titulli": "Popullsia rezidente sipas statusit të ekonomisë familjare, gjinisë dhe komunës 2011",
+"perditesuar": "2025-02-18T15:26:25"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab01ncensus.px",
+"id": "tab01ncensus.px",
+"titulli": "Banesat sipas llojit, statusit të shfrytëzimit dhe tipit të vendbanimit nëpër Komuna 2024",
+"perditesuar": "2025-07-09T13:07:36"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab02ncensus.px",
+"id": "tab02ncensus.px",
+"titulli": "Banesat sipas llojit, ekonomive familjare dhe personave sipas tipit të vendbanimit neper komuna 2024",
+"perditesuar": "2025-07-11T08:54:46"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab03ncensus.px",
+"id": "tab03ncensus.px",
+"titulli": "Banesat sipas llojit, ekonomive familjare dhe personave sipas sistemit të furnizimit me ujë 2024",
+"perditesuar": "2025-07-11T08:55:10"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab04ncensus.px",
+"id": "tab04ncensus.px",
+"titulli": "Banesat sipas llojit, ekonomive familjare dhe personave sipas sistemit kuzhina dhe paisjet e gatimit ne njesine banesore 2024",
+"perditesuar": "2025-07-11T08:55:31"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab05ncensus.px",
+"id": "tab05ncensus.px",
+"titulli": "Banesat  sipas llojit, ekonomive familjare dhe personave sipas sistemit te shkarkimit të ujrave të zeza nëpër komuna 2024",
+"perditesuar": "2025-07-16T09:26:30"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab06ncensus.px",
+"id": "tab06ncensus.px",
+"titulli": "Banesat  sipas llojit, ekonomive familjare dhe personave sipas statusit tualet me shpërlarje në njësinë e banesës 2024",
+"perditesuar": "2025-07-15T15:28:50"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab07ncensus.px",
+"id": "tab07ncensus.px",
+"titulli": "Banesat  sipas llojit, ekonomive familjare dhe personave sipas statusit pajisjet e banjos në njësinë e banesës 2024",
+"perditesuar": "2025-07-16T09:10:26"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab08ncensus.px",
+"id": "tab08ncensus.px",
+"titulli": "Banesat sipas llojit mënyrës së ngrohjes së përdorur për ngrohje nëpër komuna 2024",
+"perditesuar": "2025-07-11T08:59:28"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab09ncensus.px",
+"id": "tab09ncensus.px",
+"titulli": "Banesat sipas llojit kryesor të energjisë së përdorur për ngrohje nëpër komuna 2024",
+"perditesuar": "2025-07-11T09:05:29"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab10ncensus.px",
+"id": "tab10ncensus.px",
+"titulli": "Banesa te zakonshme sipas numrit te dhomave dhe numrit të ekonomive familjare në banesë sipas komunave",
+"perditesuar": "2025-07-11T09:47:35"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab11ncensus.px",
+"id": "tab11ncensus.px",
+"titulli": " Banesat e zakonshme sipas numrit të dhomave dhe siperfaqes mesatare per nje person sipas komunave 2024",
+"perditesuar": "2025-07-15T09:26:29"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab12ncensus.px",
+"id": "tab12ncensus.px",
+"titulli": "Banesat në të cilat ushtrohet veprimtaria afariste sipas numrit te dhomave te njesise banesor  dhe numrit te dhomave te shfrytezuar per qellime afariste 2024",
+"perditesuar": "2025-07-15T09:23:12"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab13ncensus.px",
+"id": "tab13ncensus.px",
+"titulli": "Banesat në të cilat ushtrohet veprimtaria afariste sipas numrit te dhomave te shfrytezuar per qellime afariste dhe siperfaqes ne m2 2024",
+"perditesuar": "2025-07-15T09:44:52"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab14ncensus.px",
+"id": "tab14ncensus.px",
+"titulli": "Ndërtesat sipas llojit tipit te vendbanimit dhe komunave 2024",
+"perditesuar": "2025-07-15T11:35:34"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab15ncensus.px",
+"id": "tab15ncensus.px",
+"titulli": "Ndërtesat me te pakten nje banese te zakonshme te shfrytezuar sipas llojit, tipit te vendbanimit dhe numrit te kateve neper komuna 2024",
+"perditesuar": "2025-07-15T15:21:36"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab16ncensus.px",
+"id": "tab16ncensus.px",
+"titulli": "Ndërtesat sipas llojit, vitit të ndërtimit dhe numrit të kateve nëpër komuna 2024",
+"perditesuar": "2025-07-15T13:44:27"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/tab17ncensus.px",
+"id": "tab17ncensus.px",
+"titulli": "Ndërtesat sipas vitit të ndërtimit dhe materialit të mureve të jashtme nëpër komuna 2024",
+"perditesuar": "2025-07-16T09:23:24"
+},
+{
+"rruga": "Census population/5_Ndërtesat, banesat dhe ekonomitë familjare/estimationCensus1921_2024.px",
+"id": "estimationCensus1921_2024.px",
+"titulli": "Popullsia e Kosovës sipas regjistrimeve dhe vlerësimeve, 1921-2024",
+"perditesuar": "2025-07-17T15:49:50"
+},
+{
+"rruga": "Census population/Qasja në ICT/tik01census.px",
+"id": "tik01census.px",
+"titulli": "Ekonomitë familjare sipas komunës llojit të vendbanimit dhe posedimit të aparatit televiziv dhe llojit të shërbimit televiziv 2024",
+"perditesuar": "2026-02-27T13:12:20"
+},
+{
+"rruga": "Census population/Qasja në ICT/tik02census.px",
+"id": "tik02census.px",
+"titulli": "Ekonomitë familjare sipas komunës llojit të vendbanimit dhe sipas qasjes në teknologjinë e informacionit dhe komunikimit, 2024",
+"perditesuar": "2026-02-27T13:12:37"
+},
+{
+"rruga": "Census population/Qasja në ICT/tik03census.px",
+"id": "tik03census.px",
+"titulli": "Ekonomitë familjare sipas komunës llojit të vendbanimit dhe sipas posedimit të pajisjeve shtëpiake afatgjata, 2024",
+"perditesuar": "2026-02-27T13:12:51"
+},
+{
+"rruga": "Census population/Qasja në ICT/tik04census.px",
+"id": "tik04census.px",
+"titulli": "Ekonomitë familjare sipas komunës llojit të vendbanimit dhe posedimit të automjeteve dhe infrastrukturës banesore, 2024",
+"perditesuar": "2026-02-27T13:13:05"
+},
+{
+"rruga": "Census population/Disability status/census2024_100.px",
+"id": "census2024_100.px",
+"titulli": "Popullsia rezidente me vështirësi afatgjate, 2024",
+"perditesuar": "2025-02-05T12:26:56"
+},
+{
+"rruga": "Census population/Disability status/census2024_104.px",
+"id": "census2024_104.px",
+"titulli": "Popullsia me së paku një vështirësi afatgjate, sipas gjinisë dhe moshës 2011",
+"perditesuar": "2025-02-05T12:23:04"
+},
+{
+"rruga": "Census population/Disability status/census2024_101.px",
+"id": "census2024_101.px",
+"titulli": "Pjesëmarrja e popullsisë me vështirësi (pak, shumë dhe nuk mundet fare) në raport me popullsinë totale, 2024",
+"perditesuar": "2025-02-05T14:16:53"
+},
+{
+"rruga": "Census population/4_Labour market/census18.px",
+"id": "census18.px",
+"titulli": "Popullsia  e moshës 15 vjeç e mbi sipas statusit të veprimtarisë aktuale, gjinisë dhe moshës 2011",
+"perditesuar": "2015-11-06T16:59:56"
+},
+{
+"rruga": "Census population/4_Labour market/census21.px",
+"id": "census21.px",
+"titulli": "Popullsia e moshës 15 vjeç e  mbi  sipas statusit të veprimtarisë aktuale, gjinisë dhe nivelit të arsimimit 2011",
+"perditesuar": "2017-02-16T14:42:45"
+},
+{
+"rruga": "Census population/4_Labour market/census22.px",
+"id": "census22.px",
+"titulli": "Të punësuarit sipas moshës, gjinisë dhe profesionit kryesor 2011",
+"perditesuar": "2015-11-10T11:11:43"
+},
+{
+"rruga": "Census population/4_Labour market/census23.px",
+"id": "census23.px",
+"titulli": " Të punësuarit sipas statusit kryesor të punësimit, gjinisë dhe moshës 2011",
+"perditesuar": "2015-11-10T13:40:20"
+},
+{
+"rruga": "Census population/4_Labour market/census24.px",
+"id": "census24.px",
+"titulli": "Të punësuarit sipas moshës, gjinisë dhe veprimtarive kryesore 2011",
+"perditesuar": "2015-11-12T08:36:51"
+},
+{
+"rruga": "Census population/4_Labour market/census25.px",
+"id": "census25.px",
+"titulli": "Të punësuarit sipas statusit kryesor të punësimit, gjinisë dhe veprimtarisë kryesore 2011",
+"perditesuar": "2015-12-15T11:22:23"
+},
+{
+"rruga": "Census population/4_Labour market/census26.px",
+"id": "census26.px",
+"titulli": "Të punësuarit sipas statusit kryesor të punësimit, gjinisë dhe profesionit kryesor 2011",
+"perditesuar": "2015-11-13T14:07:39"
+},
+{
+"rruga": "Census population/4_Labour market/census28.px",
+"id": "census28.px",
+"titulli": "Të punësuarit sipas numrit të orëve të punës në punën kryesore në javën  para regjistrimit, gjinisë dhe moshës 2011",
+"perditesuar": "2016-02-23T15:25:48"
+},
+{
+"rruga": "Census population/4_Labour market/census30.px",
+"id": "census30.px",
+"titulli": "Të punësuar sipas profesionit kryesor, gjinisë dhe komunës 2011",
+"perditesuar": "2016-04-01T11:40:13"
+},
+{
+"rruga": "Census population/4_Labour market/3_census34.px",
+"id": "3_census34.px",
+"titulli": "Tregu i punës 2011-2024",
+"perditesuar": "2026-04-16T15:29:45"
+},
+{
+"rruga": "Census population/4_Labour market/lc01ensus.px",
+"id": "lc01ensus.px",
+"titulli": "Popullsia sipas gjinisë dhe tipit të vendbanimit dhe popullsia në moshë pune 2024",
+"perditesuar": "2026-04-17T11:31:13"
+},
+{
+"rruga": "Census population/4_Labour market/lc02ensus.px",
+"id": "lc02ensus.px",
+"titulli": "Popullsia e moshës 15 - 64 vjeç sipas gjinisë statusit të aktivitetit në Kosovë 2024",
+"perditesuar": "2026-04-17T11:31:23"
+},
+{
+"rruga": "Census population/4_Labour market/lc03ensus.px",
+"id": "lc03ensus.px",
+"titulli": "Popullsia e Kosovës e moshës 15 - 64 vjeç sipas statusit të punësimit dhe papunësisë 2024",
+"perditesuar": "2026-04-17T11:31:31"
+},
+{
+"rruga": "Census population/4_Labour market/lc05ensus.px",
+"id": "lc05ensus.px",
+"titulli": "Të punësuar sipas statusit të punësimit sipas gjinisë, grup mosha 15-64 vjeç, 2024",
+"perditesuar": "2026-04-20T11:31:56"
+},
+{
+"rruga": "Census population/4_Labour market/lc06ensus.px",
+"id": "lc06ensus.px",
+"titulli": "Të punësuar sipas gjinisë, nivelit te arsimit dhe grup moshave, 2024",
+"perditesuar": "2026-04-20T13:10:45"
+},
+{
+"rruga": "Census population/4_Labour market/lc07ensus.px",
+"id": "lc07ensus.px",
+"titulli": "Te punësuar sipas nivelit me te larte te shkollimit te perfunduar, dhe grup moshave, 2024",
+"perditesuar": "2026-04-22T13:25:52"
+},
+{
+"rruga": "Census population/4_Labour market/lc08ensus.px",
+"id": "lc08ensus.px",
+"titulli": "Të punësuar sipas gjinisë dhe aktiviteteve ekonomike (15-64), 2024",
+"perditesuar": "2026-04-22T13:12:57"
+},
+{
+"rruga": "Census population/4_Labour market/lc09ensus.px",
+"id": "lc09ensus.px",
+"titulli": "Të punësuar sipas gjinisë dhe aktiviteteve ekonomike të ndara sipas divizionit – 2 shifror (15-64), 2024",
+"perditesuar": "2026-04-23T09:15:38"
+},
+{
+"rruga": "Census population/4_Labour market/lc10ensus.px",
+"id": "lc10ensus.px",
+"titulli": "Të punësuar sipas gjinisë dhe aktiviteteve ekonomike të ndara sipas divizionit – 3 shifror (15-64), 2024",
+"perditesuar": "2026-04-27T09:21:29"
+},
+{
+"rruga": "Census population/4_Labour market/lc12ensus.px",
+"id": "lc12ensus.px",
+"titulli": "Të punësuar sipas gjinisë, aktiviteteve ekonomike kryesore të ndara sipas sektorit dhe statusit të punësimit, 2024",
+"perditesuar": "2026-04-29T10:09:11"
+},
+{
+"rruga": "Census population/4_Labour market/lc11ensus.px",
+"id": "lc11ensus.px",
+"titulli": "Të punësuar sipas gjinisë dhe aktiviteteve ekonomike të ndara sipas divizionit – 4 shifror (15-64), 2024",
+"perditesuar": "2026-04-28T15:13:21"
+},
+{
+"rruga": "Census population/4_Labour market/lc13ensus.px",
+"id": "lc13ensus.px",
+"titulli": "Të punësuar sipas gjinisë, aktiviteteve ekonomike dhe statusit të punësimit sipas komunave (15-64), 2024",
+"perditesuar": "2026-05-05T13:49:11"
+},
+{
+"rruga": "Census population/4_Labour market/tab_5.12.px",
+"id": "tab_5.12.px",
+"titulli": "Të punësuarit sipas veprimtarisë kryesore, gjinisë dhe komunës 2011",
+"perditesuar": "2016-07-11T16:20:58"
+},
+{
+"rruga": "Census population/4_Labour market/tab_5.10.px",
+"id": "tab_5.10.px",
+"titulli": "Popullsia e moshës 15 vjeç e mbi sipas statusit të aktivitetit aktual, gjinisë dhe komunës 2011",
+"perditesuar": "2016-07-11T16:28:39"
+},
+{
+"rruga": "Census population/4_Labour market/tab_5.11.px",
+"id": "tab_5.11.px",
+"titulli": "Të punësuar sipas profesionit kryesor ,gjinisë dhe komunës 2011",
+"perditesuar": "2016-07-11T16:29:06"
+},
+{
+"rruga": "Census population/4_Labour market/tab_5.13.px",
+"id": "tab_5.13.px",
+"titulli": "Të punësuar sipas llojit të vendit të  punës, gjinisë dhe komunës 2011",
+"perditesuar": "2016-07-11T16:29:33"
+},
+{
+"rruga": "Census population/4_Labour market/tab_5.14.px",
+"id": "tab_5.14.px",
+"titulli": "Të punësuarit që udhëtojnë shtëpi-punë dhe anasjelltas sipas vendit të punës, gjinisë dhe komunës 2011",
+"perditesuar": "2016-07-11T16:22:03"
+},
+{
+"rruga": "Census population/4_Labour market/tab_5.15.px",
+"id": "tab_5.15.px",
+"titulli": "Personat e moshës 15 vjeç e mbi ekonomikisht jo aktive sipas kategorisë funksionale, gjinisë dhe komunës 2011",
+"perditesuar": "2016-07-11T16:29:58"
+},
+{
+"rruga": "Census population/4_Labour market/tab_5.16.px",
+"id": "tab_5.16.px",
+"titulli": "Popullsia sipas burimit kryesor të jetesës, gjinisë dhe komunës 2011",
+"perditesuar": "2016-07-11T16:30:25"
+},
+{
+"rruga": "Structural business statistics/asn01.px",
+"id": "asn01.px",
+"titulli": "Numri i ndërmarrjeve aktive sipas seksioneve ekonomike, 2008 - 2023",
+"perditesuar": "2024-12-24T12:47:58"
+},
+{
+"rruga": "Structural business statistics/asn03.px",
+"id": "asn03.px",
+"titulli": "Numri i të punësuarve sipas seksioneve ekonomike për vitet, 2008 - 2023",
+"perditesuar": "2024-12-24T12:49:38"
+},
+{
+"rruga": "Structural business statistics/asn04.px",
+"id": "asn04.px",
+"titulli": "Shpërndarja e të punësuarve sipas seksioneve ekonomike për vitet, 2008 - 2023",
+"perditesuar": "2024-12-24T12:53:07"
+},
+{
+"rruga": "Structural business statistics/asn05.px",
+"id": "asn05.px",
+"titulli": "Paga mesatare sipas seksioneve ekonomike për vitet, 2008 - 2023",
+"perditesuar": "2024-12-24T12:54:40"
+},
+{
+"rruga": "Structural business statistics/asn06.px",
+"id": "asn06.px",
+"titulli": "Struktura e qarkullimit sipas seksioneve ekonomike për vitet, 2008 - 2023",
+"perditesuar": "2024-12-24T12:55:46"
+},
+{
+"rruga": "Structural business statistics/asn07.px",
+"id": "asn07.px",
+"titulli": "Shpenzimet në bazë të seksioneve ekonomike për vitet, 2008 - 2023",
+"perditesuar": "2024-12-24T12:58:09"
+},
+{
+"rruga": "Structural business statistics/asn08.px",
+"id": "asn08.px",
+"titulli": "Struktura e ndërmarrjeve sipas seksioneve ekonomike, 2008 - 2023",
+"perditesuar": "2024-12-24T13:00:05"
+},
+{
+"rruga": "Geographical data/geo01.px",
+"id": "geo01.px",
+"titulli": "Temperaturat e ajrit në Prishtinë, 2003M01–2024M12",
+"perditesuar": "2026-11-05T11:11:51"
+},
+{
+"rruga": "Geographical data/geo02.px",
+"id": "geo02.px",
+"titulli": "Numri i vendbanimeve në Kosovë sipas komunave",
+"perditesuar": "2026-03-09T13:41:26"
+},
+{
+"rruga": "Geographical data/geo03.px",
+"id": "geo03.px",
+"titulli": "Gjatësia e lumenjve kryesore brenda territorit të Kosovës",
+"perditesuar": "2016-01-18T11:29:46"
+},
+{
+"rruga": "Geographical data/geo05.px",
+"id": "geo05.px",
+"titulli": "Liqejt kryesor në Kosovë, sipërfaqja në km˛",
+"perditesuar": "2018-04-04T08:42:11"
+},
+{
+"rruga": "Geographical data/geo06.px",
+"id": "geo06.px",
+"titulli": "Të dhënat më të rëndësishme meteorologjike për disa qytete kryesore 1970-2014",
+"perditesuar": "2016-10-20T15:38:24"
+},
+{
+"rruga": "Geographical data/geo07.px",
+"id": "geo07.px",
+"titulli": "Pyjet e Kosovës sipas llojit dhe pronësisë",
+"perditesuar": "2019-03-25T15:24:49"
+},
+{
+"rruga": "Geographical data/geo08.px",
+"id": "geo08.px",
+"titulli": "Moti në Prishtinë, numri i ditëve me shi dhe borë, 2003M01-2024M12",
+"perditesuar": "2026-03-09T13:45:21"
+},
+{
+"rruga": "Geographical data/geo09.px",
+"id": "geo09.px",
+"titulli": "Zonat klimatike dhe reshjet mesatare vjetore , 2015-2024",
+"perditesuar": "2026-03-09T13:48:45"
+},
+{
+"rruga": "ICT/ICT in Households/TIK1point1.px",
+"id": "TIK1point1.px",
+"titulli": "Ekonomit Familjare në Kosovë që kanë pasur qasje në internet nga shtëpia në përqindje, 2017 - 2025",
+"perditesuar": "2026-03-17T10:37:57"
+},
+{
+"rruga": "ICT/ICT in Households/TIK1point2.px",
+"id": "TIK1point2.px",
+"titulli": "Përdorimi i internetit sipas grup moshave në përqindje , 2018 - 2025",
+"perditesuar": "2026-03-17T10:38:06"
+},
+{
+"rruga": "ICT/ICT in Households/TIK1point3.px",
+"id": "TIK1point3.px",
+"titulli": "Përdoruesit sipas gjinisë që kanë pasur qasje në internet në shtëpi apo banesa në përqindje, 2018 - 2025",
+"perditesuar": "2026-03-17T10:38:21"
+},
+{
+"rruga": "ICT/ICT in Households/TIK1point4.px",
+"id": "TIK1point4.px",
+"titulli": "Lloji i qasjes në internet në ekonomitë familjare në përqindje, 2017 - 2021",
+"perditesuar": "2026-03-17T10:38:41"
+},
+{
+"rruga": "ICT/ICT in Households/TIK2point1.px",
+"id": "TIK2point1.px",
+"titulli": "Përdorimi i internetit herën e fundit (në shtëpi, në punë ose në ndonjë vend tjetër) në përqindje, 2017 - 2025",
+"perditesuar": "2026-03-17T10:38:53"
+},
+{
+"rruga": "ICT/ICT in Households/TIK2point2_1.px",
+"id": "TIK2point2_1.px",
+"titulli": "Shpeshtësia e përdorimit të internetit nga individët në ekonomitë familjare gjatë 3 muajve të fundit në përqindje, 2022 - 2025",
+"perditesuar": "2026-03-17T10:39:13"
+},
+{
+"rruga": "ICT/ICT in Households/TIK2point2.px",
+"id": "TIK2point2.px",
+"titulli": "Shpeshtësia e përdorimit të internetit nga individët në ekonomitë familjare gjatë 3 muajve të fundit në përqindje, 2017 - 2021",
+"perditesuar": "2026-03-17T10:39:01"
+},
+{
+"rruga": "ICT/ICT in Households/TIK2point4.px",
+"id": "TIK2point4.px",
+"titulli": "Përdorimi i pajisjeve në internetin gjatë 3 muajve të fundit në përqindje, 2018 - 2019",
+"perditesuar": "2026-03-17T10:39:22"
+},
+{
+"rruga": "ICT/ICT in Households/TIK3point1_1.px",
+"id": "TIK3point1_1.px",
+"titulli": "Përdorimi i internetit për qëllime private për shërbime publike, agjencitë qeveriare ose administrata,gjatë 12 muajve të fundit në përqindje, 2022",
+"perditesuar": "2026-03-17T10:39:31"
+},
+{
+"rruga": "ICT/ICT in Households/TIK3point1.px",
+"id": "TIK3point1.px",
+"titulli": "Përdorimi i internetit për qëllime private për shërbime publike, agjencitë qeveriare ose administrata, gjatë 12 muajve të fundit  në përqindje, 2017 - 2020",
+"perditesuar": "2026-03-17T10:39:26"
+},
+{
+"rruga": "ICT/ICT in Households/TIK4point1.px",
+"id": "TIK4point1.px",
+"titulli": "Blerja ose porosia e mallrave dhe shërbimeve në internet herën e fundit në përqindje, 2018 - 2025",
+"perditesuar": "2026-03-17T10:39:41"
+},
+{
+"rruga": "ICT/ICT in Households/TIK7point1.px",
+"id": "TIK7point1.px",
+"titulli": "Përdoruesit e internetit që shkarkuan/printuan ndonjë formular zyrtar nga një faqe interneti ose aplikacion i autoriteteve publike ose shërbimeve publike për qëllime private në 12 muajt e fundit,në përqindje, 2022 - 2025",
+"perditesuar": "2026-03-17T10:40:57"
+},
+{
+"rruga": "ICT/ICT in Households/TIK8point1.px",
+"id": "TIK8point1.px",
+"titulli": "Personat që përdoren pajisjet ose sistemet  të lidhura me internetin për qëllime private në 3 muajt e fundit, në përqindje, 2022",
+"perditesuar": "2026-03-17T10:41:02"
+},
+{
+"rruga": "ICT/ICT in Households/TIK9point1.px",
+"id": "TIK9point1.px",
+"titulli": "Pajisjet personale elektronike që u zëvendësuan ose nuk u përdorën më,në përqindje, 2022",
+"perditesuar": "2026-03-17T10:41:07"
+},
+{
+"rruga": "ICT/ICT in Households/TIK9point2.px",
+"id": "TIK9point2.px",
+"titulli": "Personat qe kane kryer  aktivitete mësimore në internet për qëllime arsimore profesionale ose private në 3 muajt e fundit, 2024 - 2025",
+"perditesuar": "2026-03-17T10:41:20"
+},
+{
+"rruga": "ICT/ICT in Households/TIK9point3.px",
+"id": "TIK9point3.px",
+"titulli": "Përdorimi i mjeteve gjeneruese të inteligjencës artificiale (IA) sipas qëllimit 2025",
+"perditesuar": "2026-03-17T10:41:31"
+},
+{
+"rruga": "ICT/ICT in Households/TIK9point4.px",
+"id": "TIK9point4.px",
+"titulli": "Përdorimi i mjeteve gjeneruese të inteligjencës artificiale (IA), 2025",
+"perditesuar": "2026-03-17T10:41:47"
+},
+{
+"rruga": "ICT/ICT in Households/TIK9point5.px",
+"id": "TIK9point5.px",
+"titulli": "Përdorimi i mjeteve gjeneruese të inteligjencës artificiale (IA) sipas qëllimit dhe grup-moshës, 2025",
+"perditesuar": "2026-03-17T10:41:57"
+},
+{
+"rruga": "ICT/ICT in Households/TIK2point3.px",
+"id": "TIK2point3.px",
+"titulli": "Përdorimi i internetit disa herë gjatë dites në përqindje, 2018 - 2021",
+"perditesuar": "2026-03-17T10:39:18"
+},
+{
+"rruga": "ICT/ICT in Households/TIK4point2.px",
+"id": "TIK4point2.px",
+"titulli": "Vendet në të cilat është bërë blerja ose porositja e mallrave ose shërbimeve përmes internetit për përdorim privat në përqindje, 2018 - 2023",
+"perditesuar": "2026-03-17T10:39:51"
+},
+{
+"rruga": "ICT/ICT in Households/TIK4point3.px",
+"id": "TIK4point3.px",
+"titulli": "Sa herë janë blerë ose porositur mallra ose shërbime përmes  internetit përdorim privat në përqindje, 2018 - 2025",
+"perditesuar": "2026-03-17T10:40:03"
+},
+{
+"rruga": "ICT/ICT in Households/TIK4point4.px",
+"id": "TIK4point4.px",
+"titulli": "Shuma e parave të shpenzuara nga individët për blerje ose porosi të mallrave  ose shërbimeve për përdorim privat nëpërmjet internetit në përqindje, 2020 - 2021",
+"perditesuar": "2026-03-17T10:40:07"
+},
+{
+"rruga": "ICT/ICT in Households/TIK5point1.px",
+"id": "TIK5point1.px",
+"titulli": "Privatësia dhe mbrojtja e të dhënave personale në përqindje, 2020 - 2021",
+"perditesuar": "2026-03-17T10:40:11"
+},
+{
+"rruga": "ICT/ICT in Households/TIK6point1.px",
+"id": "TIK6point1.px",
+"titulli": "Përdorimi i paisjeve në internet në përqindje, 2020 - 2022",
+"perditesuar": "2026-03-17T10:40:15"
+},
+{
+"rruga": "ICT/ICT in Households/TIK6point2.px",
+"id": "TIK6point2.px",
+"titulli": "Përdorimi i pajisjeve elektronike për tu qasur në internet larg nga shtëpia ose puna në përqindje, 2021",
+"perditesuar": "2026-03-17T10:40:19"
+},
+{
+"rruga": "ICT/ICT in Households/TIK6point3.px",
+"id": "TIK6point3.px",
+"titulli": "Përdorimi i internetit për të kryer aktivitete mësimore online (Përdorimi i materialeve mësimore online, libra elektronk, mësime rreth software-ve) në përqindje, 2020 - 2021",
+"perditesuar": "2026-03-17T10:40:23"
+},
+{
+"rruga": "ICT/ICT in Households/TIK6point4.px",
+"id": "TIK6point4.px",
+"titulli": "Përdorimi i internetit për të kryer kurse online në përqindje, 2020 - 2021",
+"perditesuar": "2026-03-17T10:40:27"
+},
+{
+"rruga": "ICT/ICT in Households/TIK6point5.px",
+"id": "TIK6point5.px",
+"titulli": "Përdorimi i internetit për të kryer aktivitete mësimore online (Përdorimi i materialeve mësimore online,  libra elektronk, mësime rreth software-ve ) sipas nivelit arsimor në përqindje, 2020 - 2021",
+"perditesuar": "2026-03-17T10:40:33"
+},
+{
+"rruga": "ICT/ICT in Households/TIK6point6.px",
+"id": "TIK6point6.px",
+"titulli": "Përdorimi i internetit për të kryer kurse online sipas nivelit arsimor në përqindje, 2020 - 2021",
+"perditesuar": "2026-03-17T10:40:38"
+},
+{
+"rruga": "ICT/ICT in Households/TIK6point7.px",
+"id": "TIK6point7.px",
+"titulli": "Aftësitë Teknologjike në përqindje, 2019 - 2021",
+"perditesuar": "2026-03-17T10:40:41"
+},
+{
+"rruga": "ICT/ICT in Enterprise/tab07.px",
+"id": "tab07.px",
+"titulli": "Shpejtësia maksimale për shkarkim dokumentesh sipas madhësisë dhe aktivitetit ekonomik në përqindje, 2018-2021",
+"perditesuar": "2023-07-05T14:22:49"
+},
+{
+"rruga": "ICT/ICT in Enterprise/tab08.px",
+"id": "tab08.px",
+"titulli": "Shkalla e funksionve të WEB faqes në ndërmarrje sipas madhësisë dhe aktivitetit ekonomik në përqindje, 2018-2021",
+"perditesuar": "2023-07-05T14:29:18"
+},
+{
+"rruga": "ICT/ICT in Enterprise/tab01.px",
+"id": "tab01.px",
+"titulli": "Shkalla e përdorimit të kompjuterit në ndërmarrje sipas madhësisë dhe aktivitetit ekonomik, 2018 - 2021",
+"perditesuar": "2023-09-20T11:06:15"
+},
+{
+"rruga": "ICT/ICT in Enterprise/tab02.px",
+"id": "tab02.px",
+"titulli": "Shkalla e përdorimit të internetit në ndërmarrje sipas madhësisë dhe aktivitetit ekonomik, 2018 - 2021",
+"perditesuar": "2023-09-20T11:09:32"
+},
+{
+"rruga": "ICT/ICT in Enterprise/tab03.px",
+"id": "tab03.px",
+"titulli": "Shkalla e përdorimit të WEB faqes në ndërmarrje sipas madhësisë dhe aktivitetit ekonomik, 2018 - 2021",
+"perditesuar": "2023-09-20T11:13:22"
+},
+{
+"rruga": "ICT/ICT in Enterprise/tab04.px",
+"id": "tab04.px",
+"titulli": "Shkalla e përdorimit të mediave sociale në ndërmarrje sipas madhësisë dhe aktivitetit ekonomik, 2018 - 2021",
+"perditesuar": "2023-09-20T11:07:31"
+},
+{
+"rruga": "ICT/ICT in Enterprise/tab05.px",
+"id": "tab05.px",
+"titulli": "Shkalla e shitjeve përmes web-it në ndërmarrje sipas madhësisë dhe aktivitetit ekonomik, 2018 - 2021",
+"perditesuar": "2023-09-20T11:16:49"
+},
+{
+"rruga": "ICT/ICT in Enterprise/tab06.px",
+"id": "tab06.px",
+"titulli": "Shkalla e blerjeve përmes web-it në ndërmarrje sipas madhësisë dhe aktivitetit ekonomik, 2018 - 2021",
+"perditesuar": "2023-09-20T11:18:26"
+},
+{
+"rruga": "Transport/Quarterly indicators/tr03.px",
+"id": "tr03.px",
+"titulli": "Kapaciteti hekurudhor, 2011 - 1 - 2022 - 4",
+"perditesuar": "2023-02-03T10:34:14"
+},
+{
+"rruga": "Transport/Quarterly indicators/tr04.px",
+"id": "tr04.px",
+"titulli": "Numri i udhëtarëve sipas tremujorëve, 2005-1 - 2022-3",
+"perditesuar": "2022-10-31T11:16:08"
+},
+{
+"rruga": "Transport/Quarterly indicators/tr08.px",
+"id": "tr08.px",
+"titulli": "Përdoruesit, impulset dhe numri i kabinave të telefonisë fikse,2009-1 - 2022-1",
+"perditesuar": "2022-05-06T10:56:08"
+},
+{
+"rruga": "Transport/Quarterly indicators/tr09.px",
+"id": "tr09.px",
+"titulli": "Numri i fluturimeve (arritjet dhe nisjet), 2005 - 1 - 2022 - 4",
+"perditesuar": "2023-02-01T14:18:50"
+},
+{
+"rruga": "Transport/Quarterly indicators/tr11.px",
+"id": "tr11.px",
+"titulli": "Transporti hekurudhor, 2011 - 1 - 2022 - 4",
+"perditesuar": "2023-02-03T10:44:31"
+},
+{
+"rruga": "Transport/Quarterly indicators/tr12.px",
+"id": "tr12.px",
+"titulli": "Përdoruesit e telefonisë mobile, 2011-1 - 2022-3",
+"perditesuar": "2023-02-03T10:45:45"
+},
+{
+"rruga": "Transport/Monthly indicators/2.telefonia fikse.px",
+"id": "2.telefonia fikse.px",
+"titulli": "Përdoruesit dhe trafiku i realizuar ne telefoninë fikse, 2022M01 - 2026M07",
+"perditesuar": "2026-09-23T14:52:29"
+},
+{
+"rruga": "Transport/Monthly indicators/1.telefonia mobile.px",
+"id": "1.telefonia mobile.px",
+"titulli": "Përdoruesit e telefonisë mobile, 2022M01 - 2026M07",
+"perditesuar": "2026-09-23T14:52:16"
+},
+{
+"rruga": "Transport/Monthly indicators/3.numri mesatar i udhetareve.px",
+"id": "3.numri mesatar i udhetareve.px",
+"titulli": "Numri mesatar i udhëtarëve për një fluturim në baza mujore , 2005M01 - 2022M12",
+"perditesuar": "2026-09-23T14:52:45"
+},
+{
+"rruga": "Transport/Monthly indicators/4.numri i udhetareve hyres.px",
+"id": "4.numri i udhetareve hyres.px",
+"titulli": "Numri i udhëtarve hyrës përmes transportit ajror , 2012M01 -  2026M07",
+"perditesuar": "2026-09-23T14:53:01"
+},
+{
+"rruga": "Transport/Monthly indicators/5.numri i udhetareve dales.px",
+"id": "5.numri i udhetareve dales.px",
+"titulli": "Numri i udhëtarve dalës përmes transportit ajror, 2012M01 - 2026M07",
+"perditesuar": "2026-09-23T14:53:14"
+},
+{
+"rruga": "Transport/Monthly indicators/6. numri i fluturimeve te realizuara.px",
+"id": "6. numri i fluturimeve te realizuara.px",
+"titulli": "Numri i fluturimeve të Transportit ajror, 2012M01 - 2026M07",
+"perditesuar": "2026-09-23T14:53:27"
+},
+{
+"rruga": "Transport/Monthly indicators/7.numri total i udhetareve.px",
+"id": "7.numri total i udhetareve.px",
+"titulli": "Numri i udhëtarve përmes Transportit ajror në baza mujore, 2005M01 - 2026M07",
+"perditesuar": "2026-09-23T14:53:45"
+},
+{
+"rruga": "Transport/Monthly indicators/8.transporti hekurudhor.px",
+"id": "8.transporti hekurudhor.px",
+"titulli": "Transporti hekurudhor, 2021M01 - 2026M07",
+"perditesuar": "2026-09-23T14:54:04"
+},
+{
+"rruga": "Transport/Annual indicators/tr02.px",
+"id": "tr02.px",
+"titulli": "Numri i zyrave postare të shfrytëzuara dhe të pashfrytëzuara, 2009 - 2022",
+"perditesuar": "2025-03-05T10:48:53"
+},
+{
+"rruga": "Transport/Annual indicators/tr05.px",
+"id": "tr05.px",
+"titulli": "Mjetet motorike dhe jo motorike të regjistruara, 2011 - 2024",
+"perditesuar": "2025-03-05T10:50:31"
+},
+{
+"rruga": "Transport/Annual indicators/tr06.px",
+"id": "tr06.px",
+"titulli": "Rrugët e Kosovës sipas kategorive 2005 - 2024",
+"perditesuar": "2025-03-05T10:51:48"
+},
+{
+"rruga": "External trade/Monthly indicators/01_exp_bec.px",
+"id": "01_exp_bec.px",
+"titulli": "Eksporti sipas BEC Klasifikimit, 2010M01 - 2026M10",
+"perditesuar": "2026-11-24T08:29:08"
+},
+{
+"rruga": "External trade/Monthly indicators/03_exp_kap.px",
+"id": "03_exp_kap.px",
+"titulli": "Eksporti sipas kapitujve, 2010M1 - 2026M10",
+"perditesuar": "2026-11-24T08:29:21"
+},
+{
+"rruga": "External trade/Monthly indicators/05_exp_imp_seksionet.px",
+"id": "05_exp_imp_seksionet.px",
+"titulli": "Eksporti dhe importi sipas seksioneve, 2010M01 - 2026M10",
+"perditesuar": "2026-11-24T08:29:41"
+},
+{
+"rruga": "External trade/Monthly indicators/06_exp_country.px",
+"id": "06_exp_country.px",
+"titulli": "Eksporti sipas vendeve të destinacionit, 2010M01 - 2026M10",
+"perditesuar": "2026-11-24T08:30:37"
+},
+{
+"rruga": "External trade/Monthly indicators/02_imp_bec.px",
+"id": "02_imp_bec.px",
+"titulli": "Importi sipas BEC Klasifikimit, 2010M01 - 2026M10",
+"perditesuar": "2026-11-24T08:30:10"
+},
+{
+"rruga": "External trade/Monthly indicators/04_imp_kap.px",
+"id": "04_imp_kap.px",
+"titulli": "Importi sipas kapitujve, 2010M01 - 2026M10",
+"perditesuar": "2026-11-24T08:30:23"
+},
+{
+"rruga": "External trade/Monthly indicators/08_qarkullimi.px",
+"id": "08_qarkullimi.px",
+"titulli": "Qarkullimi i mallrave në tregtinë e jashtme, 2018M01 - 2026M10",
+"perditesuar": "2026-11-24T08:31:08"
+},
+{
+"rruga": "External trade/Monthly indicators/09_qarkullimi_kumulativi.px",
+"id": "09_qarkullimi_kumulativi.px",
+"titulli": "Qarkullimi i mallrave në tregtinë e jashtme (kumulativ), 2017M01 - 2026M10",
+"perditesuar": "2026-11-24T08:31:25"
+},
+{
+"rruga": "External trade/Monthly indicators/07_imp_country.px",
+"id": "07_imp_country.px",
+"titulli": "Importi sipas vendeve të origjinës, 2010M01 - 2026M10",
+"perditesuar": "2026-11-24T08:30:53"
+},
+{
+"rruga": "External trade/Yearly indicators/tab07.px",
+"id": "tab07.px",
+"titulli": "Importi 4 shifror , 2010 - 2025",
+"perditesuar": "2026-05-29T15:24:53"
+},
+{
+"rruga": "External trade/Yearly indicators/tab01.px",
+"id": "tab01.px",
+"titulli": "Eksporti dhe Importi sipas BEC klasifikimit, 2010 - 2025",
+"perditesuar": "2026-05-29T15:24:01"
+},
+{
+"rruga": "External trade/Yearly indicators/tab02.px",
+"id": "tab02.px",
+"titulli": "Eksporti dhe importi sipas vendeve, 2010 - 2025",
+"perditesuar": "2026-05-29T15:29:09"
+},
+{
+"rruga": "External trade/Yearly indicators/tab03.px",
+"id": "tab03.px",
+"titulli": "Eksporti dhe Importi sipas kapitujve, 2010 - 2025",
+"perditesuar": "2026-05-29T15:24:13"
+},
+{
+"rruga": "External trade/Yearly indicators/tab04.px",
+"id": "tab04.px",
+"titulli": "Eksporti dhe Importi sipas seksioneve HS, 2010 - 2025",
+"perditesuar": "2026-05-29T15:24:24"
+},
+{
+"rruga": "External trade/Yearly indicators/tab05.px",
+"id": "tab05.px",
+"titulli": "Eksporti dhe Importi sipas SITC 3 shifra, 2010 - 2025",
+"perditesuar": "2026-06-01T13:43:26"
+},
+{
+"rruga": "External trade/Yearly indicators/tab06.px",
+"id": "tab06.px",
+"titulli": "Eksporti 4 shifror HS, 2010 - 2025",
+"perditesuar": "2026-05-29T15:24:36"
+},
+{
+"rruga": "External trade/Yearly indicators/tab08.px",
+"id": "tab08.px",
+"titulli": "Qarkullimi i mallrave në tregtinë e jashtme, 2001 - 2025",
+"perditesuar": "2026-05-29T15:25:13"
+},
+{
+"rruga": "Labour market/Niveli i Pagave/tab01.px",
+"id": "tab01.px",
+"titulli": "Paga mesatare në Kosovë (bruto/neto), 2012-2024 (€)",
+"perditesuar": "2026-06-01T09:45:45"
+},
+{
+"rruga": "Labour market/Niveli i Pagave/tab02.px",
+"id": "tab02.px",
+"titulli": "Raporti i pagës minimale me pagën mesatare bruto dhe neto në Kosovë, 2020 - 2024",
+"perditesuar": "2026-06-01T09:32:46"
+},
+{
+"rruga": "Labour market/Niveli i Pagave/tab02_01.px",
+"id": "tab02_01.px",
+"titulli": "Raporti i pagës minimale me pagën mesatare bruto dhe neto në Kosovë, 2025",
+"perditesuar": "2026-06-01T09:32:41"
+},
+{
+"rruga": "Labour market/Niveli i Pagave/tab03.px",
+"id": "tab03.px",
+"titulli": "Paga mesatare (në Euro) sipas aktiviteteve ekonomike në Kosovë, 2020 - 2025",
+"perditesuar": "2026-06-01T09:32:27"
+},
+{
+"rruga": "UNDP/Democratic and Economic index/pp_d_index.px",
+"id": "pp_d_index.px",
+"titulli": "Indeksi i Demokratizimit, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-01-17T09:19:22"
+},
+{
+"rruga": "UNDP/Democratic and Economic index/pp_d_index_1.px",
+"id": "pp_d_index_1.px",
+"titulli": "Indeksi i Demokratizimit, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-01-17T09:19:10"
+},
+{
+"rruga": "UNDP/Democratic and Economic index/pp_e_index.px",
+"id": "pp_e_index.px",
+"titulli": "Indeksi ekonomik, sipas përkatësisë etnike,  2011 - 2024",
+"perditesuar": "2025-01-17T09:18:45"
+},
+{
+"rruga": "UNDP/Democratic and Economic index/pp_e_index_1.px",
+"id": "pp_e_index_1.px",
+"titulli": "Indeksi Ekonimik, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-01-17T09:25:00"
+},
+{
+"rruga": "UNDP/Punësimi/pp_Q18.px",
+"id": "pp_Q18.px",
+"titulli": "Sipas mendimit tuaj, çfarë është e rëndësishme për punësimin në sektorin privat, sipas etnicitetit 2011 - 2024",
+"perditesuar": "2025-02-25T10:21:59"
+},
+{
+"rruga": "UNDP/Punësimi/pp_Q18_1.px",
+"id": "pp_Q18_1.px",
+"titulli": "Sipas mendimit tuaj, çfarë është e rëndësishme për punësimin në sektorin privat, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-25T10:23:25"
+},
+{
+"rruga": "UNDP/Punësimi/pp_Q20.px",
+"id": "pp_Q20.px",
+"titulli": "Cili është vlerësimi juaj për kushtet aktuale të bizneseve, sipas etnicitetit 2011 - 2024",
+"perditesuar": "2025-02-25T10:49:30"
+},
+{
+"rruga": "UNDP/Punësimi/pp_Q20_1.px",
+"id": "pp_Q20_1.px",
+"titulli": "Cili është vlerësimi juaj për kushtet aktuale të biznesit, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-25T10:53:29"
+},
+{
+"rruga": "UNDP/Punësimi/pp_Q21.px",
+"id": "pp_Q21.px",
+"titulli": "Cili është vlerësimi juaj për kushtet aktuale të punësimit, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-25T13:15:27"
+},
+{
+"rruga": "UNDP/Punësimi/pp_Q21_1.px",
+"id": "pp_Q21_1.px",
+"titulli": "Cili është vlerësimi juaj për kushtet aktuale të punësimit, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-25T13:19:20"
+},
+{
+"rruga": "UNDP/Punësimi/pp_Q22.px",
+"id": "pp_Q22.px",
+"titulli": "Cilat janë pritjet tuaja në lidhje me kushtet e punësimit prej tani deri në gjashtë muajt e ardhshëm, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-25T13:20:28"
+},
+{
+"rruga": "UNDP/Punësimi/pp_Q22_1.px",
+"id": "pp_Q22_1.px",
+"titulli": "Cilat janë pritjet tuaja në lidhje me kushtet e punësimit prej tani deri në gjashtë muajt e ardhshëm, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-25T13:21:27"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q10_1.px",
+"id": "pp_Q10_1.px",
+"titulli": "A e gëzojnë mediat në Kosovë lirinë e shprehjes, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T11:26:47"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q10.px",
+"id": "pp_Q10.px",
+"titulli": "A e gëzojnë mediat në Kosovë lirinë e shprehjes, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T11:25:22"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q11.px",
+"id": "pp_Q11.px",
+"titulli": "A shërben shoqëria civile në Kosovë si një monitorues i vërtetë i zhvillimeve demokratike, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T11:37:11"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q11_1.px",
+"id": "pp_Q11_1.px",
+"titulli": "A shërben shoqëria civile në Kosovë si një monitorues i vërtetë i zhvillimeve demokratike, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T11:39:23"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q12.px",
+"id": "pp_Q12.px",
+"titulli": "A po punon qeveria komunale në përputhje me përparësitë e qytetarëve të Kosovës, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T13:34:44"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q12_1.px",
+"id": "pp_Q12_1.px",
+"titulli": "A po punon qeveria komunale në përputhje me përparësitë e qytetarëve të Kosovës, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T13:35:47"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q13.px",
+"id": "pp_Q13.px",
+"titulli": "A po punon qeveria e Kosovës në përputhje me përparësitë e qytetarëve të Kosovës, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T13:37:22"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q13_1.px",
+"id": "pp_Q13_1.px",
+"titulli": "A po punon qeveria e Kosovës në përputhje me përparësitë e qytetarëve të Kosovës, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T13:38:20"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q14.px",
+"id": "pp_Q14.px",
+"titulli": "A është Kushtetuta e Kosovës, si dhe ligjet në fuqi demokratike dhe a i respektojnë ato të Drejtat e Njeriut, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T13:40:08"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q14_1.px",
+"id": "pp_Q14_1.px",
+"titulli": "A është Kushtetuta e Kosovës, si dhe ligjet në fuqi demokratike dhe a i respektojnë ato të Drejtat e Njeriut, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T13:41:08"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q7.px",
+"id": "pp_Q7.px",
+"titulli": "A janë zgjedhjet në Kosovë demokratike dhe në përputhje me standardet ndërkombëtare, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T11:12:14"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q7_1.px",
+"id": "pp_Q7_1.px",
+"titulli": "A janë zgjedhjet në Kosovë demokratike dhe në përputhje me standardet ndërkombëtare,sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T11:13:14"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q8.px",
+"id": "pp_Q8.px",
+"titulli": "A e monitoron Parlamenti performancën e Qeverisë sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T11:16:41"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q8_1.px",
+"id": "pp_Q8_1.px",
+"titulli": "A e monitoron Parlamenti performancën e Qeverisë, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T11:17:53"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q9.px",
+"id": "pp_Q9.px",
+"titulli": "A është sistemi gjyqësor në Kosovë i pavarur nga vendimet e tij, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T11:22:12"
+},
+{
+"rruga": "UNDP/Sistemi Juridik/pp_Q9_1.px",
+"id": "pp_Q9_1.px",
+"titulli": "A është sistemi gjyqësor në Kosovë i pavarur nga vendimet e tij, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T11:23:35"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_1_1.px",
+"id": "pp_1_1.px",
+"titulli": "Sa jeni të kënaqur me drejtimin ekonomik që Kosova po shkon aktualisht,sipas viteve, 2019 - 2020",
+"perditesuar": "2021-05-26T09:12:23"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_4.px",
+"id": "pp_4.px",
+"titulli": "Sa jeni të kënaqur me drejtimin ekonomik që Kosova po shkon aktualisht,sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T10:57:51"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_4_1.px",
+"id": "pp_4_1.px",
+"titulli": "Sa jeni të kënaqur me drejtimin ekonomik që Kosova po shkon aktualisht, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T11:02:04"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_5.px",
+"id": "pp_5.px",
+"titulli": "Sipas mendimit tuaj, kush është më përgjegjësi për situatën aktuale ekonomike në Kosovë, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T11:04:45"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_5_1.px",
+"id": "pp_5_1.px",
+"titulli": "Sipas mendimit tuaj, kush është më përgjegjësi për situatën aktuale ekonomike në Kosovë, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T11:06:35"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_6.px",
+"id": "pp_6.px",
+"titulli": "A do të bashkoheni në protestat publike që mund të organizohen për shkak të situatës aktuale ekonomike, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T11:08:21"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_6_1.px",
+"id": "pp_6_1.px",
+"titulli": "A do të bashkoheni në protestat publike që mund të organizohen për shkak të situatës aktuale ekonomike, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T11:09:25"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_19.px",
+"id": "pp_19.px",
+"titulli": "Cilat janë pritjet tuaja në lidhje me të gjitha të ardhurat të familjes suaj gjashtë muaj nga tani, sipas etnicitetit, 2011 - 2024",
+"perditesuar": "2025-02-25T10:34:29"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_Q19_1.px",
+"id": "pp_Q19_1.px",
+"titulli": "Cilat janë pritjet tuaja në lidhje me të gjitha të ardhurat të familjes suaj gjashtë muaj nga tani, sipas gjinisë 2011 - 2024",
+"perditesuar": "2025-02-25T10:40:54"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_Q23.px",
+"id": "pp_Q23.px",
+"titulli": "Gjatë 6 muajve të ardhshëm, a prisni që situata ekonomike e vendit të jetë më e mirë, e pandryshuar ose më keq sipas përkatësia etnike, 2011 - 2024",
+"perditesuar": "2025-02-25T13:25:16"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_Q23_1.px",
+"id": "pp_Q23_1.px",
+"titulli": "Gjatë 6 muajve të ardhshëm, a prisni që situata ekonomike e vendit të jetë më e mirë, e pandryshuar ose më e keqe,sipas gjinisë, 2019 - 2024",
+"perditesuar": "2025-02-25T13:26:52"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_Q24.px",
+"id": "pp_Q24.px",
+"titulli": "A prisni që gjatë 2 viteve të ardhshme situata ekonomike e vendit të jetë më e mirë, e pandryshuar ose më e keqe, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-25T13:29:00"
+},
+{
+"rruga": "UNDP/Situata Ekonomike/pp_Q24_1.px",
+"id": "pp_Q24_1.px",
+"titulli": "A prisni që gjatë 2 viteve të ardhshme situata ekonomike e vendit të jetë më e mirë, e pandryshuar ose më e keqe,sipas etnicitetit 2011 - 2024",
+"perditesuar": "2025-02-25T13:30:48"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_1.px",
+"id": "pp_1.px",
+"titulli": "Sa jeni të kënaqur me drejtimin politik drejt të cilit aktualisht po shkon Kosova, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T10:45:40"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_1_2.px",
+"id": "pp_1_2.px",
+"titulli": "Sa jeni të kënaqur me drejtimin politik drejt të cilit aktualisht po shkon Kosova, sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T10:41:38"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_2_1.px",
+"id": "pp_2_1.px",
+"titulli": "Sipas mendimit tuaj, kush është më përgjegjësi për situatën aktuale politike në Kosovë,sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T10:50:18"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_3.px",
+"id": "pp_3.px",
+"titulli": "A do të bashkoheshit në protestat publike nëse ato do të organizoheshin për shkak të situatës aktuale politike, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T10:51:40"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_2.px",
+"id": "pp_2.px",
+"titulli": "Sipas mendimit tuaj, kush është më përgjegjësi për situatën aktuale politike në Kosovë,sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T10:48:10"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_3_1.px",
+"id": "pp_3_1.px",
+"titulli": "A do të bashkoheni në protestat publike nëse ato do të organizoheshin për shkak të situatës aktuale politike,sipas përkatësisë etnike, 2011 - 2024",
+"perditesuar": "2025-02-24T10:53:01"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q15.px",
+"id": "pp_Q15.px",
+"titulli": "Pavarësisht nga politika ditore dhe duke shikuar përpara për të ardhmen, a jeni dakord që proceset demokratike në Kosovë janë vendosur dhe po shkojnë në drejtimin e duhur, sipas etnicitetit, 2011 - 2024",
+"perditesuar": "2025-02-24T13:55:33"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q15_1.px",
+"id": "pp_Q15_1.px",
+"titulli": "Pavarësisht nga politika ditore dhe duke shikuar përpara për të ardhmen, a jeni dakord që proceset demokratike në Kosovë janë vendosur dhe po shkojnë në drejtimin e duhur, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T13:56:30"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q16.px",
+"id": "pp_Q16.px",
+"titulli": "Sipas mendimit tuaj, çfarë është e rëndësishme për punësimin në sektorin publik (institucionet), sipas etnicitetit, 2011 - 2024",
+"perditesuar": "2025-02-24T15:14:58"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q16_1.px",
+"id": "pp_Q16_1.px",
+"titulli": "Në lidhje me punësimin, cili nga institucionet e mëposhtme mendoni se zbaton rekrutimin e drejtë, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-24T15:18:30"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q17.px",
+"id": "pp_Q17.px",
+"titulli": "Sipas mendimit tuaj, çfarë është e rëndësishme për punësimin në sektorin publik, sipas etnicitetit, 2011 - 2024",
+"perditesuar": "2025-02-25T10:17:29"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q17_1.px",
+"id": "pp_Q17_1.px",
+"titulli": "Sipas mendimit tuaj, çfarë është e rëndësishme për punësimin në sektorin publik, sipas gjinisë, 2011 - 2024",
+"perditesuar": "2025-02-25T10:18:34"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q25.px",
+"id": "pp_Q25.px",
+"titulli": "Në gjashtë muajt e fundit a ka pasur një situatë ku jeni ndjerë i diskriminuar,sipas etnicitetit 2011-2020",
+"perditesuar": "2021-05-26T09:19:04"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q25_1.px",
+"id": "pp_Q25_1.px",
+"titulli": "Në gjashtë muajt e fundit a ka pasur një situatë ku jeni ndjerë i diskriminuar,sipas gjinisë 2011-2020",
+"perditesuar": "2021-05-26T09:19:35"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q26.px",
+"id": "pp_Q26.px",
+"titulli": "A mendoni se vota juaj mund të ndryshojë situatën në Kosovë, sipas përkatësisë etnike, 2011 - 2020",
+"perditesuar": "2021-05-26T09:19:49"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q26_1.px",
+"id": "pp_Q26_1.px",
+"titulli": "A mendoni se vota juaj mund të ndryshojë situatën në Kosovë, sipas gjinisë, 2011 - 2020",
+"perditesuar": "2021-05-26T09:20:12"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q27.px",
+"id": "pp_Q27.px",
+"titulli": "A planifikoni personalisht të emigroni nga Kosova, sipas etnicitetit , 2011-2020",
+"perditesuar": "2021-05-26T09:20:31"
+},
+{
+"rruga": "UNDP/Situata Politike/pp_Q27_1.px",
+"id": "pp_Q27_1.px",
+"titulli": "A planifikoni të emigroni nga Kosova, sipas gjinisë, 2011-2020",
+"perditesuar": "2021-05-26T09:20:47"
+}
+]
