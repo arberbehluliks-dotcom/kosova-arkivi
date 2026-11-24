@@ -126,7 +126,12 @@
     "njesia": ""
    }
   ],
-  "publikuar": "2026-11"
+  "publikuar": "2026-11",
+  "zbulo": {
+   "model": "https://bqk-kos.org/wp-content/uploads/{vit_ngarkimi}/{muaj:02d}/BQK_VTE_TM{q}_{vit}.pdf",
+   "q": 2,
+   "vit": 2026
+  }
  },
  {
   "id": "kryeministri-vendime",

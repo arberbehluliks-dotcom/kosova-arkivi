@@ -44,6 +44,12 @@ def test_rregullat_aktive_kundrejt_tekstit_real():
             assert v is not None, (r["seri"], r["periudha"])
             assert ekz and max(ekz, key=lambda o: (o["collected"], o["seq"]))["v"] == v, (r["seri"], r["periudha"], v)
 
+def test_zbulimi():
+    b = {"id": "x", "zbulo": {"model": "https://s/{vit_ngarkimi}/{muaj:02d}/V_TM{q}_{vit}.pdf", "q": 4, "vit": 2026}}
+    r = motor.zbulo(b, "2027-01-15", head=lambda u: 200 if u.endswith("2027/02/V_TM1_2027.pdf") else 404)
+    assert r == [{"burimi": "x", "tremujori": "TM1 2027", "url": "https://s/2027/02/V_TM1_2027.pdf"}], r
+    assert motor.zbulo(b, "2027-01-15", head=lambda u: 404) == []
+
 if __name__ == "__main__":
     for n, f in list(globals().items()):
         if n.startswith("test_"): f(); print("OK", n)

@@ -23,6 +23,22 @@ def lexo(burimi):
         tekst, tabela = re.sub(r"<[^>]+>", " ", r.text) + "\n\nLIDHJET\n" + lidhje, []
     return tekst, tabela, hash_
 
+def tremujori_pas(q, vit): return (q + 1, vit) if q < 4 else (1, vit + 1)
+
+def zbulo(b, sot, head=None):
+    """Kërkon dokumentin e tremujorit pasardhës duke provuar adresat e mundshme (muaji i ngarkimit ndryshon).
+    Kthen listën e adresave që ekzistojnë. Nuk i aplikon: raporton, që rregullat të shkruhen sipas tekstit real."""
+    head = head or (lambda u: requests.head(u, timeout=30, allow_redirects=True, headers={"User-Agent": "MonitoriPlanit/1.0"}).status_code)
+    z = b["zbulo"]; q, vit = tremujori_pas(z["q"], z["vit"])
+    d = datetime.date.fromisoformat(sot); gjetur = []
+    for k in range(-1, 9):                       # nga muaji paraardhës deri 8 muaj përpara
+        m = d.month - 1 + k; y = d.year + m // 12; mm = m % 12 + 1
+        u = z["model"].format(vit_ngarkimi=y, muaj=mm, q=q, vit=vit)
+        try:
+            if head(u) == 200: gjetur.append({"burimi": b["id"], "tremujori": f"TM{q} {vit}", "url": u}); break
+        except Exception: pass
+    return gjetur
+
 def numri(s): return float(s.replace(",", "."))
 
 def nxirr(tekst, rregulli):
@@ -45,10 +61,11 @@ def main():
     sot = datetime.date.today().isoformat()
     obs = json.load(open(f"{a.arkivi}/observations.json", encoding="utf-8"))
     burimet = json.load(open("burimet.json", encoding="utf-8"))
-    ndryshime, gabime, prova, perputhen = [], [], [], []
+    ndryshime, gabime, prova, perputhen, te_reja = [], [], [], [], []
     for b in burimet:
         try: tekst, _, h = lexo(b)
         except Exception as e: gabime.append({"burimi": b["id"], "gabim": str(e)}); continue
+        if b.get("zbulo"): te_reja += zbulo(b, sot)
         os.makedirs("../debug", exist_ok=True); open(f"../debug/{b['id']}.txt", "w", encoding="utf-8").write(tekst)
         for r in b["nxjerrjet"]:
             v = nxirr(tekst, r)
@@ -59,7 +76,7 @@ def main():
             if nd is None: perputhen.append({"seri": r["seri"], "periudha": r["periudha"], "vlera": v})
             nd and nd.update(burimi_emri=b["emri"], metodologjia=b.get("metodologjia", "Sipas dokumentit të burimit"), publikuar=b.get("publikuar"))
             if nd: nd.update(burimi=b["url"], hash=h); ndryshime.append(nd)
-    json.dump({"data": sot, "ndryshime": ndryshime, "prova": prova, "perputhen": perputhen, "gabime": gabime}, open(a.dalja, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    json.dump({"data": sot, "ndryshime": ndryshime, "prova": prova, "perputhen": perputhen, "dokumente_te_reja": te_reja, "gabime": gabime}, open(a.dalja, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(len(ndryshime), "ndryshime,", len(prova), "vlera prove (rregull jo aktiv),", len(gabime), "gabime")
     if a.apliko: apliko(a.arkivi, obs, ndryshime, sot)
 
