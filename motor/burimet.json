@@ -40,6 +40,90 @@
     "regex": "përshpejtim të rritjes vjetore në (\\d+\\.\\d) përqind nga",
     "aktiv": true,
     "njesia": ""
+   },
+   {
+    "seri": "bqk-0",
+    "periudha": "TM2 2026",
+    "regex": "rritje reale të BPV-së prej (\\d+\\.\\d) përqind, duke",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-0",
+    "periudha": "TM2 2025",
+    "regex": "rritjen prej (\\d+\\.\\d) përqind në TM2 2025 \\(Grafiku",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-1",
+    "periudha": "TM2 2026",
+    "regex": "Inflacioni bazë u ngadalësua në (\\d+\\.\\d) përqind, nga",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-1",
+    "periudha": "TM1 2026",
+    "regex": "Inflacioni bazë u ngadalësua në \\d+\\.\\d përqind, nga (\\d+\\.\\d) përqind në TM1",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-6",
+    "periudha": "TM2 2026",
+    "regex": "duke zbritur\\s+në (\\d+\\.\\d) përqind, nga \\d+\\.\\d përqind në tremujorin",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-6",
+    "periudha": "TM1 2026",
+    "regex": "duke zbritur\\s+në \\d+\\.\\d përqind, nga (\\d+\\.\\d) përqind në tremujorin",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-7",
+    "periudha": "TM2 2026",
+    "regex": "arritën në (\\d+\\.\\d) milionë euro, duke shënuar rritje vjetore prej \\d+\\.\\d përqind, ndërsa Investimet",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-12",
+    "periudha": "TM2 2026",
+    "regex": "arritën në \\d+\\.\\d milionë euro, duke shënuar rritje vjetore prej (\\d+\\.\\d) përqind, ndërsa Investimet",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-8",
+    "periudha": "TM2 2026",
+    "regex": "duke arritur vlerën prej (\\d+\\.\\d) milionë euro",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-13",
+    "periudha": "TM2 2026",
+    "regex": "\\(IHD\\)\\s+shënuan rritje prej (\\d+\\.\\d) përqind",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-11",
+    "periudha": "TM2 2026",
+    "regex": "Deficiti i llogarisë rrjedhëse u zgjerua në\\s+(\\d+\\.\\d) milionë euro në TM2 2026",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-11",
+    "periudha": "TM2 2025",
+    "regex": "milionë euro në TM2 2026, nga\\s+(\\d+\\.\\d)\\s+milionë euro",
+    "aktiv": true,
+    "njesia": ""
    }
   ],
   "publikuar": "2026-11"

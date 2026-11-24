@@ -29,6 +29,21 @@ def test_vetem_shtim():
     assert len(json.load(open(f"{d}/pending.json"))) == 1                       # e madhja pret miratim
     shutil.rmtree(d)
 
+def test_rregullat_aktive_kundrejt_tekstit_real():
+    """Çdo rregull aktiv duhet të gjejë vlerën te teksti real i ruajtur dhe ajo të përputhet me arkivin."""
+    p = "../debug/bqk-vte.txt"
+    if not os.path.exists(p): return
+    t = open(p, encoding="utf-8").read()
+    obs = json.load(open("../data/observations.json", encoding="utf-8"))
+    for b in json.load(open("burimet.json", encoding="utf-8")):
+        if b["id"] != "bqk-vte": continue
+        for r in b["nxjerrjet"]:
+            if not r.get("aktiv"): continue
+            v = motor.nxirr(t, r)
+            ekz = [o for o in obs if o["s"] == r["seri"] and o["p"] == r["periudha"]]
+            assert v is not None, (r["seri"], r["periudha"])
+            assert ekz and max(ekz, key=lambda o: (o["collected"], o["seq"]))["v"] == v, (r["seri"], r["periudha"], v)
+
 if __name__ == "__main__":
     for n, f in list(globals().items()):
         if n.startswith("test_"): f(); print("OK", n)
