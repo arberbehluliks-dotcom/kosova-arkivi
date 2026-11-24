@@ -150,33 +150,33 @@
   "nxjerrjet": []
  },
  {
-  "id": "ask-faqja",
-  "emri": "ASK, faqe për zbulim",
-  "url": "https://ask.rks-gov.net/",
+  "id": "ask-rss",
+  "emri": "ASK, provë API",
+  "url": "https://ask.rks-gov.net/RSS",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
  },
  {
-  "id": "ask-rreth",
-  "emri": "ASK, faqe për zbulim",
-  "url": "https://ask.rks-gov.net/AboutUs",
+  "id": "px-1",
+  "emri": "ASK, provë API",
+  "url": "https://askdata.rks-gov.net/PXWeb/api/v1/sq/",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
  },
  {
-  "id": "ask-api",
-  "emri": "ASK, faqe për zbulim",
-  "url": "https://askapi.rks-gov.net/",
+  "id": "px-2",
+  "emri": "ASK, provë API",
+  "url": "https://askdata.rks-gov.net/pxweb/api/v1/sq/ASKdata",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
  },
  {
-  "id": "ask-swagger",
-  "emri": "ASK, faqe për zbulim",
-  "url": "https://askapi.rks-gov.net/swagger/index.html",
+  "id": "px-3",
+  "emri": "ASK, provë API",
+  "url": "https://askdata.rks-gov.net/pxweb/api/v1/sq/ASKdata/Price%20statistics",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
