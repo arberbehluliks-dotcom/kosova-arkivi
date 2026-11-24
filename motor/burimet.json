@@ -152,23 +152,31 @@
  {
   "id": "ask-faqja",
   "emri": "ASK, faqe për zbulim",
-  "url": "https://ask.rks-gov.net/sq/",
+  "url": "https://ask.rks-gov.net/",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
  },
  {
-  "id": "ask-publikime",
+  "id": "ask-rreth",
   "emri": "ASK, faqe për zbulim",
-  "url": "https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/publikimet",
+  "url": "https://ask.rks-gov.net/AboutUs",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
  },
  {
-  "id": "ask-lajme",
+  "id": "ask-api",
   "emri": "ASK, faqe për zbulim",
-  "url": "https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/lajme",
+  "url": "https://askapi.rks-gov.net/",
+  "lloji": "html",
+  "frekuenca": "javore",
+  "nxjerrjet": []
+ },
+ {
+  "id": "ask-swagger",
+  "emri": "ASK, faqe për zbulim",
+  "url": "https://askapi.rks-gov.net/swagger/index.html",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
