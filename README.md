@@ -5,3 +5,7 @@
 - Historiku i plotë i versioneve është historiku i git (çdo commit = një version i të dhënave).
 Hapat: 1) krijo repo në GitHub, 2) ngarko këto skedarë, 3) Settings > Pages > Deploy from branch, 4) Actions > "Përditëso të dhënat" > Run workflow për provë.
 Para përdorimit provo rregullat regex të `burimet.json` me një PDF real: janë të pa provuara.
+
+## Si aktivizohet një rregull nxjerrjeje
+Rregullat te `motor/burimet.json` fillojnë me `"aktiv": false`. Motori i ekzekuton, por vlerën e gjetur e shkruan vetëm te `data/ndryshime.json` nën `prova`, pa e ruajtur në arkiv. Krahaso vlerën me dokumentin dhe vetëm pastaj vendos `"aktiv": true`.
+Prova automatike pa rrjet: `cd motor && python test_motor.py`.
