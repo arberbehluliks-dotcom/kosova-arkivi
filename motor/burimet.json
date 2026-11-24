@@ -246,12 +246,21 @@
  },
  {
   "id": "pxt-cpi01",
-  "emri": "ASK PxWeb: cpi01",
+  "emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
   "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
   "lloji": "pxtab",
-  "periudha": 14,
+  "periudha": 40,
   "frekuenca": "javore",
-  "nxjerrjet": []
+  "nxjerrjet": [],
+  "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
+  "harta": {
+   "2": {
+    "seri": "cpi-vjetor",
+    "sec": "Çmimet (ASK)",
+    "t": "Inflacioni vjetor (IHÇK), mujor",
+    "unit": "%"
+   }
+  }
  },
  {
   "id": "pxt-cpi09",
