@@ -48,6 +48,7 @@ def main():
     for b in burimet:
         try: tekst, _, h = lexo(b)
         except Exception as e: gabime.append({"burimi": b["id"], "gabim": str(e)}); continue
+        os.makedirs("../debug", exist_ok=True); open(f"../debug/{b['id']}.txt", "w", encoding="utf-8").write(tekst)
         for r in b["nxjerrjet"]:
             v = nxirr(tekst, r)
             if v is None: gabime.append({"burimi": b["id"], "seri": r["seri"], "gabim": "nuk u gjet vlera"}); continue
