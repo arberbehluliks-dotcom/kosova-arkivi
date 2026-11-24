@@ -150,33 +150,33 @@
   "nxjerrjet": []
  },
  {
-  "id": "ask-rss",
+  "id": "px-a",
   "emri": "ASK, provë API",
-  "url": "https://ask.rks-gov.net/RSS",
+  "url": "https://askdata.rks-gov.net/pxweb/api/v1/sq/ASKdata/",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
  },
  {
-  "id": "px-1",
+  "id": "px-b",
   "emri": "ASK, provë API",
-  "url": "https://askdata.rks-gov.net/PXWeb/api/v1/sq/",
+  "url": "https://askdata.rks-gov.net/pxweb/api/v1/en/ASKdata/",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
  },
  {
-  "id": "px-2",
+  "id": "px-c",
   "emri": "ASK, provë API",
-  "url": "https://askdata.rks-gov.net/pxweb/api/v1/sq/ASKdata",
+  "url": "https://askdata.rks-gov.net/pxweb/sq/ASKdata/",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
  },
  {
-  "id": "px-3",
+  "id": "px-d",
   "emri": "ASK, provë API",
-  "url": "https://askdata.rks-gov.net/pxweb/api/v1/sq/ASKdata/Price%20statistics",
+  "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/",
   "lloji": "html",
   "frekuenca": "javore",
   "nxjerrjet": []
