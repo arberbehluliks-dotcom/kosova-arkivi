@@ -159,21 +159,72 @@
  },
  {
   "id": "pxt-qarkullimi",
-  "emri": "ASK PxWeb: pxt-qarkullimi",
+  "emri": "ASK, Qarkullimi i mallrave në tregtinë e jashtme (PxWeb)",
   "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/External%20trade/Monthly%20indicators/08_qarkullimi.px",
   "lloji": "pxtab",
   "periudha": 14,
   "frekuenca": "javore",
-  "nxjerrjet": []
+  "nxjerrjet": [],
+  "metodologjia": "ASK, statistikat mujore të tregtisë së jashtme; vlerat në milionë € (rreshtat e publikuar në mijë € konvertohen)",
+  "harta": {
+   "0": {
+    "seri": "tj-eksport",
+    "sec": "Tregtia e jashtme (ASK)",
+    "t": "Eksportet e mallrave (FOB), mujore",
+    "unit": "mln €",
+    "mln": true
+   },
+   "1": {
+    "seri": "tj-import",
+    "sec": "Tregtia e jashtme (ASK)",
+    "t": "Importet e mallrave (CIF), mujore",
+    "unit": "mln €",
+    "mln": true
+   },
+   "2": {
+    "seri": "tj-bilanc",
+    "sec": "Tregtia e jashtme (ASK)",
+    "t": "Bilanci tregtar, mujor",
+    "unit": "mln €",
+    "mln": true
+   },
+   "3": {
+    "seri": "tj-mbulim",
+    "sec": "Tregtia e jashtme (ASK)",
+    "t": "Përqindja e mbulimit të importit nga eksporti",
+    "unit": "%"
+   }
+  }
  },
  {
   "id": "pxt-ppi",
-  "emri": "ASK PxWeb: pxt-ppi",
+  "emri": "ASK, Indeksi i Çmimeve të Prodhimit (PxWeb)",
   "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Producer%20Price%20Index/PPI01new.px",
   "lloji": "pxtab",
   "periudha": 14,
   "frekuenca": "javore",
-  "nxjerrjet": []
+  "nxjerrjet": [],
+  "metodologjia": "ASK, indeks me bazë 2021=100; ndryshimet tremujore dhe vjetore siç i publikon ASK",
+  "harta": {
+   "0": {
+    "seri": "ppi-0",
+    "sec": "Çmimet (ASK)",
+    "t": "Indeksi i çmimeve të prodhimit (2021=100)",
+    "unit": "indeks"
+   },
+   "1": {
+    "seri": "ppi-1",
+    "sec": "Çmimet (ASK)",
+    "t": "Çmimet e prodhimit, ndryshimi tremujor",
+    "unit": "%"
+   },
+   "2": {
+    "seri": "ppi-2",
+    "sec": "Çmimet (ASK)",
+    "t": "Çmimet e prodhimit, ndryshimi vjetor",
+    "unit": "%"
+   }
+  }
  },
  {
   "id": "pxt-pagat",

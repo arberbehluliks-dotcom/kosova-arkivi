@@ -62,6 +62,29 @@ def px_tabela(url, n_periudha=12):
     r = requests.post(url, json={"query": q, "response": {"format": "json-stat2"}}, timeout=120, headers=h); r.raise_for_status()
     return {"meta": meta, "te_dhenat": r.json()}
 
+def px_periudha(k):
+    m = re.match(r"(\d{4})(?:Q|TM)(\d)$", k)
+    if m: return f"T{m.group(2)} {m.group(1)}"
+    m = re.match(r"(\d{4})M(\d{2})$", k)
+    if m: return f"{m.group(1)}-{m.group(2)}"
+    return k
+
+def px_vlera(tab, harta):
+    """Kthen [(seri, periudha, vlera)] nga json-stat2 sipas hartës {var_kodi: {seri, mln}}."""
+    t = tab["te_dhenat"]; ids = t["id"]; dims = t["dimension"]
+    vv = [i for i in ids if any(k in dims[i]["category"]["index"] for k in harta)][0]
+    tt = [i for i in ids if i != vv][0]
+    ix_v = list(dims[vv]["category"]["index"]); ix_t = list(dims[tt]["category"]["index"])
+    lab_t = dims[tt]["category"]["label"]; out = []
+    for a, kv in enumerate(ix_v):
+        if kv not in harta: continue
+        for b, kt in enumerate(ix_t):
+            val = t["value"][a * len(ix_t) + b] if ids.index(vv) < ids.index(tt) else t["value"][b * len(ix_v) + a]
+            if val is None: continue
+            if harta[kv].get("mln") and abs(val) > 5000: val = round(val / 1000, 1)
+            out.append((harta[kv]["seri"], px_periudha(lab_t[kt] if lab_t[kt][:4].isdigit() and "Q" in kt else kt), float(val)))
+    return out
+
 def numri(s): return float(s.replace(",", "."))
 
 def nxirr(tekst, rregulli):
@@ -89,7 +112,15 @@ def main():
         if b.get("lloji") == "pxtab":
             try:
                 os.makedirs("../debug", exist_ok=True)
-                json.dump(px_tabela(b["url"], b.get("periudha", 12)), open(f"../debug/{b['id']}.json", "w", encoding="utf-8"), ensure_ascii=False)
+                tab = px_tabela(b["url"], b.get("periudha", 12))
+                json.dump(tab, open(f"../debug/{b['id']}.json", "w", encoding="utf-8"), ensure_ascii=False)
+                if b.get("harta"):
+                    pub = tab["te_dhenat"].get("updated", "")[:10] or None
+                    for seri, per, v in px_vlera(tab, b["harta"]):
+                        nd = krahaso(obs, seri, per, v, sot)
+                        if nd is None: perputhen.append({"seri": seri, "periudha": per, "vlera": v}); continue
+                        nd.update(burimi_emri=b["emri"], metodologjia=b["metodologjia"], publikuar=None, burimi=b["url"], hash="px-" + sot)
+                        ndryshime.append(nd)
             except Exception as e: gabime.append({"burimi": b["id"], "gabim": str(e)[:300]})
             continue
         if b.get("lloji") == "px":
@@ -119,6 +150,12 @@ def apliko(dir_, obs, ndryshime, sot):
     """Vetëm SHTON regjistrime. Asgjë nuk fshihet e nuk mbishkruhet. Të mëdhatë shkojnë te pending.json."""
     f = f"{dir_}/changes.json"
     log = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else []
+    sf = f"{dir_}/series.json"; ser = json.load(open(sf, encoding="utf-8")); ids = {x["id"] for x in ser}
+    for b in json.load(open("burimet.json", encoding="utf-8")):
+        for h in (b.get("harta") or {}).values():
+            if h["seri"] not in ids:
+                ser.append({"id": h["seri"], "sec": h["sec"], "t": h["t"], "unit": h["unit"], "src": [{"k": b["id"], "t": b["emri"], "u": b["url"]}], "note": "", "method": b["metodologjia"], "checked": sot}); ids.add(h["seri"])
+    json.dump(ser, open(sf, "w", encoding="utf-8"), ensure_ascii=False)
     pending = [n for n in ndryshime if n["shqyrtim"]]
     for n in ndryshime:
         if n["shqyrtim"]: continue
