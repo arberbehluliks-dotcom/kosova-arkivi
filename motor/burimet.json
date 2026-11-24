@@ -1,0 +1,7 @@
+[
+ {"id":"bqk-vte","emri":"BQK, Vlerësimi Tremujor i Ekonomisë","url":"https://bqk-kos.org/wp-content/uploads/2026/11/BQK_VTE_TM2_2026.pdf","lloji":"pdf","frekuenca":"tremujore",
+  "nxjerrjet":[
+   {"seri":"tm2026-0","periudha":"T2 2026","regex":"inflacion\\w*[^.]{0,120}?(\\d+[.,]\\d)\\s*%","njesia":"%"},
+   {"seri":"tm2026-1","periudha":"Kreditë","regex":"kredi\\w*[^.]{0,120}?(\\d+[.,]\\d)\\s*%","njesia":"%"}]},
+ {"id":"kryeministri-vendime","emri":"Zyra e Kryeministrit, vendimet e mbledhjeve","url":"https://kryeministri.rks-gov.net/dokumente/","lloji":"html","frekuenca":"javore","nxjerrjet":[]}
+]

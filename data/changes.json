@@ -1,0 +1,32 @@
+[
+ {
+  "ts": "2026-11-23",
+  "kind": "krijim",
+  "target": "Arkivi",
+  "summary": "Arkivi u krijua nga Monitori i Planit: 21 tabela dhe 15 tregues me 58 vlera."
+ },
+ {
+  "ts": "2026-11-24",
+  "kind": "periudhë e re",
+  "target": "Punësimi (ASK)",
+  "summary": "U lexuan dy dokumente zyrtare të ASK (AFP 2024, publikuar 22.05.2025, dhe AFP TM4 2024, publikuar 20.05.2025). U shtuan 4 seri, 7 vëzhgime dhe 1 konfirmim i papunësisë 2024 (10.8%, pa ndryshim kundrejt BQK). ASK nuk ka dhënë ende AFP 2025 në burimet e kontrolluara."
+ },
+ {
+  "ts": "2026-11-24",
+  "kind": "periudhë e re",
+  "target": "Punësimi (ASK)",
+  "summary": "U lexuan 3 dokumente të tjera të ASK (AFP 2023, AFP 2024 sipas gjinisë, AFP TM2 2024). U shtuan 7 seri sipas gjinisë dhe llojit, 3 vëzhgime të reja dhe 4 tregues të llogaritur. Vlera 2023 për punësimin tani ka datë publikimi të verifikuar (korrik 2024)."
+ },
+ {
+  "ts": "2026-11-24",
+  "kind": "periudhë e re",
+  "target": "Tregtia, çmimet, financat (ASK)",
+  "summary": "U lexuan 4 dokumente zyrtare të ASK: tregtia e jashtme qershor 2026, kostoja e ndërtimit TM2 2026, çmimet e prodhimit TM4 2025 dhe llogaritë qeveritare 2020-2024. U shtuan 8 seri dhe 3 tregues të llogaritur. Dy prej tyre u kontrolluan me vlerat e publikuara dhe përputhen."
+ },
+ {
+  "ts": "2026-11-24",
+  "kind": "periudhë e re",
+  "target": "Ekonomia 2026 (BQK)",
+  "summary": "U lexua dokumenti zyrtar i BQK-së (Vlerësimi Tremujor nr. 55, T2 2026). U shtuan 16 seri dhe 1 periudhë krahasuese (inflacioni T2 2025), me 6 tregues të llogaritur. Data e saktë e publikimit nuk shfaqet në tekst; përdoret muaji i ngarkimit (nëntor 2026). Deficiti i llogarisë rrjedhëse +22.9% u kontrollua dhe përputhet."
+ }
+]
