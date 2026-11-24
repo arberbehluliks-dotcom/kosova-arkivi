@@ -1,0 +1,398 @@
+
+
+ 
+
+ 
+     
+	Zgjidh tabelën
+ 
+     
+     
+     
+     
+     
+     
+    
+      
+      
+      
+      
+      
+      
+      
+
+    
+ 
+ 
+     
+     
+ 
+ 
+
+
+  
+  
+ 
+ 
+         
+             
+                      
+             Shko lart 
+         
+             
+               
+                 Kalo te përmbajtja kryesore 
+                 
+                       
+                     &#160; 
+                 
+                 
+                
+                     
+                               Srpski          English     
+                     
+                 
+               
+            
+           
+            
+             
+             
+	
+
+ 
+       
+     / 
+     ASKdata 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+    
+    
+    
+      
+ 
+
+
+
+
+ 
+             
+            
+             
+	ASKdata
+ 
+             
+             
+	
+  
+    Tre hapat janë: Zgjidh tabelën, Zgjidh variablin dhe Shfaq rezultatin. Aktualisht jeni në hapin:Zgjidh tabelën 
+  
+     
+     
+         Zgjidh tabelën   
+   
+       
+
+         Zgjidh variablin  
+  
+       
+
+         Shfaq tabelën  
+     
+          
+  
+
+  
+             
+                 
+                    
+                    
+                 
+             
+           
+            
+                
+     
+        
+
+ 
+     
+	
+         Kërko në ASKdata: 
+         
+         
+          
+         
+    
+ 
+    
+
+     
+     
+     
+      
+      
+          You are now in the first main page of PxWeb, where the goal is to select a table. You may find your table by seach or by drilling down in the menu three.  
+         
+     
+	 
+		
+     
+         
+         
+			
+            
+			 
+					 
+						 
+							 &nbsp; 
+							 
+								Anketa  mbi të Ardhurat dhe Kushtet e Jetesës 
+						 
+						 
+							 &nbsp; 
+							 
+								Anketa e Buxhetit të familjes 
+						 
+						 
+							 &nbsp; 
+							 
+								Anketa e Treguesve të Shumëfishtë - MICS  
+						 
+						 
+							 &nbsp; 
+							 
+								Arsimi 
+						 
+						 
+							 &nbsp; 
+							 
+								Bujqësia 
+						 
+						 
+							 &nbsp; 
+							 
+								Çmimet 
+						 
+						 
+							 &nbsp; 
+							 
+								Drejtësia 
+						 
+						 
+							 &nbsp; 
+							 
+								Energjia 
+						 
+						 
+							 &nbsp; 
+							 
+								Hoteleria dhe Turizmi  
+						 
+						 
+							 &nbsp; 
+							 
+								Investimet në Ndërrmarrje 
+						 
+						 
+							 &nbsp; 
+							 
+								Kultura dhe sporti 
+						 
+						 
+							 &nbsp; 
+							 
+								Llogaritë kombëtare dhe qeveritare 
+						 
+						 
+							 &nbsp; 
+							 
+								Mjedisi 
+						 
+						 
+							 &nbsp; 
+							 
+								Popullsia 
+						 
+						 
+							 &nbsp; 
+							 
+								PRODCOM 
+						 
+						 
+							 &nbsp; 
+							 
+								Regjistri statistikor i bizneseve 
+						 
+						 
+							 &nbsp; 
+							 
+								Regjistrimi popullsisë 
+						 
+						 
+							 &nbsp; 
+							 
+								Shëndetësia dhe mirëqenia sociale 
+						 
+						 
+							 &nbsp; 
+							 
+								Statistikat afatshkurtëra 
+						 
+						 
+							 &nbsp; 
+							 
+								Statistikat strukturore të bizneseve 
+						 
+						 
+							 &nbsp; 
+							 
+								Të dhëna gjeografike 
+						 
+						 
+							 &nbsp; 
+							 
+								TIK në Ekonomi Familjare dhe Biznese 
+						 
+						 
+							 &nbsp; 
+							 
+								Transporti 
+						 
+						 
+							 &nbsp; 
+							 
+								Tregtia e jashtme 
+						 
+						 
+							 &nbsp; 
+							 
+								Tregu i punës  
+						 
+						 
+							 &nbsp; 
+							 
+								UNDP 
+						 
+					 
+
+			 
+        
+		 
+
+         
+			
+            
+            
+            
+        
+		 
+     
+
+	 
+
+ 
+
+    jQuery(document).ready(function () {
+        jQuery('a[rel="_blank"]').each(function () {
+            jQuery(this).attr('target', '_blank');
+        });
+    });
+
+ 
+
+ 
+     
+
+ 
+
+    
+
+     
+        
+     
+
+             
+            
+             
+                 
+                      
+                 
+                 
+                    
+  
+                 
+                                  
+             
+         
+    
+
+ 
+// 
+ 
+ 
+ 
+     
+        "use strict";
+        // Set a variable for our button element.
+        var scrollToTopButton = document.getElementById('ctl00_ToTheTopButton');
+        var lastScrollYPos = 0;
+
+        scrollToTopButton.className = "top-link pxweb-btn negative hidden";
+
+        // Let's set up a function that shows our scroll-to-top button if we scroll beyond the height of the initial window.
+        var scrollFunc = function scrollFunc(lastScrollYPos) {
+            // Get the current scroll value
+            var y = window.pageYOffset; // If the scroll value is greater than the window height, let's add a class to the scroll-to-top button to show it!
+
+            if (y > 300 && y  
+ 
+ 
+
+
+
+
+LIDHJET
+Shko lart => javascript:__doPostBack(&#39;ctl00$ToTheTopButton&#39;,&#39;&#39;)
+Kalo te përmbajtja kryesore => #pxcontent
+ => /pxweb/sq/
+Srpski => /pxweb/sr/ASKdata/
+English => /pxweb/en/ASKdata/
+ => /pxweb/sq/
+Anketa  mbi të Ardhurat dhe Kushtet e Jetesës => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Anketa mbi të Ardhurat dhe Kushtet e Jetesës')
+Anketa e Buxhetit të familjes => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Household budget survey')
+Anketa e Treguesve të Shumëfishtë - MICS => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__MICS')
+Arsimi => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Education')
+Bujqësia => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Agriculture')
+Çmimet => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Prices')
+Drejtësia => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Justice')
+Energjia => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Energy')
+Hoteleria dhe Turizmi => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Tourism and hotels')
+Investimet në Ndërrmarrje => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Investimet në Ndërrmarrje')
+Kultura dhe sporti => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Culture and sport')
+Llogaritë kombëtare dhe qeveritare => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__National and government accounts')
+Mjedisi => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Environment')
+Popullsia => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Population')
+PRODCOM => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__PRODCOM')
+Regjistri statistikor i bizneseve => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Statistical business register')
+Regjistrimi popullsisë => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Census population')
+Shëndetësia dhe mirëqenia sociale => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Health and Welfare')
+Statistikat afatshkurtëra => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Short-term statistics')
+Statistikat strukturore të bizneseve => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Structural business statistics')
+Të dhëna gjeografike => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Geographical data')
+TIK në Ekonomi Familjare dhe Biznese => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__ICT')
+Transporti => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Transport')
+Tregtia e jashtme => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__External trade')
+Tregu i punës => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__Labour market')
+UNDP => javascript:__doPostBack('ctl00$ContentPlaceHolderMain$TableOfContent1$TableOfContent1$MenuNavigationTree','pASKdata__UNDP')

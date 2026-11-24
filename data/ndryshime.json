@@ -92,20 +92,12 @@
  "dokumente_te_reja": [],
  "gabime": [
   {
-   "burimi": "ask-rss",
-   "gabim": "400 Client Error: Bad Request for url: https://ask.rks-gov.net/RSS"
+   "burimi": "px-a",
+   "gabim": "500 Server Error: Internal Server Error for url: https://askdata.rks-gov.net/pxweb/api/v1/sq/ASKdata/"
   },
   {
-   "burimi": "px-1",
-   "gabim": "500 Server Error: Internal Server Error for url: https://askdata.rks-gov.net/PXWeb/api/v1/sq/"
-  },
-  {
-   "burimi": "px-2",
-   "gabim": "500 Server Error: Internal Server Error for url: https://askdata.rks-gov.net/pxweb/api/v1/sq/ASKdata"
-  },
-  {
-   "burimi": "px-3",
-   "gabim": "404 Client Error: Not Found for url: https://askdata.rks-gov.net/pxweb/api/v1/sq/ASKdata/Price%20statistics"
+   "burimi": "px-b",
+   "gabim": "500 Server Error: Internal Server Error for url: https://askdata.rks-gov.net/pxweb/api/v1/en/ASKdata/"
   }
  ]
 }
