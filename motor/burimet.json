@@ -9,16 +9,37 @@
    {
     "seri": "tm2026-0",
     "periudha": "T2 2026",
-    "regex": "inflacion\\w*[^.]{0,120}?(\\d+[.,]\\d)\\s*%",
-    "aktiv": false,
-    "njesia": "%"
+    "regex": "Inflacioni në TM2 2026 u përshpejtua në (\\d+\\.\\d) përqind",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-2",
+    "periudha": "Qershor 2026",
+    "regex": "stoku i gjithsej kredive arriti\\s+në (\\d+\\.\\d+) miliardë euro",
+    "aktiv": true,
+    "njesia": ""
    },
    {
     "seri": "bqk-3",
     "periudha": "Qershor 2026",
-    "regex": "kredi\\w*[^.]{0,120}?rritj\\w*[^.]{0,60}?(\\d+[.,]\\d)\\s*%",
-    "aktiv": false,
-    "njesia": "%"
+    "regex": "stoku i gjithsej kredive arriti\\s+në [\\d.]+ miliardë euro,\\s+duke shënuar rritje\\s+vjetore të ngadalësuar prej (\\d+\\.\\d) përqind",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-4",
+    "periudha": "Qershor 2026",
+    "regex": "stoku i depozitave në sektorin bankar arriti në (\\d+\\.\\d+) miliardë euro",
+    "aktiv": true,
+    "njesia": ""
+   },
+   {
+    "seri": "bqk-5",
+    "periudha": "Qershor 2026",
+    "regex": "përshpejtim të rritjes vjetore në (\\d+\\.\\d) përqind nga",
+    "aktiv": true,
+    "njesia": ""
    }
   ],
   "publikuar": "2026-11"

@@ -19,7 +19,8 @@ def lexo(burimi):
             tekst = "\n".join((pg.extract_text() or "") for pg in p.pages)
             tabela = [t for pg in p.pages for t in pg.extract_tables()]
     else:
-        tekst, tabela = re.sub(r"<[^>]+>", " ", r.text), []
+        lidhje = "\n".join(f"{re.sub(r'<[^>]+>', ' ', t).strip()} => {h}" for h, t in re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', r.text, re.S))
+        tekst, tabela = re.sub(r"<[^>]+>", " ", r.text) + "\n\nLIDHJET\n" + lidhje, []
     return tekst, tabela, hash_
 
 def numri(s): return float(s.replace(",", "."))
@@ -44,7 +45,7 @@ def main():
     sot = datetime.date.today().isoformat()
     obs = json.load(open(f"{a.arkivi}/observations.json", encoding="utf-8"))
     burimet = json.load(open("burimet.json", encoding="utf-8"))
-    ndryshime, gabime, prova = [], [], []
+    ndryshime, gabime, prova, perputhen = [], [], [], []
     for b in burimet:
         try: tekst, _, h = lexo(b)
         except Exception as e: gabime.append({"burimi": b["id"], "gabim": str(e)}); continue
@@ -54,9 +55,11 @@ def main():
             if v is None: gabime.append({"burimi": b["id"], "seri": r["seri"], "gabim": "nuk u gjet vlera"}); continue
             if not r.get("aktiv"):
                 prova.append({"burimi": b["id"], "seri": r["seri"], "periudha": r["periudha"], "vlera_e_gjetur": v}); continue
-            nd = krahaso(obs, r["seri"], r["periudha"], v, sot); nd and nd.update(burimi_emri=b["emri"], metodologjia=b.get("metodologjia", "Sipas dokumentit të burimit"), publikuar=b.get("publikuar"))
+            nd = krahaso(obs, r["seri"], r["periudha"], v, sot)
+            if nd is None: perputhen.append({"seri": r["seri"], "periudha": r["periudha"], "vlera": v})
+            nd and nd.update(burimi_emri=b["emri"], metodologjia=b.get("metodologjia", "Sipas dokumentit të burimit"), publikuar=b.get("publikuar"))
             if nd: nd.update(burimi=b["url"], hash=h); ndryshime.append(nd)
-    json.dump({"data": sot, "ndryshime": ndryshime, "prova": prova, "gabime": gabime}, open(a.dalja, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    json.dump({"data": sot, "ndryshime": ndryshime, "prova": prova, "perputhen": perputhen, "gabime": gabime}, open(a.dalja, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(len(ndryshime), "ndryshime,", len(prova), "vlera prove (rregull jo aktiv),", len(gabime), "gabime")
     if a.apliko: apliko(a.arkivi, obs, ndryshime, sot)
 
