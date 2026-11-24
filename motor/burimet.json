@@ -243,5 +243,23 @@
   "periudha": 14,
   "frekuenca": "javore",
   "nxjerrjet": []
+ },
+ {
+  "id": "pxt-cpi01",
+  "emri": "ASK PxWeb: cpi01",
+  "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
+  "lloji": "pxtab",
+  "periudha": 14,
+  "frekuenca": "javore",
+  "nxjerrjet": []
+ },
+ {
+  "id": "pxt-cpi09",
+  "emri": "ASK PxWeb: cpi09",
+  "url": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi09.px",
+  "lloji": "pxtab",
+  "periudha": 14,
+  "frekuenca": "javore",
+  "nxjerrjet": []
  }
 ]
