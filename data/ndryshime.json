@@ -2,16 +2,32 @@
  "data": "2026-11-24",
  "ndryshime": [],
  "prova": [],
- "gabime": [
+ "perputhen": [
   {
-   "burimi": "bqk-vte",
    "seri": "tm2026-0",
-   "gabim": "nuk u gjet vlera"
+   "periudha": "T2 2026",
+   "vlera": 6.8
   },
   {
-   "burimi": "bqk-vte",
+   "seri": "bqk-2",
+   "periudha": "Qershor 2026",
+   "vlera": 7.18
+  },
+  {
    "seri": "bqk-3",
-   "gabim": "nuk u gjet vlera"
+   "periudha": "Qershor 2026",
+   "vlera": 12.5
+  },
+  {
+   "seri": "bqk-4",
+   "periudha": "Qershor 2026",
+   "vlera": 8.05
+  },
+  {
+   "seri": "bqk-5",
+   "periudha": "Qershor 2026",
+   "vlera": 16.7
   }
- ]
+ ],
+ "gabime": []
 }
