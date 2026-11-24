@@ -1,6 +1,13 @@
 OK test_nxjerrja
 OK test_krahasimi
-OK test_vetem_shtim
-OK test_rregullat_aktive_kundrejt_tekstit_real
-OK test_zbulimi
-0 ndryshime, 0 vlera prove (rregull jo aktiv), 0 gabime
+Traceback (most recent call last):
+  File "/home/runner/work/kosova-arkivi/kosova-arkivi/motor/test_motor.py", line 55, in <module>
+    if n.startswith("test_"): f(); print("OK", n)
+                              ^^^
+  File "/home/runner/work/kosova-arkivi/kosova-arkivi/motor/test_motor.py", line 26, in test_vetem_shtim
+    motor.apliko(d, obs, nd, "2026-11-24")
+  File "/home/runner/work/kosova-arkivi/kosova-arkivi/motor/motor.py", line 153, in apliko
+    sf = f"{dir_}/series.json"; ser = json.load(open(sf, encoding="utf-8")); ids = {x["id"] for x in ser}
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpfzem0wn2/series.json'
+122 ndryshime, 0 vlera prove (rregull jo aktiv), 0 gabime

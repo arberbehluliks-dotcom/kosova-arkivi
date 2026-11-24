@@ -314,7 +314,7 @@ div.asl_w .probox .proloading {
  
  
  
-var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 Nov 2026 09:44:51 GMT","maxAge":86400,"path":"/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 Nov 2026 13:46:06 GMT","maxAge":86400,"path":"/"}};
 //# sourceURL=wpml-cookie-js-extra
  
   
@@ -1100,6 +1100,20 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 
             				 
 			           
          
+            Raporti i Vlerësimit Ex-post për Ligjin 08/L-177 për Institutin e Krimeve të Kryera Gjatë Luftës në Kosovë         
+         
+            24/11/2026         
+     
+                      
+                
+                                                 
+                        
+ 
+     
+          
+            				 
+			           
+         
             NJOFTIM &#8211; Përfundon procedura e rekrutimit për pozitën Drejtor i Zyrës për Kontrollin dhe Harmonizimin Gjuhësor, në kuadër të Zyrës së Kryeministrit të Republikës së Kosovës         
          
             23/11/2026         
@@ -1184,7 +1198,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 
             				 
 			           
          
-            Koncept Dokument për identifikimin elektronik, shërbimet e besuara dhe kuletën e identitetit digjital         
+            Projektligji për ratifikimin e Protokollit për ndryshimin e Marrëveshjes mbi statusin dhe funksionet e Komisionit Ndërkombëtar për Personat e Zhdukur         
          
             17/11/2026         
      
@@ -1198,7 +1212,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 
             				 
 			           
          
-            Raporti i Vlerësimit Ex-post për Ligjin nr. 04/L-064 për Agjencinë e Kosovës për Forenzikë         
+            Projektligji për ratifikimin e Konventës për njohjen dhe ekzekutimin e vendimeve të huaja në çështje civile apo tregtare         
          
             17/11/2026         
      
@@ -1212,7 +1226,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 
             				 
 			           
          
-            Projektligji për Ndryshimin dhe Plotësimin e Ligjit nr. 03/L-216 mbi Themelimin e Sistemit për Sigurimin e Depozitave për Institucionet Financiare në Kosovë, Ndryshuar dhe Plotësuar me Ligjin nr. 04/L-133         
+            Projektligji për ratifikimin e Konventës së Lubjanës-Hagës për bashkëpunim ndërkombëtar në hetimin dhe ndjekjen e krimit të gjenocidit, krimeve kundër njerëzimit, krimeve të luftës dhe krimeve të tjera ndërkombëtare         
          
             17/11/2026         
      
@@ -1226,7 +1240,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 
             				 
 			           
          
-            Vendimet e mbledhjes së 12-të të Qeverisë         
+            Projektligji për ratifikimin e Konventës për Marrëveshjet për Zgjedhjen e Gjykatës         
          
             17/11/2026         
      
@@ -1240,21 +1254,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"sq","expires":"Wed, 25 
             				 
 			           
          
-            Projektligji Kundër Dukurive Negative në Sport         
-         
-            17/11/2026         
-     
-                      
-                
-                                                 
-                        
- 
-     
-          
-            				 
-			           
-         
-            Projektligji për ratifikimin e Marrëveshjes për ndihmë të ndërsjelltë juridike në çështje penale ndërmjet Qeverisë së Republikës së Kosovës dhe Qeverisë së Republikës Franceze         
+            Rregullore (ZKM) Nr. 17/2026 për Organizimin e Brendshëm dhe Sistematizimin e Vendeve të Punës në Agjencinë e Regjistrimit të Bizneseve të Kosovës         
          
             17/11/2026         
      
@@ -1866,7 +1866,7 @@ jQuery.uiBackCompat = true;
  
   
  
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"4.3.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_collection_loop":true,"mega-menu":true},"urls":{"assets":"https:\/\/kryeministri.rks-gov.net\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/kryeministri.rks-gov.net\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/kryeministri.rks-gov.net\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"fe09d9a4ae","atomicFormsSendForm":"6be96f548d"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":104014,"title":"Dokumente%20-%20Kryeministri","excerpt":"","featuredImage":"https:\/\/kryeministri.rks-gov.net\/wp-content\/uploads\/2015\/08\/default-image-1-1024x492.png"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"4.3.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_collection_loop":true,"mega-menu":true},"urls":{"assets":"https:\/\/kryeministri.rks-gov.net\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/kryeministri.rks-gov.net\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/kryeministri.rks-gov.net\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"4ed362632e","atomicFormsSendForm":"160755b547"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":104014,"title":"Dokumente%20-%20Kryeministri","excerpt":"","featuredImage":"https:\/\/kryeministri.rks-gov.net\/wp-content\/uploads\/2015\/08\/default-image-1-1024x492.png"}};
 //# sourceURL=elementor-frontend-js-before
  
   
@@ -1882,7 +1882,7 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 //# sourceURL=wp-i18n-js-after
  
  
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/kryeministri.rks-gov.net\/wp-admin\/admin-ajax.php","nonce":"358db35124","urls":{"assets":"https:\/\/kryeministri.rks-gov.net\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/kryeministri.rks-gov.net\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"sq","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/kryeministri.rks-gov.net\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/kryeministri.rks-gov.net\/wp-admin\/admin-ajax.php","nonce":"67f6afc94f","urls":{"assets":"https:\/\/kryeministri.rks-gov.net\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/kryeministri.rks-gov.net\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"sq","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/kryeministri.rks-gov.net\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 //# sourceURL=elementor-pro-frontend-js-before
  
   
@@ -1952,6 +1952,9 @@ Lajme => https://kryeministri.rks-gov.net/lajme/
 Dokumente => https://kryeministri.rks-gov.net/dokumente/
 Konkurset => https://kryeministri.rks-gov.net/konkurset/
 Kontakti => https://kryeministri.rks-gov.net/kontakti-2/
+Raporti i Vlerësimit Ex-post për Ligjin 08/L-177 për Institutin e Krimeve të Kryera Gjatë Luftës në Kosovë         
+         
+            24/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Raporti-per-Vleresimin-Ex-Post-te-Ligjit-Nr.-08.-L-177-per-Institutin-e-Krimeve-te-Kryera-Gjate-Luftes-ne-Kosove.pdf
 NJOFTIM &#8211; Përfundon procedura e rekrutimit për pozitën Drejtor i Zyrës për Kontrollin dhe Harmonizimin Gjuhësor, në kuadër të Zyrës së Kryeministrit të Republikës së Kosovës         
          
             23/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Njoftim-per-perfundimin-e-procedures-se-rekrutimit.pdf
@@ -1970,24 +1973,21 @@ Projektligji për Ratifikimin e Marrëveshjes së Kredisë ndërmjet Republikës
 Projektligji për Ratifikimin e Marrëveshjes së Kredisë ndërmjet Republikës së Kosovës, e përfaqësuar nga Ministria e Financave dhe Bankës Zhvillimore të Këshillit të Evropës për Projektin “Përmirësimi i Kujdesit Shëndetësor Sekondar dhe Terciar”         
          
             18/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Projektligji-per-R.M.-Permiresimi-i-Kujdesit-Shendetesor-Sekondar-dhe-Terciar.pdf
-Koncept Dokument për identifikimin elektronik, shërbimet e besuara dhe kuletën e identitetit digjital         
+Projektligji për ratifikimin e Protokollit për ndryshimin e Marrëveshjes mbi statusin dhe funksionet e Komisionit Ndërkombëtar për Personat e Zhdukur         
          
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Vendimi_dhe_Koncept-dokumenti_shqip-.pdf
-Raporti i Vlerësimit Ex-post për Ligjin nr. 04/L-064 për Agjencinë e Kosovës për Forenzikë         
+            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-Protokollin-e-ICMP.pdf
+Projektligji për ratifikimin e Konventës për njohjen dhe ekzekutimin e vendimeve të huaja në çështje civile apo tregtare         
          
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/RAPORTI-I-VLERESIMIT-EX-POST-PER-LIGJIN-NR.-04L-064-PER-AGJENCINE-E-KOSOVES-PER-FORENZIKE.pdf
-Projektligji për Ndryshimin dhe Plotësimin e Ligjit nr. 03/L-216 mbi Themelimin e Sistemit për Sigurimin e Depozitave për Institucionet Financiare në Kosovë, Ndryshuar dhe Plotësuar me Ligjin nr. 04/L-133         
+            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-njohjen-dhe-ekzekutimin-e-vendimeve-te-huaja-ne-ceshtjet-civile-apo-tregtare.pdf
+Projektligji për ratifikimin e Konventës së Lubjanës-Hagës për bashkëpunim ndërkombëtar në hetimin dhe ndjekjen e krimit të gjenocidit, krimeve kundër njerëzimit, krimeve të luftës dhe krimeve të tjera ndërkombëtare         
          
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Projektligjit-per-Ndryshimin-dhe-Plotesimin-e-Ligjit-nr.-03L-216-mbi-Themelimin-e-Sistemit-per-Sigurimin-e-Depozitave.pdf
-Vendimet e mbledhjes së 12-të të Qeverisë         
+            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-Konventen-e-Lubjanes-Hages-per-Ndjekjen-e-Krimeve.pdf
+Projektligji për ratifikimin e Konventës për Marrëveshjet për Zgjedhjen e Gjykatës         
          
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Vendimet-e-mbledhjes-se-12-te-te-Qeverise-se-Republikes-se-Kosoves.pdf
-Projektligji Kundër Dukurive Negative në Sport         
+            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-Konventen-per-Marreveshjet-per-Zgjedhjen-e-Gjykates.pdf
+Rregullore (ZKM) Nr. 17/2026 për Organizimin e Brendshëm dhe Sistematizimin e Vendeve të Punës në Agjencinë e Regjistrimit të Bizneseve të Kosovës         
          
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Projektligji-Kunder-Dukurive-Negative-ne-Sport.pdf
-Projektligji për ratifikimin e Marrëveshjes për ndihmë të ndërsjelltë juridike në çështje penale ndërmjet Qeverisë së Republikës së Kosovës dhe Qeverisë së Republikës Franceze         
-         
-            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Per-publikim_Projektligji-per-Marreveshjen-per-ndihme-te-ndersjelle-per-ceshtje-penale-me-Francen.pdf
+            17/11/2026 => https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/RREGULLORE-ZKM-NR.-17.-2026-PER-ORGANIZIMIN-E-BRENDSHEM-DHE-SISTEMATIZIMIN-E-VENDEVE-TE-PUNES-NE-AGJENCINE-PER-REGJISTRIMIN-E-BIZNESEVE-TE-KOSOVES.pdf
 2 => https://kryeministri.rks-gov.net/dokumente/page/2/
 345 => https://kryeministri.rks-gov.net/dokumente/page/345/
 346 => https://kryeministri.rks-gov.net/dokumente/page/346/
