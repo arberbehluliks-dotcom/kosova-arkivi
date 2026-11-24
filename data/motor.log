@@ -9,5 +9,5 @@ Traceback (most recent call last):
   File "/home/runner/work/kosova-arkivi/kosova-arkivi/motor/motor.py", line 153, in apliko
     sf = f"{dir_}/series.json"; ser = json.load(open(sf, encoding="utf-8")); ids = {x["id"] for x in ser}
                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpfzem0wn2/series.json'
-122 ndryshime, 0 vlera prove (rregull jo aktiv), 0 gabime
+FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpvs1gh1r4/series.json'
+0 ndryshime, 0 vlera prove (rregull jo aktiv), 0 gabime
