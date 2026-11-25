@@ -998,6 +998,7 @@ body:not(.narr-on) .unofnote,body:not(.narr-on) .hero-card p.hl,body:not(.narr-o
     <h2>Komunat e Kosovës</h2>
     <p class="lead">Të 38 komunat me matjet zyrtare dhe të pavarura që gjetëm. Rrethi tregon performancën e komunës në vitin 2024 sipas vlerësimit të Ministrisë së Administrimit të Pushtetit Lokal. Nuk është përqindja e realizimit të planit strategjik të komunës.</p>
     <div class="komstats" id="komstats"></div>
+    <div class="blk" id="gapprem"></div>
     <div class="notebox" id="komanalysis"></div>
     <div class="notebox"><b>Ku është plani i secilës komunë?</b> Çdo komunë ka dokumentet e veta (plan zhvillimor, plan veprimi, buxhet), por nuk gjetëm asnjë burim publik që mat përqindjen e realizimit të këtyre planeve për të gjitha komunat. Prandaj tregojmë dy matje që ekzistojnë për të gjitha, dhe për planet shih faqen zyrtare të komunës (lidhja është në kartë; për 12 komuna nuk e verifikuam adresën e faqes). Sipas MAPL, 12 komuna kanë Plan të Programit për Bujqësi dhe Zhvillim Rural, 18 kanë Plan të Efiçiencës së Energjisë dhe 17 kanë Plan të Banimit Social.</div>
     <details class="acc" id="komplans" style="margin-bottom:14px"><summary>Planet e punës 2026 që komunat i kanë publikuar <span class="cnt" id="komplcnt"></span></summary><div class="body"><p class="lead">Kontrolluam faqet zyrtare të komunave për plane pune të vitit 2026. Lista tregon vetëm çfarë kemi gjetur: nëse një komunë nuk është këtu, kjo nuk do të thotë se nuk e ka publikuar, por se nuk e kemi gjetur ende.</p><div id="komplbody"></div></div></details>
@@ -1176,6 +1177,7 @@ body:not(.narr-on) .unofnote,body:not(.narr-on) .hero-card p.hl,body:not(.narr-o
       <div id="sdgdet" class="sg-det" aria-live="polite"></div>
       <div class="accs" id="sdglist" hidden></div>
     </div>
+    <div class="blk" id="gapsdg"></div>
   </section>
 
   <section id="sechead" class="sechead" hidden>
@@ -1662,6 +1664,25 @@ function drawPlanPage() {
       '<ol class="goals">' + m[3].map(function (g) { return '<li>' + esc(g) + '</li>'; }).join("") + '</ol><div>' + sdgBadges(m[0]) + '</div><button type="button" class="qchip mchip" data-k="' + m[0] + '">Shiko çfarë u realizua →</button></div></details>'; }).join("");
 }
 document.addEventListener("click", function (e) { var b = e.target.closest && e.target.closest("#planwrap [data-m], #planpage > [data-m]"); if (b) goMode(b.dataset.m); });
+/* ---------- Instituti GAP: premtimet e kryetarëve dhe buxheti sipas SDG ---------- */
+function drawGap() {
+  var a = $("gapprem"), b = $("gapsdg");
+  if (a) {
+    var P = { t: 1815, k: 27, p: 918, g: 234, f: 281, n: 382 }, S = [["🩺", "Shëndetësia", 66], ["🎓", "Arsimi", 63], ["🗂️", "Administrata", 58], ["👪", "Sociale", 55], ["🚰", "Shërbimet publike", 41], ["🛣️", "Infrastruktura", 37], ["🏙️", "Urbanizmi", 34]];
+    var seg = [["p", "Përmbushur", "var(--ok-fill)"], ["g", "Gjysmë", "var(--late, #a0d27d)"], ["f", "Filluar", "var(--prog-fill)"], ["n", "Pa filluar", "var(--bad-fill)"]];
+    a.innerHTML = '<h2>Sa premtime mbajtën kryetarët? 2021-2025</h2><div class="pp-hero"><div class="pp-ring">' + ppRing(51, "var(--prog-fill)") + '<b>51%</b></div><div class="pp-st"><div><b>' + P.t + '</b><span>premtime</span></div><div><b>' + P.k + '</b><span>kryetarë</span></div><div><b>' + P.p + '</b><span>përmbushur</span></div></div></div>' +
+      '<div class="pp-stack">' + seg.map(function (x) { return '<i style="width:' + P[x[0]] / P.t * 100 + '%;background:' + x[2] + '"></i>'; }).join("") + '</div><div class="pp-leg">' + seg.map(function (x) { return '<span><b style="color:' + x[2] + '">●</b> ' + x[1] + ' ' + P[x[0]] + '</span>'; }).join("") + '</div>' +
+      '<div class="pp-bars">' + S.map(function (x) { var v = verdict(x[2])[0]; return '<div class="pp-b"><span aria-hidden="true">' + x[0] + '</span><div><div class="nm">' + x[1] + '</div><div class="tr"><i style="width:' + x[2] + '%;background:var(--' + v + '-fill)"></i></div></div><b>' + x[2] + '%</b></div>'; }).join("") + '</div>' +
+      '<div class="notebox">Burimi: <a href="https://www.institutigap.org/lajme/3521" target="_blank" rel="noopener">Instituti GAP</a>, 8 shtator 2025 (platforma «Letërnjoftimi i Komunave»). Pa premtime për 10 komunat serbe dhe Mamushën. Pjesa e përmbushur është e njëjtë me mandatin 2017-2021.</div>';
+  }
+  if (b) {
+    var D = [[1, 3800], [16, 2000], [4, 1900], [9, 1700], [3, 1600], [11, 685.4], [8, 658.1], [2, 403.1], [6, 282.3], [7, 145.1], [10, 67.1], [17, 62.6], [13, 56.8], [15, 20.6], [12, 11], [5, 2.8]], mx = 3800;
+    b.innerHTML = '<h2>Ku shkon paraja e buxhetit sipas SDG, 2021-2025</h2><div class="pp-hero"><div class="pp-ring">' + ppRing(87, "var(--ok-fill)") + '<b>87%</b></div><div class="pp-st"><div><b>13.4</b><span>mld € në 5 vjet</span></div><div><b>28%</b><span>e PBB-së në vit</span></div><div><b>3.1</b><span>mld € në 2025</span></div></div><div class="pp-cap">87% e shpenzimeve të planifikuara lidhen me një SDG. Janë shuma të buxhetit, jo rezultate.</div></div>' +
+      '<div class="pp-bars">' + D.map(function (x) { var w = x[1] >= 1000 ? (x[1] / 1000).toFixed(1) + ' mld €' : Math.round(x[1]) + ' mln €'; return '<div class="pp-b"><span aria-hidden="true">' + (SDGE[x[0]] || "") + '</span><div><div class="nm">SDG ' + x[0] + '</div><div class="tr"><i style="width:' + Math.max(x[1] / mx * 100, 1.5) + '%;background:var(--brand)"></i></div></div><b>' + w + '</b></div>'; }).join("") + '</div>' +
+      '<div class="notebox">Burimi: <a href="https://www.institutigap.org/documents/12412_SDG_Policy_Brief_ALBnentor.pdf" target="_blank" rel="noopener">Instituti GAP</a>, nëntor 2026. Buxheti i planifikuar nga ligjet 2021-2025; përjashtohen mbrojtja, punët e jashtme dhe administrata e përgjithshme (10-11%). SDG 14 nuk del në shumat e raportuara nga burimi.</div>';
+  }
+}
+
 var SDGE = { 1: "🧺", 2: "🌾", 3: "🩺", 4: "🎓", 5: "⚖️", 6: "💧", 7: "⚡", 8: "💼", 9: "🏗️", 10: "🤝", 11: "🏙️", 12: "♻️", 13: "🌡️", 14: "🌊", 15: "🌳", 16: "🕊️", 17: "🌐" };
 /* Lidhja SDG → modulet e kësaj faqe: bërë nga ne sipas temës, jo tabelë zyrtare */
 var SDGMOD = { 1: [["eco", "Ekonomia në numra"], ["min", "Qeveria"]], 2: [["min", "Qeveria"]], 3: [["min", "Qeveria"]], 4: [["rank", "PISA te Renditjet"], ["min", "Qeveria"]], 5: [["min", "Qeveria"]],
@@ -3062,7 +3083,7 @@ document.addEventListener("click", function (e) {
   d.scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "start" });
 });
 
-drawHero(); drawExamples(); drawCards(); drawPlan(); drawSdg(); /* ---------- Ekonomia në numra ---------- */
+drawHero(); drawExamples(); drawCards(); drawPlan(); drawSdg(); drawGap(); /* ---------- Ekonomia në numra ---------- */
 var ES = {
   tm2: ["BQK, Vlerësimi Tremujor i Ekonomisë nr. 55, T2 2026", "https://bqk-kos.org/wp-content/uploads/2026/11/BQK_VTE_TM2_2026.pdf"],
   cbk: ["BQK, Raporti Vjetor 2025", "https://bqk-kos.org/wp-content/uploads/2026/07/CBK_AnnualReport_2025-1.pdf?lang=en"],

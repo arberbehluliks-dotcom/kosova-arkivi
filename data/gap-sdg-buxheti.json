@@ -1,0 +1,44 @@
+{
+ "id": "gap-sdg-buxheti",
+ "burimi": {
+  "institucioni": "Instituti GAP",
+  "titulli": "Ndërlidhja e buxhetit të Kosovës me Objektivat e Zhvillimit të Qëndrueshëm (2021–2025)",
+  "url": "https://www.institutigap.org/documents/12412_SDG_Policy_Brief_ALBnentor.pdf",
+  "botuar": "nëntor 2026",
+  "mbeshtetja": "Zyra e Koordinatorit Rezident të OKB-së"
+ },
+ "gjetur": "2026-11-25",
+ "metoda": "Ligjet vjetore të buxhetit 2021–2025 (buxhet i planifikuar, jo i shpenzuar). Çdo kategori i caktohet një SDG; përjashtohen mbrojtja, inteligjenca, punët e jashtme, administrata e përgjithshme (10–11%). Tregon alokim, jo rezultate.",
+ "pergjithshme": {
+  "pjesa_sdg_pct": 87,
+  "total_mld": 13.4,
+  "mesatarja_vjetore_mld": 2.7,
+  "pbb_pct": 28,
+  "vjetore_mln": {
+   "2021": 2216.1,
+   "2022": 2375.2,
+   "2023": 2812.5,
+   "2024": 2883.6,
+   "2025": 3138.3
+  }
+ },
+ "sipas_sdg_mln": {
+  "1": 3800,
+  "16": 2000,
+  "4": 1900,
+  "9": 1700,
+  "3": 1600,
+  "11": 685.4,
+  "8": 658.1,
+  "2": 403.1,
+  "6": 282.3,
+  "7": 145.1,
+  "10": 67.1,
+  "17": 62.6,
+  "13": 56.8,
+  "15": 20.6,
+  "12": 11.0,
+  "5": 2.8
+ },
+ "shenim": "SDG 1, 16, 4, 9, 3 janë dhënë në mld € (3.8, 2.0, 1.9, 1.7, 1.6), prandaj kemi shumat e rrumbullakosura. SDG 14 nuk del në shumat e raportuara."
+}

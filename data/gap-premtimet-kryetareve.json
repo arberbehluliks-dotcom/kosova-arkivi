@@ -1,0 +1,31 @@
+{
+ "id": "gap-premtimet-kryetareve",
+ "burimi": {
+  "institucioni": "Instituti GAP",
+  "titulli": "Përmbushja e premtimeve nga kryetarët e komunave, mandati 2021–2025",
+  "url": "https://www.institutigap.org/lajme/3521",
+  "platforma": "https://komunat.institutigap.org/Premtimet",
+  "botuar": "2025-09-08"
+ },
+ "gjetur": "2026-11-25",
+ "premtime": {
+  "total": 1815,
+  "kryetare": 27,
+  "permbushur": 918,
+  "gjysem": 234,
+  "filluar": 281,
+  "pa_filluar": 382
+ },
+ "pct_permbushur": 51,
+ "mandati_i_kaluar_pct": 51,
+ "sektore_pct": {
+  "Shëndetësia": 66,
+  "Arsimi": 63,
+  "Administrata": 58,
+  "Sociale": 55,
+  "Shërbimet publike": 41,
+  "Infrastruktura": 37,
+  "Urbanizmi": 34
+ },
+ "shenim": "Nuk janë regjistruar premtime për 10 komunat me shumicë serbe dhe për Mamushën, pasi kandidatët nuk bënë. 98% e premtimeve të pafilluara janë në kompetencë vendore."
+}
