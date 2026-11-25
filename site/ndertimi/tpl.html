@@ -1,0 +1,154 @@
+<title>Monitori i Planit</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Plus+Jakarta+Sans:wght@500;700;800&display=swap">
+<style>
+:root{--bg:#f3f6fc;--card:#fff;--fg:#13203d;--mut:#586987;--line:#dce5f2;--acc:#2447a6;--accbg:#e5ecfb;--gold:#e0a920;--good:#177a45;--goodbg:#e0f3e8;--bad:#c2372d;--badbg:#fbe4e1;--same:#7a6a2a;--samebg:#f4eed3}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0c1630;--card:#131f3f;--fg:#e8eefc;--mut:#a3b3d3;--line:#243659;--acc:#7ea6ff;--accbg:#1b2d5a;--gold:#f2c14e;--good:#6fd69a;--goodbg:#173a28;--bad:#ff8a7e;--badbg:#42201d;--same:#e4cf7c;--samebg:#3a3519;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0c1630;--card:#131f3f;--fg:#e8eefc;--mut:#a3b3d3;--line:#243659;--acc:#7ea6ff;--accbg:#1b2d5a;--gold:#f2c14e;--good:#6fd69a;--goodbg:#173a28;--bad:#ff8a7e;--badbg:#42201d;--same:#e4cf7c;--samebg:#3a3519;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.55 Inter,system-ui,sans-serif;padding-inline:max(16px,env(safe-area-inset-left,0px)) max(16px,env(safe-area-inset-right,0px));padding-block:0 40px}
+.w{max-width:960px;margin:0 auto}
+h1,h2,.big{font-family:"Plus Jakarta Sans",Inter,sans-serif;text-wrap:balance}
+header{display:flex;align-items:center;gap:10px;padding:18px 0 6px;font-family:"Plus Jakarta Sans",sans-serif;font-weight:800;font-size:17px}
+header i{width:30px;height:30px;border-radius:9px;background:var(--acc);display:inline-block;position:relative}
+header i:after{content:"";position:absolute;left:8px;bottom:7px;width:4px;height:8px;background:var(--gold);box-shadow:6px -4px 0 var(--gold),12px -8px 0 var(--gold)}
+.unof{display:inline-block;font-size:12px;font-weight:600;color:var(--mut);background:var(--card);border:1px solid var(--line);border-radius:99px;padding:3px 11px;margin:6px 0 14px}
+.hero{padding:0;margin-top:4px}
+h1{font-size:clamp(26px,6vw,38px);line-height:1.15;margin:0}
+.hero p{margin:6px 0 0;color:var(--mut)}
+.sb{display:flex;gap:8px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:6px 6px 6px 14px;align-items:center;box-shadow:0 2px 8px rgba(36,71,166,.08);margin-bottom:22px}
+.sb input{flex:1;min-width:0;border:0;background:transparent;color:var(--fg);font:inherit;font-size:16px;outline:0;padding:10px 0}
+.sb span{font-size:20px}
+.chips{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:18px}
+.qc{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;text-align:left;font:inherit;color:inherit;cursor:pointer;display:flex;flex-direction:column;gap:6px;min-height:150px;box-shadow:0 1px 4px rgba(36,71,166,.06)}
+.qc:hover{border-color:var(--acc)}.qc .e{font-size:28px}.qc b{font:800 16px/1.25 "Plus Jakarta Sans",sans-serif}.qc .n{font:800 30px "Plus Jakarta Sans",sans-serif;color:var(--acc);margin-top:auto}.qc .c{font-size:12px;color:var(--mut);font-weight:600}
+@media(min-width:760px){.chips{grid-template-columns:repeat(3,minmax(0,1fr))}}
+#hits{display:flex;flex-direction:column;gap:6px;margin-top:10px}
+.hit{background:var(--card);border:1px solid var(--line)!important;color:var(--fg);border:0;border-radius:12px;padding:10px 14px;text-align:left;font:inherit;font-size:14px;cursor:pointer;display:flex;justify-content:space-between;gap:10px}
+.hit b{white-space:nowrap}
+#ans{margin-top:18px}
+.ans{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:22px;display:grid;gap:14px}
+.ans h2{margin:0;font-size:18px;color:var(--mut);font-weight:500}
+.nr{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.big{font-size:clamp(44px,12vw,72px);font-weight:700;line-height:1}
+.nr small{font-size:16px;color:var(--mut)}
+.v{display:inline-flex;gap:6px;align-items:center;border-radius:999px;padding:6px 12px;font-weight:600;font-size:14px;width:fit-content}
+.good{background:var(--goodbg);color:var(--good)}.bad{background:var(--badbg);color:var(--bad)}.same,.na{background:var(--samebg);color:var(--same)}
+.sub{color:var(--mut);font-size:14px}
+details{font-size:13px;color:var(--mut);border-top:1px solid var(--line);padding-top:10px}
+summary{cursor:pointer;font-weight:600}
+details a{color:var(--acc)}
+.row2{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px}
+section{margin-top:34px}
+h2.s{font-size:22px;margin:0 0 12px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;text-align:left;font:inherit;color:inherit;cursor:pointer;display:grid;gap:6px}
+.tile:hover{border-color:var(--acc)}
+.ic{font-size:26px}
+.tile .t{font-size:14px;color:var(--mut)}
+.tile .n{font:700 30px "Plus Jakarta Sans",sans-serif}
+.plan{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;display:grid;gap:14px}
+.bar{height:16px;border-radius:99px;background:var(--line);display:flex;overflow:hidden}
+.bar i{display:block;height:100%}
+.leg{display:flex;flex-wrap:wrap;gap:12px;font-size:14px}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px}
+.pr{display:grid;gap:4px}
+.pr .pt{display:flex;justify-content:space-between;gap:10px;font-size:14px;font-weight:500}
+.mini{height:8px;border-radius:99px;background:var(--line);overflow:hidden}.mini i{display:block;height:100%}
+.news{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;cursor:pointer;text-align:left;font:inherit;color:inherit}
+.card .t{font-size:13px;color:var(--mut)}.card .n{font:700 28px "Plus Jakarta Sans",sans-serif;margin:4px 0}
+.roles{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;font-size:14px}
+.roles div{border-left:3px solid var(--acc);padding:4px 12px;color:var(--mut)}.roles b{color:var(--fg);display:block}
+footer{margin-top:30px;font-size:13px;color:var(--mut);text-align:center}
+.calc{grid-template-columns:minmax(0,1fr);background:var(--card);border:1px solid var(--line);border-radius:22px;padding:20px;display:grid;gap:14px}
+.calc .in{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.calc input[type=number]{flex:1;min-width:120px;font:700 28px "Plus Jakarta Sans",sans-serif;color:var(--fg);background:var(--bg);border:1px solid var(--line);border-radius:14px;padding:10px 14px}
+.seg{display:flex;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.seg button{border:0;background:transparent;color:var(--mut);font:inherit;font-size:14px;padding:10px 12px;cursor:pointer}
+.seg button.on{background:var(--acc);color:var(--bg);font-weight:600}
+.split{display:flex;height:18px;border-radius:99px;overflow:hidden;background:var(--line)}
+.split i{display:block}
+.lines{display:grid;gap:6px;font-size:15px}
+.lines div{display:flex;justify-content:space-between;gap:10px}
+.lines .tot{font-weight:700;font-size:18px;border-top:1px solid var(--line);padding-top:8px}
+</style>
+<div class="w">
+<header><i></i>Monitori i Planit</header>
+<div class="unof">Faqe jozyrtare · Burime zyrtare dhe ndërkombëtare</div>
+<div class="sb"><span>🔎</span><input id="q" placeholder="Kërko: pagat, çmimet, eksporti…" autocomplete="off"></div>
+<div id="hits"></div>
+<div class="hero">
+<h1>Si po ecën Kosova?</h1>
+<p>Zgjidh çfarë të intereson.</p>
+<div class="chips" id="chips"></div>
+</div>
+<div id="ans"></div>
+<section id="calc"><h2 class="s">Sa më mbetet nga paga?</h2><div class="calc">
+<div class="in"><input id="pg" type="number" inputmode="decimal" min="0" value="713" aria-label="Paga mujore në euro"><span>€ në muaj</span>
+<div class="seg" id="mode"><button data-m="g" class="on">Kam bruto</button><button data-m="n">Kam neto</button></div></div>
+<div class="split" id="spl"></div>
+<div class="lines" id="ln"></div>
+<details><summary>Si llogaritet dhe nga vjen</summary><div>Paga bruto minus kontributi pensional i punëtorit (5%) jep pagën e tatueshme. Tatimi: 0% deri në 250 €, 8% nga 250 € deri në 450 €, 10% mbi 450 € në muaj (Ligji nr. 05/L-028 për Tatimin në të Ardhurat Personale, ndryshuar me Ligjin nr. 08/L-142; pa shkallën e vjetër 4%). Punëdhënësi paguan veç 5% kontribut pensional. Llogaritja është indikative: nuk përfshin lehtësira të veçanta, punë të dyta apo shtetas të huaj. Burime: <a href="https://crmm.atk-ks.org/sq/Public/CalculatorDetail?id=17" target="_blank" rel="noopener">Administrata Tatimore e Kosovës</a>, <a href="https://taxsummaries.pwc.com/kosovo/individual/taxes-on-personal-income" target="_blank" rel="noopener">PwC Worldwide Tax Summaries (rishikuar 07.08.2026)</a>. Për shumat zyrtare përdor llogaritësin e ATK-së.</div></details>
+</div></section>
+<section><h2 class="s">Pasqyra e shpejtë</h2><div class="tiles" id="tiles"></div></section>
+<section><h2 class="s">Sa po zbaton Qeveria premtimet?</h2><div class="plan" id="plan"></div></section>
+<section><h2 class="s">E reja në të dhëna</h2><div class="news" id="news"></div></section>
+<section><div class="roles">
+<div><b>Qytetarë</b>Përgjigje të shkurtra, pa zhargon</div>
+<div><b>Gazetarë</b>Çdo shifër ka burim dhe datë</div>
+<div><b>Studentë e hulumtues</b>Seri kohore dhe metodologji</div>
+<div><b>Shoqëria civile</b>Ndjekja e ndryshimeve dhe premtimeve</div>
+</div></section>
+<footer id="ft"></footer>
+</div>
+<script>
+const D=/*DATA*/null;
+const $=i=>document.getElementById(i);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const IC={price:'🛒',work:'💼',wage:'💶',growth:'📈',export:'🚢'};
+const VT={good:'↗ Më mirë se një vit më parë',bad:'↘ Më keq se një vit më parë',same:'→ Pothuajse njësoj si një vit më parë',na:'Pa krahasim të besueshëm'};
+const fmt=(v,u)=>{const n=(+v).toLocaleString('sq',{maximumFractionDigits:v>=1000?0:1});return u==='%'?n+'%':u==='€'?n+' €':u==='mln €'?n+' mln €':u==='mld €'?n+' mld €':n+(u?' '+esc(u):'')};
+function srcBox(a){return `<details><summary>Burimi dhe metodologjia</summary><div>${esc(a.src)} · periudha ${esc(a.p)}${a.pub?' · publikuar '+esc(a.pub):' · data e publikimit nuk është e verifikuar'}.<br>${esc(a.m)}${a.url?`<br><a href="${esc(a.url)}" target="_blank" rel="noopener">Hap burimin</a>`:''}</div></details>`}
+function answer(q,items,note){
+ $('ans').innerHTML=`<div class="ans"><h2>${esc(q)}</h2><div class="row2">${items.map(a=>`<div style="display:grid;gap:8px"><div class="sub">${esc(a.title||a.t)}</div><div class="nr"><span class="big">${fmt(a.v,a.u)}</span></div>${a.st?`<span class="v ${a.st}">${VT[a.st]}</span>`:''}<div class="sub">${esc(a.p)}${a.prev?` · ${esc(a.prev.p)}: ${fmt(a.prev.v,a.u)}`:''}</div>${srcBox(a)}</div>`).join('')}</div>${note?`<div class="sub">${note}</div>`:''}</div>`;
+ $('ans').scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+const T=Object.fromEntries(D.tiles.map(t=>[t.ik,t]));
+const net=Math.round(bn0(713).n);
+function bn0(g){const pen=g*.05,tx=g-pen;const t=tx<=250?0:tx<=450?(tx-250)*.08:16+(tx-450)*.10;return{n:g-pen-t}}
+const Q=[
+ ['🛒','Po shtrenjtohet jeta?',fmt(T.price.v,'%'),'inflacioni, '+T.price.p,()=>answer('Po shtrenjtohet jeta?',[T.price],`Inflacioni tregon sa më shtrenjtë janë mallrat krahasuar me një vit më parë. Parashikimi për gjithë vitin 2026: ${fmt(D.x['cmimet-0'].v,'%')}.`)],
+ ['🏛️','A i realizoi Qeveria premtimet?',D.plan.filter(p=>p.st==='ok').length+' nga '+D.plan.length,'premtime të matshme të kryera',()=>{document.querySelector('#plan').scrollIntoView({behavior:'smooth'})}],
+ ['💶','Sa më mbetet nga paga?',net+' €','neto nga paga mesatare 713 €',()=>{$('calc').scrollIntoView({behavior:'smooth'});$('pg').focus()}],
+ ['💼','A po hapen vende pune?',fmt(T.work.v,'%'),'papunësia, '+T.work.p,()=>answer('A po hapen vende pune?',[T.work],'Papunësia mat sa nga ata që kërkojnë punë nuk e kanë gjetur.')],
+ ['🚢','Si po ecën eksporti?',fmt(T.export.v,'mln €'),'eksporti, '+T.export.p,()=>answer('Si po ecën eksporti?',[T.export,D.x['tj-mbulim']],'Eksporti mbulon vetëm një pjesë të importit; pjesa tjetër paguhet me para nga jashtë.')],
+ ['🌍','Sa para vijnë nga jashtë?',fmt(D.x['bqk-7'].v,'mln €'),'remitenca, '+D.x['bqk-7'].p,()=>answer('Sa para vijnë nga jashtë?',[D.x['bqk-7'],D.x['bqk-8']],'Remitencat janë paratë që dërgojnë kosovarët jashtë shtetit; investimet e huaja janë para që hyjnë në biznese.')]
+];
+$('chips').innerHTML=Q.map((q,i)=>`<button class="qc" data-i="${i}"><span class="e">${q[0]}</span><b>${esc(q[1])}</b><span class="n">${esc(q[2])}</span><span class="c">${esc(q[3])}</span></button>`).join('');
+$('chips').onclick=e=>{const b=e.target.closest('.qc');if(!b)return;$('hits').innerHTML='';Q[b.dataset.i][4]()};
+$('tiles').innerHTML=D.tiles.map((t,i)=>`<button class="tile" data-k="${t.ik}"><span class="ic">${IC[t.ik]}</span><span class="t">${esc(t.title)}</span><span class="n">${fmt(t.v,t.u)}</span><span class="v ${t.st}">${{good:'↗ më mirë',bad:'↘ më keq',same:'→ njësoj',na:'—'}[t.st]}</span></button>`).join('');
+$('tiles').onclick=e=>{const b=e.target.closest('.tile');if(!b)return;const t=T[b.dataset.k];answer(t.title,[t])};
+const C={ok:['#177a45','Kryer'],prog:['#d79a1a','Në rrugë'],bad:['#c2372d','Larg synimit']};
+const n=D.plan.length;
+$('plan').innerHTML=`<div class="bar">${['ok','prog','bad'].map(k=>{const c=D.plan.filter(p=>p.st===k).length;return c?`<i style="width:${c/n*100}%;background:${C[k][0]}"></i>`:''}).join('')}</div><div class="leg">${['ok','prog','bad'].map(k=>`<span><span class="dot" style="background:${C[k][0]}"></span>${D.plan.filter(p=>p.st===k).length} ${C[k][1]}</span>`).join('')}</div>`+D.plan.map(p=>`<div class="pr"><div class="pt"><span>${esc(p.t)}</span><span>${p.pg}%</span></div><div class="mini"><i style="width:${p.pg}%;background:${C[p.st][0]}"></i></div><div class="sub">${esc(p.now)}</div></div>`).join('')+`<div class="sub">Janë ndjekur ${n} premtime të matshme me shifra zyrtare; të tjerat shtohen kur të ketë të dhëna.</div>`;
+$('news').innerHTML=D.news.map((a,i)=>`<button class="card" data-i="${i}"><div class="t">${esc(a.t)}</div><div class="n">${fmt(a.v,a.u)}</div><div class="sub">${esc(a.p)}</div></button>`).join('');
+$('news').onclick=e=>{const b=e.target.closest('.card');if(b)answer(D.news[b.dataset.i].t,[D.news[b.dataset.i]])};
+const nz=s=>s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/ë/g,'e').replace(/ç/g,'c');
+$('q').oninput=e=>{const v=nz(e.target.value.trim());if(v.length<2){$('hits').innerHTML='';return}
+ const r=D.search.filter(a=>nz(a.t).includes(v)).slice(0,6);
+ $('hits').innerHTML=r.length?r.map((a,i)=>`<button class="hit" data-i="${D.search.indexOf(a)}"><span>${esc(a.t)}</span><b>${fmt(a.v,a.u)}</b></button>`).join(''):'<div class="sub" style="color:#fff">Nuk u gjet. Provo një fjalë tjetër.</div>'};
+$('hits').onclick=e=>{const b=e.target.closest('.hit');if(!b)return;const a=D.search[b.dataset.i];answer(a.t,[a]);$('hits').innerHTML='';$('q').value=''};
+
+function bn(g){const pen=g*.05,tx=g-pen;const t=tx<=250?0:tx<=450?(tx-250)*.08:16+(tx-450)*.10;return{g,pen,t,n:g-pen-t,emp:g*.05}}
+function ng(n){let lo=n,hi=n*2+500;for(let i=0;i<60;i++){const m=(lo+hi)/2;bn(m).n<n?lo=m:hi=m}return(lo+hi)/2}
+let MODE='g';
+function calc(){const v=Math.max(0,parseFloat($('pg').value)||0);const r=bn(MODE==='g'?v:ng(v));const f=x=>x.toLocaleString('sq',{minimumFractionDigits:2,maximumFractionDigits:2})+' €';
+ const p=x=>r.g?x/r.g*100:0;
+ $('spl').innerHTML=`<i style="width:${p(r.n)}%;background:var(--good)"></i><i style="width:${p(r.pen)}%;background:#d79a1a"></i><i style="width:${p(r.t)}%;background:var(--bad)"></i>`;
+ $('ln').innerHTML=`<div><span><span class="dot" style="background:var(--good)"></span>Të mbeten (neto)</span><b>${f(r.n)}</b></div><div><span><span class="dot" style="background:#d79a1a"></span>Pensioni yt (5%)</span><span>${f(r.pen)}</span></div><div><span><span class="dot" style="background:var(--bad)"></span>Tatimi në pagë</span><span>${f(r.t)}</span></div><div class="tot"><span>Paga bruto</span><span>${f(r.g)}</span></div><div class="sub"><span>Kosto totale për punëdhënësin (bruto + 5% pension)</span><span>${f(r.g+r.emp)}</span></div>`}
+$('pg').oninput=calc;
+$('mode').onclick=e=>{const b=e.target.closest('button');if(!b)return;MODE=b.dataset.m;[...$('mode').children].forEach(x=>x.classList.toggle('on',x===b));calc()};
+calc();
+$('ft').textContent=`${D.n_obs} vëzhgime nga ${D.n_ser} tregues · përditësuar ${D.upd} · çdo shifër ka burim, periudhë dhe metodologji`;
+</script>
