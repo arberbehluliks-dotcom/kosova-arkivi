@@ -1,20 +1,88 @@
-{"shenim":"Renditje ku Kosova figuron dhe që duhen verifikuar nga burimi origjinal para se të shfaqen. Vetëm organizata ndërkombëtare.","gjetur":"2026-11-25",
-"sport":[
- {"t":"FIFA: femrat","burimi":"https://inside.fifa.com/fifa-world-ranking/KOS?gender=women"},
- {"t":"UEFA: koeficienti i klubeve dhe renditja e Ligës së Kombeve","burimi":"https://www.uefa.com"},
- {"t":"FIBA: basketboll (meshkuj, femra)","burimi":"https://www.fiba.basketball/rankings"},
- {"t":"Xhudo, IJF: renditja botërore e xhudistëve dhe e vendeve","burimi":"https://www.ijf.org"},
- {"t":"World Athletics, boksi (World Boxing), hendbolli (IHF), volejbolli (FIVB)","burimi":"federatat ndërkombëtare"},
- {"t":"Medaljet olimpike: Kosova në tabelën e medaljeve","burimi":"https://olympics.com"}],
-"fusha":[
- {"t":"Shpejtësia e internetit (Ookla Speedtest Global Index)","burimi":"https://www.speedtest.net/global-index"},
- {"t":"Indeksi i Inovacionit Global (WIPO)","burimi":"https://www.wipo.int/global_innovation_index"},
- {"t":"Doing Business / B-READY (Banka Botërore)","burimi":"https://www.worldbank.org"},
- {"t":"Indeksi i Zhvillimit Njerëzor (UNDP): Kosova renditet veçmas","burimi":"https://hdr.undp.org"},
- {"t":"Open Budget Survey (IBP)","burimi":"https://internationalbudget.org"},
- {"t":"Rule of Law Index (WJP)","burimi":"https://worldjusticeproject.org"},
- {"t":"PISA 2025 (OECD)","burimi":"https://www.oecd.org/pisa"},
- {"t":"World Happiness Report","burimi":"https://worldhappiness.report"}],
-"verifikuar_sot":[
- {"t":"FIFA meshkuj: vendi 78","burimi":"https://inside.fifa.com/fifa-world-ranking/KOS?gender=men","data":"përditësimi 20 korrik 2026"},
- {"t":"Henley: vendi 59, 81 destinacione","burimi":"https://thenigerialawyer.com/wp-content/uploads/2026/01/Henley-Passport-Index-2026-January-Global-Ranking.pdf","data":"9 janar 2026","shenim":"Dokumenti i Kryeministrisë pohon vendin 63; botimi i janarit 2026 jep 59. Ka edicion të korrikut 2026 që nuk është lexuar."}]}
+{
+ "shenim": "Renditje ku Kosova figuron dhe që duhen verifikuar nga burimi origjinal para se të shfaqen. Vetëm organizata ndërkombëtare.",
+ "gjetur": "2026-11-25",
+ "sport": [
+  {
+   "t": "FIFA: femrat",
+   "burimi": "https://inside.fifa.com/fifa-world-ranking/KOS?gender=women"
+  },
+  {
+   "t": "UEFA: koeficienti i klubeve dhe renditja e Ligës së Kombeve",
+   "burimi": "https://www.uefa.com"
+  },
+  {
+   "t": "FIBA: basketboll (meshkuj, femra)",
+   "burimi": "https://www.fiba.basketball/rankings"
+  },
+  {
+   "t": "Xhudo, IJF: renditja botërore e xhudistëve dhe e vendeve",
+   "burimi": "https://www.ijf.org"
+  },
+  {
+   "t": "World Athletics, boksi (World Boxing), hendbolli (IHF), volejbolli (FIVB)",
+   "burimi": "federatat ndërkombëtare"
+  },
+  {
+   "t": "Medaljet olimpike: Kosova në tabelën e medaljeve",
+   "burimi": "https://olympics.com"
+  }
+ ],
+ "fusha": [
+  {
+   "t": "Shpejtësia e internetit (Ookla Speedtest Global Index)",
+   "burimi": "https://www.speedtest.net/global-index"
+  },
+  {
+   "t": "Indeksi i Inovacionit Global (WIPO)",
+   "burimi": "https://www.wipo.int/global_innovation_index"
+  },
+  {
+   "t": "Doing Business / B-READY (Banka Botërore)",
+   "burimi": "https://www.worldbank.org"
+  },
+  {
+   "t": "Indeksi i Zhvillimit Njerëzor (UNDP): Kosova renditet veçmas",
+   "burimi": "https://hdr.undp.org"
+  },
+  {
+   "t": "Open Budget Survey (IBP)",
+   "burimi": "https://internationalbudget.org"
+  },
+  {
+   "t": "Rule of Law Index (WJP)",
+   "burimi": "https://worldjusticeproject.org"
+  },
+  {
+   "t": "PISA 2025 (OECD)",
+   "burimi": "https://www.oecd.org/pisa"
+  },
+  {
+   "t": "World Happiness Report",
+   "burimi": "https://worldhappiness.report"
+  }
+ ],
+ "verifikuar_sot": [
+  {
+   "t": "FIFA meshkuj: vendi 78",
+   "burimi": "https://inside.fifa.com/fifa-world-ranking/KOS?gender=men",
+   "data": "përditësimi 20 korrik 2026"
+  },
+  {
+   "t": "Henley: vendi 59, 81 destinacione",
+   "burimi": "https://thenigerialawyer.com/wp-content/uploads/2026/01/Henley-Passport-Index-2026-January-Global-Ranking.pdf",
+   "data": "9 janar 2026",
+   "shenim": "Dokumenti i Kryeministrisë pohon vendin 63; botimi i janarit 2026 jep 59. Ka edicion të korrikut 2026 që nuk është lexuar."
+  }
+ ],
+ "prioriteti": [
+  "1. Medaljet olimpike dhe xhudo (krenari kombëtare; burim: olympics.com / IJF)",
+  "2. PISA 2025 me krahasim rajonal (OECD; shënimi i vendit ekziston, shifrat s'u lexuan nga faqja)",
+  "3. FIFA femrat dhe basketbolli",
+  "4. Ookla (interneti)",
+  "5. Open Budget dhe WJP"
+ ],
+ "nuk_u_gjet": [
+  "GII 2025 (WIPO): faqja e leximit nuk përmend Kosovën; nuk shfaqet pa konfirmim",
+  "Ookla: kërkimi s'dha faqe të Ookla për Kosovën"
+ ]
+}
