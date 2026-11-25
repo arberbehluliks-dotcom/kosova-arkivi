@@ -656,6 +656,7 @@ body:not(.narr-on) #sechead .lead { display: none; }
 .pp-b .nm{grid-column:2/3;font-size:12px;color:var(--muted);margin-bottom:-4px}.pp-b b{font-size:13px;white-space:nowrap}
 .pp-stack{display:flex;height:20px;border-radius:10px;overflow:hidden;background:var(--track)}.pp-stack i{display:block}
 .pp-leg{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-top:6px}
+.kgrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}.kchip{position:relative;display:flex;justify-content:space-between;gap:6px;padding:7px 9px;border:1px solid var(--line);border-radius:10px;background:var(--surface);overflow:hidden;font-size:13px}.kchip i{position:absolute;left:0;bottom:0;height:4px;border-radius:0 2px 2px 0}.kchip span{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.kchip b{white-space:nowrap}
 .pp-dots{display:flex;gap:3px;flex-wrap:wrap}.pp-dots i{width:9px;height:9px;border-radius:50%;background:var(--brand)}
 .pp-card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px;display:grid;gap:10px}
 .pp-tease{display:grid;grid-template-columns:auto minmax(0,1fr);gap:14px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px}
@@ -999,6 +1000,7 @@ body:not(.narr-on) .unofnote,body:not(.narr-on) .hero-card p.hl,body:not(.narr-o
     <p class="lead">Të 38 komunat me matjet zyrtare dhe të pavarura që gjetëm. Rrethi tregon performancën e komunës në vitin 2024 sipas vlerësimit të Ministrisë së Administrimit të Pushtetit Lokal. Nuk është përqindja e realizimit të planit strategjik të komunës.</p>
     <div class="komstats" id="komstats"></div>
     <div class="blk" id="gapprem"></div>
+    <div class="blk" id="gaptb"></div>
     <div class="notebox" id="komanalysis"></div>
     <div class="notebox"><b>Ku është plani i secilës komunë?</b> Çdo komunë ka dokumentet e veta (plan zhvillimor, plan veprimi, buxhet), por nuk gjetëm asnjë burim publik që mat përqindjen e realizimit të këtyre planeve për të gjitha komunat. Prandaj tregojmë dy matje që ekzistojnë për të gjitha, dhe për planet shih faqen zyrtare të komunës (lidhja është në kartë; për 12 komuna nuk e verifikuam adresën e faqes). Sipas MAPL, 12 komuna kanë Plan të Programit për Bujqësi dhe Zhvillim Rural, 18 kanë Plan të Efiçiencës së Energjisë dhe 17 kanë Plan të Banimit Social.</div>
     <details class="acc" id="komplans" style="margin-bottom:14px"><summary>Planet e punës 2026 që komunat i kanë publikuar <span class="cnt" id="komplcnt"></span></summary><div class="body"><p class="lead">Kontrolluam faqet zyrtare të komunave për plane pune të vitit 2026. Lista tregon vetëm çfarë kemi gjetur: nëse një komunë nuk është këtu, kjo nuk do të thotë se nuk e ka publikuar, por se nuk e kemi gjetur ende.</p><div id="komplbody"></div></div></details>
@@ -1674,6 +1676,15 @@ function drawGap() {
       '<div class="pp-stack">' + seg.map(function (x) { return '<i style="width:' + P[x[0]] / P.t * 100 + '%;background:' + x[2] + '"></i>'; }).join("") + '</div><div class="pp-leg">' + seg.map(function (x) { return '<span><b style="color:' + x[2] + '">●</b> ' + x[1] + ' ' + P[x[0]] + '</span>'; }).join("") + '</div>' +
       '<div class="pp-bars">' + S.map(function (x) { var v = verdict(x[2])[0]; return '<div class="pp-b"><span aria-hidden="true">' + x[0] + '</span><div><div class="nm">' + x[1] + '</div><div class="tr"><i style="width:' + x[2] + '%;background:var(--' + v + '-fill)"></i></div></div><b>' + x[2] + '%</b></div>'; }).join("") + '</div>' +
       '<div class="notebox">Burimi: <a href="https://www.institutigap.org/lajme/3521" target="_blank" rel="noopener">Instituti GAP</a>, 8 shtator 2025 (platforma «Letërnjoftimi i Komunave»). Pa premtime për 10 komunat serbe dhe Mamushën. Pjesa e përmbushur është e njëjtë me mandatin 2017-2021.</div>';
+  }
+  var c = $("gaptb");
+  if (c) {
+    var TB = [["Deçan", 100], ["Ferizaj", 100], ["Kaçanik", 100], ["Mitrovicë e Jugut", 100], ["Obiliq", 100], ["Podujevë", 100], ["Prizren", 100], ["Rahovec", 100], ["Skënderaj", 100], ["Shtime", 100], ["Vushtrri", 100], ["Gjilan", 97], ["Hani i Elezit", 97], ["Drenas", 95], ["Kamenicë", 95], ["Klinë", 95], ["Lipjan", 95], ["Gjakovë", 92.5], ["Suharekë", 90], ["Istog", 89.5], ["Dragash", 75], ["Prishtinë", 72.5], ["Pejë", 63.5], ["Viti", 55], ["Junik", 53], ["Graçanicë", 48], ["Malishevë", 44], ["Mitrovicë e Veriut", 42], ["Ranillug", 35], ["Fushë Kosovë", 27.5], ["Mamushë", 15], ["Novobërdë", 12.5], ["Kllokot", 0], ["Leposaviq", 0], ["Partesh", 0], ["Shtërpca", 0], ["Zubin Potok", 0], ["Zveçan", 0]];
+    var col = function (v) { return v >= 90 ? "var(--ok-fill)" : v >= 50 ? "var(--prog-fill)" : v >= 25 ? "var(--gold)" : "var(--bad-fill)"; };
+    var n100 = TB.filter(function (x) { return x[1] === 100; }).length, n0 = TB.filter(function (x) { return x[1] === 0; }).length;
+    c.innerHTML = '<h2>A i tregon komuna buxhetin? Transparenca 2025</h2><div class="pp-hero"><div class="pp-ring">' + ppRing(65.5, "var(--prog-fill)") + '<b>65.5</b></div><div class="pp-st"><div><b>' + n100 + '</b><span>komuna me 100 pikë</span></div><div><b>' + n0 + '</b><span>komuna me 0 pikë</span></div><div><b>+4.5</b><span>pikë ndaj 2024 (61)</span></div></div></div>' +
+      '<div class="kgrid">' + TB.map(function (x) { return '<div class="kchip"><i style="width:' + Math.max(x[1], 1.5) + '%;background:' + col(x[1]) + '"></i><span>' + esc(x[0]) + '</span><b>' + x[1] + '</b></div>'; }).join("") + '</div>' +
+      '<div class="notebox">Burimi: <a href="https://www.institutigap.org/documents/64295_indeksi_transparences_2025(final).pdf" target="_blank" rel="noopener">Instituti GAP</a>, Indeksi i Transparencës Buxhetore 2025 (maksimumi 100 pikë). Mat sa dokumente buxhetore publikon komuna, jo sa mirë i harxhon paratë.</div>';
   }
   if (b) {
     var D = [[1, 3800], [16, 2000], [4, 1900], [9, 1700], [3, 1600], [11, 685.4], [8, 658.1], [2, 403.1], [6, 282.3], [7, 145.1], [10, 67.1], [17, 62.6], [13, 56.8], [15, 20.6], [12, 11], [5, 2.8]], mx = 3800;
