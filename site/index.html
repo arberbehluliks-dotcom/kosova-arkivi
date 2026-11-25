@@ -1,3 +1,4 @@
+<!doctype html><html lang="sq"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style></head><body>
 <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="ikona/ikona.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="ikona/ikona-192.png"><meta name="theme-color" content="#2447a6">
 <title>Monitori i Planit</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -4094,11 +4095,15 @@ var VT={good:"↗ Më mirë se një vit më parë",bad:"↘ Më keq se një vit 
 function fmt(v,u){var n=(+v).toLocaleString("sq",{maximumFractionDigits:v>=1000?0:1});return u==="%"?n+"%":u==="€"?n+" €":u==="mln €"?n+" mln €":u==="mld €"?n+" mld €":n+(u?" "+esc(u):"")}
 function src(a){return '<details><summary>Burimi dhe metodologjia</summary><div>'+esc(a.src)+' · periudha '+esc(a.p)+(a.pub?' · publikuar '+esc(a.pub):' · data e publikimit nuk është e verifikuar')+'.<br>'+esc(a.m)+(a.url?'<br><a href="'+esc(a.url)+'" target="_blank" rel="noopener">Hap burimin</a>':'')+'</div></details>'}
 function answer(q,items){g("pz-ans").innerHTML='<div class="pz-ans"><h2>'+esc(q)+'</h2><div class="pz-row">'+items.map(function(a){return '<div style="display:grid;gap:8px"><div class="pz-sub">'+esc(a.title||a.t)+'</div><div class="pz-big">'+fmt(a.v,a.u)+'</div>'+(a.st?'<span class="pz-v '+a.st+'">'+VT[a.st]+'</span>':'')+'<div class="pz-sub">'+esc(a.p)+(a.prev?' · '+esc(a.prev.p)+': '+fmt(a.prev.v,a.u):'')+'</div>'+src(a)+'</div>'}).join('')+'</div></div>';g("pz-ans").scrollIntoView({behavior:"smooth",block:"nearest"})}
+function pzRender(){
 g("pz-tiles").innerHTML=D.tiles.map(function(t,i){return '<button type="button" class="pz-tile" data-i="'+i+'"><span class="ic">'+IC[t.ik]+'</span><span class="t">'+esc(t.title)+'</span><span class="n">'+fmt(t.v,t.u)+'</span><span class="pz-v '+t.st+'">'+{good:"↗ më mirë",bad:"↘ më keq",same:"→ njësoj",na:"—"}[t.st]+'</span></button>'}).join("");
-g("pz-tiles").onclick=function(e){var b=e.target.closest(".pz-tile");if(b){var t=D.tiles[b.dataset.i];answer(t.title,[t])}};
+window.__x=0;g("pz-tiles").onclick=function(e){var b=e.target.closest(".pz-tile");if(b){var t=D.tiles[b.dataset.i];answer(t.title,[t])}};
 g("pz-news").innerHTML=D.news.map(function(a,i){return '<button type="button" data-i="'+i+'"><div class="t">'+esc(a.t)+'</div><div class="n">'+fmt(a.v,a.u)+'</div><div class="pz-sub">'+esc(a.p)+'</div></button>'}).join("");
 g("pz-news").onclick=function(e){var b=e.target.closest("button");if(b){var a=D.news[b.dataset.i];answer(a.t,[a])}};
 g("pz-ft").textContent=D.n_obs+" vëzhgime nga "+D.n_ser+" tregues · përditësuar "+D.upd+" · çdo shifër ka burim, periudhë dhe metodologji";
+
+}
+pzRender();
 function bn(G){var pen=G*.05,tx=G-pen,t=tx<=250?0:tx<=450?(tx-250)*.08:16+(tx-450)*.10;return{g:G,pen:pen,t:t,n:G-pen-t,emp:G*.05}}
 function ng(n){var lo=n,hi=n*2+500;for(var i=0;i<60;i++){var m=(lo+hi)/2;bn(m).n<n?lo=m:hi=m}return(lo+hi)/2}
 var MD="g";
@@ -4107,7 +4112,29 @@ g("pz-spl").innerHTML='<i style="width:'+p(r.n)+'%;background:var(--pg-good)"></
 g("pz-ln").innerHTML='<div><span><span class="pz-dot" style="background:var(--pg-good)"></span>Të mbeten (neto)</span><b>'+f(r.n)+'</b></div><div><span><span class="pz-dot" style="background:var(--gold)"></span>Pensioni yt (5%)</span><span>'+f(r.pen)+'</span></div><div><span><span class="pz-dot" style="background:var(--pg-bad)"></span>Tatimi në pagë</span><span>'+f(r.t)+'</span></div><div class="tot"><span>Paga bruto</span><span>'+f(r.g)+'</span></div><div class="pz-sub"><span>Kosto totale për punëdhënësin (bruto + 5% pension)</span><span>'+f(r.g+r.emp)+'</span></div>'}
 g("pz-pg").oninput=calc;
 g("pz-mode").onclick=function(e){var b=e.target.closest("button");if(!b)return;MD=b.dataset.m;Array.prototype.forEach.call(g("pz-mode").children,function(x){x.classList.toggle("on",x===b)});calc()};
+
+var CFG=[["tm","cpi-vjetor","2026-10","2025-10","down",0.3,"price","Inflacioni, tetor","%"]];
+function pk(p){var y=(p.match(/(\d{4})/)||[0,0])[1]*1,q=p.match(/(?:T|TM)(\d)/),m=p.match(/^\d{4}-(\d\d)/);return y*100+(q?+q[1]:m?+m[1]:0)}
+function liveLoad(){
+ if(location.protocol.indexOf("http")!==0)return;
+ Promise.all([fetch("../data/observations.json").then(function(r){return r.json()}),fetch("../data/series.json").then(function(r){return r.json()})]).then(function(a){
+  var obs=a[0],ser={};a[1].forEach(function(x){ser[x.id]=x});var cur={};
+  obs.forEach(function(o){var k=o.s+"|"+o.p,c=cur[k];if(!c||o.collected>c.collected||(o.collected===c.collected&&o.seq>c.seq))cur[k]=o});
+  function latest(s){var r=null;Object.keys(cur).forEach(function(k){var o=cur[k];if(o.s===s&&!o.f&&(!r||pk(o.p)>pk(r.p)))r=o});return r}
+  function pack(s,o){o=o||latest(s);var se=ser[s],sr=o.src[0]||{};return{s:s,t:se.t,u:se.unit,p:o.p,v:o.v,src:sr.t||"",url:sr.u||"",m:(o.method||"").slice(0,160),pub:o.pub||null}}
+  function tile(s,p,pp,good,tol,ik,title){var o=cur[s+"|"+p],b=cur[s+"|"+pp];if(!o)return null;var t=pack(s,o);t.ik=ik;t.title=title;t.prev=b?{p:pp,v:b.v}:null;t.d=b?Math.round((o.v-b.v)*10)/10:null;t.st=t.d===null?"na":Math.abs(t.d)<=tol?"same":((t.d>0)===(good==="up")?"good":"bad");return t}
+  var tiles=D.tiles.map(function(t){var c=null;try{
+   var per=t.p,prev=t.prev&&t.prev.p;var l=latest(t.s);if(l&&l.p!==t.p&&/^\d{4}-\d\d$/.test(l.p)){per=l.p;prev=(parseInt(per)-1)+per.slice(4)}
+   c=tile(t.s,per,prev,{price:"down",work:"down",wage:"up",growth:"up",export:"up"}[t.ik],{price:.3,work:.3,wage:10,growth:.3,export:2}[t.ik],t.ik,t.title)}catch(e){}return c||t});
+  D.tiles=tiles;D.n_obs=obs.length;D.n_ser=a[1].length;D.upd=obs.reduce(function(m,o){return o.collected>m?o.collected:m},"");
+  D.news=D.news.map(function(n){try{return pack(n.s)}catch(e){return n}});
+  D.search=a[1].map(function(se){try{return latest(se.id)?pack(se.id):null}catch(e){return null}}).filter(Boolean);
+  pzRender();
+ }).catch(function(){});
+}
+liveLoad();
 calc();
 })();
 </script>
 <script>if("serviceWorker" in navigator&&location.protocol.indexOf("http")===0)navigator.serviceWorker.register("sw.js").catch(function(){});</script>
+</body></html>

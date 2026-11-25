@@ -14,6 +14,6 @@ Të dhënat dhe kodi jetojnë këtu (GitHub), jo në bisedë. Faqja është vet�
 - Shifrat e disa moduleve janë ende të ngulitura në faqe, jo të lexuara nga `data/`. Kjo është hapi tjetër.
 
 ## Hapat tjetër
-1. Aktivizo GitHub Pages (Settings, Pages, Branch main, folder /site) që faqja të ketë adresë publike.
+1. Aktivizo GitHub Pages (Settings, Pages, Branch main, folder / (root)) që faqja të ketë adresë publike.
 2. Faqja lexon `data/*.json` në vend të numrave të ngulitur.
 3. Ndërtimi automatik në Actions pas çdo përditësimi.
