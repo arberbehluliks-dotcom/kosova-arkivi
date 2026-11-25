@@ -1,1 +1,299 @@
-[{"id": "kmin", "inst": "Zyra e Kryeministrit", "title": "Zyra e Kryeministrit, dokumentet", "url": "https://kryeministri.rks-gov.net/dokumente/", "type": "Institucion vendor", "series": 0, "checked": "2026-11-23"}, {"id": "p2125", "inst": "Programi i Qeverisë 2021-2025 (PDF)", "title": "Programi i Qeverisë 2021-2025 (PDF)", "url": "https://kryeministri.rks-gov.net/wp-content/uploads/2022/04/Programi-i-Qeverise-se-Kosoves-2021-2025.pdf", "type": "—", "series": 0, "checked": "2026-11-23"}, {"id": "nds", "inst": "Strategjia Kombëtare për Zhvillim 2030", "title": "Strategjia Kombëtare për Zhvillim 2030", "url": "https://kryeministri.rks-gov.net/strategjia-kombetare-per-zhvillim-2030/", "type": "—", "series": 0, "checked": "2026-11-23"}, {"id": "ndspdf", "inst": "Kryeministria", "title": "Kryeministria, Strategjia dhe Plani Kombëtar për Zhvillim 2030 (PDF, mars 2023)", "url": "https://kryeministri.rks-gov.net/wp-content/uploads/2023/03/06032023-Strategjia-dhe-Plani-Kombetare-per-Zhvillim-2030.pdf", "type": "Institucion vendor", "series": 0, "checked": "2026-11-23"}, {"id": "ewb26", "inst": "European Western Balkans", "title": "European Western Balkans, Key findings 2026 EC report on Kosovo (5 nëntor 2026)", "url": "https://europeanwesternbalkans.com/2026/11/05/key-findings-on-kosovo-2/", "type": "Projekt mediatik i rajonit", "series": 0, "checked": "2026-11-23"}, {"id": "mash", "inst": "MASHTI", "title": "MASHTI, faqja zyrtare (lajmet e nëntorit 2026)", "url": "https://mash.rks-gov.net/", "type": "Institucion vendor", "series": 0, "checked": "2026-11-23"}, {"id": "mdbud", "inst": "Ministria e Drejtësisë", "title": "Ministria e Drejtësisë, buxheti 2026 (16 shkurt 2026)", "url": "https://md.rks-gov.net/lajmet/68521/", "type": "Institucion vendor", "series": 0, "checked": "2026-11-23"}, {"id": "aakprog", "inst": "AAK", "title": "AAK, Programi Zgjedhor 2026-2029 (PDF, dhjetor 2025)", "url": "https://cdnc.heyzine.com/files/uploaded/v3/ca936ed5450348262d5fdc4e959a33c618400298.pdf", "type": "Parti politike", "series": 0, "checked": "2026-11-23"}, {"id": "ldkprog", "inst": "LDK", "title": "LDK, Programi Politik, botimi i tretë (dhjetor 2024)", "url": "https://lidhjademokratike.eu/wp-content/uploads/Programi_Botimi-i-trete.pdf", "type": "Parti politike", "series": 0, "checked": "2026-11-23"}, {"id": "pdkprog", "inst": "PDK", "title": "PDK, Programi Elektoral (PDF në faqen e partisë, qershor 2026)", "url": "https://pdk.info/wp-content/uploads/2026/06/pdk-programi-elektoral.pdf", "type": "Parti politike", "series": 0, "checked": "2026-11-23"}, {"id": "vvprog", "inst": "VV", "title": "VV, Qeveria Kurti 3: Zotimet dhe programet e reja 2025-2029", "url": "https://www.vetevendosje.org/qeveria-kurti-3-zotimet-dhe-programet-e-reja-2025-2029/", "type": "Parti politike", "series": 0, "checked": "2026-11-23"}, {"id": "legpdf", "inst": "Kryeministria", "title": "Kryeministria, Programi i Projektligjeve 2026-2028 (PDF)", "url": "https://kryeministri.rks-gov.net/wp-content/uploads/2026/02/Programi-i-Projekligjeve-per-vitet-2026-2028.pdf", "type": "Institucion vendor", "series": 0, "checked": "2026-11-23"}, {"id": "gap", "inst": "Instituti GAP", "title": "Instituti GAP, rritja e pagës minimale 2026", "url": "https://www.institutigap.org/news/3586", "type": "OJQ vendore", "series": 0, "checked": "2026-11-23"}, {"id": "mw", "inst": "Qeveria e Kosovës", "title": "Qeveria e Kosovës, mbledhja e 273-të (31.10.2025): vendimi për pagën minimale", "url": "https://kryeministri.rks-gov.net/en/?p=187101", "type": "Institucion vendor", "series": 0, "checked": "2026-11-23"}, {"id": "ask", "inst": "ASK", "title": "ASK, Vjetari Statistikor 2025", "url": "https://askapi.rks-gov.net/Custom/19d9c9c5-5ce7-4e49-b968-10bddfbc9e39.pdf", "type": "Institucion vendor (statistika)", "series": 2, "checked": "2026-11-23"}, {"id": "paga", "inst": "ASK", "title": "ASK, Niveli i pagave 2025 (29 maj 2026)", "url": "https://askapi.rks-gov.net/Custom/6710f2b6-7a5e-48cd-bded-80d9df03c8b7.pdf", "type": "Institucion vendor (statistika)", "series": 3, "checked": "2026-11-23"}, {"id": "tm2", "inst": "BQK", "title": "BQK, Vlerësimi Tremujor i Ekonomisë nr. 55, T2 2026", "url": "https://bqk-kos.org/wp-content/uploads/2026/11/BQK_VTE_TM2_2026.pdf", "type": "Institucion vendor (bankë qendrore)", "series": 18, "checked": "2026-11-23"}, {"id": "cbk", "inst": "BQK", "title": "BQK, Raporti Vjetor 2025", "url": "https://bqk-kos.org/wp-content/uploads/2026/07/CBK_AnnualReport_2025-1.pdf?lang=en", "type": "Institucion vendor (bankë qendrore)", "series": 9, "checked": "2026-11-23"}, {"id": "imf", "inst": "IMF", "title": "IMF, konsultimi sipas Nenit IV 2026", "url": "https://www.imf.org/en/news/articles/2026/04/01/pr-26101-kosovo-imf-executive-board-concludes-2026-art-iv-consult", "type": "Organizatë ndërkombëtare", "series": 4, "checked": "2026-11-23"}, {"id": "soc", "inst": "ASK", "title": "ASK, Statistikat e mirëqenies sociale, nëntor 2025", "url": "https://askapi.rks-gov.net/Custom/313bc233-f735-40a8-9081-1efa8960ae2d.pdf", "type": "Institucion vendor (statistika)", "series": 0, "checked": "2026-11-23"}, {"id": "get", "inst": "German Economic Team", "title": "German Economic Team, Kosovo 2026", "url": "https://www.german-economic-team.com/en/newsletter/kosovo-solid-growth-amid-rising-headwinds/", "type": "Këshillues ekonomik ndërkombëtar", "series": 0, "checked": "2026-11-23"}, {"id": "gap2", "inst": "Instituti GAP", "title": "Instituti GAP, paga minimale 2026 (vendimi i Qeverisë, 31 tetor 2025)", "url": "https://www.institutigap.org/documents/83097_Pagaminimale.pdf", "type": "OJQ vendore", "series": 0, "checked": "2026-11-23"}, {"id": "dw", "inst": "Decent Work Balkans", "title": "Decent Work Balkans, Kosovo Fact Sheet 2025", "url": "https://decentworkbalkans.com/facts/kosovo-fact-sheet-2025/", "type": "OJQ ndërkombëtare", "series": 0, "checked": "2026-11-23"}, {"id": "askafp24", "inst": "ASK", "title": "ASK, Rezultatet e Anketës së Fuqisë Punëtore (AFP), 2024", "url": "https://askapi.rks-gov.net/Custom/b5417996-ce3a-476f-9526-3915620c53a0.pdf", "type": "Institucion vendor (statistika)", "series": 3, "checked": "2026-11-24"}, {"id": "askafptm4", "inst": "ASK", "title": "ASK, Rezultatet e Anketës së Fuqisë Punëtore (AFP), TM4 2024", "url": "https://askapi.rks-gov.net/Custom/618693b2-b20b-464a-af32-4b1b150eb7f7.pdf", "type": "Institucion vendor (statistika)", "series": 1, "checked": "2026-11-24"}, {"id": "askafp23", "inst": "ASK", "title": "ASK, Anketa e Fuqisë Punëtore 2023 (korrik 2024)", "url": "https://askapi.rks-gov.net/Custom/d8b6019c-eccf-419f-a5b0-9fb7df247ce3.pdf", "type": "Institucion vendor (statistika)", "series": 7, "checked": "2026-11-24"}, {"id": "askafp24b", "inst": "ASK", "title": "ASK, Anketa e Fuqisë Punëtore 2024 (tabela sipas gjinisë, 22.05.2025)", "url": "https://askapi.rks-gov.net/Custom/085719f6-0ef0-4365-afa7-9a02c8d10cf5.pdf", "type": "Institucion vendor (statistika)", "series": 0, "checked": "2026-11-24"}, {"id": "askafptm2", "inst": "ASK", "title": "ASK, Rezultatet e AFP, TM2 2024 (27.03.2025)", "url": "https://askapi.rks-gov.net/Custom/c1704156-ee8d-4715-b4d5-73f95ab4002b.pdf", "type": "Institucion vendor (statistika)", "series": 0, "checked": "2026-11-24"}, {"id": "asktj26", "inst": "ASK", "title": "ASK, Statistikat e Tregtisë së Jashtme, qershor 2026 (23.07.2026)", "url": "https://askapi.rks-gov.net/Custom/c2a35522-2d41-4213-b0cb-0cd9e2aa2272.pdf", "type": "Institucion vendor (statistika)", "series": 3, "checked": "2026-11-24"}, {"id": "askikn", "inst": "ASK", "title": "ASK, Indeksi i Kostos të Ndërtimit TM2 2026 (26.08.2026)", "url": "https://askapi.rks-gov.net/Custom/f61f569c-d3c9-4915-904e-44e59d60856e.pdf", "type": "Institucion vendor (statistika)", "series": 2, "checked": "2026-11-24"}, {"id": "askicp", "inst": "ASK", "title": "ASK, Indeksi i Çmimeve të Prodhimit TM4 2025 (24.02.2026)", "url": "https://askapi.rks-gov.net/Custom/fe4e810b-da22-415a-a3ad-ac6e92c56cf6.pdf", "type": "Institucion vendor (statistika)", "series": 1, "checked": "2026-11-24"}, {"id": "askllq", "inst": "ASK", "title": "ASK, Llogaritë Qeveritare 2020-2024 (02.05.2025)", "url": "https://askapi.rks-gov.net/Custom/28e51dda-a50e-493d-be11-dad206e44144.pdf", "type": "Institucion vendor (statistika)", "series": 2, "checked": "2026-11-24"}]
+[
+ {
+  "id": "kmin",
+  "inst": "Zyra e Kryeministrit",
+  "title": "Zyra e Kryeministrit, dokumentet",
+  "url": "https://kryeministri.rks-gov.net/dokumente/",
+  "type": "Institucion vendor",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "p2125",
+  "inst": "Programi i Qeverisë 2021-2025 (PDF)",
+  "title": "Programi i Qeverisë 2021-2025 (PDF)",
+  "url": "https://kryeministri.rks-gov.net/wp-content/uploads/2022/04/Programi-i-Qeverise-se-Kosoves-2021-2025.pdf",
+  "type": "—",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "nds",
+  "inst": "Strategjia Kombëtare për Zhvillim 2030",
+  "title": "Strategjia Kombëtare për Zhvillim 2030",
+  "url": "https://kryeministri.rks-gov.net/strategjia-kombetare-per-zhvillim-2030/",
+  "type": "—",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "ndspdf",
+  "inst": "Kryeministria",
+  "title": "Kryeministria, Strategjia dhe Plani Kombëtar për Zhvillim 2030 (PDF, mars 2023)",
+  "url": "https://kryeministri.rks-gov.net/wp-content/uploads/2023/03/06032023-Strategjia-dhe-Plani-Kombetare-per-Zhvillim-2030.pdf",
+  "type": "Institucion vendor",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "ewb26",
+  "inst": "European Western Balkans",
+  "title": "European Western Balkans, Key findings 2026 EC report on Kosovo (5 nëntor 2026)",
+  "url": "https://europeanwesternbalkans.com/2026/11/05/key-findings-on-kosovo-2/",
+  "type": "Projekt mediatik i rajonit",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "mash",
+  "inst": "MASHTI",
+  "title": "MASHTI, faqja zyrtare (lajmet e nëntorit 2026)",
+  "url": "https://mash.rks-gov.net/",
+  "type": "Institucion vendor",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "mdbud",
+  "inst": "Ministria e Drejtësisë",
+  "title": "Ministria e Drejtësisë, buxheti 2026 (16 shkurt 2026)",
+  "url": "https://md.rks-gov.net/lajmet/68521/",
+  "type": "Institucion vendor",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "aakprog",
+  "inst": "AAK",
+  "title": "AAK, Programi Zgjedhor 2026-2029 (PDF, dhjetor 2025)",
+  "url": "https://cdnc.heyzine.com/files/uploaded/v3/ca936ed5450348262d5fdc4e959a33c618400298.pdf",
+  "type": "Parti politike",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "ldkprog",
+  "inst": "LDK",
+  "title": "LDK, Programi Politik, botimi i tretë (dhjetor 2024)",
+  "url": "https://lidhjademokratike.eu/wp-content/uploads/Programi_Botimi-i-trete.pdf",
+  "type": "Parti politike",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "pdkprog",
+  "inst": "PDK",
+  "title": "PDK, Programi Elektoral (PDF në faqen e partisë, qershor 2026)",
+  "url": "https://pdk.info/wp-content/uploads/2026/06/pdk-programi-elektoral.pdf",
+  "type": "Parti politike",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "vvprog",
+  "inst": "VV",
+  "title": "VV, Qeveria Kurti 3: Zotimet dhe programet e reja 2025-2029",
+  "url": "https://www.vetevendosje.org/qeveria-kurti-3-zotimet-dhe-programet-e-reja-2025-2029/",
+  "type": "Parti politike",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "legpdf",
+  "inst": "Kryeministria",
+  "title": "Kryeministria, Programi i Projektligjeve 2026-2028 (PDF)",
+  "url": "https://kryeministri.rks-gov.net/wp-content/uploads/2026/02/Programi-i-Projekligjeve-per-vitet-2026-2028.pdf",
+  "type": "Institucion vendor",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "gap",
+  "inst": "Instituti GAP",
+  "title": "Instituti GAP, rritja e pagës minimale 2026",
+  "url": "https://www.institutigap.org/news/3586",
+  "type": "OJQ vendore",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "mw",
+  "inst": "Qeveria e Kosovës",
+  "title": "Qeveria e Kosovës, mbledhja e 273-të (31.10.2025): vendimi për pagën minimale",
+  "url": "https://kryeministri.rks-gov.net/en/?p=187101",
+  "type": "Institucion vendor",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "ask",
+  "inst": "ASK",
+  "title": "ASK, Vjetari Statistikor 2025",
+  "url": "https://askapi.rks-gov.net/Custom/19d9c9c5-5ce7-4e49-b968-10bddfbc9e39.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 2,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "paga",
+  "inst": "ASK",
+  "title": "ASK, Niveli i pagave 2025 (29 maj 2026)",
+  "url": "https://askapi.rks-gov.net/Custom/6710f2b6-7a5e-48cd-bded-80d9df03c8b7.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 3,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "tm2",
+  "inst": "BQK",
+  "title": "BQK, Vlerësimi Tremujor i Ekonomisë nr. 55, T2 2026",
+  "url": "https://bqk-kos.org/wp-content/uploads/2026/11/BQK_VTE_TM2_2026.pdf",
+  "type": "Institucion vendor (bankë qendrore)",
+  "series": 18,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "cbk",
+  "inst": "BQK",
+  "title": "BQK, Raporti Vjetor 2025",
+  "url": "https://bqk-kos.org/wp-content/uploads/2026/07/CBK_AnnualReport_2025-1.pdf?lang=en",
+  "type": "Institucion vendor (bankë qendrore)",
+  "series": 9,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "imf",
+  "inst": "IMF",
+  "title": "IMF, konsultimi sipas Nenit IV 2026",
+  "url": "https://www.imf.org/en/news/articles/2026/04/01/pr-26101-kosovo-imf-executive-board-concludes-2026-art-iv-consult",
+  "type": "Organizatë ndërkombëtare",
+  "series": 4,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "soc",
+  "inst": "ASK",
+  "title": "ASK, Statistikat e mirëqenies sociale, nëntor 2025",
+  "url": "https://askapi.rks-gov.net/Custom/313bc233-f735-40a8-9081-1efa8960ae2d.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "get",
+  "inst": "German Economic Team",
+  "title": "German Economic Team, Kosovo 2026",
+  "url": "https://www.german-economic-team.com/en/newsletter/kosovo-solid-growth-amid-rising-headwinds/",
+  "type": "Këshillues ekonomik ndërkombëtar",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "gap2",
+  "inst": "Instituti GAP",
+  "title": "Instituti GAP, paga minimale 2026 (vendimi i Qeverisë, 31 tetor 2025)",
+  "url": "https://www.institutigap.org/documents/83097_Pagaminimale.pdf",
+  "type": "OJQ vendore",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "dw",
+  "inst": "Decent Work Balkans",
+  "title": "Decent Work Balkans, Kosovo Fact Sheet 2025",
+  "url": "https://decentworkbalkans.com/facts/kosovo-fact-sheet-2025/",
+  "type": "OJQ ndërkombëtare",
+  "series": 0,
+  "checked": "2026-11-23"
+ },
+ {
+  "id": "askafp24",
+  "inst": "ASK",
+  "title": "ASK, Rezultatet e Anketës së Fuqisë Punëtore (AFP), 2024",
+  "url": "https://askapi.rks-gov.net/Custom/b5417996-ce3a-476f-9526-3915620c53a0.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 3,
+  "checked": "2026-11-24"
+ },
+ {
+  "id": "askafptm4",
+  "inst": "ASK",
+  "title": "ASK, Rezultatet e Anketës së Fuqisë Punëtore (AFP), TM4 2024",
+  "url": "https://askapi.rks-gov.net/Custom/618693b2-b20b-464a-af32-4b1b150eb7f7.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 1,
+  "checked": "2026-11-24"
+ },
+ {
+  "id": "askafp23",
+  "inst": "ASK",
+  "title": "ASK, Anketa e Fuqisë Punëtore 2023 (korrik 2024)",
+  "url": "https://askapi.rks-gov.net/Custom/d8b6019c-eccf-419f-a5b0-9fb7df247ce3.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 7,
+  "checked": "2026-11-24"
+ },
+ {
+  "id": "askafp24b",
+  "inst": "ASK",
+  "title": "ASK, Anketa e Fuqisë Punëtore 2024 (tabela sipas gjinisë, 22.05.2025)",
+  "url": "https://askapi.rks-gov.net/Custom/085719f6-0ef0-4365-afa7-9a02c8d10cf5.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 0,
+  "checked": "2026-11-24"
+ },
+ {
+  "id": "askafptm2",
+  "inst": "ASK",
+  "title": "ASK, Rezultatet e AFP, TM2 2024 (27.03.2025)",
+  "url": "https://askapi.rks-gov.net/Custom/c1704156-ee8d-4715-b4d5-73f95ab4002b.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 0,
+  "checked": "2026-11-24"
+ },
+ {
+  "id": "asktj26",
+  "inst": "ASK",
+  "title": "ASK, Statistikat e Tregtisë së Jashtme, qershor 2026 (23.07.2026)",
+  "url": "https://askapi.rks-gov.net/Custom/c2a35522-2d41-4213-b0cb-0cd9e2aa2272.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 3,
+  "checked": "2026-11-24"
+ },
+ {
+  "id": "askikn",
+  "inst": "ASK",
+  "title": "ASK, Indeksi i Kostos të Ndërtimit TM2 2026 (26.08.2026)",
+  "url": "https://askapi.rks-gov.net/Custom/f61f569c-d3c9-4915-904e-44e59d60856e.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 2,
+  "checked": "2026-11-24"
+ },
+ {
+  "id": "askicp",
+  "inst": "ASK",
+  "title": "ASK, Indeksi i Çmimeve të Prodhimit TM4 2025 (24.02.2026)",
+  "url": "https://askapi.rks-gov.net/Custom/fe4e810b-da22-415a-a3ad-ac6e92c56cf6.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 1,
+  "checked": "2026-11-24"
+ },
+ {
+  "id": "askllq",
+  "inst": "ASK",
+  "title": "ASK, Llogaritë Qeveritare 2020-2024 (02.05.2025)",
+  "url": "https://askapi.rks-gov.net/Custom/28e51dda-a50e-493d-be11-dad206e44144.pdf",
+  "type": "Institucion vendor (statistika)",
+  "series": 2,
+  "checked": "2026-11-24"
+ },
+ {
+  "id": "kmin-arritjet",
+  "inst": "Zyra e Kryeministrit",
+  "title": "Të arriturat kryesore të Qeverisë Kurti 2 (vetëvlerësim)",
+  "url": "https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Te-arriturat-kryesore-te-Qeverise-Kurti-2-.pdf",
+  "type": "Institucion vendor (vetëvlerësim)",
+  "series": 22,
+  "checked": "2026-11-25"
+ }
+]

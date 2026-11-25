@@ -1,0 +1,33 @@
+{
+ "id": "kmin-arritjet-2026",
+ "titulli": "Të arriturat kryesore të Qeverisë Kurti 2 (2021–2026)",
+ "burimi": {"institucioni": "Zyra e Kryeministrit", "url": "https://kryeministri.rks-gov.net/wp-content/uploads/2026/11/Te-arriturat-kryesore-te-Qeverise-Kurti-2-.pdf", "lloji": "Vlerësim i vetë Qeverisë (burim institucional, jo i pavarur)"},
+ "mmbledhur": "2026-11-25",
+ "publikuar": null,
+ "verifikim": "Pa verifikim të pavarur; krahasohet me ASK/BQK/renditje ndërkombëtare",
+ "tregues": [
+  {"id":"pbb","sek":"ekonomia","t":"PBB","nga":7,"deri":11.4,"njesia":"mld €","periudha":"2020/21→2025","krah":"ASK/BQK"},
+  {"id":"papunesia","sek":"ekonomia","t":"Papunësia","nga":25.8,"deri":10.8,"njesia":"%","periudha":"2021→2025","krah":"ASK Anketa e Fuqisë Punëtore"},
+  {"id":"paga-min","sek":"ekonomia","t":"Paga minimale","nga":"130/170","deri":500,"njesia":"€","periudha":"→ 1 korrik 2026"},
+  {"id":"paga-bruto","sek":"ekonomia","t":"Paga mesatare bruto","nga":484,"deri":713,"njesia":"€","periudha":"2021→2025","krah":"ASK pagat"},
+  {"id":"paga-neto","sek":"ekonomia","t":"Paga mesatare neto","nga":432,"deri":636,"njesia":"€","periudha":"2021→2025","krah":"ASK pagat"},
+  {"id":"ndi","sek":"ekonomia","t":"Investime të huaja direkte","nga":420.7,"deri":1050,"njesia":"mln €","periudha":"2021→2025","krah":"BQK"},
+  {"id":"eksp-imp","sek":"ekonomia","t":"Raporti eksport:import","nga":"1:9","deri":"1:6.6","njesia":"","periudha":"→2025","krah":"ASK tregtia"},
+  {"id":"qarkullimi","sek":"ekonomia","t":"Qarkullimi i bizneseve","nga":12.5,"deri":25,"njesia":"mld €","periudha":"2019→2025"},
+  {"id":"borxhi","sek":"ekonomia","t":"Borxhi publik","nga":22.4,"deri":16,"njesia":"% e PBB","periudha":"2020→2025"},
+  {"id":"vende-pune","sek":"ekonomia","t":"Vende pune aktive","nga":368000,"deri":433000,"njesia":"","periudha":"2021→2025"},
+  {"id":"shendet-buxhet","sek":"shendetesia","t":"Buxheti i shëndetësisë","nga":233,"deri":396.1,"njesia":"mln €","periudha":"2019→2026"},
+  {"id":"pensioni","sek":"social","t":"Pensioni bazë","nga":90,"deri":150,"njesia":"€","periudha":"2021→2026"},
+  {"id":"lindja","sek":"social","t":"Shtesa e lindjes","nga":170,"deri":500,"njesia":"€","periudha":"→2026"},
+  {"id":"mbrojtja","sek":"siguri","t":"Buxheti i mbrojtjes","nga":null,"deri":208,"njesia":"mln €","periudha":"2025","shenim":"mbi 2% e PBB"},
+  {"id":"policia","sek":"siguri","t":"Buxheti i Policisë","nga":91.5,"deri":165.6,"njesia":"mln €","periudha":"2021→2026"},
+  {"id":"komuna-buxhet","sek":"pushteti-lokal","t":"Buxheti i komunave","nga":547,"deri":867,"njesia":"mln €","periudha":"2021→2026"},
+  {"id":"grant-pergjithshem","sek":"pushteti-lokal","t":"Granti i përgjithshëm","nga":196.3,"deri":338.5,"njesia":"mln €","periudha":"2020→2026"},
+  {"id":"ekosova","sek":"digjitale","t":"Shërbime e-Kosova","nga":null,"deri":320,"njesia":"shërbime të reja","periudha":"2021→2026","shenim":"1.1 mln përdorues"},
+  {"id":"cpi-rank","sek":"renditje","t":"CPI (Transparency Int.)","nga":104,"deri":76,"njesia":"vendi","periudha":"2020→2025","krah":"renditjet ndërkombëtare"},
+  {"id":"rsf-rank","sek":"renditje","t":"Liria e medias (RSF)","nga":99,"deri":84,"njesia":"vendi","periudha":"2025→2026","krah":"renditjet ndërkombëtare"},
+  {"id":"fh","sek":"renditje","t":"Freedom House","nga":54,"deri":61,"njesia":"pikë","periudha":"→2026","krah":"renditjet ndërkombëtare"},
+  {"id":"pasaporta","sek":"renditje","t":"Pasaporta (rang)","nga":108,"deri":63,"njesia":"vendi","periudha":"2021→"},
+  {"id":"be-progres","sek":"ndërkombëtare","t":"Progres në fusha (Raporti i BE 2025)","nga":null,"deri":"35 nga 38","njesia":"fusha","periudha":"2025"}
+ ]
+}
