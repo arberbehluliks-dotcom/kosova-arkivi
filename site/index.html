@@ -646,6 +646,22 @@ body:not(.narr-on) #sechead .lead { display: none; }
 .komstats b { display: block; font: 800 22px/1.2 var(--font-display, inherit); color: var(--fg); }
 .notebox { background: var(--brand-soft); border-radius: 14px; padding: 13px 15px; font-size: 14px; line-height: 1.55; margin-bottom: 14px; }
 .kmeta { display: block; font-size: 12.5px; color: var(--muted); margin-top: 2px; }
+
+.pp-hero{display:grid;grid-template-columns:auto minmax(0,1fr);gap:16px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:16px}
+.pp-ring{position:relative;width:120px;height:120px}.pp-ring svg{width:100%;height:100%}.pp-ring b{position:absolute;inset:0;display:grid;place-items:center;font-size:26px}
+.pp-st{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}.pp-st div{background:var(--brand-soft);border-radius:12px;padding:8px;text-align:center}.pp-st b{display:block;font-size:22px}.pp-st span{font-size:11px;color:var(--muted)}
+.pp-cap{grid-column:1/-1;font-size:12px;color:var(--muted)}
+.pp-bars{display:grid;gap:7px}.pp-b{display:grid;grid-template-columns:26px minmax(0,1fr) auto;gap:8px;align-items:center;font-size:13px}
+.pp-b .tr{height:16px;border-radius:8px;background:var(--track);overflow:hidden;position:relative}.pp-b .tr i{display:block;height:100%;border-radius:8px}
+.pp-b .nm{grid-column:2/3;font-size:12px;color:var(--muted);margin-bottom:-4px}.pp-b b{font-size:13px;white-space:nowrap}
+.pp-stack{display:flex;height:20px;border-radius:10px;overflow:hidden;background:var(--track)}.pp-stack i{display:block}
+.pp-leg{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-top:6px}
+.pp-dots{display:flex;gap:3px;flex-wrap:wrap}.pp-dots i{width:9px;height:9px;border-radius:50%;background:var(--brand)}
+.pp-card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px;display:grid;gap:10px}
+.pp-tease{display:grid;grid-template-columns:auto minmax(0,1fr);gap:14px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px}
+.pp-tease .pp-ring{width:84px;height:84px}.pp-tease .pp-ring b{font-size:18px}
+.pp-go{grid-column:1/-1;justify-self:start}
+@media(max-width:480px){.pp-hero{grid-template-columns:minmax(0,1fr);justify-items:center}.pp-st{width:100%}}
 .blk { margin-top: 30px; display: grid; gap: 12px; min-width: 0; }
 .cf { display: block; font-size: 12px; color: var(--muted); font-weight: 400; margin-top: 1px; }
 .goals { margin: 0 0 12px; padding-left: 20px; display: grid; gap: 7px; font-size: 14.5px; line-height: 1.5; }
@@ -820,6 +836,7 @@ body:not(.narr-on) .unofnote,body:not(.narr-on) .hero-card p.hl,body:not(.narr-o
     <div class="modebar" id="modebar" role="group" aria-label="Zgjidh modulin" hidden>
       <button type="button" data-m="home" aria-pressed="false">Kreu</button>
       <button type="button" data-m="min" aria-pressed="false">Premtimet e Qeverisë</button>
+      <button type="button" data-m="plan" aria-pressed="false">Plani 2021-2025</button>
       <button type="button" data-m="kom" aria-pressed="false">Komunat</button>
       <button type="button" data-m="eu" aria-pressed="false">Evropa</button>
       <button type="button" data-m="pas" aria-pressed="false">Paga dhe çmimet</button>
@@ -961,10 +978,20 @@ body:not(.narr-on) .unofnote,body:not(.narr-on) .hero-card p.hl,body:not(.narr-o
 
     <div class="blk" id="planwrap">
       <h2>Plani i Qeverisë 2021-2025</h2>
-      <p class="lead">Programi i Qeverisë 2021-2025 zbatohet përmes Planit Strategjik dhe Operacional, që e ndan punën sipas ministrive, me qëllime strategjike për secilën. Qëllimet janë marrë nga dokumenti dhe disa titujve u janë përmbledhur fjalët. <a href="https://kryeministri.rks-gov.net/wp-content/uploads/2022/05/Plani-Strategjik-dhe-Operacional.pdf" target="_blank" rel="noopener">Dokumenti i plotë</a></p>
-      <div class="accs" id="planlist"></div>
+      <div id="planlist"></div>
     </div>
 
+  </section>
+
+  <section id="planpage" hidden>
+    <button type="button" class="qchip" data-m="min">← Premtimet e Qeverisë</button>
+    <h2>Plani i Qeverisë 2021-2025</h2>
+    <div id="pp-hero"></div>
+    <div class="blk"><h2>Sa u realizua nga plani i 2024?</h2><div class="pp-bars" id="pp-bars"></div><div class="pp-leg"><span><b style="color:var(--ok-fill)">●</b> Mirë (60%+)</span><span><b style="color:var(--prog-fill)">●</b> Pjesërisht (30-59%)</span><span><b style="color:var(--bad-fill)">●</b> Dobët (nën 30%)</span></div></div>
+    <div class="blk"><h2>Sa ministri janë ku?</h2><div id="pp-stack"></div></div>
+    <div class="blk"><h2>Sa qëllime ka secila ministri</h2><div class="pp-bars" id="pp-goals"></div></div>
+    <div class="blk"><h2>Të gjitha ministritë dhe qëllimet</h2><div class="accs" id="pp-list"></div></div>
+    <div class="notebox"><b>Burimet.</b> Qëllimet: <a href="https://kryeministri.rks-gov.net/wp-content/uploads/2022/05/Plani-Strategjik-dhe-Operacional.pdf" target="_blank" rel="noopener">Plani Strategjik dhe Operacional (Qeveria)</a>. Aktivitetet e realizuara 2024: <a href="https://levizjafol.org/wp-content/uploads/2025/02/Plani-Strategjik-dhe-Operacional-i-Qeverise-per-periudhen-janar-dhjetor-2024_fin.pdf" target="_blank" rel="noopener">Lëvizja FOL, analiza e planit 2024</a>. Pamja e vetë Qeverisë: <a href="bilanci.html">Bilanci i Qeverisë</a>. Përqindja është llogaritur nga numrat e raportuar.</div>
   </section>
 
   <section id="komwrap" hidden>
@@ -1603,12 +1630,38 @@ function sdgsOf(k) { return SDG.filter(function (g) { return g[2].indexOf(k) >= 
 function sdgBadges(k) {
   return sdgsOf(k).map(function (g) { return '<span class="sdgn" title="SDG ' + g[0] + ': ' + esc(g[1]) + '">' + g[0] + '</span>'; }).join("");
 }
-function drawPlan() {
-  $("planlist").innerHTML = MIN.map(function (m) {
-    return '<details class="acc"><summary>' + esc(m[2]) + ' <span class="cnt">' + m[3].length + (m[3].length === 1 ? ' qëllim' : ' qëllime') + '</span></summary><div class="body"><ul class="goals">' +
-      m[3].map(function (g) { return '<li>' + esc(g) + '</li>'; }).join("") + '</ul><button type="button" class="qchip mchip" data-k="' + m[0] + '">Shiko çfarë u realizua →</button></div></details>';
-  }).join("");
+function ppRing(v, col) {
+  var c = 2 * Math.PI * 26, o = c * (1 - v / 100);
+  return '<svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="26" fill="none" stroke="var(--track)" stroke-width="9"/><circle cx="32" cy="32" r="26" fill="none" stroke="' + col + '" stroke-width="9" stroke-linecap="round" stroke-dasharray="' + c.toFixed(1) + '" stroke-dashoffset="' + o.toFixed(1) + '" transform="rotate(-90 32 32)"/></svg>';
 }
+function ppTot() {
+  var r = 0, t = 0, g = 0; NDPM.forEach(function (m) { r += m[2]; t += m[3]; }); MIN.forEach(function (m) { g += m[3].length; });
+  var p = Math.round(r / t * 100); return { r: r, t: t, g: g, p: p, col: "var(--" + verdict(p)[0] + "-fill)" };
+}
+function drawPlan() {
+  var T = ppTot();
+  $("planlist").innerHTML = '<div class="pp-tease"><div class="pp-ring">' + ppRing(T.p, T.col) + '<b>' + T.p + '%</b></div><div><b>' + T.r + ' nga ' + T.t + '</b> aktivitete të Planit të 2024 u realizuan<div class="pp-dots" style="margin-top:8px">' + MIN.map(function (m) { var i = sectorInfo(m[0]); return '<i style="background:' + (i && i.p !== null ? "var(--" + verdict(i.p)[0] + "-fill)" : "var(--track)") + '" title="' + esc(m[1]) + '"></i>'; }).join("") + '</div></div><button type="button" class="qchip pp-go" data-m="plan">Hap planin e plotë: grafikët dhe të gjitha ministritë →</button></div>';
+}
+function drawPlanPage() {
+  var T = ppTot(), rows = MIN.map(function (m) { var i = sectorInfo(m[0]); return { m: m, i: i, nd: NDPM.filter(function (x) { return x[1] === m[0]; })[0] }; });
+  $("pp-hero").innerHTML = '<div class="pp-hero"><div class="pp-ring">' + ppRing(T.p, T.col) + '<b>' + T.p + '%</b></div><div class="pp-st"><div><b>' + MIN.length + '</b><span>ministri e institucione</span></div><div><b>' + T.g + '</b><span>qëllime strategjike</span></div><div><b>' + NDPM.length + '</b><span>me të dhëna 2024</span></div></div><div class="pp-cap">' + T.r + ' nga ' + T.t + ' aktivitete të planit vjetor 2024 u realizuan (' + NDPM.length + ' ministri me të dhëna). Burimi: Lëvizja FOL.</div></div>';
+  var withD = rows.filter(function (r) { return r.i && r.i.p !== null; }).sort(function (a, b) { return b.i.p - a.i.p; });
+  var noD = rows.filter(function (r) { return !(r.i && r.i.p !== null); });
+  $("pp-bars").innerHTML = withD.map(function (r) { var p = r.i.p, v = verdict(p)[0];
+    return '<div class="pp-b"><span aria-hidden="true">' + (ICON[r.m[0]] || "") + '</span><div><div class="nm">' + esc(r.m[1]) + '</div><div class="tr"><i style="width:' + Math.max(p, 2) + '%;background:var(--' + v + '-fill)"></i></div></div><b>' + p + '%' + (r.nd ? ' <small style="color:var(--muted);font-weight:400">' + r.nd[2] + '/' + r.nd[3] + '</small>' : ' <small style="color:var(--muted);font-weight:400">objektiva</small>') + '</b></div>'; }).join("") +
+    noD.map(function (r) { return '<div class="pp-b"><span aria-hidden="true">' + (ICON[r.m[0]] || "") + '</span><div><div class="nm">' + esc(r.m[1]) + '</div><div class="tr"></div></div><b style="color:var(--muted);font-weight:400">pa të dhëna</b></div>'; }).join("");
+  var c = { ok: 0, prog: 0, bad: 0, todo: 0 }; rows.forEach(function (r) { c[verdict(r.i && r.i.p !== undefined ? r.i.p : null)[0]]++; });
+  var L = { ok: "Mirë", prog: "Pjesërisht", bad: "Dobët", todo: "Pa përqindje" }, C = { ok: "var(--ok-fill)", prog: "var(--prog-fill)", bad: "var(--bad-fill)", todo: "var(--track)" };
+  $("pp-stack").innerHTML = '<div class="pp-stack">' + Object.keys(c).filter(function (k) { return c[k]; }).map(function (k) { return '<i style="width:' + c[k] / rows.length * 100 + '%;background:' + C[k] + '"></i>'; }).join("") + '</div><div class="pp-leg">' + Object.keys(c).filter(function (k) { return c[k]; }).map(function (k) { return '<span><b style="color:' + (k === "todo" ? "var(--muted)" : C[k]) + '">●</b> ' + L[k] + ': <b>' + c[k] + '</b></span>'; }).join("") + '</div>';
+  var mx = Math.max.apply(null, MIN.map(function (m) { return m[3].length; }));
+  $("pp-goals").innerHTML = MIN.slice().sort(function (a, b) { return b[3].length - a[3].length; }).map(function (m) {
+    return '<div class="pp-b"><span aria-hidden="true">' + (ICON[m[0]] || "") + '</span><div><div class="nm">' + esc(m[1]) + '</div><div class="pp-dots">' + m[3].map(function () { return '<i></i>'; }).join("") + '</div></div><b>' + m[3].length + '</b></div>'; }).join("");
+  $("pp-list").innerHTML = rows.map(function (r) { var m = r.m, i = r.i, v = i && i.p !== null ? verdict(i.p)[0] : null;
+    return '<details class="acc"><summary><span aria-hidden="true">' + (ICON[m[0]] || "") + '</span> ' + esc(m[2]) + ' <span class="cnt">' + m[3].length + (m[3].length === 1 ? ' qëllim' : ' qëllime') + (i && i.p !== null ? ' · ' + i.v : '') + '</span></summary><div class="body">' +
+      (i && i.p !== null ? '<div class="pp-b" style="grid-template-columns:minmax(0,1fr) auto"><div class="tr"><i style="width:' + Math.max(i.p, 2) + '%;background:var(--' + v + '-fill)"></i></div><b>' + i.v + '</b></div><p class="lead" style="margin:6px 0">' + esc(i.cap) + '</p>' : '<p class="lead" style="margin:6px 0">' + esc(i ? i.cap : '') + '</p>') +
+      '<ol class="goals">' + m[3].map(function (g) { return '<li>' + esc(g) + '</li>'; }).join("") + '</ol><div>' + sdgBadges(m[0]) + '</div><button type="button" class="qchip mchip" data-k="' + m[0] + '">Shiko çfarë u realizua →</button></div></details>'; }).join("");
+}
+document.addEventListener("click", function (e) { var b = e.target.closest && e.target.closest("#planwrap [data-m], #planpage > [data-m]"); if (b) goMode(b.dataset.m); });
 var SDGE = { 1: "🧺", 2: "🌾", 3: "🩺", 4: "🎓", 5: "⚖️", 6: "💧", 7: "⚡", 8: "💼", 9: "🏗️", 10: "🤝", 11: "🏙️", 12: "♻️", 13: "🌡️", 14: "🌊", 15: "🌳", 16: "🕊️", 17: "🌐" };
 /* Lidhja SDG → modulet e kësaj faqe: bërë nga ne sipas temës, jo tabelë zyrtare */
 var SDGMOD = { 1: [["eco", "Ekonomia në numra"], ["min", "Qeveria"]], 2: [["min", "Qeveria"]], 3: [["min", "Qeveria"]], 4: [["rank", "PISA te Renditjet"], ["min", "Qeveria"]], 5: [["min", "Qeveria"]],
@@ -2746,6 +2799,8 @@ function render() {
   $("cards-wrap").hidden = searching || sector || !mn;
   $("sechead").hidden = searching || !sector || !mn;
   $("komwrap").hidden = searching || M !== "kom";
+  $("planpage").hidden = searching || M !== "plan";
+  if (M === "plan") drawPlanPage();
   $("euwrap").hidden = searching || M !== "eu";
   $("sdgpage").hidden = searching || M !== "sdg";
   $("ecowrap").hidden = searching || M !== "eco";
@@ -2764,7 +2819,7 @@ function render() {
   if (M === "krah") drawKm();
   if (M === "prio") drawPrio();
   if (M === "about") drawAboutSrc();
-  $("details").hidden = searching || home || M === "pas" || M === "about" || M === "prio" || M === "krah" || M === "mat";
+  $("details").hidden = searching || home || M === "pas" || M === "plan" || M === "about" || M === "prio" || M === "krah" || M === "mat";
   $("secwrap").hidden = !mn; $("bridge").hidden = !mn || SEC !== "all"; drawLife();
   $("modebar").hidden = home;
   $("narrtoggle").hidden = home;
@@ -2978,7 +3033,7 @@ function setHash() {
 function readHash() {
   var h = (location.hash || "").replace(/^#/, ""), m;
   if ((m = /^k-([a-z0-9-]+)$/.exec(h))) { $("q").value = m[1].replace(/-/g, " "); return true; }
-  if ((m = /^m-(min|pas|kom|eu|eco|rank|p30|chain|map|zot|qual|sdg|about|prio|krah|mat)$/.exec(h))) { MODE = m[1]; $("q").value = ""; return true; }
+  if ((m = /^m-(min|plan|pas|kom|eu|eco|rank|p30|chain|map|zot|qual|sdg|about|prio|krah|mat)$/.exec(h))) { MODE = m[1]; $("q").value = ""; return true; }
   return false;
 }
 function goMode(m) {
