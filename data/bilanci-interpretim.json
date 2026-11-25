@@ -1,0 +1,15 @@
+{
+ "titulli": "Interpretim analitik i Monitorit (jo të dhëna zyrtare)",
+ "shenim": "Lexim i shifrave të dokumentit të Kryeministrisë dhe të arkivit. Nuk është pohim i institucioneve. Ndikimi: 1 = i tërthortë, 3 = i drejtpërdrejtë në xhepin ose jetën e përditshme.",
+ "sektoret": {
+  "ekonomia": {"ikona":"💶","emri":"Ekonomia dhe puna","ndikimi":3,"lexim":"Pagat nominale dolën rreth 47% më lart (484→713 €) dhe papunësia ra shumë. Përfitimi real varet nga çmimet.","kujdes":"Nuk ka ende krahasim me çmimet e akumuluara 2021–2026; inflacioni vjetor tetor 2026 është 7.1%."},
+  "shendetesia": {"ikona":"🏥","emri":"Shëndetësia","ndikimi":3,"lexim":"Buxheti u rrit rreth 70% (233→396 mln €), por shifra nuk thotë sa shpejt apo sa mirë shërbehet pacienti.","kujdes":"Mungojnë tregues rezultati (lista e pritjes, ilaçe në dispozicion)."},
+  "social": {"ikona":"👪","emri":"Social dhe arsim","ndikimi":3,"lexim":"Pensioni bazë u rrit 67% (90→150 €) dhe ndihma e lindjes u trefishua. Efekti është i drejtpërdrejtë te familjet.","kujdes":"Shumat janë nominale; pesha reale varet nga kostoja e jetesës."},
+  "siguri": {"ikona":"🛡️","emri":"Siguria dhe drejtësia","ndikimi":2,"lexim":"Buxheti i Policisë u rrit 81%. Efekti te qytetari matet me rezultate (krim, zgjidhje çështjesh), jo me buxhet.","kujdes":"Dokumenti jep sasi dhe shuma, jo kohën e gjykimit apo besimin në drejtësi."},
+  "pushteti-lokal": {"ikona":"🏘️","emri":"Pushteti lokal","ndikimi":2,"lexim":"Komunat kanë 59% më shumë para (547→867 mln €). Qytetari e ndien përmes shërbimeve komunale.","kujdes":"Nuk dihet sa nga rritja u harxhua në projekte të përfunduara."},
+  "digjitale": {"ikona":"💻","emri":"Shërbimet digjitale","ndikimi":2,"lexim":"320 shërbime të reja në e-Kosova dhe 1.1 mln përdorues kursejnë kohë dhe radhë.","kujdes":"Numri i shërbimeve nuk është numri i atyre që përdoren realisht."},
+  "renditje": {"ikona":"🏆","emri":"Renditjet ndërkombëtare","ndikimi":1,"lexim":"Të gjitha renditjet e përmendura janë përmirësuar. Janë tregues të tërthortë të besimit dhe lirive.","kujdes":"Verifikohen te moduli i renditjeve me burimin origjinal, jo me dokumentin e Qeverisë."},
+  "ndërkombëtare": {"ikona":"🇪🇺","emri":"Integrimi evropian","ndikimi":1,"lexim":"Progres në 35 nga 38 fusha sipas Raportit të BE 2025.","kujdes":"Progresi i raportuar nuk është anëtarësim; vlerësimi vjen nga një dokument i Qeverisë."}
+ },
+ "plani": {"ekonomia":["Financat publike dhe prokurimi","Ekonomia dhe rimëkëmbja"],"shendetesia":["Shëndetësia"],"siguri":["Drejtësia"],"social":["Arsimi"],"ndërkombëtare":["Politika e jashtme"]}
+}

@@ -1,0 +1,60 @@
+<!doctype html><html lang="sq"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Bilanci i Qeverisë 2021–2026</title>
+<style>
+:root{--bg:#eef3fb;--c:#fff;--t:#0b2a5b;--m:#5b6b86;--b:#1e4fa3;--y:#f5b800;--g:#1a9b5a;--r:#d23b3b;--o:#e08a00}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font:15px system-ui,sans-serif;padding:16px;max-width:900px;margin-inline:auto}
+h1{font-size:23px;margin:0 0 2px}.st{color:var(--m);font-size:13px;margin-bottom:12px}
+.leg{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;font-size:12px}.leg span{padding:5px 9px;border-radius:12px;background:#fff}
+.sek{background:var(--c);border-radius:18px;padding:14px;margin-bottom:16px;border-top:5px solid var(--y)}
+.sek>h2{margin:0 0 10px;font-size:18px;display:flex;align-items:center;gap:8px}.sek>h2 .imp{margin-left:auto;font-size:13px;white-space:nowrap}
+.lab{font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;margin:12px 0 6px;color:var(--b)}
+.row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 8px;margin:8px 0;font-size:13px}
+.row .n{font-weight:600}.row .chg{font-weight:800;text-align:right}.up{color:var(--g)}.dn{color:var(--r)}.nu{color:var(--m)}
+.bars{grid-column:1/-1}.br{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--m);margin:2px 0}
+.br .l{width:44px;flex:none}.br i{display:block;height:12px;border-radius:6px;background:var(--b);min-width:3px}.br.k i{background:var(--g)}.br b{color:var(--t);white-space:nowrap}
+.pl{display:flex;height:16px;border-radius:8px;overflow:hidden;background:#e4e9f2}.pl i{display:block}
+.pk{font-size:11px;color:var(--m);display:flex;gap:10px;flex-wrap:wrap;margin-top:4px}
+.zy{border-left:4px solid var(--b);padding-left:8px}
+.an{border:2px dashed var(--o);border-radius:12px;padding:10px;background:#fff8e8;margin-top:12px;font-size:13px}
+.an .lab{color:var(--o);margin-top:0}.an small{display:block;color:var(--m);margin-top:6px}
+.src{font-size:11px;margin-top:8px}.src a{color:var(--b)}
+.foot{font-size:11px;color:var(--m);margin:10px 0 24px}
+</style></head><body>
+<h1>⚖️ Bilanci i Qeverisë 2021–2026</h1>
+<div class="st">Pretendimet përballë dëshmive</div>
+<div class="leg"><span style="border-left:4px solid var(--b)">🏛️ Të dhëna zyrtare (vetëvlerësim)</span><span style="border-left:4px solid var(--g)">📊 Të dhëna të pavarura në arkiv</span><span style="border:1px dashed var(--o)">🔎 Interpretim analitik</span></div>
+<div id="app">Duke u ngarkuar…</div>
+<div class="foot" id="ft"></div>
+<script>
+const LOW=new Set(['papunesia','borxhi','eksp-imp','cpi-rank','rsf-rank','pasaporta','paga-min-x']);
+const MAP={'paga-bruto':'punesimi-0','paga-neto':'punesimi-1','papunesia':'punesimi-3'};
+const COL={done:'#1a9b5a',prog:'#1e4fa3',late:'#e08a00',fail:'#d23b3b'};
+const LBL={done:'Realizuar',prog:'Në progres',late:'Me vonesë',fail:'Jo e realizuar'};
+const num=v=>typeof v==='number'?v:null;const esc=s=>String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+const fmt=v=>v==null?'–':typeof v==='number'?v.toLocaleString('sq',{maximumFractionDigits:1}):esc(v);
+const O={};
+function last(id){const l=(O[id]||[]).slice().sort((a,b)=>(a.collected||'').localeCompare(b.collected||'')||(a.seq||0)-(b.seq||0));return l.pop()}
+function row(t){
+ const a=num(t.nga),b=num(t.deri),m=Math.max(a||0,b||0)||1,o=MAP[t.id]?last(MAP[t.id]):null;
+ let chg='<span class="nu">pa krahasim</span>';
+ if(a!=null&&b!=null&&a!==0){const p=(b-a)/a*100,good=LOW.has(t.id)?p<0:p>0;chg=`<span class="${good?'up':'dn'}">${p>0?'▲':'▼'} ${Math.abs(p).toFixed(0)}%</span>`}
+ const br=(l,v,c)=>`<div class="br ${c}"><span class="l">${l}</span><i style="width:${v==null?0:Math.max(3,(num(v)??0)/m*60)}%"></i><b>${fmt(v)}</b></div>`;
+ let h=`<div class="row"><span class="n">${esc(t.t)} <small class="nu">${esc(t.njesia||'')}</small></span><span class="chg">${chg}</span><div class="bars">${br('Para',t.nga,'z')}${br('Tani',t.deri,'z')}${o?br('Arkivi',o.v,'k'):''}</div></div>`;
+ if(o)h+=`<div class="pk"><span>Arkivi: ${esc(o.p)} · ${esc((o.src&&o.src[0]&&o.src[0].t)||'')}</span></div>`;
+ return h}
+function plan(names,P){
+ const c={done:0,prog:0,late:0,fail:0};let any=0;
+ P.rows.filter(r=>names.includes(r[0])).forEach(r=>JSON.parse(r[1]).forEach(([n,s])=>{if(n&&c[s]!=null){c[s]++;any++}}));
+ if(!any)return'';
+ return `<div class="lab">Premtimi i planit → rezultati (${any} objektiva)</div><div class="pl">${Object.keys(c).filter(k=>c[k]).map(k=>`<i style="width:${c[k]/any*100}%;background:${COL[k]}"></i>`).join('')}</div><div class="pk">${Object.keys(c).filter(k=>c[k]).map(k=>`<span><b style="color:${COL[k]}">●</b> ${LBL[k]} ${c[k]}</span>`).join('')}</div>`}
+Promise.all(['qeveria-arritjet','observations','sektoret','bilanci-interpretim'].map(f=>fetch('../data/'+f+'.json').then(r=>r.json()))).then(([A,ob,P,I])=>{
+ ob.forEach(x=>(O[x.s]=O[x.s]||[]).push(x));
+ const sek=[...new Set(A.tregues.map(t=>t.sek))];
+ app.innerHTML=sek.map(s=>{const i=I.sektoret[s]||{ikona:'📊',emri:s,ndikimi:1,lexim:'',kujdes:''};
+  const pn=I.plani[s]?plan(I.plani[s],P):'';
+  return `<section class="sek"><h2>${i.ikona} ${esc(i.emri)}<span class="imp" title="Ndikimi te qytetari">${'●'.repeat(i.ndikimi)}${'○'.repeat(3-i.ndikimi)}</span></h2>
+  <div class="zy"><div class="lab">🏛️ Para dhe pas mandatit</div>${A.tregues.filter(t=>t.sek===s).map(row).join('')}${pn}
+  <div class="src">Burimi: <a href="${A.burimi.url}" target="_blank" rel="noopener">${esc(A.burimi.institucioni)}, Të arriturat kryesore (PDF)</a>${pn?' · objektivat: <a href="../data/sektoret.json">arkivi</a>':''}</div></div>
+  <div class="an"><div class="lab">🔎 Interpretim analitik · ndikimi te qytetari ${'●'.repeat(i.ndikimi)}${'○'.repeat(3-i.ndikimi)}</div>${esc(i.lexim)}<small>⚠️ ${esc(i.kujdes)}</small></div></section>`}).join('');
+ ft.textContent='Të dhënat zyrtare janë vetëvlerësim i Qeverisë dhe nuk janë verifikuar të pavarura, përveç ku shfaqet shiriti jeshil. Interpretimi është i Monitorit dhe duhet lexuar si analizë, jo si fakt. Mbledhur: '+A.mmbledhur+'.'
+}).catch(()=>{app.textContent='Hapeni përmes faqes së publikuar (jo file://).'});
+</script></body></html>
