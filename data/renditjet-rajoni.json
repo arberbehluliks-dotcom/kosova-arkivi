@@ -1,0 +1,112 @@
+{
+ "koleksioni": "renditjet-rajoni",
+ "mbledhur": "2026-11-25",
+ "shenim": "Krahasime me vendet e Ballkanit Perëndimor (WB6). Vlerat siç publikohen nga burimi; asnjë vlerë e llogaritur.",
+ "rreshta": [
+  {
+   "id": "heritage-2026",
+   "tregues": "Liria ekonomike (Heritage), pikë",
+   "periudha": "2026",
+   "vlerat": {
+    "Shqipëria": 68.0,
+    "Serbia": 65.0,
+    "Mali i Zi": 63.8,
+    "Maqedonia e Veriut": 63.3,
+    "Bosnja": 63.1,
+    "Kosova": 62.4
+   },
+   "burimi": "https://static.heritage.org/index/pdf/2026/2026_indexofeconomicfreedom_kosovo.pdf",
+   "metodologjia": "Heritage Foundation, Index of Economic Freedom 2026; më e lartë = më mirë"
+  },
+  {
+   "id": "gpi-2026",
+   "tregues": "Indeksi Global i Paqes, vendi në botë",
+   "periudha": "2026",
+   "vlerat": {
+    "Mali i Zi": 30,
+    "Shqipëria": 36,
+    "Maqedonia e Veriut": 46,
+    "Bosnja": 48,
+    "Kosova": 54,
+    "Serbia": 70
+   },
+   "burimi": "https://www.visionofhumanity.org/wp-content/uploads/2026/06/Global-Peace-Index-2026-Report.pdf",
+   "metodologjia": "Institute for Economics & Peace; më e ulët = më e paqtë"
+  },
+  {
+   "id": "vdem-2026",
+   "tregues": "Lloji i regjimit (V-Dem)",
+   "periudha": "2025 (raporti 2026)",
+   "vlerat": {
+    "Kosova": "demokraci elektorale",
+    "Mali i Zi": "demokraci elektorale",
+    "Maqedonia e Veriut": "demokraci elektorale, zonë gri",
+    "Shqipëria": "autokraci elektorale, zonë gri",
+    "Bosnja": "autokraci elektorale, zonë gri",
+    "Serbia": "autokraci elektorale"
+   },
+   "burimi": "https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf",
+   "metodologjia": "V-Dem Institute, Democracy Report 2026"
+  },
+  {
+   "id": "epi-2026",
+   "tregues": "Performanca mjedisore (EPI), vendi",
+   "periudha": "2026",
+   "vlerat": {
+    "Shqipëria": 46,
+    "Mali i Zi": 55,
+    "Maqedonia e Veriut": 56,
+    "Serbia": 69,
+    "Bosnja": 76,
+    "Kosova": "nuk përfshihet"
+   },
+   "burimi": "https://epi.yale.edu/node/51152",
+   "metodologjia": "Yale Center for Environmental Law & Policy"
+  },
+  {
+   "id": "bti-politik-2026",
+   "tregues": "BTI transformimi politik, 1-10",
+   "periudha": "2026",
+   "vlerat": {
+    "Shqipëria": 7.7,
+    "Maqedonia e Veriut": 7.65,
+    "Mali i Zi": 7.4,
+    "Kosova": 6.9,
+    "Bosnja": 5.95,
+    "Serbia": 5.18
+   },
+   "burimi": "https://europeanwesternbalkans.com/2026/03/27/serbia-classified-as-moderate-autocracy-other-wb-countries-as-defective-democracies/",
+   "metodologjia": "Bertelsmann Stiftung BTI 2026; vlerat sipas përmbledhjes së European Western Balkans, jo nga tabela origjinale e BTI"
+  },
+  {
+   "id": "bti-ekonomik-2026",
+   "tregues": "BTI transformimi ekonomik, 1-10",
+   "periudha": "2026",
+   "vlerat": {
+    "Mali i Zi": 7.5,
+    "Maqedonia e Veriut": 7.18,
+    "Shqipëria": 7.11,
+    "Serbia": 6.79,
+    "Bosnja": 6.57,
+    "Kosova": 6.21
+   },
+   "burimi": "https://europeanwesternbalkans.com/2026/03/27/serbia-classified-as-moderate-autocracy-other-wb-countries-as-defective-democracies/",
+   "metodologjia": "si më sipër"
+  },
+  {
+   "id": "bti-qeverisje-2026",
+   "tregues": "BTI qeverisja, 1-10",
+   "periudha": "2026",
+   "vlerat": {
+    "Shqipëria": 6.71,
+    "Maqedonia e Veriut": 6.07,
+    "Mali i Zi": 5.9,
+    "Kosova": 4.81,
+    "Bosnja": 4.03,
+    "Serbia": 3.96
+   },
+   "burimi": "https://europeanwesternbalkans.com/2026/03/27/serbia-classified-as-moderate-autocracy-other-wb-countries-as-defective-democracies/",
+   "metodologjia": "si më sipër"
+  }
+ ]
+}
