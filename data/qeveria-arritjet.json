@@ -228,6 +228,106 @@
    "deri": "35 nga 38",
    "njesia": "fusha",
    "periudha": "2025"
+  },
+  {
+   "id": "pagesat-direkte",
+   "sek": "bujqesia",
+   "t": "Pagesat direkte për fermerët",
+   "nga": 36.7,
+   "deri": 74.7,
+   "njesia": "mln €",
+   "periudha": "2020→2025"
+  },
+  {
+   "id": "hektare",
+   "sek": "bujqesia",
+   "t": "Hektarë të subvencionuar",
+   "nga": 66294,
+   "deri": 130310,
+   "njesia": "ha",
+   "periudha": "2021→2025"
+  },
+  {
+   "id": "eksport-bujq",
+   "sek": "bujqesia",
+   "t": "Eksporti bujqësor",
+   "nga": 73.9,
+   "deri": 186.6,
+   "njesia": "mln €",
+   "periudha": "2020→2025"
+  },
+  {
+   "id": "humbje-uji",
+   "sek": "energjia",
+   "t": "Humbjet e ujit (KRU Bifurkacioni)",
+   "nga": 63.73,
+   "deri": 45.22,
+   "njesia": "%",
+   "periudha": "2020→2025"
+  },
+  {
+   "id": "kapacitet",
+   "sek": "energjia",
+   "t": "Kapacitete të reja gjenerimi",
+   "nga": null,
+   "deri": 144.14,
+   "njesia": "MW",
+   "periudha": "2021→2026",
+   "shenim": "të reja gjatë mandatit"
+  },
+  {
+   "id": "arsim-dual",
+   "sek": "arsim",
+   "t": "Nxënës në arsimin dual profesional",
+   "nga": 107,
+   "deri": 2500,
+   "njesia": "nxënës",
+   "periudha": "2022/23→2025/26"
+  },
+  {
+   "id": "bursa",
+   "sek": "arsim",
+   "t": "Studentë të mbështetur me bursa",
+   "nga": null,
+   "deri": 18000,
+   "njesia": "studentë",
+   "periudha": "2021→2026"
+  },
+  {
+   "id": "biznese",
+   "sek": "ekonomia",
+   "t": "Biznese të regjistruara (periudha 5-vjeçare)",
+   "nga": 49327,
+   "deri": 60046,
+   "njesia": "biznese",
+   "periudha": "2016–2020 → 2021–2026"
+  },
+  {
+   "id": "spec-paga",
+   "sek": "shendetesia",
+   "t": "Paga e mjekut specialist",
+   "nga": 659,
+   "deri": 1430,
+   "njesia": "€",
+   "periudha": "→2026"
+  },
+  {
+   "id": "grupe-krim",
+   "sek": "siguri",
+   "t": "Grupe kriminale të shpërndara",
+   "nga": null,
+   "deri": 167,
+   "njesia": "grupe",
+   "periudha": "2021–2026"
+  },
+  {
+   "id": "ndihma-femije",
+   "sek": "social",
+   "t": "Shtesa për fëmijë (deri 2 fëmijë)",
+   "nga": null,
+   "deri": 30,
+   "njesia": "€/muaj",
+   "periudha": "2026"
   }
  ]
 }
