@@ -31,7 +31,15 @@
     "Serbia": 70
    },
    "burimi": "https://www.visionofhumanity.org/wp-content/uploads/2026/06/Global-Peace-Index-2026-Report.pdf",
-   "metodologjia": "Institute for Economics & Peace; më e ulët = më e paqtë"
+   "metodologjia": "Institute for Economics & Peace; më e ulët = më e paqtë",
+   "shfaqje": {
+    "Mali i Zi": "vendi 30",
+    "Shqipëria": "vendi 36",
+    "Maqedonia e Veriut": "vendi 46",
+    "Bosnja": "vendi 48",
+    "Kosova": "vendi 54",
+    "Serbia": "vendi 70"
+   }
   },
   {
    "id": "vdem-2026",
@@ -107,6 +115,74 @@
    },
    "burimi": "https://europeanwesternbalkans.com/2026/03/27/serbia-classified-as-moderate-autocracy-other-wb-countries-as-defective-democracies/",
    "metodologjia": "si më sipër"
+  },
+  {
+   "id": "rsf-2026",
+   "tregues": "Liria e shtypit (RSF), vendi në botë",
+   "periudha": "2026",
+   "vlerat": {
+    "Mali i Zi": 41,
+    "Maqedonia e Veriut": 45,
+    "Shqipëria": 83,
+    "Kosova": 84,
+    "Bosnja": 90,
+    "Serbia": 104
+   },
+   "shfaqje": {
+    "Mali i Zi": "71.80",
+    "Maqedonia e Veriut": "69.49",
+    "Shqipëria": "56.52",
+    "Kosova": "55.89",
+    "Bosnja": "54.29",
+    "Serbia": "50.79"
+   },
+   "burimi": "https://rsf.org/en/region/europe-central-asia",
+   "metodologjia": "Reporterët Pa Kufij, Indeksi 2026; vendi më i ulët = më mirë; në shfaqje pikët"
+  },
+  {
+   "id": "fh-2026",
+   "tregues": "Liria në botë (Freedom House), pikë 0-100",
+   "periudha": "2026",
+   "vlerat": {
+    "Shqipëria": 69,
+    "Mali i Zi": 68,
+    "Maqedonia e Veriut": 67,
+    "Kosova": 61,
+    "Bosnja": 54,
+    "Serbia": 53
+   },
+   "burimi": "https://freedomhouse.org/country/kosovo/freedom-world/2026",
+   "metodologjia": "Freedom House, Freedom in the World 2026; më e lartë = më mirë"
+  },
+  {
+   "id": "cpi-2025",
+   "tregues": "Perceptimi i korrupsionit (TI, CPI), pikë 0-100",
+   "periudha": "2025",
+   "vlerat": {
+    "Mali i Zi": 46,
+    "Kosova": 43,
+    "Maqedonia e Veriut": 40,
+    "Shqipëria": 39,
+    "Bosnja": 34,
+    "Serbia": 33
+   },
+   "burimi": "https://www.transparency.org/country/KOS",
+   "metodologjia": "Transparency International CPI 2025; më e lartë = më pak korrupsion i perceptuar"
+  },
+  {
+   "id": "iqair-2025",
+   "tregues": "Ndotja e ajrit PM2.5, µg/m³",
+   "periudha": "2025",
+   "vlerat": {
+    "Bosnja": 23.4,
+    "Maqedonia e Veriut": 21.2,
+    "Serbia": 19.8,
+    "Mali i Zi": 16.5,
+    "Shqipëria": 12.6,
+    "Kosova": 11.5
+   },
+   "burimi": "https://www.iqair.com/world-most-polluted-countries",
+   "metodologjia": "IQAir, mesatarja vjetore 2025; më e ulët = ajër më i pastër"
   }
  ]
 }
