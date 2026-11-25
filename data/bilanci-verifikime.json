@@ -1,5 +1,34 @@
-{"mbledhur":"2026-11-25","shenim":"Vlera nga burime të pavarura të lexuara direkt në dokumentin origjinal.","vlerat":{
- "ndi":{"v":1100,"periudha":"2025","burimi":"BQK, Raporti Vjetor 2025, f. 33","url":"https://bqk-kos.org/wp-content/uploads/2026/06/BQK_RaportiVjetor2025.pdf","shenim":"IHD afërsisht 1.1 mld €, +38% ndaj 2024"},
- "borxhi":{"v":16.4,"periudha":"2025","burimi":"BQK, Raporti Vjetor 2025, f. 31","url":"https://bqk-kos.org/wp-content/uploads/2026/06/BQK_RaportiVjetor2025.pdf","shenim":"1.82 mld € = 16.4% e PBB-së"},
- "pbb":{"v":11.1,"periudha":"2025","burimi":"BQK, Raporti Vjetor 2025, f. 31 (vlerësim i nxjerrë nga borxhi dhe raporti)","url":"https://bqk-kos.org/wp-content/uploads/2026/06/BQK_RaportiVjetor2025.pdf","shenim":"Përafërsi e llogaritur, jo shifër e publikuar; rritja reale 2025: 3.6%"}
-}}
+{
+ "mbledhur": "2026-11-25",
+ "shenim": "Vlera nga burime të pavarura të lexuara direkt në dokumentin origjinal.",
+ "vlerat": {
+  "ndi": {
+   "v": 1100,
+   "periudha": "2025",
+   "burimi": "BQK, Raporti Vjetor 2025, f. 33",
+   "url": "https://bqk-kos.org/wp-content/uploads/2026/06/BQK_RaportiVjetor2025.pdf",
+   "shenim": "IHD afërsisht 1.1 mld €, +38% ndaj 2024"
+  },
+  "borxhi": {
+   "v": 16.4,
+   "periudha": "2025",
+   "burimi": "BQK, Raporti Vjetor 2025, f. 31",
+   "url": "https://bqk-kos.org/wp-content/uploads/2026/06/BQK_RaportiVjetor2025.pdf",
+   "shenim": "1.82 mld € = 16.4% e PBB-së"
+  },
+  "pbb": {
+   "v": 11.1,
+   "periudha": "2025",
+   "burimi": "BQK, Raporti Vjetor 2025, f. 31 (vlerësim i nxjerrë nga borxhi dhe raporti)",
+   "url": "https://bqk-kos.org/wp-content/uploads/2026/06/BQK_RaportiVjetor2025.pdf",
+   "shenim": "Përafërsi e llogaritur, jo shifër e publikuar; rritja reale 2025: 3.6%"
+  },
+  "papunesia": {
+   "v": 10.8,
+   "periudha": "2024",
+   "burimi": "BQK, Raporti Vjetor 2025, f. 30 (të dhënat e ASK)",
+   "url": "https://bqk-kos.org/wp-content/uploads/2026/06/BQK_RaportiVjetor2025.pdf",
+   "shenim": "Të dhënat e fundit të ASK janë për 2024 (10.8%; 10.9% në 2023)"
+  }
+ }
+}
