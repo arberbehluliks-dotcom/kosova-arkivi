@@ -3958,7 +3958,7 @@ function drawZot() {
     var all = [], cnt = { done: 0, late: 0, prog: 0, fail: 0 };
     SECTORS.forEach(function (sc) { sc.objs.forEach(function (o) { if (o[0]) { all.push([sc.n, o]); cnt[o[1]]++; } }); });
     h += '<div class="zsum"><div><b>' + all.length + '</b>objektiva të programit</div><div><b>' + (cnt.done + cnt.late) + '</b>të realizuara</div><div><b>' + cnt.prog + '</b>në proces</div><div><b>' + cnt.fail + '</b>të dështuara</div></div>';
-    h += '<div class="notebox" style="margin-bottom:12px"><b>Mandat i arkivuar.</b> Statusi është vlerësuar në fund të mandatit 2021-2025 (burimi: Lëvizja FOL); konfirmimi nga institucionet shtohet kur të gjenden raportet e tyre.</div>';
+    h += '<div class="notebox" style="margin-bottom:12px"><b>Mandat i arkivuar.</b> Statusi është vlerësuar në fund të mandatit 2021-2025 (burimi: Lëvizja FOL); pamja e vetë institucionit: <a href="bilanci.html">Bilanci i Qeverisë</a> (Kryeministria, vetëvlerësim), krahasuar me të dhëna të pavarura.</div>';
     h += '<div class="rkgrid">' + all.map(function (a) {
       var o = a[1], st = ST[o[1]], fp = FOLPK[o[0]], pk = fp ? pkByCode(fp) : null, ch = fp ? chainOf(fp) : null;
       var gc = o[1] === "fail" ? "bad" : o[1] === "done" ? "ok" : "prog";
