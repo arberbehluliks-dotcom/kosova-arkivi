@@ -31,16 +31,17 @@ const COL={done:'#1a9b5a',prog:'#1e4fa3',late:'#e08a00',fail:'#d23b3b'};
 const LBL={done:'Realizuar',prog:'Në progres',late:'Me vonesë',fail:'Jo e realizuar'};
 const num=v=>typeof v==='number'?v:null;const esc=s=>String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 const fmt=v=>v==null?'–':typeof v==='number'?v.toLocaleString('sq',{maximumFractionDigits:1}):esc(v);
-const O={},R={};const MAPR={'rsf-rank':'rsf-2026','fh':'fh-2026'};
+const O={},R={},V={};const MAPR={'rsf-rank':'rsf-2026','fh':'fh-2026'};
 function last(id){const l=(O[id]||[]).slice().sort((a,b)=>(a.collected||'').localeCompare(b.collected||'')||(a.seq||0)-(b.seq||0));return l.pop()}
 function row(t){
  const a=num(t.nga),b=num(t.deri),m=Math.max(a||0,b||0)||1,o=MAP[t.id]?last(MAP[t.id]):null,rk=MAPR[t.id]?R[MAPR[t.id]]:null;
  let chg='<span class="nu">pa krahasim</span>';
  if(a!=null&&b!=null&&a!==0){const p=(b-a)/a*100,good=LOW.has(t.id)?p<0:p>0;chg=`<span class="${good?'up':'dn'}">${p>0?'▲':'▼'} ${Math.abs(p).toFixed(0)}%</span>`}
  const br=(l,v,c)=>`<div class="br ${c}"><span class="l">${l}</span><i style="width:${v==null?0:Math.max(3,(num(v)??0)/m*60)}%"></i><b>${fmt(v)}</b></div>`;
- let h=`<div class="row"><span class="n">${esc(t.t)} <small class="nu">${esc(t.njesia||'')}</small></span><span class="chg">${chg}</span><div class="bars">${br('Para',t.nga,'z')}${br('Tani',t.deri,'z')}${o?br('Arkivi',o.v,'k'):''}${rk?br('Burimi',rk.vlerat.Kosova,'k'):''}</div></div>`;
+ let h=`<div class="row"><span class="n">${esc(t.t)} <small class="nu">${esc(t.njesia||'')}</small></span><span class="chg">${chg}</span><div class="bars">${br('Para',t.nga,'z')}${br('Tani',t.deri,'z')}${o?br('Arkivi',o.v,'k'):''}${rk?br('Burimi',rk.vlerat.Kosova,'k'):''}${V[t.id]?br('BQK',V[t.id].v,'k'):''}</div></div>`;
  if(o)h+=`<div class="pk"><span>Arkivi: ${esc(o.p)} · ${esc((o.src&&o.src[0]&&o.src[0].t)||'')}</span></div>`;
  if(rk)h+=`<div class="pk"><span>Burimi origjinal: <a href="${esc(rk.burimi)}" target="_blank" rel="noopener">${esc(rk.tregues)}, ${esc(rk.periudha)}</a></span></div>`;
+ if(V[t.id])h+=`<div class="pk"><span><a href="${esc(V[t.id].url)}" target="_blank" rel="noopener">${esc(V[t.id].burimi)}</a> · ${esc(V[t.id].shenim)}</span></div>`;
  if(t.id==='cpi-rank'){const c=R['cpi-2025'];if(c)h+=`<div class="pk"><span>Transparency Int.: Kosova ${c.vlerat.Kosova} pikë (2025). Vendi 76 nuk është verifikuar në arkiv.</span></div>`}
  return h}
 function plan(names,P){
@@ -48,7 +49,7 @@ function plan(names,P){
  P.rows.filter(r=>names.includes(r[0])).forEach(r=>JSON.parse(r[1]).forEach(([n,s])=>{if(n&&c[s]!=null){c[s]++;any++}}));
  if(!any)return'';
  return `<div class="lab">Premtimi i planit → rezultati (${any} objektiva)</div><div class="pl">${Object.keys(c).filter(k=>c[k]).map(k=>`<i style="width:${c[k]/any*100}%;background:${COL[k]}"></i>`).join('')}</div><div class="pk">${Object.keys(c).filter(k=>c[k]).map(k=>`<span><b style="color:${COL[k]}">●</b> ${LBL[k]} ${c[k]}</span>`).join('')}</div>`}
-Promise.all(['qeveria-arritjet','observations','sektoret','bilanci-interpretim','renditjet-rajoni'].map(f=>fetch('../data/'+f+'.json').then(r=>r.json()))).then(([A,ob,P,I,RR])=>{RR.rreshta.forEach(r=>R[r.id]=r);
+Promise.all(['qeveria-arritjet','observations','sektoret','bilanci-interpretim','renditjet-rajoni','bilanci-verifikime'].map(f=>fetch('../data/'+f+'.json').then(r=>r.json()))).then(([A,ob,P,I,RR,VV])=>{Object.assign(V,VV.vlerat);RR.rreshta.forEach(r=>R[r.id]=r);
  ob.forEach(x=>(O[x.s]=O[x.s]||[]).push(x));
  const sek=[...new Set(A.tregues.map(t=>t.sek))];
  app.innerHTML=sek.map(s=>{const i=I.sektoret[s]||{ikona:'📊',emri:s,ndikimi:1,lexim:'',kujdes:''};
