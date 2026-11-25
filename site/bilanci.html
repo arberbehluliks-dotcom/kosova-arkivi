@@ -42,7 +42,7 @@ function row(t){
  if(o)h+=`<div class="pk"><span>Arkivi: ${esc(o.p)} · ${esc((o.src&&o.src[0]&&o.src[0].t)||'')}</span></div>`;
  if(rk)h+=`<div class="pk"><span>Burimi origjinal: <a href="${esc(rk.burimi)}" target="_blank" rel="noopener">${esc(rk.tregues)}, ${esc(rk.periudha)}</a></span></div>`;
  if(V[t.id])h+=`<div class="pk"><span><a href="${esc(V[t.id].url)}" target="_blank" rel="noopener">${esc(V[t.id].burimi)}</a> · ${esc(V[t.id].shenim)}</span></div>`;
- if(t.id==='cpi-rank'){const c=R['cpi-2025'];if(c)h+=`<div class="pk"><span>Transparency Int.: Kosova ${c.vlerat.Kosova} pikë (2025). Vendi 76 nuk është verifikuar në arkiv.</span></div>`}
+ if(t.id==='cpi-rank'){const c=R['cpi-2025'];if(c)h+=`<div class="pk"><span>Transparency Int.: Kosova ${c.vlerat.Kosova} pikë (2025), nga 182 vende, në barazim me Kinën dhe Ganën. Raporti nuk e shpall vendin, ndaj vendi 76 mbetet i paverifikuar.</span></div>`}
  return h}
 function plan(names,P){
  const c={done:0,prog:0,late:0,fail:0};let any=0;
