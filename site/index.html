@@ -785,6 +785,16 @@ body:not(.narr-on) .acc .body > .lead,body:not(.narr-on) #details > .lead,body:n
 .ind .iv{font:800 17px/1.3 var(--font-display,inherit);color:var(--brand)}
 .imore{font-size:12.5px;color:var(--muted)}.imore summary{cursor:pointer;font-weight:700}
 .imore .id,.imore .is{margin-top:6px}
+
+#komstats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+#komstats .ks{background:var(--surface);border:1.5px solid var(--line);border-radius:16px;padding:14px;display:flex;flex-direction:column;gap:3px;align-items:flex-start}
+#komstats .ks b{font:800 28px/1.1 var(--font-display,inherit);color:var(--brand)}
+#komstats .kl{font-size:12.5px;font-weight:700;line-height:1.3}
+#komstats .kc{font-size:12px;color:var(--muted)}
+#komstats .kr{width:54px;height:54px}
+#komstats .kic{font-size:30px;line-height:1}#komstats .kic.up{color:var(--ok-fill);font-size:26px}
+.updl{display:none}
+body.narr-on .updl{display:block}
 </style>
 
 <main class="wrap">
@@ -1553,7 +1563,12 @@ function drawKom() {
     '<li>Mes shtatë komunave më të mëdha, Mitrovica e Jugut ka përqindjen më të lartë të premtimeve të përmbushura (59%), pastaj Ferizaji (57%) dhe Peja (56%). Prishtina ka më të ulëtën (35%).</li>' +
     '<li>Prishtina ka rezultatin më të ulët mes të shtatave edhe në vlerësimin e performancës (30%), kurse Prizreni ka më të lartin (72%). Dy matjet nuk përputhen gjithmonë: Prizreni është i pesti në premtime.</li>' +
     '<li>Mesatarja e performancës së komunave sipas MAPL ra nga 65.5% në 2024 në 43.5% në 2025. Fushat më të dobëta në 2025 janë transporti publik (24.8%) dhe infrastruktura rrugore (28.8%). Raporti i 2025 ka 4 tregues më pak, prandaj krahasimi duhet marrë me kujdes.</li></ul>';
-  $("komstats").innerHTML = '<div><b>38</b>komuna në Kosovë</div><div><b>96.92%</b>e buxhetit të komunave për 2025 u shpenzua (837.6 nga 864.2 milionë euro)</div><div><b>64%</b>e detyrimeve të komunave nga Agjenda Evropiane u përmbushën në 2024 (31 nga 38 komuna raportuan)</div><div><b>+6.38%</b>të hyra vetanake mbi planin në 2025 (121.6 nga 114.3 milionë euro)</div>';
+  function kring(v) { var c = 2 * Math.PI * 26, o = c * (1 - v / 100); var col = v >= 80 ? "var(--ok-fill)" : v >= 50 ? "var(--prog-fill)" : "var(--bad-fill)"; return '<svg class="kr" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="26" fill="none" stroke="var(--track)" stroke-width="9"/><circle cx="32" cy="32" r="26" fill="none" stroke="' + col + '" stroke-width="9" stroke-linecap="round" stroke-dasharray="' + c.toFixed(1) + '" stroke-dashoffset="' + o.toFixed(1) + '" transform="rotate(-90 32 32)"/></svg>'; }
+  $("komstats").innerHTML =
+    '<div class="ks"><span class="kic">🏘️</span><b>38</b><span class="kl">komuna</span></div>' +
+    '<div class="ks">' + kring(96.92) + '<b>96.9%</b><span class="kl">buxheti i shpenzuar, 2025</span><span class="kc">837.6 nga 864.2 mln €</span></div>' +
+    '<div class="ks">' + kring(64) + '<b>64%</b><span class="kl">detyrimet e Agjendës Evropiane, 2024</span><span class="kc">31 nga 38 komuna raportuan</span></div>' +
+    '<div class="ks"><span class="kic up">▲</span><b>+6.4%</b><span class="kl">të hyra vetanake mbi plan, 2025</span><span class="kc">121.6 nga 114.3 mln €</span></div>';
 }
 
 /* ---------- SDG ---------- */
