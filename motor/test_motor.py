@@ -18,6 +18,7 @@ def test_krahasimi():
 
 def test_vetem_shtim():
     d = tempfile.mkdtemp()
+    json.dump([], open(f"{d}/series.json", "w"))   # apliko() lexon series.json
     obs = [{"id": "a__00", "s": "a", "p": "T2", "v": 6.0, "collected": "2026-11-01", "seq": 1}]
     nd = [{"lloji": "x", "seri": "a", "periudha": "T2", "e_vjetra": 6.0, "e_reja": 6.5, "data": "2026-11-24", "seq": 2, "shqyrtim": False,
            "burimi": "u", "burimi_emri": "B", "metodologjia": "m", "publikuar": None, "hash": "0" * 64},
