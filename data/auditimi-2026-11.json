@@ -61,6 +61,10 @@
   {
    "vendi": "CPI 2025: Kosova 43 pikë, vendi 76 nga 182 (−1 pikë kundrejt 2024). Faqja përputhet.",
    "burimi": "https://www.transparency.org/country/KOS"
+  },
+  {
+   "vendi": "PISA 2025 (OECD, shënimi për Kosovën, 8.9.2026): nivel 2+ matematika 15%, lexim 16%, shkencë 21% (mesatarja OECD 65/69/74%); matematika më ulët se 2022, lexim e shkencë pothuajse njësoj, më ulët se 2018 në të tria. Shifra '5 pikë' nuk gjendet në tekst, u hoq nga faqja.",
+   "burimi": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/kosovo_7d284f95-en.html"
   }
  ],
  "pa_verifikuar": [
@@ -71,10 +75,6 @@
   {
    "vendi": "7 tregues me të dhëna përpara 2025",
    "shenim": "Bujqësia 2022, gratë në punë 2024, mjedisi 2024; kontrollo nëse ka edicion më të ri"
-  },
-  {
-   "vendi": "PISA 2025: matematika 5 pikë më pak se në 2022",
-   "shenim": "Faqet e OECD nuk dhanë tabelën sot"
   },
   {
    "vendi": "Kurba vjetore e realizimit të planit sipas FOL (2021–2024)",
