@@ -6,7 +6,7 @@ Të dhënat dhe kodi jetojnë këtu (GitHub), jo në bisedë. Faqja është vet�
 ## Shtresat
 1. **Të dhënat** (`data/`): vëzhgime të shtuara pa fshirë historikun; çdo vlerë ka burim, periudhë, metodologji.
 2. **Motori** (`motor/` + `.github/workflows/`): çdo javë lexon burimet zyrtare (ASK, BQK, vendimet e Qeverisë), krahason me periudhat e mëparshme, ruan versionet e reja.
-3. **Ndërtuesi** (`site/ndertimi/`): ndërton faqen nga të dhënat. Sot është gjysmë manual, synimi është të ekzekutohet vetë pas çdo përditësimi të motorit.
+3. **Ndërtuesi** (`site/ndertimi/`): ndërton faqen nga të dhënat. Sot është gjysmë manual, synimi është të ekzekutohet vetë pas çdo përditësimi të motorit. **Kujdes:** `site/index.html` është tani burimi i vërtetë; shih `site/ndertimi/LEXOMA.md` para çdo rindërtimi.
 4. **Faqja** (`site/index.html`): faqe statike, e hapshme në çdo telefon; mund të instalohet si aplikacion (PWA).
 
 ## Gjendja
