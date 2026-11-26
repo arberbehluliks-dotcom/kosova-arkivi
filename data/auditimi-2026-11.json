@@ -55,10 +55,8 @@
    "shenim": "Numrat e secilës ministri përputhen saktësisht me faqen"
   },
   {
-   "tema": "Papunësia 10.8% (2024)",
-   "rezultati": "Konfirmuar nga burimi parësor: ASK, Anketa e Fuqisë Punëtore 2024 (maj 2025), Tab. 2.1: 10.8% (meshkuj 7.7%, femra 18.0%); teksti thotë se ra për 0.1 kundrejt 2023 (nënkupton rreth 10.9% për 2023). Tabela në Aneksin II të Raportit të KE-së 2025 e vendos 10.8% te viti 2023; ky dallim është në Aneks, jo në ASK. Faqja mbetet me ASK.",
-   "burimi": "https://askapi.rks-gov.net/Custom/da2c388e-d969-4e3f-a67a-c74a6eff81f8.pdf",
-   "data": "2026-11-26"
+   "vendi": "Papunësia 10.8% (2024): konfirmuar me ASK, Anketa e Fuqisë Punëtore 2024, Tab. 2.1 (maj 2025). Aneksi II i Raportit të KE-së 2025 e vendos 10.8% te viti 2023, ndërsa ASK thotë se 2024 ra për 0.1 kundrejt 2023; faqja mbetet me ASK.",
+   "burimi": "https://askapi.rks-gov.net/Custom/da2c388e-d969-4e3f-a67a-c74a6eff81f8.pdf"
   }
  ],
  "pa_verifikuar": [
