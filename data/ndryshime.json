@@ -1,4237 +1,6 @@
 {
- "data": "2026-11-24",
- "ndryshime": [
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2026-10",
-   "e_vjetra": null,
-   "e_reja": 7.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2026-09",
-   "e_vjetra": null,
-   "e_reja": 7.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2026-08",
-   "e_vjetra": null,
-   "e_reja": 7.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2026-07",
-   "e_vjetra": null,
-   "e_reja": 6.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2026-06",
-   "e_vjetra": null,
-   "e_reja": 6.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2026-05",
-   "e_vjetra": null,
-   "e_reja": 6.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2026-04",
-   "e_vjetra": null,
-   "e_reja": 7.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2026-03",
-   "e_vjetra": null,
-   "e_reja": 6.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2026-02",
-   "e_vjetra": null,
-   "e_reja": 6.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2026-01",
-   "e_vjetra": null,
-   "e_reja": 5.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-12",
-   "e_vjetra": null,
-   "e_reja": 5.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-11",
-   "e_vjetra": null,
-   "e_reja": 5.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-10",
-   "e_vjetra": null,
-   "e_reja": 5.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-09",
-   "e_vjetra": null,
-   "e_reja": 4.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-08",
-   "e_vjetra": null,
-   "e_reja": 4.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-07",
-   "e_vjetra": null,
-   "e_reja": 4.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-06",
-   "e_vjetra": null,
-   "e_reja": 4.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-05",
-   "e_vjetra": null,
-   "e_reja": 3.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-04",
-   "e_vjetra": null,
-   "e_reja": 3.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-03",
-   "e_vjetra": null,
-   "e_reja": 2.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-02",
-   "e_vjetra": null,
-   "e_reja": 1.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2025-01",
-   "e_vjetra": null,
-   "e_reja": 1.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-12",
-   "e_vjetra": null,
-   "e_reja": 1.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-11",
-   "e_vjetra": null,
-   "e_reja": 0.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-10",
-   "e_vjetra": null,
-   "e_reja": 0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-09",
-   "e_vjetra": null,
-   "e_reja": 0.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-08",
-   "e_vjetra": null,
-   "e_reja": 1.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-07",
-   "e_vjetra": null,
-   "e_reja": 2.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-06",
-   "e_vjetra": null,
-   "e_reja": 2.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-05",
-   "e_vjetra": null,
-   "e_reja": 2.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-04",
-   "e_vjetra": null,
-   "e_reja": 2.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-03",
-   "e_vjetra": null,
-   "e_reja": 2.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-02",
-   "e_vjetra": null,
-   "e_reja": 2.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2024-01",
-   "e_vjetra": null,
-   "e_reja": 1.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-12",
-   "e_vjetra": null,
-   "e_reja": 2.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-11",
-   "e_vjetra": null,
-   "e_reja": 2.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-10",
-   "e_vjetra": null,
-   "e_reja": 3.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-09",
-   "e_vjetra": null,
-   "e_reja": 4.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-08",
-   "e_vjetra": null,
-   "e_reja": 3.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-07",
-   "e_vjetra": null,
-   "e_reja": 2.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-06",
-   "e_vjetra": null,
-   "e_reja": 2.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-05",
-   "e_vjetra": null,
-   "e_reja": 4.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-04",
-   "e_vjetra": null,
-   "e_reja": 5.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-03",
-   "e_vjetra": null,
-   "e_reja": 7.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-02",
-   "e_vjetra": null,
-   "e_reja": 10.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2023-01",
-   "e_vjetra": null,
-   "e_reja": 12.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-12",
-   "e_vjetra": null,
-   "e_reja": 12.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-11",
-   "e_vjetra": null,
-   "e_reja": 11.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-10",
-   "e_vjetra": null,
-   "e_reja": 12.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-09",
-   "e_vjetra": null,
-   "e_reja": 12.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-08",
-   "e_vjetra": null,
-   "e_reja": 13.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-07",
-   "e_vjetra": null,
-   "e_reja": 14.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-06",
-   "e_vjetra": null,
-   "e_reja": 14.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-05",
-   "e_vjetra": null,
-   "e_reja": 12.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-04",
-   "e_vjetra": null,
-   "e_reja": 11.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-03",
-   "e_vjetra": null,
-   "e_reja": 10.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-02",
-   "e_vjetra": null,
-   "e_reja": 7.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2022-01",
-   "e_vjetra": null,
-   "e_reja": 7.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-12",
-   "e_vjetra": null,
-   "e_reja": 6.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-11",
-   "e_vjetra": null,
-   "e_reja": 6.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-10",
-   "e_vjetra": null,
-   "e_reja": 5.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-09",
-   "e_vjetra": null,
-   "e_reja": 4.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-08",
-   "e_vjetra": null,
-   "e_reja": 4.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-07",
-   "e_vjetra": null,
-   "e_reja": 3.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-06",
-   "e_vjetra": null,
-   "e_reja": 2.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-05",
-   "e_vjetra": null,
-   "e_reja": 2.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-04",
-   "e_vjetra": null,
-   "e_reja": 1.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-03",
-   "e_vjetra": null,
-   "e_reja": 1.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-02",
-   "e_vjetra": null,
-   "e_reja": 0.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2021-01",
-   "e_vjetra": null,
-   "e_reja": -0.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-12",
-   "e_vjetra": null,
-   "e_reja": 0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-11",
-   "e_vjetra": null,
-   "e_reja": -0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-10",
-   "e_vjetra": null,
-   "e_reja": -0.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-09",
-   "e_vjetra": null,
-   "e_reja": -0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-08",
-   "e_vjetra": null,
-   "e_reja": -0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-07",
-   "e_vjetra": null,
-   "e_reja": -0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-06",
-   "e_vjetra": null,
-   "e_reja": 0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-05",
-   "e_vjetra": null,
-   "e_reja": 0.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-04",
-   "e_vjetra": null,
-   "e_reja": 0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-03",
-   "e_vjetra": null,
-   "e_reja": 0.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-02",
-   "e_vjetra": null,
-   "e_reja": 1.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2020-01",
-   "e_vjetra": null,
-   "e_reja": 1.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-12",
-   "e_vjetra": null,
-   "e_reja": 1.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-11",
-   "e_vjetra": null,
-   "e_reja": 1.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-10",
-   "e_vjetra": null,
-   "e_reja": 2.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-09",
-   "e_vjetra": null,
-   "e_reja": 2.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-08",
-   "e_vjetra": null,
-   "e_reja": 2.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-07",
-   "e_vjetra": null,
-   "e_reja": 2.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-06",
-   "e_vjetra": null,
-   "e_reja": 3.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-05",
-   "e_vjetra": null,
-   "e_reja": 3.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-04",
-   "e_vjetra": null,
-   "e_reja": 3.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-03",
-   "e_vjetra": null,
-   "e_reja": 3.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-02",
-   "e_vjetra": null,
-   "e_reja": 3.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2019-01",
-   "e_vjetra": null,
-   "e_reja": 3.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-12",
-   "e_vjetra": null,
-   "e_reja": 2.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-11",
-   "e_vjetra": null,
-   "e_reja": 2.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-10",
-   "e_vjetra": null,
-   "e_reja": 1.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-09",
-   "e_vjetra": null,
-   "e_reja": 1.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-08",
-   "e_vjetra": null,
-   "e_reja": 1.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-07",
-   "e_vjetra": null,
-   "e_reja": 1.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-06",
-   "e_vjetra": null,
-   "e_reja": 0.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-05",
-   "e_vjetra": null,
-   "e_reja": 1.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-04",
-   "e_vjetra": null,
-   "e_reja": 0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-03",
-   "e_vjetra": null,
-   "e_reja": 0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-02",
-   "e_vjetra": null,
-   "e_reja": 0.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2018-01",
-   "e_vjetra": null,
-   "e_reja": -0.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-12",
-   "e_vjetra": null,
-   "e_reja": 0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-11",
-   "e_vjetra": null,
-   "e_reja": 0.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-10",
-   "e_vjetra": null,
-   "e_reja": 0.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-09",
-   "e_vjetra": null,
-   "e_reja": 1.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-08",
-   "e_vjetra": null,
-   "e_reja": 1.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-07",
-   "e_vjetra": null,
-   "e_reja": 1.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-06",
-   "e_vjetra": null,
-   "e_reja": 1.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-05",
-   "e_vjetra": null,
-   "e_reja": 1.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-04",
-   "e_vjetra": null,
-   "e_reja": 2.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-03",
-   "e_vjetra": null,
-   "e_reja": 1.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-02",
-   "e_vjetra": null,
-   "e_reja": 1.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2017-01",
-   "e_vjetra": null,
-   "e_reja": 1.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-12",
-   "e_vjetra": null,
-   "e_reja": 1.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-11",
-   "e_vjetra": null,
-   "e_reja": 0.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-10",
-   "e_vjetra": null,
-   "e_reja": 0.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-09",
-   "e_vjetra": null,
-   "e_reja": 0.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-08",
-   "e_vjetra": null,
-   "e_reja": 0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-07",
-   "e_vjetra": null,
-   "e_reja": 0.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-06",
-   "e_vjetra": null,
-   "e_reja": -0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-05",
-   "e_vjetra": null,
-   "e_reja": -0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-04",
-   "e_vjetra": null,
-   "e_reja": -0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-03",
-   "e_vjetra": null,
-   "e_reja": 0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-02",
-   "e_vjetra": null,
-   "e_reja": 0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2016-01",
-   "e_vjetra": null,
-   "e_reja": 0.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-12",
-   "e_vjetra": null,
-   "e_reja": -0.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-11",
-   "e_vjetra": null,
-   "e_reja": -0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-10",
-   "e_vjetra": null,
-   "e_reja": -0.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-09",
-   "e_vjetra": null,
-   "e_reja": -1.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-08",
-   "e_vjetra": null,
-   "e_reja": -0.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-07",
-   "e_vjetra": null,
-   "e_reja": -0.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-06",
-   "e_vjetra": null,
-   "e_reja": -0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-05",
-   "e_vjetra": null,
-   "e_reja": -0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-04",
-   "e_vjetra": null,
-   "e_reja": -0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-03",
-   "e_vjetra": null,
-   "e_reja": -0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-02",
-   "e_vjetra": null,
-   "e_reja": -0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2015-01",
-   "e_vjetra": null,
-   "e_reja": -0.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-12",
-   "e_vjetra": null,
-   "e_reja": -0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-11",
-   "e_vjetra": null,
-   "e_reja": 0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-10",
-   "e_vjetra": null,
-   "e_reja": 0.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-09",
-   "e_vjetra": null,
-   "e_reja": 1.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-08",
-   "e_vjetra": null,
-   "e_reja": 0.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-07",
-   "e_vjetra": null,
-   "e_reja": 0.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-06",
-   "e_vjetra": null,
-   "e_reja": 0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-05",
-   "e_vjetra": null,
-   "e_reja": 0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-04",
-   "e_vjetra": null,
-   "e_reja": 0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-03",
-   "e_vjetra": null,
-   "e_reja": 0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-02",
-   "e_vjetra": null,
-   "e_reja": 0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2014-01",
-   "e_vjetra": null,
-   "e_reja": 0.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-12",
-   "e_vjetra": null,
-   "e_reja": 0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-11",
-   "e_vjetra": null,
-   "e_reja": 0.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-10",
-   "e_vjetra": null,
-   "e_reja": 0.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-09",
-   "e_vjetra": null,
-   "e_reja": 0.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-08",
-   "e_vjetra": null,
-   "e_reja": 1.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-07",
-   "e_vjetra": null,
-   "e_reja": 2.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-06",
-   "e_vjetra": null,
-   "e_reja": 2.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-05",
-   "e_vjetra": null,
-   "e_reja": 2.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-04",
-   "e_vjetra": null,
-   "e_reja": 2.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-03",
-   "e_vjetra": null,
-   "e_reja": 2.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-02",
-   "e_vjetra": null,
-   "e_reja": 2.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2013-01",
-   "e_vjetra": null,
-   "e_reja": 3.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-12",
-   "e_vjetra": null,
-   "e_reja": 3.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-11",
-   "e_vjetra": null,
-   "e_reja": 3.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-10",
-   "e_vjetra": null,
-   "e_reja": 3.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-09",
-   "e_vjetra": null,
-   "e_reja": 4.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-08",
-   "e_vjetra": null,
-   "e_reja": 3.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-07",
-   "e_vjetra": null,
-   "e_reja": 2.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-06",
-   "e_vjetra": null,
-   "e_reja": 1.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-05",
-   "e_vjetra": null,
-   "e_reja": 1.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-04",
-   "e_vjetra": null,
-   "e_reja": 1.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-03",
-   "e_vjetra": null,
-   "e_reja": 0.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-02",
-   "e_vjetra": null,
-   "e_reja": 1.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2012-01",
-   "e_vjetra": null,
-   "e_reja": 3.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-12",
-   "e_vjetra": null,
-   "e_reja": 3.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-11",
-   "e_vjetra": null,
-   "e_reja": 4.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-10",
-   "e_vjetra": null,
-   "e_reja": 4.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-09",
-   "e_vjetra": null,
-   "e_reja": 4.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-08",
-   "e_vjetra": null,
-   "e_reja": 5.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-07",
-   "e_vjetra": null,
-   "e_reja": 8.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-06",
-   "e_vjetra": null,
-   "e_reja": 9.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-05",
-   "e_vjetra": null,
-   "e_reja": 10.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-04",
-   "e_vjetra": null,
-   "e_reja": 10.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-03",
-   "e_vjetra": null,
-   "e_reja": 10.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-02",
-   "e_vjetra": null,
-   "e_reja": 9.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2011-01",
-   "e_vjetra": null,
-   "e_reja": 7.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-12",
-   "e_vjetra": null,
-   "e_reja": 6.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-11",
-   "e_vjetra": null,
-   "e_reja": 6.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-10",
-   "e_vjetra": null,
-   "e_reja": 6.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-09",
-   "e_vjetra": null,
-   "e_reja": 6.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-08",
-   "e_vjetra": null,
-   "e_reja": 6.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-07",
-   "e_vjetra": null,
-   "e_reja": 2.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-06",
-   "e_vjetra": null,
-   "e_reja": 2.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-05",
-   "e_vjetra": null,
-   "e_reja": 2.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-04",
-   "e_vjetra": null,
-   "e_reja": 1.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-03",
-   "e_vjetra": null,
-   "e_reja": 0.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-02",
-   "e_vjetra": null,
-   "e_reja": 1.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2010-01",
-   "e_vjetra": null,
-   "e_reja": 0.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-12",
-   "e_vjetra": null,
-   "e_reja": 0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-11",
-   "e_vjetra": null,
-   "e_reja": -1.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-10",
-   "e_vjetra": null,
-   "e_reja": -2.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-09",
-   "e_vjetra": null,
-   "e_reja": -2.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-08",
-   "e_vjetra": null,
-   "e_reja": -3.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-07",
-   "e_vjetra": null,
-   "e_reja": -3.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-06",
-   "e_vjetra": null,
-   "e_reja": -4.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-05",
-   "e_vjetra": null,
-   "e_reja": -4.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-04",
-   "e_vjetra": null,
-   "e_reja": -3.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-03",
-   "e_vjetra": null,
-   "e_reja": -2.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-02",
-   "e_vjetra": null,
-   "e_reja": -1.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2009-01",
-   "e_vjetra": null,
-   "e_reja": -0.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-12",
-   "e_vjetra": null,
-   "e_reja": 0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-11",
-   "e_vjetra": null,
-   "e_reja": 2.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-10",
-   "e_vjetra": null,
-   "e_reja": 4.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-09",
-   "e_vjetra": null,
-   "e_reja": 7.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-08",
-   "e_vjetra": null,
-   "e_reja": 7.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-07",
-   "e_vjetra": null,
-   "e_reja": 14.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-06",
-   "e_vjetra": null,
-   "e_reja": 14.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-05",
-   "e_vjetra": null,
-   "e_reja": 14.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-04",
-   "e_vjetra": null,
-   "e_reja": 13.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-03",
-   "e_vjetra": null,
-   "e_reja": 13.2,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-02",
-   "e_vjetra": null,
-   "e_reja": 11.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2008-01",
-   "e_vjetra": null,
-   "e_reja": 10.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-12",
-   "e_vjetra": null,
-   "e_reja": 10.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-11",
-   "e_vjetra": null,
-   "e_reja": 10.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-10",
-   "e_vjetra": null,
-   "e_reja": 10.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007M1",
-   "e_vjetra": null,
-   "e_reja": 2.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-09",
-   "e_vjetra": null,
-   "e_reja": 6.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-08",
-   "e_vjetra": null,
-   "e_reja": 6.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-07",
-   "e_vjetra": null,
-   "e_reja": 1.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-06",
-   "e_vjetra": null,
-   "e_reja": 1.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-05",
-   "e_vjetra": null,
-   "e_reja": 0.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-04",
-   "e_vjetra": null,
-   "e_reja": 0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-03",
-   "e_vjetra": null,
-   "e_reja": 0.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2007-02",
-   "e_vjetra": null,
-   "e_reja": 1.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-12",
-   "e_vjetra": null,
-   "e_reja": 1.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-11",
-   "e_vjetra": null,
-   "e_reja": 0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-10",
-   "e_vjetra": null,
-   "e_reja": -0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-09",
-   "e_vjetra": null,
-   "e_reja": 0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-08",
-   "e_vjetra": null,
-   "e_reja": 0.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-07",
-   "e_vjetra": null,
-   "e_reja": 0.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-06",
-   "e_vjetra": null,
-   "e_reja": 0.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-05",
-   "e_vjetra": null,
-   "e_reja": 1.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-04",
-   "e_vjetra": null,
-   "e_reja": 0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-03",
-   "e_vjetra": null,
-   "e_reja": 0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-02",
-   "e_vjetra": null,
-   "e_reja": 1.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2006-01",
-   "e_vjetra": null,
-   "e_reja": 0.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-12",
-   "e_vjetra": null,
-   "e_reja": 0.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-11",
-   "e_vjetra": null,
-   "e_reja": 0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-10",
-   "e_vjetra": null,
-   "e_reja": 0.8,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-09",
-   "e_vjetra": null,
-   "e_reja": 0.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-08",
-   "e_vjetra": null,
-   "e_reja": -0.9,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-07",
-   "e_vjetra": null,
-   "e_reja": -1.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-06",
-   "e_vjetra": null,
-   "e_reja": -1.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-05",
-   "e_vjetra": null,
-   "e_reja": -2.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-04",
-   "e_vjetra": null,
-   "e_reja": -2.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-03",
-   "e_vjetra": null,
-   "e_reja": -2.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-02",
-   "e_vjetra": null,
-   "e_reja": -4.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2005-01",
-   "e_vjetra": null,
-   "e_reja": -4.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-12",
-   "e_vjetra": null,
-   "e_reja": -3.7,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-11",
-   "e_vjetra": null,
-   "e_reja": -4.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-10",
-   "e_vjetra": null,
-   "e_reja": -3.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-09",
-   "e_vjetra": null,
-   "e_reja": -2.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-08",
-   "e_vjetra": null,
-   "e_reja": 1.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-07",
-   "e_vjetra": null,
-   "e_reja": 1.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-06",
-   "e_vjetra": null,
-   "e_reja": 0.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-05",
-   "e_vjetra": null,
-   "e_reja": -0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-04",
-   "e_vjetra": null,
-   "e_reja": -0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-03",
-   "e_vjetra": null,
-   "e_reja": -1.0,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-02",
-   "e_vjetra": null,
-   "e_reja": 0.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2004-01",
-   "e_vjetra": null,
-   "e_reja": -0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2003-12",
-   "e_vjetra": null,
-   "e_reja": 0.5,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2003-11",
-   "e_vjetra": null,
-   "e_reja": 1.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2003-10",
-   "e_vjetra": null,
-   "e_reja": 0.6,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2003-09",
-   "e_vjetra": null,
-   "e_reja": 0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2003-08",
-   "e_vjetra": null,
-   "e_reja": -0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2003-07",
-   "e_vjetra": null,
-   "e_reja": -0.1,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2003-06",
-   "e_vjetra": null,
-   "e_reja": 0.4,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  },
-  {
-   "lloji": "periudhë e re",
-   "seri": "cpi-vjetor",
-   "periudha": "2003-05",
-   "e_vjetra": null,
-   "e_reja": 0.3,
-   "data": "2026-11-24",
-   "seq": 1,
-   "shqyrtim": false,
-   "burimi_emri": "ASK, Indeksi i Harmonizuar i Çmimeve të Konsumit (PxWeb)",
-   "metodologjia": "ASK, IHÇK (2015=100); ndryshimi vjetor në përqindje krahasuar me të njëjtin muaj të vitit të kaluar, siç e publikon ASK",
-   "publikuar": null,
-   "burimi": "https://askdata.rks-gov.net/api/v1/sq/ASKdata/Prices/Consumer%20Price%20Index/Monthly%20indicators/cpi01.px",
-   "hash": "px-2026-11-24"
-  }
- ],
+ "data": "2026-11-26",
+ "ndryshime": [],
  "prova": [],
  "perputhen": [
   {
@@ -4928,6 +697,1416 @@
    "seri": "ppi-2",
    "periudha": "T1 2021",
    "vlera": 1.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2026-10",
+   "vlera": 7.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2026-09",
+   "vlera": 7.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2026-08",
+   "vlera": 7.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2026-07",
+   "vlera": 6.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2026-06",
+   "vlera": 6.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2026-05",
+   "vlera": 6.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2026-04",
+   "vlera": 7.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2026-03",
+   "vlera": 6.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2026-02",
+   "vlera": 6.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2026-01",
+   "vlera": 5.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-12",
+   "vlera": 5.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-11",
+   "vlera": 5.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-10",
+   "vlera": 5.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-09",
+   "vlera": 4.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-08",
+   "vlera": 4.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-07",
+   "vlera": 4.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-06",
+   "vlera": 4.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-05",
+   "vlera": 3.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-04",
+   "vlera": 3.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-03",
+   "vlera": 2.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-02",
+   "vlera": 1.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2025-01",
+   "vlera": 1.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-12",
+   "vlera": 1.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-11",
+   "vlera": 0.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-10",
+   "vlera": 0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-09",
+   "vlera": 0.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-08",
+   "vlera": 1.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-07",
+   "vlera": 2.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-06",
+   "vlera": 2.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-05",
+   "vlera": 2.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-04",
+   "vlera": 2.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-03",
+   "vlera": 2.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-02",
+   "vlera": 2.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2024-01",
+   "vlera": 1.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-12",
+   "vlera": 2.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-11",
+   "vlera": 2.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-10",
+   "vlera": 3.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-09",
+   "vlera": 4.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-08",
+   "vlera": 3.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-07",
+   "vlera": 2.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-06",
+   "vlera": 2.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-05",
+   "vlera": 4.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-04",
+   "vlera": 5.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-03",
+   "vlera": 7.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-02",
+   "vlera": 10.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2023-01",
+   "vlera": 12.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-12",
+   "vlera": 12.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-11",
+   "vlera": 11.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-10",
+   "vlera": 12.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-09",
+   "vlera": 12.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-08",
+   "vlera": 13.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-07",
+   "vlera": 14.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-06",
+   "vlera": 14.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-05",
+   "vlera": 12.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-04",
+   "vlera": 11.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-03",
+   "vlera": 10.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-02",
+   "vlera": 7.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2022-01",
+   "vlera": 7.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-12",
+   "vlera": 6.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-11",
+   "vlera": 6.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-10",
+   "vlera": 5.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-09",
+   "vlera": 4.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-08",
+   "vlera": 4.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-07",
+   "vlera": 3.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-06",
+   "vlera": 2.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-05",
+   "vlera": 2.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-04",
+   "vlera": 1.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-03",
+   "vlera": 1.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-02",
+   "vlera": 0.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2021-01",
+   "vlera": -0.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-12",
+   "vlera": 0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-11",
+   "vlera": -0.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-10",
+   "vlera": -0.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-09",
+   "vlera": -0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-08",
+   "vlera": -0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-07",
+   "vlera": -0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-06",
+   "vlera": 0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-05",
+   "vlera": 0.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-04",
+   "vlera": 0.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-03",
+   "vlera": 0.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-02",
+   "vlera": 1.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2020-01",
+   "vlera": 1.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-12",
+   "vlera": 1.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-11",
+   "vlera": 1.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-10",
+   "vlera": 2.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-09",
+   "vlera": 2.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-08",
+   "vlera": 2.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-07",
+   "vlera": 2.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-06",
+   "vlera": 3.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-05",
+   "vlera": 3.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-04",
+   "vlera": 3.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-03",
+   "vlera": 3.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-02",
+   "vlera": 3.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2019-01",
+   "vlera": 3.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-12",
+   "vlera": 2.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-11",
+   "vlera": 2.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-10",
+   "vlera": 1.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-09",
+   "vlera": 1.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-08",
+   "vlera": 1.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-07",
+   "vlera": 1.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-06",
+   "vlera": 0.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-05",
+   "vlera": 1.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-04",
+   "vlera": 0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-03",
+   "vlera": 0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-02",
+   "vlera": 0.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2018-01",
+   "vlera": -0.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-12",
+   "vlera": 0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-11",
+   "vlera": 0.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-10",
+   "vlera": 0.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-09",
+   "vlera": 1.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-08",
+   "vlera": 1.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-07",
+   "vlera": 1.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-06",
+   "vlera": 1.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-05",
+   "vlera": 1.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-04",
+   "vlera": 2.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-03",
+   "vlera": 1.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-02",
+   "vlera": 1.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2017-01",
+   "vlera": 1.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-12",
+   "vlera": 1.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-11",
+   "vlera": 0.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-10",
+   "vlera": 0.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-09",
+   "vlera": 0.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-08",
+   "vlera": 0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-07",
+   "vlera": 0.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-06",
+   "vlera": -0.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-05",
+   "vlera": -0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-04",
+   "vlera": -0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-03",
+   "vlera": 0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-02",
+   "vlera": 0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2016-01",
+   "vlera": 0.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-12",
+   "vlera": -0.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-11",
+   "vlera": -0.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-10",
+   "vlera": -0.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-09",
+   "vlera": -1.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-08",
+   "vlera": -0.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-07",
+   "vlera": -0.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-06",
+   "vlera": -0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-05",
+   "vlera": -0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-04",
+   "vlera": -0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-03",
+   "vlera": -0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-02",
+   "vlera": -0.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2015-01",
+   "vlera": -0.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-12",
+   "vlera": -0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-11",
+   "vlera": 0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-10",
+   "vlera": 0.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-09",
+   "vlera": 1.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-08",
+   "vlera": 0.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-07",
+   "vlera": 0.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-06",
+   "vlera": 0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-05",
+   "vlera": 0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-04",
+   "vlera": 0.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-03",
+   "vlera": 0.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-02",
+   "vlera": 0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2014-01",
+   "vlera": 0.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-12",
+   "vlera": 0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-11",
+   "vlera": 0.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-10",
+   "vlera": 0.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-09",
+   "vlera": 0.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-08",
+   "vlera": 1.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-07",
+   "vlera": 2.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-06",
+   "vlera": 2.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-05",
+   "vlera": 2.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-04",
+   "vlera": 2.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-03",
+   "vlera": 2.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-02",
+   "vlera": 2.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2013-01",
+   "vlera": 3.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-12",
+   "vlera": 3.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-11",
+   "vlera": 3.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-10",
+   "vlera": 3.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-09",
+   "vlera": 4.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-08",
+   "vlera": 3.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-07",
+   "vlera": 2.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-06",
+   "vlera": 1.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-05",
+   "vlera": 1.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-04",
+   "vlera": 1.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-03",
+   "vlera": 0.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-02",
+   "vlera": 1.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2012-01",
+   "vlera": 3.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-12",
+   "vlera": 3.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-11",
+   "vlera": 4.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-10",
+   "vlera": 4.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-09",
+   "vlera": 4.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-08",
+   "vlera": 5.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-07",
+   "vlera": 8.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-06",
+   "vlera": 9.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-05",
+   "vlera": 10.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-04",
+   "vlera": 10.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-03",
+   "vlera": 10.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-02",
+   "vlera": 9.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2011-01",
+   "vlera": 7.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-12",
+   "vlera": 6.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-11",
+   "vlera": 6.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-10",
+   "vlera": 6.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-09",
+   "vlera": 6.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-08",
+   "vlera": 6.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-07",
+   "vlera": 2.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-06",
+   "vlera": 2.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-05",
+   "vlera": 2.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-04",
+   "vlera": 1.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-03",
+   "vlera": 0.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-02",
+   "vlera": 1.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2010-01",
+   "vlera": 0.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-12",
+   "vlera": 0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-11",
+   "vlera": -1.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-10",
+   "vlera": -2.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-09",
+   "vlera": -2.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-08",
+   "vlera": -3.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-07",
+   "vlera": -3.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-06",
+   "vlera": -4.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-05",
+   "vlera": -4.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-04",
+   "vlera": -3.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-03",
+   "vlera": -2.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-02",
+   "vlera": -1.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2009-01",
+   "vlera": -0.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-12",
+   "vlera": 0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-11",
+   "vlera": 2.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-10",
+   "vlera": 4.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-09",
+   "vlera": 7.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-08",
+   "vlera": 7.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-07",
+   "vlera": 14.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-06",
+   "vlera": 14.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-05",
+   "vlera": 14.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-04",
+   "vlera": 13.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-03",
+   "vlera": 13.2
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-02",
+   "vlera": 11.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2008-01",
+   "vlera": 10.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-12",
+   "vlera": 10.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-11",
+   "vlera": 10.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-10",
+   "vlera": 10.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007M1",
+   "vlera": 2.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-09",
+   "vlera": 6.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-08",
+   "vlera": 6.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-07",
+   "vlera": 1.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-06",
+   "vlera": 1.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-05",
+   "vlera": 0.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-04",
+   "vlera": 0.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-03",
+   "vlera": 0.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2007-02",
+   "vlera": 1.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-12",
+   "vlera": 1.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-11",
+   "vlera": 0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-10",
+   "vlera": -0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-09",
+   "vlera": 0.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-08",
+   "vlera": 0.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-07",
+   "vlera": 0.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-06",
+   "vlera": 0.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-05",
+   "vlera": 1.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-04",
+   "vlera": 0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-03",
+   "vlera": 0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-02",
+   "vlera": 1.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2006-01",
+   "vlera": 0.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-12",
+   "vlera": 0.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-11",
+   "vlera": 0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-10",
+   "vlera": 0.8
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-09",
+   "vlera": 0.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-08",
+   "vlera": -0.9
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-07",
+   "vlera": -1.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-06",
+   "vlera": -1.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-05",
+   "vlera": -2.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-04",
+   "vlera": -2.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-03",
+   "vlera": -2.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-02",
+   "vlera": -4.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2005-01",
+   "vlera": -4.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-12",
+   "vlera": -3.7
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-11",
+   "vlera": -4.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-10",
+   "vlera": -3.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-09",
+   "vlera": -2.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-08",
+   "vlera": 1.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-07",
+   "vlera": 1.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-06",
+   "vlera": 0.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-05",
+   "vlera": -0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-04",
+   "vlera": -0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-03",
+   "vlera": -1.0
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-02",
+   "vlera": 0.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2004-01",
+   "vlera": -0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2003-12",
+   "vlera": 0.5
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2003-11",
+   "vlera": 1.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2003-10",
+   "vlera": 0.6
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2003-09",
+   "vlera": 0.3
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2003-08",
+   "vlera": -0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2003-07",
+   "vlera": -0.1
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2003-06",
+   "vlera": 0.4
+  },
+  {
+   "seri": "cpi-vjetor",
+   "periudha": "2003-05",
+   "vlera": 0.3
   }
  ],
  "dokumente_te_reja": [],
