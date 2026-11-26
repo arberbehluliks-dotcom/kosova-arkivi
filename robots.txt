@@ -1,0 +1,3 @@
+# PROVË deri më 15 dhjetor 2026: hiqe këtë rregull në publikim
+User-agent: *
+Disallow: /
