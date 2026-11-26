@@ -1,17 +1,76 @@
-{"titulli":"Regjistri i auditimit të shifrave, nëntor-dhjetor 2026","filluar":"2026-11-25",
-"korrigjime":[
- {"data":"2026-11-25","vendi":"Monitori, ballina dhe tregues","ishte":"Papunësia 10.9% (2025)","tani":"10.8% (2024)","arsyeja":"BQK Raporti Vjetor 2025, Tabela 2: 2025 është n/a; viti i fundit i publikuar nga ASK është 2024"},
- {"data":"2026-11-25","vendi":"Bilanci i Qeverisë","ishte":"Papunësia 10.8% shënuar 2025","tani":"Viti nuk shënohet në dokumentin e Qeverisë; ASK ka 10.8% për 2024","arsyeja":"Etiketën e vitit e kisha shtuar vetë, pa burim"}],
-"verifikuar":[
- {"vendi":"RSF 2026 vendi 84","burimi":"renditjet-rajoni.json"},
- {"vendi":"Freedom House 2026: 61 pikë","burimi":"renditjet-rajoni.json"},
- {"vendi":"Borxhi 16.4% e PBB-së (2025)","burimi":"BQK Raporti Vjetor 2025, f. 31"},
- {"vendi":"IHD afërsisht 1.1 mld € (2025)","burimi":"BQK Raporti Vjetor 2025, f. 33"},
- {"vendi":"Mesatarja e transparencës buxhetore 65.5","burimi":"llogaritur nga tabela e 38 komunave"},
- {"vendi":"Pagat 713 bruto / 636 neto (2025)","burimi":"arkivi, ASK"}],
-"pa_verifikuar":[
- {"vendi":"CPI: vendi 76 (2025)","shenim":"Raporti jep 43 pikë nga 182 vende, jo vendin"},
- {"vendi":"Pasaporta: vendi 63 (pohim i Qeverisë)","shenim":"Henley, 9 janar 2026: vendi 59; ka edicion të korrikut 2026 të palexuar"},
- {"vendi":"NDPM: aktivitetet e Planit 2024 sipas ministrive (FOL)","shenim":"Burimi origjinal (FOL, shkurt 2025) nuk u gjet përsëri sot; vlerat vijnë nga leximi i mëparshëm"},
- {"vendi":"7 tregues me të dhëna përpara 2025","shenim":"Bujqësia 2022, gratë në punë 2024, mjedisi 2024; kontrollo nëse ka edicion më të ri"},
- {"vendi":"PISA 2025: matematika 5 pikë më pak se në 2022","shenim":"Faqet e OECD nuk dhanë tabelën sot"}]}
+{
+ "titulli": "Regjistri i auditimit të shifrave, nëntor-dhjetor 2026",
+ "filluar": "2026-11-25",
+ "korrigjime": [
+  {
+   "data": "2026-11-25",
+   "vendi": "Monitori, ballina dhe tregues",
+   "ishte": "Papunësia 10.9% (2025)",
+   "tani": "10.8% (2024)",
+   "arsyeja": "BQK Raporti Vjetor 2025, Tabela 2: 2025 është n/a; viti i fundit i publikuar nga ASK është 2024"
+  },
+  {
+   "data": "2026-11-25",
+   "vendi": "Bilanci i Qeverisë",
+   "ishte": "Papunësia 10.8% shënuar 2025",
+   "tani": "Viti nuk shënohet në dokumentin e Qeverisë; ASK ka 10.8% për 2024",
+   "arsyeja": "Etiketën e vitit e kisha shtuar vetë, pa burim"
+  },
+  {
+   "data": "2026-11-26",
+   "vendi": "Plani i Qeverisë 2021-2025, unaza kryesore",
+   "ishte": "56% (207 nga 370, pa 3 ministritë që nuk u përgjigjën)",
+   "tani": "38% (207 nga 544), me shënim: nga ministritë që u përgjigjën, 56%",
+   "arsyeja": "Titulli i FOL-it është 38%; 174 aktivitete (32%) s'kanë të dhëna sepse MFPT, MMPHI dhe MINT nuk u përgjigjën"
+  }
+ ],
+ "verifikuar": [
+  {
+   "vendi": "RSF 2026 vendi 84",
+   "burimi": "renditjet-rajoni.json"
+  },
+  {
+   "vendi": "Freedom House 2026: 61 pikë",
+   "burimi": "renditjet-rajoni.json"
+  },
+  {
+   "vendi": "Borxhi 16.4% e PBB-së (2025)",
+   "burimi": "BQK Raporti Vjetor 2025, f. 31"
+  },
+  {
+   "vendi": "IHD afërsisht 1.1 mld € (2025)",
+   "burimi": "BQK Raporti Vjetor 2025, f. 33"
+  },
+  {
+   "vendi": "Mesatarja e transparencës buxhetore 65.5",
+   "burimi": "llogaritur nga tabela e 38 komunave"
+  },
+  {
+   "vendi": "Pagat 713 bruto / 636 neto (2025)",
+   "burimi": "arkivi, ASK"
+  },
+  {
+   "vendi": "Plani Kombëtar i Zhvillimit 2024: 11 ministri, 207 nga 544 aktivitete (38%)",
+   "burimi": "FOL, 4 shkurt 2025, https://levizjafol.org/wp-content/uploads/2025/02/Plani-Strategjik-dhe-Operacional-i-Qeverise-per-periudhen-janar-dhjetor-2024_fin.pdf",
+   "shenim": "Numrat e secilës ministri përputhen saktësisht me faqen"
+  }
+ ],
+ "pa_verifikuar": [
+  {
+   "vendi": "CPI: vendi 76 (2025)",
+   "shenim": "Raporti jep 43 pikë nga 182 vende, jo vendin"
+  },
+  {
+   "vendi": "Pasaporta: vendi 63 (pohim i Qeverisë)",
+   "shenim": "Henley, 9 janar 2026: vendi 59; ka edicion të korrikut 2026 të palexuar"
+  },
+  {
+   "vendi": "7 tregues me të dhëna përpara 2025",
+   "shenim": "Bujqësia 2022, gratë në punë 2024, mjedisi 2024; kontrollo nëse ka edicion më të ri"
+  },
+  {
+   "vendi": "PISA 2025: matematika 5 pikë më pak se në 2022",
+   "shenim": "Faqet e OECD nuk dhanë tabelën sot"
+  }
+ ]
+}

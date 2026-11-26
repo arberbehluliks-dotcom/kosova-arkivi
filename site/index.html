@@ -1640,15 +1640,15 @@ function ppRing(v, col) {
 }
 function ppTot() {
   var r = 0, t = 0, g = 0; NDPM.forEach(function (m) { r += m[2]; t += m[3]; }); MIN.forEach(function (m) { g += m[3].length; });
-  var p = Math.round(r / t * 100); return { r: r, t: t, g: g, p: p, col: "var(--" + verdict(p)[0] + "-fill)" };
+  var ALL = 544, p = Math.round(r / ALL * 100), pr = Math.round(r / t * 100); return { r: r, t: ALL, tr: t, g: g, p: p, pr: pr, nr: ALL - t - 0, col: "var(--" + verdict(p)[0] + "-fill)" };
 }
 function drawPlan() {
   var T = ppTot();
-  $("planlist").innerHTML = '<div class="pp-tease"><div class="pp-ring">' + ppRing(T.p, T.col) + '<b>' + T.p + '%</b></div><div><b>' + T.r + ' nga ' + T.t + '</b> aktivitete të Planit të 2024 u realizuan<div class="pp-dots" style="margin-top:8px">' + MIN.map(function (m) { var i = sectorInfo(m[0]); return '<i style="background:' + (i && i.p !== null ? "var(--" + verdict(i.p)[0] + "-fill)" : "var(--track)") + '" title="' + esc(m[1]) + '"></i>'; }).join("") + '</div></div><button type="button" class="qchip pp-go" data-m="plan">Hap planin e plotë: grafikët dhe të gjitha ministritë →</button></div>';
+  $("planlist").innerHTML = '<div class="pp-tease"><div class="pp-ring">' + ppRing(T.p, T.col) + '<b>' + T.p + '%</b></div><div><b>' + T.r + ' nga ' + T.t + '</b> aktivitete të Planit të 2024 u realizuan<div style="font-size:12px;color:var(--muted)">3 ministri nuk u përgjigjën</div><div class="pp-dots" style="margin-top:8px">' + MIN.map(function (m) { var i = sectorInfo(m[0]); return '<i style="background:' + (i && i.p !== null ? "var(--" + verdict(i.p)[0] + "-fill)" : "var(--track)") + '" title="' + esc(m[1]) + '"></i>'; }).join("") + '</div></div><button type="button" class="qchip pp-go" data-m="plan">Hap planin e plotë: grafikët dhe të gjitha ministritë →</button></div>';
 }
 function drawPlanPage() {
   var T = ppTot(), rows = MIN.map(function (m) { var i = sectorInfo(m[0]); return { m: m, i: i, nd: NDPM.filter(function (x) { return x[1] === m[0]; })[0] }; });
-  $("pp-hero").innerHTML = '<div class="pp-hero"><div class="pp-ring">' + ppRing(T.p, T.col) + '<b>' + T.p + '%</b></div><div class="pp-st"><div><b>' + MIN.length + '</b><span>ministri e institucione</span></div><div><b>' + T.g + '</b><span>qëllime strategjike</span></div><div><b>' + NDPM.length + '</b><span>me të dhëna 2024</span></div></div><div class="pp-cap">' + T.r + ' nga ' + T.t + ' aktivitete të planit vjetor 2024 u realizuan (' + NDPM.length + ' ministri me të dhëna). Burimi: Lëvizja FOL.</div></div>';
+  $("pp-hero").innerHTML = '<div class="pp-hero"><div class="pp-ring">' + ppRing(T.p, T.col) + '<b>' + T.p + '%</b></div><div class="pp-st"><div><b>' + MIN.length + '</b><span>ministri e institucione</span></div><div><b>' + T.g + '</b><span>qëllime strategjike</span></div><div><b>' + NDPM.length + '</b><span>me të dhëna 2024</span></div></div><div class="pp-cap">' + T.r + ' nga ' + T.t + ' aktivitete të planit vjetor 2024 u realizuan (' + T.p + '%). ' + (T.t - T.tr) + ' aktivitete (' + Math.round((T.t - T.tr) / T.t * 100) + '%) nuk kanë të dhëna, sepse 3 ministri nuk u përgjigjën. Nga ato që u përgjigjën, u realizua ' + T.pr + '%. Burimi: Lëvizja FOL, 4 shkurt 2025.</div></div>';
   var withD = rows.filter(function (r) { return r.i && r.i.p !== null; }).sort(function (a, b) { return b.i.p - a.i.p; });
   var noD = rows.filter(function (r) { return !(r.i && r.i.p !== null); });
   $("pp-bars").innerHTML = withD.map(function (r) { var p = r.i.p, v = verdict(p)[0];
