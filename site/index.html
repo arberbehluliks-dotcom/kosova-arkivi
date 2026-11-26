@@ -1,4 +1,9 @@
-<!doctype html><html lang="sq"><head><meta charset="utf-8"><meta name="robots" content="noindex, nofollow"><!--PROVË: hiqe noindex më 15 dhjetor--><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style></head><body>
+<!doctype html><html lang="sq"><head><meta charset="utf-8"><meta name="robots" content="noindex, nofollow"><!--PROVË: hiqe noindex më 15 dhjetor--><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}.epr{border:1px solid var(--line,#d9e0ee);border-radius:14px;padding:14px;margin:0 0 14px;background:var(--card,#fff)}
+.epr h3{margin:0 0 8px;font-size:16px}.epr-top{display:flex;gap:10px;align-items:center;margin-bottom:10px}.epr-top b{flex:none;white-space:nowrap;font-size:30px;color:var(--bad-fill,#c0392b)}.epr-top span{font-size:13px;color:var(--muted,#5b6577)}
+.epr-bars{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;align-items:end;height:190px}.epr-c{display:flex;flex-direction:column;justify-content:flex-end;align-items:center;height:100%;position:relative;gap:2px}
+.epr-bar{width:100%;max-width:44px;background:var(--brand,#1c4fd7);border-radius:6px 6px 0 0;min-height:4px}.epr-v{font-size:13px}.epr-y{font-size:12px;font-weight:600}.epr-d{font-size:11px;color:var(--muted,#5b6577)}
+.epr-ev{list-style:none;margin:10px 0 0;padding:0;font-size:13px;display:grid;gap:4px}.epr-n{font-size:12px;color:var(--muted,#5b6577);margin:8px 0 0}
+</style></head><body>
 <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="ikona/ikona.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="ikona/ikona-192.png"><meta name="theme-color" content="#2447a6">
 <title>Monitori i Planit</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -1944,6 +1949,21 @@ function indHtml(i) {
     '<details class="imore"><summary>Më shumë dhe burimi</summary><div class="id">' + esc(i.d) + '</div>' +
     '<div class="is">Burimi: <a href="' + esc(i.url) + '" target="_blank" rel="noopener">' + esc(i.src) + '</a>' + alts + ' · ' + esc(i.when) + '</div></details></div>';
 }
+var EPR = [[2021, 5.60], [2022, 6.14], [2023, 7.12], [2024, 7.39], [2025, 8.17]];
+var EPR_EV = { 2024: "Tarifa mbi 800 kWh −8%", 2025: "Tarifat e rregulluara +16.1% (nga 1 maj)" };
+var EPR_SRC = "https://www.ero-ks.org/zrre/sites/default/files/Publikimet/Raportet%20Vjetor/ERO_Annual%20Report%202025%20-_0.pdf";
+function priceChartHtml() {
+  var mx = 9, b = EPR.map(function (r, i) {
+    var pr = i ? Math.round((r[1] / EPR[i - 1][1] - 1) * 1000) / 10 : null;
+    return '<div class="epr-c"><b class="epr-v">' + r[1].toFixed(2) + '</b><div class="epr-bar" style="height:' + Math.round(r[1] / mx * 100) + '%"></div><span class="epr-y">' + r[0] + '</span><span class="epr-d">' + (pr === null ? "bazë" : "+" + pr + "%") + '</span></div>';
+  }).join("");
+  var tot = Math.round((EPR[EPR.length - 1][1] / EPR[0][1] - 1) * 100);
+  return '<div class="epr"><h3>⚡ Çmimi i rrymës për familjet, 2021-2025</h3>' +
+    '<div class="epr-top"><b>+' + tot + '%</b><span>nga 5.60 në 8.17 €cent/kWh, çmimi mesatar për konsumatorët familjarë</span></div>' +
+    '<div class="epr-bars" role="img" aria-label="Çmimi mesatar i rrymës për familjet: ' + EPR.map(function (r) { return r[0] + ' ' + r[1].toFixed(2); }).join(', ') + ' €cent për kWh">' + b + '</div>' +
+    '<ul class="epr-ev"><li><b>2024</b> ' + EPR_EV[2024] + '</li><li><b>2025</b> ' + EPR_EV[2025] + '</li></ul>' +
+    '<p class="epr-n">Burimi: ZRRE, raportet vjetore 2021-2025 (Përmbledhja ekzekutive). Vetëm raporti 2025 e shënon „pa TVSH“; për vitet e tjera baza nuk thuhet, ndaj krahasimi është i përafërt. <a href="' + EPR_SRC + '" target="_blank" rel="noopener">Raporti 2025</a></p></div>';
+}
 function drawInd() {
   var list = INDS.filter(function (i) { return SEC === "all" || i.s === SEC; });
   $("c-ind").textContent = list.length;
@@ -1951,7 +1971,7 @@ function drawInd() {
     $("inds").innerHTML = '<p class="empty">Nuk gjeta ende tregues të verifikueshëm nga burime të tjera për këtë sektor. Shih vlerësimin e barometrit.</p>';
     return;
   }
-  $("inds").innerHTML = SECS.slice(1).map(function (sec) {
+  $("inds").innerHTML = (SEC === "all" || SEC === "me" ? priceChartHtml() : "") + SECS.slice(1).map(function (sec) {
     var g = list.filter(function (i) { return i.s === sec[0]; });
     if (!g.length) return "";
     return (SEC === "all" ? '<h3 class="igroup">' + sec[1] + '</h3>' : '') + g.map(indHtml).join("");
