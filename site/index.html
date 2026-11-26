@@ -2715,12 +2715,18 @@ var RZ = {
   "MFPT 4.2.3": ["Me mangësi", "ZKA gjeti se sistemi informativ i skemave pensionale (2024-2026) është vetëm pjesërisht i integruar, pa bazë qendrore të të dhënave dhe me procese manuale (ZKA 2026)."],
   "DZHR 2.5.7": ["Pjesërisht", "Granti i MZHR për Programin e Zhvillimit Rajonal të Balancuar: €3.69 mln në 2024-2025. ZKA gjeti monitorim jo plotësisht efektiv dhe pasuri të munguara të granteve (3 projekte të inspektuara, €35,594) (ZKA, 2026)."],
   "PKZH 1.3.13": ["Në përgatitje", "Projekti Ibër-Lepenc (Firajë, Shtime): granti i WBIF €1.5 mln për studimin e fizibilitetit; statusi në WBIF: përgatitje. Nuk ka ndërtim (WBIF)."],
+  "MASHTI 1.1.1": ["Me mangësi", "ZKA (audit i MASHT për 2024, qershor 2025) gjeti: kontrata e kopshtit në Koretin (Kamenicë) u zgjat deri më 30.09.2025 pa plan ekzekutiv; u ndërprenë kontratat për objektet parashkollore në Istog (€669,639) dhe kopshtin në Klinë (€560,330); tetë projekte arsimore të papërfunduara, përfshirë kopshte, kanë €424,073 avanse të hapura nga 2019-2022. Nuk është gjetur burim i pavarur për numrin total të çerdheve të ndërtuara."],
+  "MFPT 4.1.2": ["Pa të dhëna", "GAP (projektbuxheti 2026, 16 shkurt 2026): skemat e lehonave dhe të fëmijëve rriten me €75 mln (+52%) në €220 mln. Kjo është shumë e buxhetuar, jo dëshmi se masa u zbatua; nuk gjetëm raport të pavarur për pagesat."],
+  "MFPT 4.1.3": ["Pa të dhëna", "GAP (projektbuxheti 2026, 16 shkurt 2026): skemat e lehonave dhe të fëmijëve rriten me €75 mln (+52%) në €220 mln. Kjo është shumë e buxhetuar, jo dëshmi se masa u zbatua; nuk gjetëm raport të pavarur për pagesat."],
+  "MASHTI 1.2.3": ["Pa të dhëna", "Raporti i ZKA për MASHT 2024 nuk e auditon programin e shujtave falas; përmend vetëm pagesa për ushqim prej €221,133 të përshkruara në mënyrë të papajtueshme mes dy pjesëve të raportit. Nuk ka dëshmi të pavarur për shtrirjen e programit."],
   "MFPT 5.2.5": ["Realizuar", "Paga minimale: €425 bruto nga janari 2026 dhe €500 bruto nga korriku 2026 (GAP)."],
   "MMPHI 3.1.1": ["Pa të dhëna", "Analiza e GAP për projektbuxhetin 2026 nuk e përmend Besi-Merdare me emër; vetëm rrugët drejt Pejës dhe Gjilanit kanë mbi €18 mln secila, dhe asnjë projekt i madh i ri infrastrukture nuk nis në 2026. Burimet e EIB dhe WBIF mbulojnë vetëm pjesën në Serbi të „Autostradës së Paqes“."]
 };
 var RZ_NONE = ["Pa të dhëna", "Nuk gjetëm burim institucional për realizimin."];
 function rzOf(code) { return RZ[code] || RZ_NONE; }
-PKZH.forEach(function (r) { var z = rzOf(r[0]); IDX.push({ t: "pkzh", pk: r, pill: { l: "Realizimi: " + z[0], c: z[0] === "Pa të dhëna" ? "var(--todo)" : (z[0] === "Vonuar" || z[0] === "Me mangësi") ? "var(--bad)" : "var(--ok)" }, title: (/^PKZH /.test(r[0]) ? r[0] : "PKZH " + r[0]) + ": " + r[1], ctx: r[2] + " · Plani Strategjik dhe Operacional 2021-2025. Çfarë është bërë: " + z[1], kw: r[3] + " realizimi realizuar", href: "https://kryeministri.rks-gov.net/wp-content/uploads/2021/07/Plani-Strategjik-dhe-Operacional-1.pdf" }); });
+function rzUnk(st) { return st === "Pa të dhëna" || st === "Pretendim i Qeverisë, pa verifikim"; }
+function rzCover() { var v = PKZH.filter(function (r) { return r[4] !== "a"; }), k = v.filter(function (r) { return !rzUnk(rzOf(r[0])[0]); }).length; return { k: k, n: v.length }; }
+PKZH.forEach(function (r) { var z = rzOf(r[0]); IDX.push({ t: "pkzh", pk: r, pill: { l: "Realizimi: " + z[0], c: rzUnk(z[0]) ? "var(--todo)" : (z[0] === "Vonuar" || z[0] === "Me mangësi") ? "var(--bad)" : "var(--ok)" }, title: (/^PKZH /.test(r[0]) ? r[0] : "PKZH " + r[0]) + ": " + r[1], ctx: r[2] + " · Plani Strategjik dhe Operacional 2021-2025. Çfarë është bërë: " + z[1], kw: r[3] + " realizimi realizuar", href: "https://kryeministri.rks-gov.net/wp-content/uploads/2021/07/Plani-Strategjik-dhe-Operacional-1.pdf" }); });
 var PK_STEPS = ["Planifikuar", "Përgatitje", "Zbatim", "Përfunduar"];
 function pkBudget(txt) {
   var m = /€\s*([\d.,]+)\s*(mln|mld)?/.exec(txt); if (!m) return { v: 0, t: "pa buxhet të shënuar" };
@@ -2731,7 +2737,7 @@ var PK_MAX = Math.max.apply(null, PKZH.map(function (r) { return pkBudget(r[2]).
 function pkCard(r, toks) {
   var z = rzOf(r[0]), b = pkBudget(r[2]), st = z[0], idx = 0, flag = "";
   if (st === "Në përgatitje") idx = 1; else if (st === "Në zbatim" || st === "Pjesërisht") idx = 2; else if (st === "Vonuar" || st === "Me mangësi") { idx = 2; flag = "late"; } else if (st === "Realizuar") idx = 3;
-  var known = st !== "Pa të dhëna" && st !== "Ka auditim";
+  var known = !rzUnk(st) && st !== "Ka auditim";
   var steps = PK_STEPS.map(function (n, i) {
     var c = i === 0 ? "done" : !known ? "" : i < idx ? "done" : i === idx ? (flag || (idx === 3 ? "done" : "now")) : "";
     return '<li class="' + c + '">' + n + '</li>';
@@ -2772,7 +2778,8 @@ function objCard(r, toks) {
 function pkzhBlock(toks) {
   var m = PKZH.filter(function (r) { if (r[4] === "a" && !SHOWAUTO) return false; var h = norm(r[0] + " " + r[1] + " " + r[2] + " " + r[3]); return toks.every(function (t) { return h.indexOf(t) >= 0 || (t.length >= 5 && h.indexOf(t.slice(0, -1)) >= 0); }); });
   var u = "https://kryeministri.rks-gov.net/wp-content/uploads/2021/07/Plani-Strategjik-dhe-Operacional-1.pdf";
-  return '<div class="tpz"><h4>📋 PKZH, plani i veprimit i Qeverisë</h4>' + (m.length ? '<ul>' + m.map(function (r) { return '<li><b>' + esc(/^PKZH /.test(r[0]) ? r[0] : 'PKZH ' + r[0]) + '</b><span>' + esc(r[1]) + '</span><span class="es">' + esc(r[2]) + '</span><span class="es"><b>Realizimi: ' + esc(rzOf(r[0])[0]) + '.</b> ' + esc(rzOf(r[0])[1]) + '</span></li>'; }).join("") + '</ul>' : '<div class="zn">Nuk gjetëm aktivitet në PKZH për këtë kërkim (u kërkua në aktivitetet e nxjerra nga PKZH 2021-2025; nuk është lista e plotë e 1,150 objektivave).</div>') + '<div class="zn"><a class="es" href="' + u + '" target="_blank" rel="noopener">Burimi: Plani Strategjik dhe Operacional 2021-2025</a>. PKZH për 2026-2030 nuk është publikuar.</div></div>';
+  var cv = rzCover();
+  return '<div class="tpz"><h4>📋 PKZH, plani i veprimit i Qeverisë</h4><div class="notebox" style="margin:6px 0"><b>Matësi i mbulimit:</b> për ' + cv.k + ' nga ' + cv.n + ' aktivitete të verifikuara me dokumentin kemi dëshmi të pavarur për realizimin. Për të tjerat statusi është „Pa të dhëna“: heshtja nuk numërohet si realizim, dhe vetëm raporti i vetë Qeverisë nuk mjafton për „Realizuar“.</div>' + (m.length ? '<ul>' + m.map(function (r) { return '<li><b>' + esc(/^PKZH /.test(r[0]) ? r[0] : 'PKZH ' + r[0]) + '</b><span>' + esc(r[1]) + '</span><span class="es">' + esc(r[2]) + '</span><span class="es"><b>Realizimi: ' + esc(rzOf(r[0])[0]) + '.</b> ' + esc(rzOf(r[0])[1]) + '</span></li>'; }).join("") + '</ul>' : '<div class="zn">Nuk gjetëm aktivitet në PKZH për këtë kërkim (u kërkua në aktivitetet e nxjerra nga PKZH 2021-2025; nuk është lista e plotë e 1,150 objektivave).</div>') + '<div class="zn"><a class="es" href="' + u + '" target="_blank" rel="noopener">Burimi: Plani Strategjik dhe Operacional 2021-2025</a>. PKZH për 2026-2030 nuk është publikuar.</div></div>';
 }
 var SHOWAUTO = false;
 function runSearch(raw) {
