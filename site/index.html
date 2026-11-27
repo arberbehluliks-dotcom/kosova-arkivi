@@ -3041,7 +3041,14 @@ function kmMatrix() {
       return '<td class="mx-n" title="Nuk e mbështet shprehimisht pohimin">·</td>';
     }).join("") + '</tr>';
   }).join("");
-  return '<div class="km-t"><h3>Pasqyra: ku përputhen përgjigjet e tua</h3><p class="or-n">✔ partia e mbështet pohimin dhe ti pajtohesh · ✕ e mbështet, por ti jo · · nuk e mbështet shprehimisht · ? pa të dhëna. Pa total, sepse çdo parti ka çështje të ndryshme në program.</p><div class="mx-w"><table class="mx">' + th + rows + '</table></div></div>';
+  var sm = KMP.map(function (pt) {
+    var y = 0, x = 0;
+    qs.forEach(function (q) { var d = q[3][pt[0]]; if (d && d[0] === "po") { if (KMA[q[0]] === "Pajtohem") y++; else x++; } });
+    var n = y + x;
+    return '<div class="or-r"><div class="or-h"><b>' + pt[0] + '</b><em>' + (n ? y + ' nga ' + n : 'pa të dhëna') + '</em></div>' + (n ? '<div class="or-bar"><i style="width:' + (y / n * 100) + '%;background:var(--ok)"></i><i style="width:' + (x / n * 100) + '%;background:var(--bad)"></i></div>' : '') + '<small>' + (n ? 'Nga ' + n + ' pohime që ' + pt[0] + ' i mbështet shprehimisht në program dhe ku ke marrë qëndrim, ti pajtohesh me ' + y + '.' : 'Asnjë pohim ku të dyja palët kanë qëndrim të qartë.') + '</small></div>';
+  }).join("");
+  return '<div class="km-t"><h3>Pasqyra: ku përputhen përgjigjet e tua</h3><p class="or-n">✔ partia e mbështet pohimin dhe ti pajtohesh · ✕ e mbështet, por ti jo · · nuk e mbështet shprehimisht · ? pa të dhëna.</p><div class="mx-w"><table class="mx">' + th + rows + '</table></div></div>' +
+    '<div class="km-t or-card"><h3>Përputhja e përgjigjeve të tua me programet</h3>' + sm + '<p class="or-n" style="font-size:12px">Partitë janë renditur alfabetikisht, jo sipas përputhjes. Numërohen vetëm pohimet që partia i mbështet shprehimisht në program; çështjet që nuk i trajton nuk numërohen, prandaj numrat nuk krahasohen drejtpërdrejt mes partive. Mungon VV, sepse programi nuk është publikuar. Nuk është këshillë për votim.</p></div>';
 }
 function drawKmRes() {
   $("kmq").hidden = true; var r = $("kmres"); r.hidden = false;
