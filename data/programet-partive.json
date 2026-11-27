@@ -1,0 +1,279 @@
+{
+ "pershkrim": "Indeks i programeve zgjedhore të partive: çështja, përmbledhja, vendi në dokument. Vetëm ajo që është lexuar në dokumentin zyrtar; mungesa e një rreshti NUK do të thotë se partia nuk e trajton.",
+ "azhurnuar": "2026-11-27",
+ "burimet": {
+  "AAK": {
+   "titulli": "Programi Zgjedhor 2026-2029 (PDF)",
+   "url": "https://cdnc.heyzine.com/files/uploaded/v3/ca936ed5450348262d5fdc4e959a33c618400298.pdf",
+   "referenca": "faqe",
+   "statusi": "lexuar i plotë"
+  },
+  "PDK": {
+   "titulli": "Programi Elektoral 2026 «Stop Krizës» (PDF)",
+   "url": "https://pdk.info/wp-content/uploads/2026/06/pdk-programi-elektoral.pdf",
+   "faqja_partise": "https://pdk.info/library-content/pdk-programi-2026",
+   "referenca": "seksion (§), teksti nuk ka numra faqesh",
+   "statusi": "lexuar"
+  },
+  "LDK": {
+   "titulli": "113 zotimet e LDK (broshurë PDF)",
+   "url": "https://lidhjademokratike.eu/wp-content/uploads/113_ZOTIMET_LDK_BOOKLET.pdf",
+   "statusi": "PDF pa tekst të lexueshëm (imazh); duhet OCR ose version tekst. Çështjet LDK ende pa indeksuar"
+  },
+  "VV": {
+   "statusi": "programi nuk është publikuar; shfaqet «pa të dhëna»"
+  }
+ },
+ "ceshtjet": [
+  {
+   "id": "arsimi-lart",
+   "emoji": "🎓",
+   "titulli": "Arsimi i lartë dhe universitetet",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Reformë e arsimit nga parashkollori te universitetet; programe profesionale të larta sipas tregut të punës.",
+     "vendi": "f. 9, 40"
+    },
+    "PDK": {
+     "permbledhje": "Autonomi e universiteteve, cilësi e mësimdhënies, kërkim shkencor dhe bashkëpunim ndërkombëtar.",
+     "vendi": "§7.8"
+    }
+   }
+  },
+  {
+   "id": "rinia-startup",
+   "emoji": "🚀",
+   "titulli": "Punësimi i të rinjve dhe startup-et",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Mbështetje për startup-e; trajnim brenda një viti për punëkërkuesit e regjistruar, përfshirë të rinjtë.",
+     "vendi": "f. 9, 39"
+    },
+    "PDK": {
+     "permbledhje": "Instrumente financiare për startup-e dhe lidhje e aftësimit profesional me punësimin.",
+     "vendi": "§8.2, §1.4, §7.7"
+    }
+   }
+  },
+  {
+   "id": "biznes-fdi",
+   "emoji": "🏭",
+   "titulli": "Biznesi dhe investimet e huaja",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Synim deri në 2 miliardë € investime të huaja direkte; gjithsej deri në 5 miliardë € me kapital privat.",
+     "vendi": "f. 5, 28"
+    },
+    "PDK": {
+     "permbledhje": "Tatime më të ulëta për bizneset e vogla, garanci kredie dhe diplomaci ekonomike për investime.",
+     "vendi": "§1.3, §1.4, §10.6"
+    }
+   }
+  },
+  {
+   "id": "mjedisi",
+   "emoji": "🌿",
+   "titulli": "Mjedisi, ajri dhe mbeturinat",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Ulje e ndotjes së ajrit, heqje graduale e qymyrit, menaxhim më i mirë i mbeturinave dhe kornizë ligjore.",
+     "vendi": "f. 48, 50"
+    },
+    "PDK": {
+     "permbledhje": "Ulje e ndotjes së ajrit, riciklim dhe impiante përpunimi, mbyllje e deponive ilegale.",
+     "vendi": "§4.1, §4.2"
+    }
+   }
+  },
+  {
+   "id": "digjital",
+   "emoji": "💻",
+   "titulli": "Digjitalizimi i shërbimeve publike",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Digjitalizim i shërbimeve të sigurisë civile dhe zgjerim i platformave e-qeverisje.",
+     "vendi": "f. 13, 22"
+    },
+    "PDK": {
+     "permbledhje": "Digjitalizim i drejtësisë, shëndetësisë dhe arsimit; mjete dixhitale në inspektimet mjedisore.",
+     "vendi": "§5.5, §6.6, §7.6, §4.7"
+    }
+   }
+  },
+  {
+   "id": "gjinia",
+   "emoji": "👩",
+   "titulli": "Barazia gjinore dhe gratë",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Promovim i barazisë gjinore, ekuilibër punë-familje dhe më shumë mundësi profesionale për gratë.",
+     "vendi": "f. 65"
+    },
+    "PDK": {
+     "permbledhje": "Vetëm tërthorazi: mbështetje për nënat e reja dhe rritje e pjesëmarrjes së grave në tregun e punës.",
+     "vendi": "§2.4"
+    }
+   }
+  },
+  {
+   "id": "kultura-sporti",
+   "emoji": "🎭",
+   "titulli": "Kultura dhe sporti",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Fond që financon 100 projekte artistike në vit; program sportiv e social me ushtarët e KFOR-it.",
+     "vendi": "f. 14, 25"
+    },
+    "PDK": {
+     "permbledhje": "Financim i artistëve dhe trashëgimisë, mbështetje e atletëve e federatave, stadium olimpik kombëtar.",
+     "vendi": "§8.1, §8.4, §8.6"
+    }
+   }
+  },
+  {
+   "id": "rrugat",
+   "emoji": "🛣️",
+   "titulli": "Rrugët dhe hekurudha",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Autostrada e rrugë të planifikuara dhe rehabilitim i hekurudhës, përfshirë lidhjen me Shqipërinë.",
+     "vendi": "f. 47"
+    },
+    "PDK": {
+     "permbledhje": "Përfundim i projekteve rrugore dhe zhvillim i hekurudhës, përfshirë lidhjen Kosovë–Shqipëri.",
+     "vendi": "§1.7"
+    }
+   }
+  },
+  {
+   "id": "turizmi",
+   "emoji": "🏞️",
+   "titulli": "Turizmi",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Strategji turizmi, fushata promovimi dhe tri programe kryesore për Kosovën si destinacion.",
+     "vendi": "f. 44, 46"
+    }
+   }
+  },
+  {
+   "id": "antikorrupsion",
+   "emoji": "⚖️",
+   "titulli": "Lufta kundër korrupsionit",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Strategji shtetërore dhe plan veprimi kundër korrupsionit, institucione më të forta, ndëshkim për shkelësit.",
+     "vendi": "f. 38"
+    }
+   }
+  },
+  {
+   "id": "evropa-nato",
+   "emoji": "🇪🇺",
+   "titulli": "Integrimi në BE dhe NATO",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Mbi 2,2 miliardë € për mbrojtje brenda NATO-s dhe platformë strategjike për integrimin evropian.",
+     "vendi": "f. 70"
+    },
+    "PDK": {
+     "permbledhje": "Integrim në BE përmes reformave dhe anëtarësim në NATO përmes Partneritetit për Paqe e kapaciteteve mbrojtëse.",
+     "vendi": "§10.1, §10.3"
+    }
+   }
+  },
+  {
+   "id": "media",
+   "emoji": "📰",
+   "titulli": "Liria e medias",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Kornizë ligjore për lirinë e medias, diversitet dhe reformë e transmetuesve publikë për pavarësi.",
+     "vendi": "f. 21"
+    }
+   }
+  },
+  {
+   "id": "persona-aftesi",
+   "emoji": "♿",
+   "titulli": "Personat me aftësi të kufizuara",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Miratim urgjent i ligjit për vlerësim, status, përfitime dhe shërbime.",
+     "vendi": "f. 66"
+    },
+    "PDK": {
+     "permbledhje": "Arsim gjithëpërfshirës për fëmijët me nevoja të veçanta, pakicat dhe zonat rurale.",
+     "vendi": "§7.10"
+    }
+   }
+  },
+  {
+   "id": "uji",
+   "emoji": "💧",
+   "titulli": "Uji dhe ujitja",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Diga për grumbullim uji, rregullim i shtretërve të lumenjve dhe trajtim i ujërave të zeza.",
+     "vendi": "f. 71"
+    },
+    "PDK": {
+     "permbledhje": "Mbrojtje e lumenjve, liqeneve dhe ujit të pijshëm; trajtim i ujërave të zeza.",
+     "vendi": "§4.4"
+    }
+   }
+  },
+  {
+   "id": "policia",
+   "emoji": "👮",
+   "titulli": "Policia dhe siguria publike",
+   "partite": {
+    "AAK": {
+     "permbledhje": "1.000 policë më shumë dhe burime për sigurinë publike e luftën kundër krimit të organizuar.",
+     "vendi": "f. 12, 13"
+    },
+    "PDK": {
+     "permbledhje": "Kushte, trajnim e pajisje më të mira për policinë dhe policim në komunitet.",
+     "vendi": "§9.1, §9.8"
+    }
+   }
+  },
+  {
+   "id": "shendet-reforma",
+   "emoji": "🏥",
+   "titulli": "Reforma në shëndetësi dhe spitale",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Reformë e thellë në tri nivele, autonomi e plotë e spitaleve rajonale, linjë buxhetore e veçantë për QKUK.",
+     "vendi": "f. 59"
+    },
+    "PDK": {
+     "permbledhje": "Zgjerim i sigurimit shëndetësor, ilaçe esenciale, modernizim i spitaleve, qendër emergjence.",
+     "vendi": "§VI (6.1–6.17)"
+    }
+   }
+  },
+  {
+   "id": "banesat-ri",
+   "emoji": "🏠",
+   "titulli": "Banesat për çiftet e reja",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Banesa për çifte të reja përmes programeve qeveritare, partneriteteve publiko-private dhe subvencionimit të kredisë.",
+     "vendi": "f. 66–67"
+    }
+   }
+  },
+  {
+   "id": "mesuesit",
+   "emoji": "📚",
+   "titulli": "Cilësia e shkollës dhe mësuesit",
+   "partite": {
+    "AAK": {
+     "permbledhje": "Cilësi shkolle sipas standardeve perëndimore, mbështetje për mësuesit dhe rritje 40% e pagave të tyre.",
+     "vendi": "f. 6, 9, 37"
+    }
+   }
+  }
+ ]
+}
