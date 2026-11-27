@@ -2999,7 +2999,7 @@ function drawKm() {
   $("kmres").hidden = true; $("kmq").hidden = false;
   var q = KM[KMO[KMI]];
   var kb = shuf([["Pajtohem", "Pajtohem"], ["Neutral", "Neutral"], ["Nuk pajtohem", "Nuk pajtohem"]]).map(function (x) { return '<button type="button" data-a="' + x[0] + '">' + x[1] + '</button>'; }).join("");
-  $("kmq").innerHTML = '<div class="pr-step">Çështja ' + (KMI + 1) + ' nga ' + KM.length + '</div><div class="pr-bar"><i style="width:' + (KMI / KM.length * 100) + '%"></i></div><div style="font-size:34px" aria-hidden="true">' + q[1] + '</div><p class="pr-st">' + esc(q[2]) + '</p><div class="pr-ans">' + kb + '</div><button type="button" class="pr-skip" data-a="">Kapërce</button><button type="button" class="pr-skip" data-all="1">Shih krahasimin tani</button>';
+  $("kmq").innerHTML = '<div class="pr-step">Çështja ' + (KMI + 1) + ' nga ' + KM.length + '</div><div class="pr-bar"><i style="width:' + (KMI / KM.length * 100) + '%"></i></div><div style="font-size:34px" aria-hidden="true">' + q[1] + '</div><p class="pr-st">' + esc(q[2]) + '</p><p class="br-n" style="margin:0 0 8px">Pohimi rrjedh nga programet e partive. Pas përgjigjes shikon çfarë thotë secila, me faqen e programit.</p><div class="pr-ans">' + kb + '</div><button type="button" class="pr-skip" data-a="">Kapërce</button><button type="button" class="pr-skip" data-all="1">Shih krahasimin tani</button>';
 }
 var KMB = { po: ["✔ E mbështet pohimin", "po"], ndryshe: ["↔ Ofron diçka tjetër", "nd"], hesht: ["– Nuk e trajton", "he"] };
 var KMT = [
@@ -3047,7 +3047,8 @@ function drawKmRes() {
   $("kmq").hidden = true; var r = $("kmres"); r.hidden = false;
   r.innerHTML = kmOrient() + kmMatrix() + KM.map(function (q) {
     var a = KMA[q[0]];
-    return '<div class="km-t"><div class="km-h"><h3>' + q[1] + ' ' + esc(q[2]) + '</h3>' + (a ? '<span class="km-chip">Përgjigjja ime: ' + esc(a) + '</span>' : '') + '</div>' + KMP.map(function (pt) {
+    var ex = KMP.filter(function (pt) { var d = q[3][pt[0]]; return d && d[0] !== "hesht"; }).length;
+    return '<div class="km-t"><div class="km-h"><h3>' + q[1] + ' ' + esc(q[2]) + '</h3>' + (ex < 2 ? '<span class="km-chip">Vetëm ' + ex + ' parti e ka trajtuar shprehimisht</span>' : '') + (a ? '<span class="km-chip">Përgjigjja ime: ' + esc(a) + '</span>' : '') + '</div>' + KMP.map(function (pt) {
       var d = q[3][pt[0]], src = PS[pt[2]];
       if (!d) return '<div class="km-p km-no"><b>' + pt[0] + '<small>' + esc(pt[3]) + '</small></b><span>Pozicioni nuk është përfshirë ende.</span>' + (src ? '<i><a href="' + esc(src[1]) + '" target="_blank" rel="noopener">Programi i plotë</a></i>' : '') + '</div>';
       var bd = KMB[d[0]], mt = "";
