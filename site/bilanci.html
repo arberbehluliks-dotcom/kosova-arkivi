@@ -18,6 +18,7 @@ h1{font-size:23px;margin:0 0 2px}.st{color:var(--m);font-size:13px;margin-bottom
 .an .lab{color:var(--o);margin-top:0}.an small{display:block;color:var(--m);margin-top:6px}
 .src{font-size:11px;margin-top:8px}.src a{color:var(--b)}
 .foot{font-size:11px;color:var(--m);margin:10px 0 24px}
+.epr{grid-column:1/-1;margin-top:10px}.eprt{display:flex;gap:10px;align-items:center}.eprt b{font-size:26px;color:#c0392b;flex:none;white-space:nowrap}.eprt span{font-size:12px;color:var(--m)}.eprb{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;align-items:end;height:150px;margin-top:6px}.eprb div{display:flex;flex-direction:column;justify-content:flex-end;align-items:center;height:100%;gap:2px;font-size:11px}.eprb i{display:block;width:100%;max-width:38px;background:var(--b);border-radius:5px 5px 0 0}
 </style></head><body>
 <a href="./" style="font-size:13px;color:var(--b);text-decoration:none">← Monitori i Planit</a>
 <h1>⚖️ Bilanci i Qeverisë 2021–2026</h1>
@@ -50,11 +51,15 @@ function plan(names,P){
  P.rows.filter(r=>names.includes(r[0])).forEach(r=>JSON.parse(r[1]).forEach(([n,s])=>{if(n&&c[s]!=null){c[s]++;any++}}));
  if(!any)return'';
  return `<div class="lab">Premtimi i planit → rezultati (${any} objektiva)</div><div class="pl">${Object.keys(c).filter(k=>c[k]).map(k=>`<i style="width:${c[k]/any*100}%;background:${COL[k]}"></i>`).join('')}</div><div class="pk">${Object.keys(c).filter(k=>c[k]).map(k=>`<span><b style="color:${COL[k]}">●</b> ${LBL[k]} ${c[k]}</span>`).join('')}</div>`}
-Promise.all(['qeveria-arritjet','observations','sektoret','bilanci-interpretim','renditjet-rajoni','bilanci-verifikime'].map(f=>fetch('../data/'+f+'.json').then(r=>r.json()))).then(([A,ob,P,I,RR,VV])=>{Object.assign(V,VV.vlerat);RR.rreshta.forEach(r=>R[r.id]=r);
+function epr(E){const q=E.seria,mx=9,t=Math.round((q[q.length-1].v/q[0].v-1)*100);
+ return `<div class="epr"><div class="lab">🟢 Çmimi i rrymës për familjet (ZRRE, i pavarur)</div><div class="eprt"><b>+${t}%</b><span>${q[0].v.toFixed(2)} → ${q[q.length-1].v.toFixed(2)} €cent/kWh, ${q[0].viti}-${q[q.length-1].viti}</span></div>
+ <div class="eprb" role="img" aria-label="Çmimi mesatar i rrymës për familjet: ${q.map(r=>r.viti+' '+r.v.toFixed(2)).join(', ')} €cent për kWh">${q.map(r=>`<div><b>${r.v.toFixed(2)}</b><i style="height:${Math.round(r.v/mx*100)}%"></i><span>${r.viti}</span></div>`).join('')}</div>
+ <div class="src">${esc(E.shenim)}</div></div>`}
+Promise.all(['qeveria-arritjet','observations','sektoret','bilanci-interpretim','renditjet-rajoni','bilanci-verifikime','energjia-cmimet'].map(f=>fetch('../data/'+f+'.json').then(r=>r.json()))).then(([A,ob,P,I,RR,VV,EN])=>{Object.assign(V,VV.vlerat);RR.rreshta.forEach(r=>R[r.id]=r);
  ob.forEach(x=>(O[x.s]=O[x.s]||[]).push(x));
  const sek=[...new Set(A.tregues.map(t=>t.sek))];
  app.innerHTML=sek.map(s=>{const i=I.sektoret[s]||{ikona:'📊',emri:s,ndikimi:1,lexim:'',kujdes:''};
-  const pn=I.plani[s]?plan(I.plani[s],P):'';
+  const pn=(I.plani[s]?plan(I.plani[s],P):'')+(s==='energjia'?epr(EN):'');
   return `<section class="sek"><h2>${i.ikona} ${esc(i.emri)}<span class="imp" title="Ndikimi te qytetari">${'●'.repeat(i.ndikimi)}${'○'.repeat(3-i.ndikimi)}</span></h2>
   <div class="zy"><div class="lab">🏛️ Para dhe pas mandatit</div>${A.tregues.filter(t=>t.sek===s).map(row).join('')}${pn}
   <div class="src">Burimi: <a href="${A.burimi.url}" target="_blank" rel="noopener">${esc(A.burimi.institucioni)}, Të arriturat kryesore (PDF)</a>${pn?' · objektivat: <a href="../data/sektoret.json">arkivi</a>':''}</div></div>
