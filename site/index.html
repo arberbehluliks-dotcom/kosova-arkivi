@@ -1086,6 +1086,13 @@ body:not(.narr-on) .unofnote,body:not(.narr-on) .hero-card p.hl,body:not(.narr-o
 
   <section id="krahwrap" hidden>
     <div class="pagehead"><h2>Krahaso pozicionet e partive</h2><p class="lead">Çështjet janë ato që e preokupojnë qytetarin: pagat, pensionet, tatimet, rryma, shëndetësia, arsimi, drejtësia, banesat, siguria, Serbia, diaspora. Çdo pohim është një propozim konkret nga programet. Për secilin shihe çfarë thotë programi i secilës parti në Kuvend, me faqen dhe burimin. Nuk ka pikë, nuk ka përqindje dhe nuk ka radhitje partish. Krahasimin e bën ti.</p></div>
+    <div class="pr-card" id="tmcard">
+      <h3 style="margin:0 0 6px">Çfarë të intereson ty?</h3>
+      <p class="br-n" style="margin:0 0 8px">Zgjidh një çështje ose shkruaj një fjalë (p.sh. rrymë, shkollë, pensione). Shikon cilat parti e kanë në program dhe në cilën faqe.</p>
+      <input id="tmin" type="search" placeholder="Shkruaj një çështje…" autocomplete="off" style="width:100%;box-sizing:border-box;padding:10px 12px;border:1px solid var(--line,#d9e0ee);border-radius:10px;font:inherit;background:var(--card,#fff);color:inherit">
+      <div id="tmchips" class="kgrid" style="margin-top:8px"></div>
+      <div id="tmres"></div>
+    </div>
     <div class="pr-card" id="kmq"></div>
     <div id="kmres" hidden></div>
     <p class="br-n" style="margin-top:10px" id="kmnote"></p>
@@ -3083,6 +3090,42 @@ document.getElementById("krahwrap").addEventListener("click", function (e) {
   if (a.dataset.a) KMA[KM[KMO[KMI]][0]] = a.dataset.a;
   KMI++; drawKm();
 });
+
+function nrm(t) { return String(t || "").toLowerCase().replace(/ë/g, "e").replace(/ç/g, "c"); }
+var KMK = { pagat: "paga rroga rrogat page punonjes", pensione: "pension pensionist te moshuar", tatim: "tatim taksa tvsh te ardhura", "tvsh-en": "rrym energji drita elektrike fature", gaz: "gaz termocentral linjit energji", kosovaa: "kosova a termocentral ndotje ajri", shendet: "shendetesi spital mjek sigurim shendetesor", femije: "femij kujdes nena lehona", serbi: "serbi dialog beograd marreveshje", asoc: "asociacion serb komuna serbe", mbrojtje: "mbrojtje ushtri fsk nato siguri", bujqesi: "bujq fermer subvencion bujk", diaspora: "diaspor emigrant jashte", bursa: "burs student universitet arsim", klasa: "shkoll klas nxenes arsim mesues", vetting: "gjykat prokur drejtesi vetting korrupsion", banesa: "banes strehim apartament shtepi", rinia: "te rinj pune punekerkues punesim trajnim" };
+function tmFind(term) {
+  var t = nrm(term).trim(); if (t.length < 2) return [];
+  return KM.filter(function (q) {
+    var hay = nrm(q[2] + " " + (KMS[q[0]] || "") + " " + KMT.filter(function (g) { return g[2].indexOf(q[0]) >= 0; }).map(function (g) { return g[1]; }).join(" ") + " " + KMP.map(function (pt) { var d = q[3][pt[0]]; return d ? d[1] : ""; }).join(" ") + " " + (KMK[q[0]] || ""));
+    var t2 = t.length > 4 ? t.slice(0, t.length - 1) : t;
+    return hay.indexOf(t) >= 0 || hay.indexOf(t2) >= 0;
+  });
+}
+function tmDraw(term) {
+  var r = $("tmres"), f = tmFind(term);
+  if (!term || nrm(term).trim().length < 2) { r.innerHTML = ""; return; }
+  if (!f.length) { r.innerHTML = '<p class="br-n" style="margin-top:10px">Nuk e kemi ende këtë çështje të lexuar në programet. Tani mbulojmë ' + KM.length + ' çështje; po shtohen. Provo një fjalë tjetër ose zgjidh nga lista.</p>'; return; }
+  r.innerHTML = f.map(tmCard).join("") + '<p class="br-n">Teksti nën secilën parti është përmbledhje e programit të saj, me faqen. Pa renditje, pa vlerësim.</p>';
+}
+function tmCard(q) {
+    return '<div class="km-t"><div class="km-h"><h3>' + q[1] + ' ' + esc(KMS[q[0]] || q[2]) + '</h3></div>' + KMP.map(function (pt) {
+      var d = q[3][pt[0]], src = PS[pt[2]];
+      if (!d) return '<div class="km-p km-no"><b>' + pt[0] + '<small>' + esc(pt[3]) + '</small></b><span>Pozicioni nuk është përfshirë ende.</span>' + (src ? '<i><a href="' + esc(src[1]) + '" target="_blank" rel="noopener">Programi i plotë</a></i>' : '') + '</div>';
+      var bd = KMB[d[0]];
+      return '<div class="km-p km-' + bd[1] + '"><b>' + pt[0] + '<small>' + esc(pt[3]) + '</small><em class="km-b">' + (d[0] === "po" ? "✔ E ka në program" : d[0] === "ndryshe" ? "↔ Ofron diçka tjetër" : "– Nuk e trajton") + '</em></b><span>' + esc(d[1]) + '</span><i>' + (d[2] ? esc(d[2]) + ' · ' : '') + '<a href="' + esc(src[1]) + '" target="_blank" rel="noopener">Burimi</a></i></div>';
+    }).join("") + '</div>';
+}
+function tmInit() {
+  var ch = KMT.map(function (g) { return '<button type="button" class="kchip" data-tm="' + esc(g[1]) + '">' + g[0] + ' ' + esc(g[1]) + '</button>'; }).join("");
+  $("tmchips").innerHTML = ch;
+  $("tmin").addEventListener("input", function () { tmDraw(this.value); });
+  $("tmchips").addEventListener("click", function (e) {
+    var b = e.target.closest("[data-tm]"); if (!b) return;
+    var g = KMT.filter(function (x) { return x[1] === b.dataset.tm; })[0]; $("tmin").value = "";
+    $("tmres").innerHTML = g[2].map(function (id) { return KM.filter(function (q) { return q[0] === id; })[0]; }).map(function (q) { return tmCard(q); }).join("");
+  });
+}
+tmInit();
 function drawBridge() {
   var c = { done: 0, prog: 0, fail: 0 };
   SECTORS.forEach(function (x) { x.objs.forEach(function (o) { if (!o[0]) return; c[o[1] === "late" ? "done" : o[1]]++; }); });
