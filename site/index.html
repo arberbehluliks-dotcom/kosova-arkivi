@@ -1079,7 +1079,7 @@ body:not(.narr-on) .unofnote,body:not(.narr-on) .hero-card p.hl,body:not(.narr-o
   </section>
 
   <section id="priowrap" hidden>
-    <div class="pagehead"><h2>Prioritetet e mia</h2><p class="lead">Përgjigju secilit pohim. Në fund shikon si ka punuar Qeveria në fushat që janë të rëndësishme për ty. Nuk lidhet me parti.</p></div>
+    <div class="pagehead"><h2>Prioritetet e mia</h2><p class="lead">Imagjino secilën situatë dhe zgjidh përgjigjen që të përshtatet. Në fund shikon si ka punuar Qeveria në fushat që janë të rëndësishme për ty. Nuk lidhet me parti.</p></div>
     <div class="pr-card" id="prq"></div>
     <div id="prres" hidden></div>
   </section>
@@ -2960,13 +2960,13 @@ document.getElementById("abpro").addEventListener("click", function (e) {
   try { navigator.clipboard.writeText(t).then(function () { fb.hidden = true; b.textContent = "✓ U kopjua"; setTimeout(function () { b.textContent = old; }, 2500); }, fail); } catch (x) { fail(); }
 });
 function drawAboutSrc() { $("absrc").innerHTML = Object.keys(PS).map(function (k) { return "<li>" + psrc(k) + "</li>"; }).join(""); }
-var PRIO = [["🏥", "Shëndetësia duhet të jetë përparësi e parë e shtetit.", "msh"], ["🎓", "Shkolla dhe cilësia e arsimit janë më të rëndësishme se çdo gjë tjetër.", "mashti"], ["💼", "Puna, pagat dhe pensionet duhet të rriten para gjithçkaje.", "mfpt"], ["⚡", "Rryma e qëndrueshme dhe energjia e lirë janë çështje kyçe.", "me"], ["🛣️", "Rrugët, hekurudha dhe mjedisi i pastër duhet të kenë investime të mëdha.", "mmphi"], ["🛡️", "Siguria dhe policia duhet të forcohen.", "mpb"], ["⚖️", "Gjykatat duhet të jenë të drejta dhe të shpejta.", "md"], ["🌾", "Fermerët dhe bujqësia kanë nevojë për më shumë mbështetje.", "mbpzhr"], ["🏘️", "Komunat duhet të kenë më shumë pushtet dhe para.", "mapl"], ["🎭", "Kultura, rinia dhe sporti meritojnë më shumë investim.", "mkrs"]];
+var PRIO = [["🏥", "Mesnatë. Dikush në familje ka nevojë urgjente për mjek. A je i sigurt se sistemi do të ndihmojë?", "msh", ["Jo, kjo më frikëson", "Mezi, por shpresoj", "Po, jam i qetë"]], ["🎓", "Një fëmijë që e do nis shkollën nesër. A beson se do të mësojë sa duhet?", "mashti", ["Më shqetëson shumë", "Disi dyshoj", "Jam i sigurt"]], ["💼", "Ditën 25 të muajit. A të mjafton paga ose pensioni deri në fund?", "mfpt", ["Rrallë, jam në vështirësi", "Për pak", "Pothuajse gjithmonë"]], ["⚡", "Dimër. Fiket drita për tre orë. Sa të prek kjo?", "me", ["Shumë, më ndodh shpesh", "Më prish punë", "Pak ose aspak"]], ["🛣️", "Rruga për në punë ose në shkollë: sa kohë ose nerva humb çdo ditë?", "mmphi", ["Shumë, është e lodhshme", "Ca", "Aspak"]], ["🛡️", "Kthehesh vonë natën, vetëm. Si ndihesh?", "mpb", ["I pasigurt", "Varet nga vendi", "I sigurt"]], ["⚖️", "Të bëhet një padrejtësi. A beson se do ta gjesh drejtësinë shpejt?", "md", ["Jo, as nuk do të provoja", "Me vështirësi", "Po"]], ["🌾", "Në treg: a të godet çmimi i ushqimit dhe a dëshiron më shumë prodhim vendas?", "mbpzhr", ["Po, shumë", "Pak", "Jo"]], ["🏘️", "Problem në lagje (ujë, mbeturina, rrugë). A zgjidhet nga komuna?", "mapl", ["Rrallë, kjo më shqetëson", "Ndonjëherë", "Zakonisht po"]], ["🎭", "Ku shkojnë të rinjtë të krijojnë, sportojnë ose argëtohen në vendin tënd?", "mkrs", ["Pothuajse nuk ka ku", "Ca vende", "Ka mjaft"]]];
 var PRA = [], PRI = 0;
 function drawPrio() {
   if (PRI >= PRIO.length) { drawPrioRes(); return; }
   $("prres").hidden = true; $("prq").hidden = false;
   var q = PRIO[PRI];
-  $("prq").innerHTML = '<div class="pr-step">Pohimi ' + (PRI + 1) + ' nga ' + PRIO.length + '</div><div class="pr-bar"><i style="width:' + (PRI / PRIO.length * 100) + '%"></i></div><div style="font-size:34px" aria-hidden="true">' + q[0] + '</div><p class="pr-st">' + esc(q[1]) + '</p><div class="pr-ans"><button type="button" data-a="2">Po, shumë e rëndësishme</button><button type="button" data-a="1">Pak e rëndësishme</button><button type="button" data-a="0">Jo, nuk më intereson</button></div><button type="button" class="pr-skip" data-a="skip">Kapërce</button>';
+  $("prq").innerHTML = '<div class="pr-step">Situata ' + (PRI + 1) + ' nga ' + PRIO.length + '</div><div class="pr-bar"><i style="width:' + (PRI / PRIO.length * 100) + '%"></i></div><div style="font-size:34px" aria-hidden="true">' + q[0] + '</div><p class="pr-st">' + esc(q[1]) + '</p><div class="pr-ans"><button type="button" data-a="2">' + esc(q[3][0]) + '</button><button type="button" data-a="1">' + esc(q[3][1]) + '</button><button type="button" data-a="0">' + esc(q[3][2]) + '</button></div><button type="button" class="pr-skip" data-a="skip">Kapërce</button>';
 }
 function drawPrioRes() {
   $("prq").hidden = true; var r = $("prres"); r.hidden = false;
