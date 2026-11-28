@@ -11,9 +11,10 @@
   },
   {
    "tregues": "PISA 2025 Kosovë",
-   "statusi": "PA VERIFIKUAR",
-   "burimi": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/kosovo_7d284f95-en.html",
-   "shenim": "Faqja ekziston te OECD, por shifrat s'u lexuan; duhet PDF-ja e shënimit për vendin"
+   "statusi": "PJESËRISHT I VERIFIKUAR",
+   "burimi": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i_73451bc5-en/full-report/student-performance-in-pisa-2025_23e075c2.html",
+   "shenim": "Nivelet 2025 për matematikë dhe lexim (350, 340) dhe shpërndarja në nivelin 2+ nuk u lexuan drejtpërdrejt; kjo përputhet me përshkrimin në faqen tonë (matematika më ulët, lexim/shkencë pothuajse njësoj).",
+   "vlera": "Ndryshimi 2022→2025 (OECD, Vol. I, Tabela I.2.6): shkencë 0, lexim −2, matematikë −5 pikë. Shkenca 2025 = 357 (Tabela I.2.1)."
   },
   {
    "tregues": "Inflacioni tetor 2026 (7.1%)",
