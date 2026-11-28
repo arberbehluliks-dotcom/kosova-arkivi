@@ -3,6 +3,7 @@
 .epr-bars{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;align-items:end;height:190px}.epr-c{display:flex;flex-direction:column;justify-content:flex-end;align-items:center;height:100%;position:relative;gap:2px}
 .epr-bar{width:100%;max-width:44px;background:var(--brand,#1c4fd7);border-radius:6px 6px 0 0;min-height:4px}.epr-v{font-size:13px}.epr-y{font-size:12px;font-weight:600}.epr-d{font-size:11px;color:var(--muted,#5b6577)}
 .epr-ev{list-style:none;margin:10px 0 0;padding:0;font-size:13px;display:grid;gap:4px}.epr-n{font-size:12px;color:var(--muted,#5b6577);margin:8px 0 0}
+.bk{display:inline-flex;align-items:center;gap:6px;margin:8px 0;padding:10px 16px;border:1px solid var(--line,#c9d3e3);border-radius:999px;background:#fff;color:inherit;font:600 15px/1 inherit;cursor:pointer;min-height:44px}.bk:hover{background:#eef3fb}
 </style></head><body>
 <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="ikona/ikona.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="ikona/ikona-192.png"><meta name="theme-color" content="#2447a6">
 <title>Monitori i Planit</title>
@@ -839,6 +840,7 @@ body:not(.narr-on) .unofnote,body:not(.narr-on) .hero-card p.hl,body:not(.narr-o
       <input id="q" type="search" placeholder="Kërko: hekurudhat, digat, paga" autocomplete="off" enterkeyhint="search">
       <button id="qclear" type="button" hidden>Pastro</button>
     </div>
+    <button type="button" id="backbtn" class="bk" hidden>← Kthehu</button>
     <div class="modebar" id="modebar" role="group" aria-label="Zgjidh modulin" hidden>
       <button type="button" data-m="home" aria-pressed="false">Kreu</button>
       <button type="button" data-m="min" aria-pressed="false">Premtimet e Qeverisë</button>
@@ -2894,6 +2896,7 @@ function drawSecBar() {
 }
 function render() {
   drawSecBar();
+  $("backbtn").hidden = MODE === "home" && !$("q").value.trim();
   var raw = $("q").value.trim(), searching = !!raw, sector = SEC !== "all", M = MODE, mn = M === "min", home = M === "home";
   $("hub").hidden = searching || !home;
   $("home").hidden = searching || sector || !mn;
@@ -3192,9 +3195,12 @@ $("narrtoggle").addEventListener("click", function () {
 });
 function hslug(t) { return norm(t).replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, ""); }
 function setHash() {
-  var q = $("q").value.trim(), h = q ? "k-" + hslug(q) : MODE !== "home" ? "m-" + MODE : "";
-  if (!h || location.hash === "#" + h) return;
-  try { history.replaceState(null, "", "#" + h); } catch (e) { try { location.hash = h; } catch (e2) {} }
+  var q = $("q").value.trim(), h = q ? "k-" + hslug(q) : MODE !== "home" ? "m-" + MODE : "", cur = (location.hash || "").replace(/^#/, "");
+  if (h === cur) return;
+  try {
+    if (q) history.replaceState({ app: 1 }, "", "#" + h);
+    else history.pushState({ app: 1 }, "", h ? "#" + h : location.pathname + location.search);
+  } catch (e) { try { location.hash = h; } catch (e2) {} }
 }
 function readHash() {
   var h = (location.hash || "").replace(/^#/, ""), m;
@@ -4341,7 +4347,15 @@ document.addEventListener("click", function (e) {
   var u = location.href, done = function (t) { b.textContent = t; };
   try { navigator.clipboard.writeText(u).then(function () { done("✓ U kopjua"); }, function () { done(u); }); } catch (x) { done(u); }
 });
-window.addEventListener("hashchange", function () { if (readHash()) render(); });
+window.addEventListener("hashchange", function () {
+  if (!readHash()) { if (location.hash) return; MODE = "home"; SEC = "all"; $("q").value = ""; }
+  render();
+});
+$("backbtn").addEventListener("click", function () {
+  if (MODE === "min" && SEC !== "all" && !$("q").value.trim()) { setSector("all", true); return; }
+  if ($("q").value.trim()) { $("q").value = ""; render(); return; }
+  if (history.state && history.state.app) { history.back(); } else { goMode("home"); }
+});
 readHash();
 drawKom(); drawChips(); drawEuPage(); drawEco(); drawRank(); drawP30(); drawChain(); drawMap(); drawZot(); drawQual(); drawAud();
 IDX.forEach(function (r) { r.h = norm(r.title + " " + r.ctx + " " + (r.pill ? r.pill.l : "") + " " + (r.kw || "") + " " + TYPE[r.t]); });
