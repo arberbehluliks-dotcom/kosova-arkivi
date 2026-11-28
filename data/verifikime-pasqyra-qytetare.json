@@ -1,0 +1,38 @@
+{
+ "pershkrim": "Verifikim i shifrave të marra si udhëzues nga faqja 'Pasqyra Qytetare' (Wix). Asnjë shifër nuk merret nga ajo faqe; vetëm nga burimi zyrtar.",
+ "data": "2026-11-28",
+ "rezultatet": [
+  {
+   "tregues": "Indeksi i transparencës buxhetore komunale 2025 (GAP)",
+   "statusi": "VERIFIKUAR",
+   "vlera": "mesatarja 64.5/100 (+3.5 nga 61); 10 komuna me 100 pikë; 6 me 0 pikë (Kllokot, Leposaviq, Partesh, Shtërpcë, Zubin Potok, Zveçan); 240 dokumente; 119 dëgjime publike",
+   "burimi": "https://www.institutigap.org/documents/65143_indeksi_transparences_2025(eng).pdf",
+   "shenim": "Raporti ka mospërputhje të brendshme: 18 vs 19 komuna me buxhetim gjinor"
+  },
+  {
+   "tregues": "PISA 2025 Kosovë",
+   "statusi": "PA VERIFIKUAR",
+   "burimi": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/kosovo_7d284f95-en.html",
+   "shenim": "Faqja ekziston te OECD, por shifrat s'u lexuan; duhet PDF-ja e shënimit për vendin"
+  },
+  {
+   "tregues": "Inflacioni tetor 2026 (7.1%)",
+   "statusi": "PA VERIFIKUAR",
+   "shenim": "Nuk u gjet publikimi i ASK për tetor 2026; mos e përdor deri në verifikim"
+  },
+  {
+   "tregues": "Papunësia gjysma e parë 2026 (10.6%)",
+   "statusi": "PA VERIFIKUAR",
+   "shenim": "RER nr. 29 (pranverë 2026) nuk jep papunësi; botimi i vjeshtës 2026 nuk u gjet. Rritja 2025 = 3.6% (konfirmuar)"
+  },
+  {
+   "tregues": "MAPL performanca komunale 2025 (43.46%)",
+   "statusi": "PA VERIFIKUAR",
+   "shenim": "Faqja e MAPL nuk u hap; faqja Wix ka vetë kontradikta (41.8% vs 65.5% për 2024)"
+  },
+  {
+   "tregues": "ZKA opinione të modifikuara 2024 (31/38, 35/38)",
+   "statusi": "PA VERIFIKUAR"
+  }
+ ]
+}
