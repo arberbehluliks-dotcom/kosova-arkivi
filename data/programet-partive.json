@@ -38,7 +38,8 @@
      "permbledhje": "Autonomi e universiteteve, cilësi e mësimdhënies, kërkim shkencor dhe bashkëpunim ndërkombëtar.",
      "vendi": "§7.8"
     }
-   }
+   },
+   "fjale_kyce": "universitet fakultet arsim i larte studim"
   },
   {
    "id": "rinia-startup",
@@ -53,7 +54,8 @@
      "permbledhje": "Instrumente financiare për startup-e dhe lidhje e aftësimit profesional me punësimin.",
      "vendi": "§8.2, §1.4, §7.7"
     }
-   }
+   },
+   "fjale_kyce": "startup te rinj punesim sipermarrje"
   },
   {
    "id": "biznes-fdi",
@@ -68,7 +70,8 @@
      "permbledhje": "Tatime më të ulëta për bizneset e vogla, garanci kredie dhe diplomaci ekonomike për investime.",
      "vendi": "§1.3, §1.4, §10.6"
     }
-   }
+   },
+   "fjale_kyce": "biznes investim investitor ndermarrje"
   },
   {
    "id": "mjedisi",
@@ -83,7 +86,8 @@
      "permbledhje": "Ulje e ndotjes së ajrit, riciklim dhe impiante përpunimi, mbyllje e deponive ilegale.",
      "vendi": "§4.1, §4.2"
     }
-   }
+   },
+   "fjale_kyce": "mjedis ajr ndotje mbetur riciklim deponi"
   },
   {
    "id": "digjital",
@@ -98,7 +102,8 @@
      "permbledhje": "Digjitalizim i drejtësisë, shëndetësisë dhe arsimit; mjete dixhitale në inspektimet mjedisore.",
      "vendi": "§5.5, §6.6, §7.6, §4.7"
     }
-   }
+   },
+   "fjale_kyce": "dixhital digjital e-qeverisje teknologji"
   },
   {
    "id": "gjinia",
@@ -113,7 +118,8 @@
      "permbledhje": "Vetëm tërthorazi: mbështetje për nënat e reja dhe rritje e pjesëmarrjes së grave në tregun e punës.",
      "vendi": "§2.4"
     }
-   }
+   },
+   "fjale_kyce": "gra grua gjinor barazi nena"
   },
   {
    "id": "kultura-sporti",
@@ -128,7 +134,8 @@
      "permbledhje": "Financim i artistëve dhe trashëgimisë, mbështetje e atletëve e federatave, stadium olimpik kombëtar.",
      "vendi": "§8.1, §8.4, §8.6"
     }
-   }
+   },
+   "fjale_kyce": "kultur sport art trashegimi stadium"
   },
   {
    "id": "rrugat",
@@ -143,7 +150,8 @@
      "permbledhje": "Përfundim i projekteve rrugore dhe zhvillim i hekurudhës, përfshirë lidhjen Kosovë–Shqipëri.",
      "vendi": "§1.7"
     }
-   }
+   },
+   "fjale_kyce": "rruge autostrad hekurudh tren infrastruktur"
   },
   {
    "id": "turizmi",
@@ -154,7 +162,8 @@
      "permbledhje": "Strategji turizmi, fushata promovimi dhe tri programe kryesore për Kosovën si destinacion.",
      "vendi": "f. 44, 46"
     }
-   }
+   },
+   "fjale_kyce": "turiz destinacion"
   },
   {
    "id": "antikorrupsion",
@@ -165,7 +174,8 @@
      "permbledhje": "Strategji shtetërore dhe plan veprimi kundër korrupsionit, institucione më të forta, ndëshkim për shkelësit.",
      "vendi": "f. 38"
     }
-   }
+   },
+   "fjale_kyce": "korrupsion"
   },
   {
    "id": "evropa-nato",
@@ -180,7 +190,8 @@
      "permbledhje": "Integrim në BE përmes reformave dhe anëtarësim në NATO përmes Partneritetit për Paqe e kapaciteteve mbrojtëse.",
      "vendi": "§10.1, §10.3"
     }
-   }
+   },
+   "fjale_kyce": "be bashkim evropian nato anetaresim"
   },
   {
    "id": "media",
@@ -191,7 +202,8 @@
      "permbledhje": "Kornizë ligjore për lirinë e medias, diversitet dhe reformë e transmetuesve publikë për pavarësi.",
      "vendi": "f. 21"
     }
-   }
+   },
+   "fjale_kyce": "media gazetar tv rtk"
   },
   {
    "id": "persona-aftesi",
@@ -206,7 +218,8 @@
      "permbledhje": "Arsim gjithëpërfshirës për fëmijët me nevoja të veçanta, pakicat dhe zonat rurale.",
      "vendi": "§7.10"
     }
-   }
+   },
+   "fjale_kyce": "aftesi te kufizuara handikap paaftesi"
   },
   {
    "id": "uji",
@@ -221,7 +234,8 @@
      "permbledhje": "Mbrojtje e lumenjve, liqeneve dhe ujit të pijshëm; trajtim i ujërave të zeza.",
      "vendi": "§4.4"
     }
-   }
+   },
+   "fjale_kyce": "uje ujit ujitje lumenj kanalizim"
   },
   {
    "id": "policia",
@@ -236,7 +250,8 @@
      "permbledhje": "Kushte, trajnim e pajisje më të mira për policinë dhe policim në komunitet.",
      "vendi": "§9.1, §9.8"
     }
-   }
+   },
+   "fjale_kyce": "polic siguri krim"
   },
   {
    "id": "shendet-reforma",
@@ -251,7 +266,8 @@
      "permbledhje": "Zgjerim i sigurimit shëndetësor, ilaçe esenciale, modernizim i spitaleve, qendër emergjence.",
      "vendi": "§VI (6.1–6.17)"
     }
-   }
+   },
+   "fjale_kyce": "spital qkuk shendetesi mjek ilac"
   },
   {
    "id": "banesat-ri",
@@ -262,7 +278,8 @@
      "permbledhje": "Banesa për çifte të reja përmes programeve qeveritare, partneriteteve publiko-private dhe subvencionimit të kredisë.",
      "vendi": "f. 66–67"
     }
-   }
+   },
+   "fjale_kyce": "banes strehim ceift kredi"
   },
   {
    "id": "mesuesit",
@@ -273,7 +290,8 @@
      "permbledhje": "Cilësi shkolle sipas standardeve perëndimore, mbështetje për mësuesit dhe rritje 40% e pagave të tyre.",
      "vendi": "f. 6, 9, 37"
     }
-   }
+   },
+   "fjale_kyce": "mesues shkoll arsim para"
   }
  ]
 }
